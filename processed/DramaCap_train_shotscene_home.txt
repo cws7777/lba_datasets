@@ -7722,351 +7722,81 @@ shot_id: AnotherMissOh08_041_1139, (Haeyoung1, Dokyung, subway), (Dokyung - on -
 shot_id: AnotherMissOh08_041_1140, (Dokyung, face), (face - Dokyung), (face - reflected on - window)
 shot_id: AnotherMissOh08_041_1141, (Haeyoung1, Dokyung, face), (face - Dokyung), (face - bruise), (Haeyoung1 - look at - Dokyung)
 shot_id: AnotherMissOh08_041_1142, (Dokyung, hands, subway, pocket), (Dokyung - on - subway), (hands - in - pokcet), (Dokyung - put - hands)
-
-shot_id: AnotherMissOh08_041_1143,
-
-(Dokyung, subway), (Haeyoung1, subway)
-(Dokyung - stand - Haeyoung1), (Haeyoung1 - stand - Dokyung)
-
-shot_id: AnotherMissOh08_041_1144,
-
-(Haeyoung1, smile), (smile - look - Dokyung)
-
-shot_id: AnotherMissOh08_041_1145,
-
-(Dokyung, door), (door - next to), (Dokyung - stand - door)
-(Haeyoung1, door), (door - next to), (Haeyoung1 - stand - door)
-
-shot_id: AnotherMissOh08_042_1146,
-"Dokyung and Haeyoung1 walk at night":
-(Dokyung, walk), (Haeyoung1, walk), (Dokyung - walk - Haeyoung1)
-
-shot_id: AnotherMissOh08_042_1147,
-
-(Haeyoung1), (Haeyoung1 - speaking)
-
-shot_id: AnotherMissOh08_042_1148,
-
-(Haeyoung1, family), (family - talk - Haeyoung1)
-
-
-shot_id: AnotherMissOh08_042_1149,
-
-(Dokyung, person), (Dokyung - look at - person)
-
-shot_id: AnotherMissOh08_042_1150,
-
-(Dokyung, jumper), (jumper - black-collar), (Dokyung - have - jumper)
-
-shot_id: AnotherMissOh08_042_1151,
-
-(Haeyoung1, Dokyung), (Haeyoung1 - talk to - Dokyung)
-
-shot_id: AnotherMissOh08_042_1152,
-
-(Haeyoung1), (Haeyoung1 - speaking)
-
-shot_id: AnotherMissOh08_042_1153,
-
-(Haeyoung1, Dokyung), (Haeyoung1 - talk to - Dokyung)
-
-shot_id: AnotherMissOh08_042_1154,
-
-(Haeyoung1, question), (question - ask - Dokyung)
-
-shot_id: AnotherMissOh08_042_1155,
-
-
-Input - Dokyung breathes in deeply.
-(Dokyung, breath), (breath - in), (Dokyung - breathe - breath)
-
-shot_id: AnotherMissOh08_042_1156,
-
-(Haeyoung1, person), (person - tears), (Haeyoung1 - look - person)
-
-shot_id: AnotherMissOh08_042_1157,
-
-(Dokyung), (Dokyung - looking down)
-
-shot_id: AnotherMissOh08_042_1158,
-
-
-Input - Dokyung warns Haeyoung1 to be careful of the cars.
-(Dokyung, warning), (Haeyoung1, careful), (Dokyung - warn - Haeyoung1)
-
-shot_id: AnotherMissOh08_042_1159,
-
-(Dokyung, Haeyoung1), (Dokyung - leave - Haeyoung1)
-
-shot_id: AnotherMissOh08_042_1160,
-
-(Haeyoung1, sigh), (sigh - smile), (Haeyoung1 - smile)
-
-shot_id: AnotherMissOh08_042_1161,
-
-
-Input - Dokyung walks with his hand inside the pockets.
-(Dokyung, pockets), (pockets - inside), (Dokyung - walk - pockets)
-
-shot_id: AnotherMissOh08_043_1162,
-
-
-Input - Dokyung suddenly raises his body hearing crashing sound.
-(Dokyung, body), (body - raising), (Dokyung - hear - crashing sound)
-
-shot_id: AnotherMissOh08_043_1163,
-
-(Dokyung, grimace), (grimace - pain), (Dokyung - make - grimace)
-
-shot_id: AnotherMissOh08_043_1164,
-you provided:
-
-Input - Dokyung grasps his left side of the body.
-(Dokyung, body), (body - left), (Dokyung - grasp - body)
-
-shot_id: AnotherMissOh08_043_1166,
-"Dokyung breaks out in a cold sweat":
-(Dokyung, sweat), (sweat - cold), (Dokyung - break - sweat)
-
-shot_id: AnotherMissOh08_044_1167,
-
-(Deogi, Haeyoung1), (see - eat)
-So the output is (Deogi, Haeyoung1) and (see - eat).
-
-shot_id: AnotherMissOh08_044_1168,
-
-
-Input - Kyungsu looks back to see Deogi who is talking.
-(Kyungsu, Deogi), (Kyungsu - look at - Deogi), (Deogi - talk)
-
-shot_id: AnotherMissOh08_044_1169,
-
-(Haeyoung1, food), (food - eat), (Haeyoung1 - stop - food)
-
-shot_id: AnotherMissOh08_044_1170,
-
-
-Input - Haeyoung1 is wearing a pink t-shirt.
-(Haeyoung1, t-shirt), (t-shirt - pink), (Haeyoung1 - wear - t-shirt)
-
-shot_id: AnotherMissOh08_044_1171,
-
-(Deogi), (Deogi - speaking)
-
-shot_id: AnotherMissOh08_044_1172,
-
-(Deogi, Haeyoung1), (Deogi - talk to - Haeyoung1)
-
-shot_id: AnotherMissOh08_044_1173,
-
-(Deogi, relationship), (Deogi - talk - relationship)
-
-shot_id: AnotherMissOh08_044_1174,
-
-(Kyungsu, eyes), (eyes - close - Kyungsu)
-
-shot_id: AnotherMissOh08_044_1175,
-
-(Deogi, person), (Deogi - talk - person)
-
-shot_id: AnotherMissOh08_044_1176,
-
-(Haeyoung1), (Haeyoung1 - listening)
-Note: The output is in the same format as the examples you provided, with the object, attribute, and subject-relation-object triples. In this case, the subject is "Haeyoung1," the attribute is "listening," and the object is ? (meaning the subject is listening to something, but we don't know what).
-
-shot_id: AnotherMissOh08_044_1177,
-
-(Deogi), (Deogi - speaking)
-
-shot_id: AnotherMissOh08_044_1178,
-
-(Deogi, Haeyoung1), (Deogi - speak - Haeyoung1)
-
-shot_id: AnotherMissOh08_044_1179,
-
-
-Input - Deogi sighs deeply.
-(Deogi, sigh), (sigh - deep), (Deogi - sigh - deeply)
-
-shot_id: AnotherMissOh08_044_1180,
-
-(Haeyoung1, eye), (eye - tear), (Haeyoung1 - cry - eye)
-
-shot_id: AnotherMissOh08_044_1181,
-
-(Deogi, talk), (talk - Deogi)
-
-shot_id: AnotherMissOh08_044_1182,
-
-(Kyungsu, nod), (nod - without), (Kyungsu - nod - without)
-
-shot_id: AnotherMissOh08_044_1184,
-
-
-Input - Haeyoung1 wipes her tears holding chopsticks.
-(Haeyoung1, chopsticks), (chopsticks - holding), (Haeyoung1 - wipe - tears)
-
-shot_id: AnotherMissOh08_044_1185,
-
-(Haeyoung1, head), (head - down), (Haeyoung1 - speak - head)
-
-shot_id: AnotherMissOh08_044_1186,
-
-
-Input - Haeyoung1 has tears on her face.
-(Haeyoung1, tears), (tears - on), (Haeyoung1 - have - face)
-
-shot_id: AnotherMissOh08_044_1187,
-
-(Deogi), (Deogi - talking)
-
-shot_id: AnotherMissOh08_044_1188,
-
-(Haeyoung1, chopsticks), (chopsticks - hold), (Haeyoung1 - look - chopsticks)
-
-shot_id: AnotherMissOh08_044_1189,
-
-
-Input - Deogi is talking wearing white clothes.
-(Deogi, clothes), (clothes - white), (Deogi - talk - clothes)
-
-shot_id: AnotherMissOh08_044_1190,
-
-(Haeyoung1, Deogi), (Haeyoung1 - talk - Deogi)
-
-shot_id: AnotherMissOh08_044_1191,
-
-(Deogi, speech), (speech - Haeyoung1), (Deogi - speak - Haeyoung1)
-
-shot_id: AnotherMissOh08_044_1192,
-"Deogi looks annoyed":
-(Deogi, look), (look - annoyed)
-
-shot_id: AnotherMissOh08_044_1193,
-
-
-Input - Haeyoung1 is speaking.
-(Haeyoung1), (Haeyoung1 - speaking)
-
-shot_id: AnotherMissOh08_045_1196,
-
-
-Input - Dokyung is standing wearing a black cap.
-(Dokyung, cap), (cap - black), (Dokyung - stand - cap)
-
-shot_id: AnotherMissOh08_045_1197,
-"Dokyung is wearing a black cap":
-(Dokyung, cap), (cap - black), (Dokyung - wear - cap)
-
-shot_id: AnotherMissOh08_045_1198,
-
-(Soontack, car), (Soontack - arrive - car)
-
-shot_id: AnotherMissOh08_045_1199,
-
-
-Input - Dokyung is standing wearing gray jacket.
-(Dokyung, jacket), (jacket - gray), (Dokyung - stand - jacket)
-
-shot_id: AnotherMissOh08_045_1200,
-
-
-Input - Dokyung is wearing black t-shirt and black cap.
-(Dokyung, t-shirt), (t-shirt - black), (Dokyung - wear - t-shirt)
-
-shot_id: AnotherMissOh08_045_1201,
-
-(Soontack, car), (Soontack - breathe - car)
-
-shot_id: AnotherMissOh08_045_1203,
-
-(Dokyung, face), (face - blank), (Dokyung - have - face)
-
-
-shot_id: AnotherMissOh08_045_1204,
-"Dokyung turns his head to the right":
-(Dokyung, head), (head - turn - right)
-
-shot_id: AnotherMissOh08_045_1205,
-
-
-Input - Dokyung moves his body wearing black cap.
-(Dokyung, body), (body - wearing - cap), (Dokyung - move - body)
-
-shot_id: AnotherMissOh08_046_1206,
-
-(Dokyung, experience), (Dokyung - talk - experience)
-
-shot_id: AnotherMissOh08_046_1207,
-
-(Dokyung, clinic room), (Soontack - have conversation - Dokyung)
-
-shot_id: AnotherMissOh08_046_1208,
-
-(Soontack, gown), (gown - doctor), (Soontack - wear - gown)
-
-shot_id: AnotherMissOh08_046_1209,
-
-
-Input - Dokyung is talking in nervous tone.
-(Dokyung, tone), (tone - nervous), (Dokyung - talk - tone)
-
-shot_id: AnotherMissOh08_046_1210,
-
-(Soontack, gown), (gown - curly), (Soontack - wear - gown)
-
-shot_id: AnotherMissOh08_046_1211,
-
-(Dokyung, jacket), (jacket - gray), (Dokyung - deep - thoughts)
-
-shot_id: AnotherMissOh08_046_1212,
-
-(Soontack, talk), (talk - seriously), (Soontack - speak - talk)
-
-shot_id: AnotherMissOh08_046_1213,
-
-(Dokyung, noise), (noise - talk - Dokyung)
-
-shot_id: AnotherMissOh08_047_1214,
-
-
-Input - Dokyung is reflected on the side mirror of the car.
-(Dokyung, mirror), (mirror - reflected), (Dokyung - reflect - mirror)
-
-shot_id: AnotherMissOh08_047_1215,
-
-(Dokyung, cap), (Dokyung - hold - cap)
-
-shot_id: AnotherMissOh08_047_1218,
-
-(Dokyung, jacket), (jacket - gray), (Dokyung - look - jacket)
-
-shot_id: AnotherMissOh08_047_1220,
-
-(Dokyung, face), (face - serious), (Dokyung - look - face)
-
-shot_id: AnotherMissOh08_047_1222,
-
-
-Input - Dokyung gets into a white car.
-(Dokyung, car), (car - white), (Dokyung - get - car)
-
-shot_id: AnotherMissOh08_047_1223,
-"Dokyung closes the car door":
-
-(Dokyung, car door), (car door - close), (Dokyung - close - car door)
-
-shot_id: AnotherMissOh08_047_1226,
-
-(Dokyung, steering wheel), (Dokyung - hold - steering wheel), (steering wheel - serious)
-
-shot_id: AnotherMissOh08_047_1228,
-
-(Dokyung, head), (head - move - down), (Dokyung - blink - eyes)
-
-shot_id: AnotherMissOh08_047_1229,
-
-(Dokyung, eyes), (Dokyung - close - eyes)
+shot_id: AnotherMissOh08_041_1143, (Dokyung, Haeyoung1, subway), (Haeyoung1 - stand on - subway), (Dokyung - stand on - subway)
+shot_id: AnotherMissOh08_041_1144, (Haeyoung1, Dokyung), (Haeyoung1 - smiling), (smiling - slightly), (Haeyoung1 - look at - Dokyung)
+shot_id: AnotherMissOh08_041_1145, (Dokyung, Haeyoung1, door), (Dokyung - standing), (Haeyoung1 - standing), (door - of - subway), (Dokyung - next to - door), (Haeyoung1 - next to - door)
+shot_id: AnotherMissOh08_042_1146, (Dokyung, Haeyoung1), (Haeyoung1 - walking), (Dokyung - walking)
+shot_id: AnotherMissOh08_042_1147, (Haeyoung1), (Haeyoung1 - speaking)
+shot_id: AnotherMissOh08_042_1148, (Haeyoung1, Dokyung), (Haeyoung1 - talk to - Dokyung)
+shot_id: AnotherMissOh08_042_1149, (Dokyung, person), (Dokyung - look at - person)
+shot_id: AnotherMissOh08_042_1150, (Dokyung, jumper), (jumper - black-collar), (Dokyung - wear - jumper)
+shot_id: AnotherMissOh08_042_1151, (Haeyoung1, Dokyung), (Haeyoung1 - talk to - Dokyung)
+shot_id: AnotherMissOh08_042_1152, (Haeyoung1), (Haeyoung1 - speaking)
+shot_id: AnotherMissOh08_042_1153, (Haeyoung1, Dokyung), (Haeyoung1 - talk to - Dokyung)
+shot_id: AnotherMissOh08_042_1154, (Haeyoung1, Dokyung), (Haeyoung1 - ask to - Dokyung)
+shot_id: AnotherMissOh08_042_1155, (Dokyung), (breathing - deeply), (Dokyung - breathing)
+shot_id: AnotherMissOh08_042_1156, (Haeyoung1, person, tears, eyes), (person - with - tears), (tears - in - eyes), (Haeyoung1 - look at - person)
+shot_id: AnotherMissOh08_042_1157, (Dokyung), (Dokyung - looking down)
+shot_id: AnotherMissOh08_042_1158, (Dokyung, Haeyoung1), (Dokyung - warn - Haeyoung1)
+shot_id: AnotherMissOh08_042_1159, (Dokyung, Haeyoung1), (Dokyung - leave behind - Haeyoung1)
+shot_id: AnotherMissOh08_042_1160, (Haeyoung1), (Haeyoung1 - smiling), (Haeyoung1 - sighing)
+shot_id: AnotherMissOh08_042_1161, (Dokyung, hands, pockets), (Dokyung - walking), (hands - inside - pockets), (Dokyung - put - hands)
+shot_id: AnotherMissOh08_043_1162, (Dokyung, body), (Dokyung - raise - body)
+shot_id: AnotherMissOh08_043_1163, (Dokyung), (Dokyung - grimace), (grimace - pain)
+shot_id: AnotherMissOh08_043_1164, (Dokyung, body), (body - left), (Dokyung - grasp - body)
+shot_id: AnotherMissOh08_043_1166, (Dokyung, sweat), (sweat - cold), (Dokyung - break out - sweat)
+shot_id: AnotherMissOh08_044_1167, (Deogi, Haeyoung1), (Haeyoung1 - eating), (Deogi - see - Haeyoung1)
+shot_id: AnotherMissOh08_044_1168, (Kyungsu, Deogi), (Deogi - talking), (Kyungsu - looking back)
+shot_id: AnotherMissOh08_044_1169, (Haeyoung1), (Haeyoung1 - stop eating)
+shot_id: AnotherMissOh08_044_1170, (Haeyoung1, t-shirt), (t-shirt - pink), (Haeyoung1 - wear - t-shirt)
+shot_id: AnotherMissOh08_044_1171, (Deogi), (Deogi - speaking)
+shot_id: AnotherMissOh08_044_1172, (Deogi, Haeyoung1), (Deogi - talk to - Haeyoung1)
+shot_id: AnotherMissOh08_044_1173, (Deogi), (Deogi - talking)
+shot_id: AnotherMissOh08_044_1174, (Kyungsu, eyes), (close - gently), (Kyungsu - close - eyes)
+shot_id: AnotherMissOh08_044_1175, (Deogi, person), (Deogi - talk to - person)
+shot_id: AnotherMissOh08_044_1176, (Haeyoung1), (Haeyoung1 - listening)
+shot_id: AnotherMissOh08_044_1177, (Deogi), (Deogi - speaking)
+shot_id: AnotherMissOh08_044_1178, (Deogi, Haeyoung1), (Deogi - speak to - Haeyoung1)
+shot_id: AnotherMissOh08_044_1179, (Deogi), (Deogi - sighing), (sighing - deeply)
+shot_id: AnotherMissOh08_044_1180, (Haeyoung1, eye), (eye - Haeyoung1), (tear - come out from - eye)
+shot_id: AnotherMissOh08_044_1181, (Deogi), (Deogi - talking)
+shot_id: AnotherMissOh08_044_1182, (Kyungsu), (Kyungsu - nodding)
+shot_id: AnotherMissOh08_044_1184, (Haeyoung1, tears, chopsticks), (Haeyoung1 - hold - chopsticks), (Haeyoung1 - wipe - tears)
+shot_id: AnotherMissOh08_044_1185, (Haeyoung1, head), (Haeyoung1 - speaking), (head - Haeyoung1), (head - down)
+shot_id: AnotherMissOh08_044_1186, (Haeyoung1, face, tears), (tears - on - face), (Haeyoung1 - have - tears)
+shot_id: AnotherMissOh08_044_1187, (Deogi), (Deogi - talking)
+shot_id: AnotherMissOh08_044_1188, Haeyoung1, chopsticks), (Haeyoung1 - looking up), (Haeyoung1 - hold - chopsticks)
+shot_id: AnotherMissOh08_044_1189, (Deogi, clothes), (Deogi - talking), (clothes - white), (Deogi - wear - clothes)
+shot_id: AnotherMissOh08_044_1190, (Haeyoung1, Deogi), (Haeyoung1 - talk with - Deogi)
+shot_id: AnotherMissOh08_044_1191, (Deogi, Haeyoung1), (Deogi - speak to - Haeyoung1)
+shot_id: AnotherMissOh08_044_1192, (Deogi), (Deogi - annoyed)
+shot_id: AnotherMissOh08_044_1193, (Haeyoung1), (Haeyoung1 - speaking)
+shot_id: AnotherMissOh08_045_1196, (Dokyung, cap), (Dokyung - standing), (cap - black), (Dokyung - wear - cap)
+shot_id: AnotherMissOh08_045_1197, (Dokyung, cap), (cap - black), (Dokyung - wear - cap)
+shot_id: AnotherMissOh08_045_1198, (Soontack, car), (Soontack - drive - car)
+shot_id: AnotherMissOh08_045_1199, (Dokyung, jacket), (Dokyung - standing), (jacket - gray), (Dokyung - wear - jacket)
+shot_id: AnotherMissOh08_045_1200, (Dokyung, t-shirt, cap), (t-shirt - black), (cap - black), (Dokyung - wear - t-shirt), (Dokyung - wear - cap)
+shot_id: AnotherMissOh08_045_1201, (Soontack, car), (Soontack - breathing), (breathing - deeply), (Soontack - next to - car)
+shot_id: AnotherMissOh08_045_1203, (Dokyung, face), (face - blank), (cap - black), (Dokyung - have - face), (Dokyung - wear - cap), (cap - on - head)
+shot_id: AnotherMissOh08_045_1204, (Dokyung, head), (Dokyung - turn - head)
+shot_id: AnotherMissOh08_045_1205, (Dokyung, body, cap), (cap - black), (Dokyung - wear - cap), (Dokyung - move - body)
+shot_id: AnotherMissOh08_046_1206, (Dokyung), (Dokyung - talking)
+shot_id: AnotherMissOh08_046_1207, (Dokyung, Soontack, clinic room), (clinic room - Soontack), (Soontack - have conversation - Dokyung), (Dokyung - in - clinic room), (Soontack - in - clinic room)
+shot_id: AnotherMissOh08_046_1208, (Soontack, gown), (gown - doctor), (Soontack - wear - gown)
+shot_id: AnotherMissOh08_046_1209, (Dokyung, tone), (tone - nervous), (Dokyung - talk with - tone)
+shot_id: AnotherMissOh08_046_1210, (Soontack, gown), (hair - curly), (gown - doctor), (Soontack - wear - gown), (Soontack - have - hair)
+shot_id: AnotherMissOh08_046_1211, (Dokyung, jacket), (Dokyung - thinking), (thinking - deeply), (jacket - gray), (Dokyung - wear - jacket)
+shot_id: AnotherMissOh08_046_1212, (Soontack), (talking - seriously), (Soontack - talking)
+shot_id: AnotherMissOh08_046_1213, (Dokyung), (Dokyung - talking)
+shot_id: AnotherMissOh08_047_1214, (Dokyung, mirror, car), (mirror - side), (mirror - of - car), (Dokyung - reflected on - mirror)
+shot_id: AnotherMissOh08_047_1215, (Dokyung, cap), (Dokyung - walking), (Dokyung - hold - cap)
+shot_id: AnotherMissOh08_047_1218, (Dokyung, jacket), (Dokyung - looking down), (jacket - gray), (Dokyung - wear - jacket)
+shot_id: AnotherMissOh08_047_1220, (Dokyung, face), (Dokyung - looking around), (face - serious), (Dokyung - have - face)
+shot_id: AnotherMissOh08_047_1222, (Dokyung, car), (car - white), (Dokyung - get into - car)
+shot_id: AnotherMissOh08_047_1223, (Dokyung, door), (door - car), (Dokyung - close - door)
+shot_id: AnotherMissOh08_047_1226, (Dokyung, steering wheel), (Dokyung - serious), (Dokyung - hold - steering wheel)
+shot_id: AnotherMissOh08_047_1228, (Dokyung, head, eyes), (Dokyung - move down - head), (Dokyung - blink - eyes)
+shot_id: AnotherMissOh08_047_1229, (Dokyung, eyes), (close - suddenly), (Dokyung - close - eyes)
 
 shot_id: AnotherMissOh08_047_1230,
 
