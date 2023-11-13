@@ -8552,7 +8552,7 @@ shot_id: AnotherMissOh09_032_1092, (Taejin, Haeyoung1), (Taejin - smile at - Hae
 shot_id: AnotherMissOh09_032_1094, (Taejin, Haeyoung1), (Taejin - smiling), (Taejin - next to - Haeyoung1)
 shot_id: AnotherMissOh09_032_1095, (Haeyoung1, cell phone), (Haeyoung1 - standing), (Haeyoung1 - hold - cell phone)
 shot_id: AnotherMissOh09_032_1097, (Haeyoung1, cell phone), (Haeyoung1 - put down - cell phone)
-shot_id: AnotherMissOh09_032_1098, (Haeyoung1, gate), (HAeyoung1 - standing), (Haeyoung1 - in front of - gate)
+shot_id: AnotherMissOh09_032_1098, (Haeyoung1, gate), (Haeyoung1 - standing), (Haeyoung1 - in front of - gate)
 shot_id: AnotherMissOh09_032_1099, (Dokyung, earphone), (Dokyung - take off - earphone)
 shot_id: AnotherMissOh09_033_1100, (Dokyung, car), (Dokyung - drive - car)
 shot_id: AnotherMissOh09_033_1101, (Dokyung, handle), (Dokyung - hold - handle)
@@ -8560,194 +8560,45 @@ shot_id: AnotherMissOh09_033_1102, (Dokyung, car), (Dokyung - sitting), (Dokyung
 shot_id: AnotherMissOh09_033_1103, (Dokyung, watch), (Dokyung - wear - watch)
 shot_id: AnotherMissOh09_033_1104, (Dokyung), (Dokyung - angry)
 shot_id: AnotherMissOh09_033_1105, (car, road), (car - on - road)
-
-shot_id: AnotherMissOh09_033_1106,
-
-(Dokyung, eyes), (Dokyung - open - eyes)
-
-shot_id: AnotherMissOh09_033_1108,
-"Dokyung was hit by something":
-(Dokyung, something), (something - hit - Dokyung)
-
-shot_id: AnotherMissOh09_033_1109,
-
-
-Input - Dokyung is getting out of the car.
-(Dokyung, car), (car - get out - Dokyung)
-
-shot_id: AnotherMissOh09_033_1110,
-
-(Dokyung, turn), (turn - around), (Dokyung - turn - around)
-
-shot_id: AnotherMissOh09_033_1111,
-"Dokyung is looking at the car":
-(Dokyung, car), (Dokyung - look - car)
-
-shot_id: AnotherMissOh09_033_1112,
-
-(Dokyung, road), (road - stand - Dokyung)
-
-shot_id: AnotherMissOh09_033_1114,
-
-(Dokyung, pain), (pain - affect - Dokyung)
-
-shot_id: AnotherMissOh09_033_1116,
-
-
-Input - Dokyung is bleeding.
-(Dokyung, bleeding), (bleeding - attribute), (Dokyung - bleed - ?)
-Note: The output is incomplete because we don't have enough information to determine the object that Dokyung is bleeding from.
-
-shot_id: AnotherMissOh09_033_1118,
-
-
-Input - A person is opening his eyes.
-(A person, eyes), (eyes - open), (A person - open - eyes)
-
-shot_id: AnotherMissOh09_033_1119,
-
-(Dokyung, somewhere), (Dokyung - stare at - somewhere)
-
-shot_id: AnotherMissOh09_033_1120,
-
-(Dokyung, bed), (Dokyung - lie on - bed)
-
-shot_id: AnotherMissOh09_033_1121,
-
-(Dokyung, bed), (Dokyung - look - bed)
-
-shot_id: AnotherMissOh09_033_1122,
-
-(Dokyung, mouth), (mouth - open - slightly), (Dokyung - open - mouth)
-
-shot_id: AnotherMissOh09_034_1123,
-
-(Soontack, office), (Soontack - sit - office)
-
-shot_id: AnotherMissOh09_034_1124,
-
-
-Input - Dokyung is staring at somewhere.
-(Dokyung, eyes), (Dokyung - stare - somewhere), (Dokyung - look - somewhere)
-
-shot_id: AnotherMissOh09_034_1125,
-
-
-Input - Soontack has curly hair.
-(Soontack, hair), (hair - curly), (Soontack - have - hair)
-
-shot_id: AnotherMissOh09_034_1126,
-
-
-Input - Dokyung is opening his eyes.
-(Dokyung, eyes), (Dokyung - open - eyes)
-
-shot_id: AnotherMissOh09_034_1128,
-
-
-Input - Dokyung is walking next to the wall.
-(Dokyung, walk), (walk - next), (Dokyung - walk - wall)
-
-shot_id: AnotherMissOh09_034_1129,
-"Dokyung is wearing a black suit":
-(Dokyung, suit), (suit - black), (Dokyung - wear - suit)
-
-shot_id: AnotherMissOh09_034_1130,
-
-(Dokyung, walk), (Dokyung - walk - Haeyoung1)
-
-shot_id: AnotherMissOh09_034_1131,
-
-(Haeyoung1, Dokyung), (Haeyoung1 - talk to - Dokyung)
-
-shot_id: AnotherMissOh09_034_1132,
-
-(Dokyung, head), (Dokyung - turn - head)
-
-shot_id: AnotherMissOh09_034_1133,
-
-(Haeyoung1, head), (head - lower), (Haeyoung1 - lower - head)
-
-shot_id: AnotherMissOh09_034_1134,
-
-(Dokyung), (Dokyung - talking)
-
-shot_id: AnotherMissOh09_034_1135,
-
-
-Input - Haeyoung1 has brown hair.
-(Haeyoung1, hair), (hair - brown), (Haeyoung1 - have - hair)
-
-shot_id: AnotherMissOh09_034_1136,
-
-
-Input - Dokyung is wearing a gray jacket.
-(Dokyung, jacket), (jacket - gray), (Dokyung - wear - jacket)
-
-shot_id: AnotherMissOh09_034_1137,
-
-
-Input - Haeyoung1 is opening her mouth slightly.
-(Haeyoung1, mouth), (mouth - slightly open), (Haeyoung1 - open - mouth)
-
-shot_id: AnotherMissOh09_034_1138,
-
-(Haeyoung1, head), (head - turn - aside)
-
-
-shot_id: AnotherMissOh09_034_1139,
-
-
-Input - Dokyung is turning his head aside.
-(Dokyung, head), (Dokyung - turn - head)
-
-shot_id: AnotherMissOh09_034_1140,
-
-(Dokyung, Haeyoung1), (Haeyoung1 - look - Dokyung)
-
-shot_id: AnotherMissOh09_034_1141,
-
-(Dokyung, something), (something - attribute), (Dokyung - say - something)
-
-shot_id: AnotherMissOh09_034_1142,
-
-(Haeyoung1, something), (something - explain - Haeyoung1)
-
-shot_id: AnotherMissOh09_034_1143,
-
-
-Input - Dokyung is looking at someone.
-(Dokyung, someone), (someone - being looked at - Dokyung)
-
-shot_id: AnotherMissOh09_034_1144,
-
-(Haeyoung1, someone), (someone - was - in - prison), (Haeyoung1 - say - someone)
-
-shot_id: AnotherMissOh09_034_1145,
-
-(Dokyung, argument), (argument - Dokyung), (Dokyung - argue - Haeyoung1)
-
-shot_id: AnotherMissOh09_034_1146,
-
-
-Input - Haeyoung1 is getting angry.
-(Haeyoung1, angry), (angry - emotion), (Haeyoung1 - get - angry)
-
-shot_id: AnotherMissOh09_034_1149,
-
-
-Input - Haeyoung1 looks surprised.
-(Haeyoung1), (Haeyoung1 - surprised)
-
-shot_id: AnotherMissOh09_034_1153,
-
-(Haeyoung1, angry), (angry - relation - Dokyung)
-
-So the output for the given sentence is: (Haeyoung1, angry), (angry - relation - Dokyung). Let me know if you have any other sentences you'd like me to format in the same way!
-
-shot_id: AnotherMissOh09_034_1154,
-
-(Haeyoung1), (Haeyoung1 - yelling)
+shot_id: AnotherMissOh09_033_1106, (Dokyung, eyes), (Dokyung - open - eyes)
+shot_id: AnotherMissOh09_033_1108, (Dokyung, something), (something - hit - Dokyung)
+shot_id: AnotherMissOh09_033_1109, (Dokyung, car), (Dokyung - get out of - car)
+shot_id: AnotherMissOh09_033_1110, (Dokyung), (Dokyung - turning around)
+shot_id: AnotherMissOh09_033_1111, (Dokyung, car), (Dokyung - look at - car)
+shot_id: AnotherMissOh09_033_1112, (Dokyung, road), (Dokyung - standing), (Dokyung - on - road)
+shot_id: AnotherMissOh09_033_1114, (Dokyung), (Dokyung - in pain)
+shot_id: AnotherMissOh09_033_1116, (Dokyung), (Dokyung - bleeding)
+shot_id: AnotherMissOh09_033_1118, (person, eyes), (person - open - eyes)
+shot_id: AnotherMissOh09_033_1119, (Dokyung, somewhere), (Dokyung - stare at - somewhere)
+shot_id: AnotherMissOh09_033_1120, (Dokyung, bed), (Dokyung - lie on - bed)
+shot_id: AnotherMissOh09_033_1121, (Dokyung, bed), (Dokyung - looking up), (Dokyung - on - bed)
+shot_id: AnotherMissOh09_033_1122, (Dokyung, mouth), (open - slightly), (Dokyung - open - mouth)
+shot_id: AnotherMissOh09_034_1123, (Soontack, office), (Soontack - sitting down), (Soontack - in - office)
+shot_id: AnotherMissOh09_034_1124, (Dokyung, somewhere), (Dokyung - stare at - somewhere)
+shot_id: AnotherMissOh09_034_1125, (Soontack, hair), (hair - curly), (Soontack - have - hair)
+shot_id: AnotherMissOh09_034_1126, (Dokyung, eyes), (Dokyung - open - eyes)
+shot_id: AnotherMissOh09_034_1128, (Dokyung), (Dokyung - walking), (Dokyung - next to - wall)
+shot_id: AnotherMissOh09_034_1129, (Dokyung, suit), (suit - black), (Dokyung - wear - suit)
+shot_id: AnotherMissOh09_034_1130, (Dokyung, Haeyoung1), (Dokyung - walk with - Haeyoung1)
+shot_id: AnotherMissOh09_034_1131, (Haeyoung1, Dokyung), (Haeyoung1 - talk to - Dokyung)
+shot_id: AnotherMissOh09_034_1132, (Dokyung, head), (Dokyung - turn - head)
+shot_id: AnotherMissOh09_034_1133, (Haeyoung1, head), (Haeyoung1 - lower - head)
+shot_id: AnotherMissOh09_034_1134, (Dokyung), (Dokyung - talking)
+shot_id: AnotherMissOh09_034_1135, (Haeyoung1, hair), (hair - brown), (Haeyoung1 - have - hair)
+shot_id: AnotherMissOh09_034_1136, (Dokyung, jacket), (jacket - gray), (Dokyung - wear - jacket)
+shot_id: AnotherMissOh09_034_1137, (Haeyoung1, mouth), (open - slightly), (Haeyoung1 - open - mouth)
+shot_id: AnotherMissOh09_034_1138, (Haeyoung1, head), (Haeyoung1 - turn - head)
+shot_id: AnotherMissOh09_034_1139, (Dokyung, head), (Dokyung - turn - head)
+shot_id: AnotherMissOh09_034_1140, (Dokyung, Haeyoung1), (Haeyoung1 - look at - Dokyung), (Haeyoung1 - look at - Dokyung)
+shot_id: AnotherMissOh09_034_1141, (Dokyung), (Dokyung - saying)
+shot_id: AnotherMissOh09_034_1142, (Haeyoung1, something), (Haeyoung1 - explain - something)
+shot_id: AnotherMissOh09_034_1143, (Dokyung, someone), (Dokyung - look at - someone)
+shot_id: AnotherMissOh09_034_1144, (Haeyoung1), (Haeyoung1 - saying)
+shot_id: AnotherMissOh09_034_1145, (Dokyung, Haeyoung1), (Dokyung - argue with - Haeyoung1)
+shot_id: AnotherMissOh09_034_1146, (Haeyoung1), (Haeyoung1 - get - angry)
+shot_id: AnotherMissOh09_034_1149, (Haeyoung1), (Haeyoung1 - surprised)
+shot_id: AnotherMissOh09_034_1153, (Haeyoung1), (Haeyoung1 - angry at - Dokyung)
+shot_id: AnotherMissOh09_034_1154, (Haeyoung1), (Haeyoung1 - yelling)
 
 shot_id: AnotherMissOh09_034_1156,
 
