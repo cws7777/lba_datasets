@@ -8599,1364 +8599,308 @@ shot_id: AnotherMissOh09_034_1146, (Haeyoung1), (Haeyoung1 - get - angry)
 shot_id: AnotherMissOh09_034_1149, (Haeyoung1), (Haeyoung1 - surprised)
 shot_id: AnotherMissOh09_034_1153, (Haeyoung1), (Haeyoung1 - angry at - Dokyung)
 shot_id: AnotherMissOh09_034_1154, (Haeyoung1), (Haeyoung1 - yelling)
-
-shot_id: AnotherMissOh09_034_1156,
-
-(Haeyoung1, bag), (Haeyoung1 - wear - bag)
-
-shot_id: AnotherMissOh09_034_1158,
-"Haeyoung1 is shaking her head":
-(Haeyoung1, head), (Haeyoung1 - shake - head)
-
-shot_id: AnotherMissOh09_034_1159,
-
-
-Input - Haeyoung1 has an angry face.
-(Haeyoung1), (Haeyoung1 - angry)
-
-shot_id: AnotherMissOh09_034_1161,
-
-(Haeyoung1, cry), (cry - about - Haeyoung1)
-
-shot_id: AnotherMissOh09_034_1163,
-
-(Dokyung, Haeyoung1), (Dokyung - leave - Haeyoung1)
-
-shot_id: AnotherMissOh09_034_1164,
-
-(people, street), (people - be - on), (street - have - people)
-
-shot_id: AnotherMissOh09_034_1165,
-
-(Haeyoung1), (Haeyoung1 - shouting)
-
-shot_id: AnotherMissOh09_034_1166,
-
-
-Input - Haeyoung1 is closing her mouth.
-(Haeyoung1, mouth), (Haeyoung1 - close - mouth)
-
-shot_id: AnotherMissOh09_034_1168,
-"Haeyoung1 hit Dokyung with a bag":
-
-Input - Haeyoung1 hit Dokyung with a bag.
-(Haeyoung1, bag), (bag - hit), (Haeyoung1 - hit - Dokyung)
-
-shot_id: AnotherMissOh09_034_1169,
-"Dokyung is brawling with a person":
-
-(Dokyung, person), (person - brawling), (Dokyung - brawl - person)
-
-shot_id: AnotherMissOh09_034_1170,
-
-
-Input - Dokyung is stopping Haeyoung1 to leave.
-(Dokyung, stop), (Haeyoung1, leave), (Dokyung - stop - Haeyoung1)
-
-shot_id: AnotherMissOh09_034_1171,
-
-
-Input - Two people are in an alley.
-(Two people, alley), (alley - two people), (Two people - are - in - alley)
-
-shot_id: AnotherMissOh09_034_1174,
-"Dokyung is lifting someone up":
-
-(Dokyung, person), (person - being lifted), (Dokyung - lift - person)
-
-shot_id: AnotherMissOh09_034_1176,
-
-
-Input - Dokyung is wearing a black shirt.
-(Dokyung, shirt), (shirt - black), (Dokyung - wear - shirt)
-
-shot_id: AnotherMissOh09_034_1178,
-
-(Haeyoung1, hand), (hand - bite), (Haeyoung1 - bite - Dokyung's hand)
-
-shot_id: AnotherMissOh09_034_1179,
-
-(Haeyoung1, scream)
-(scream - attribute of Haeyoung1)
-(Haeyoung1 - scream)
-
-shot_id: AnotherMissOh09_034_1180,
-
-(Dokyung, hand), (hand - look - Dokyung)
-
-shot_id: AnotherMissOh09_034_1182,
-
-(Dokyung, turn), (Dokyung - turn - around)
-
-shot_id: AnotherMissOh09_034_1183,
-
-(Haeyoung1, lips), (lips - tight), (Haeyoung1 - keep - lips)
-
-shot_id: AnotherMissOh09_034_1184,
-
-(person, shirt), (shirt - pink), (person - hold - bag)
-
-shot_id: AnotherMissOh09_034_1185,
-
-(Dokyung), (Dokyung - surprised)
-
-shot_id: AnotherMissOh09_034_1186,
-
-(Haeyoung1, Dokyung), (Haeyoung1 - push - Dokyung)
-
-shot_id: AnotherMissOh09_034_1188,
-"Dokyung is pushing Haeyoung1 against the wall":
-(Dokyung, wall), (Dokyung - push - Haeyoung1), (Haeyoung1 - against - wall)
-
-shot_id: AnotherMissOh09_034_1189,
-
-(Haeyoung1, someone), (someone - resist - Haeyoung1)
-
-shot_id: AnotherMissOh09_034_1190,
-
-(Dokyung, arms), (arms - hold - Dokyung)
-
-shot_id: AnotherMissOh09_034_1191,
-
-(Dokyung, breath), (breath - hard), (Dokyung - breathe - hard)
-
-shot_id: AnotherMissOh09_034_1192,
-
-(Haeyoung1, lips), (lips - bleed), (Haeyoung1 - bleed - lips)
-
-shot_id: AnotherMissOh09_034_1194,
-
-
-Input - Haeyoung1 is raising her arms in front of Dokyung.
-(Haeyoung1, arms), (Haeyoung1 - raise - arms)
-
-shot_id: AnotherMissOh09_034_1197,
-
-(Dokyung, someone), (someone - get close - Dokyung)
-
-shot_id: AnotherMissOh09_034_1198,
-
-
-Input - Haeyoung1 is kissing.
-(Haeyoung1, kiss), (kiss - Haeyoung1), (Haeyoung1 - kiss - [person/object])
-So the output for the given sentence is:
-(Haeyoung1, kiss), (kiss - Haeyoung1), (Haeyoung1 - kiss - [person/object])
-
-shot_id: AnotherMissOh09_034_1199,
-
-(Dokyung, Haeyoung1), (Haeyoung1 - kiss - Dokyung)
-
-shot_id: AnotherMissOh09_034_1200,
-
-(Haeyoung1, person), (person - hug - Haeyoung1)
-
-shot_id: AnotherMissOh09_034_1205,
-
-
-Input - Haeyoung1 is wearing jeans.
-(Haeyoung1, jeans), (jeans - blue), (Haeyoung1 - wear - jeans)
-
-shot_id: AnotherMissOh09_034_1206,
-
-(Haeyoung1, hug), (hug - close - eyes)
-
-shot_id: AnotherMissOh09_034_1210,
-
-(Dokyung, step), (step - back), (Dokyung - move - Haeyoung1)
-
-shot_id: AnotherMissOh09_034_1211,
-
-(Dokyung, confused), (confused - attribute), (Dokyung - look - confused)
-
-shot_id: AnotherMissOh09_034_1213,
-
-(Dokyung, something), (something - ground), (Dokyung - pick - something)
-
-shot_id: AnotherMissOh09_034_1214,
-
-(Dokyung, alley), (Dokyung - walk - alley)
-
-shot_id: AnotherMissOh09_034_1215,
-
-
-Input - Haeyoung1 is standing alone.
-(Haeyoung1, standing), (standing - alone), (Haeyoung1 - stand - alone)
-
-shot_id: AnotherMissOh09_034_1216,
-
-(Dokyung, hand), (hand - face), (Dokyung - put - hand)
-
-shot_id: AnotherMissOh09_034_1217,
-
-
-Input - Haeyoung1 is turning her head aside.
-(Haeyoung1, head), (head - turn - side), (Haeyoung1 - turn - head)
-
-shot_id: AnotherMissOh09_034_1218,
-
-(Soontack, office), (Soontack - talk - office)
-
-shot_id: AnotherMissOh09_034_1219,
-
-(Soontack), (Soontack - serious)
-
-shot_id: AnotherMissOh09_034_1220,
-
-(Dokyung, cry), (cry - about - Dokyung)
-
-shot_id: AnotherMissOh10_001_0026,
-
-(Dokyung, Haeyoung1), (Dokyung - try - restrain - Haeyoung1)
-
-shot_id: AnotherMissOh10_001_0027,
-
-(Haeyoung1, person), (person - away - Haeyoung1), (Haeyoung1 - try - push)
-
-shot_id: AnotherMissOh10_001_0028,
-
-(Haeyoung1, arms), (Haeyoung1 - try - resist), (Dokyung - grab - arms)
-
-shot_id: AnotherMissOh10_001_0029,
-
-
-Input - Dokyung is glaring at a person.
-(Dokyung, person), (person - glaring), (Dokyung - gaze - person)
-
-shot_id: AnotherMissOh10_001_0030,
-"Haeyoung1 has a cut on her lips":
-
-(Haeyoung1, cut), (cut - on), (Haeyoung1 - has - cut)
-
-shot_id: AnotherMissOh10_001_0031,
-
-
-Input - Dokyung kisses Haeyoung1.
-(Dokyung, kiss), (kiss - Haeyoung1), (Dokyung - kiss - Haeyoung1)
-
-shot_id: AnotherMissOh10_001_0032,
-
-(Dokyung, Haeyoung1), (Dokyung - kiss - Haeyoung1)
-
-shot_id: AnotherMissOh10_001_0033,
-
-(Haeyoung1, arm), (Haeyoung1 - hold - arm), (Dokyung - arm - Haeyoung1)
-
-shot_id: AnotherMissOh10_001_0034,
-
-(people, kissing), (kissing - each other), (people - kiss - each other)
-
-shot_id: AnotherMissOh10_001_0035,
-
-(Dokyung, Haeyoung1), (Haeyoung1 - kiss - Dokyung)
-
-shot_id: AnotherMissOh10_001_0036,
-
-(Dokyung, Haeyoung1), (Haeyoung1 - hug - Dokyung), (Dokyung - kiss - Haeyoung1)
-
-shot_id: AnotherMissOh10_001_0037,
-
-(Haeyoung1, alley), (Haeyoung1 - kiss - alley)
-
-shot_id: AnotherMissOh10_001_0038,
-
-(Two people, hugging), (hugging - each other), (Two people - embrace - each other)
-
-shot_id: AnotherMissOh10_001_0039,
-
-
-Input - Dokyung and Haeyoung1 are sharing a passionate kiss.
-(Dokyung, Haeyoung1), (Haeyoung1 - kiss - Dokyung)
-
-shot_id: AnotherMissOh10_001_0040,
-
-(Dokyung, person), (Dokyung - hug - person)
-
-shot_id: AnotherMissOh10_001_0041,
-"Haeyoung1 is hugging a person":
-(Haeyoung1, person), (person - hug - Haeyoung1)
-
-shot_id: AnotherMissOh10_001_0042,
-
-(Haeyoung1, eyes), (Haeyoung1 - close - eyes)
-
-shot_id: AnotherMissOh10_001_0043,
-
-(Dokyung, eyes), (eyes - open), (Dokyung - hug - someone)
-
-shot_id: AnotherMissOh10_001_0045,
-
-(Dokyung, away), (Dokyung - back - Haeyoung1)
-
-shot_id: AnotherMissOh10_001_0046,
-
-(Dokyung, dizzy), (dizzy - feel - Dokyung)
-
-shot_id: AnotherMissOh10_001_0047,
-
-
-Input - Haeyoung1 has a scar on her lips.
-(Haeyoung1, scar), (scar - on), (Haeyoung1 - have - scar)
-
-shot_id: AnotherMissOh10_001_0048,
-
-(Dokyung, alley), (alley - leave - Dokyung)
-
-shot_id: AnotherMissOh10_001_0049,
-
-(Haeyoung1, alley), (alley - still), (Haeyoung1 - stand - alley)
-
-shot_id: AnotherMissOh10_001_0050,
-
-
-Input - Dokyung is leaving Haeyoung1 alone and Haeyoung1 glares at Dokyung.
-(Dokyung, leaving), (leaving - alone), (Haeyoung1 - glare - Dokyung)
-
-shot_id: AnotherMissOh10_002_0054,
-"Dokyung is looking at somewhere":
-
-(Dokyung, somewhere), (somewhere - looking), (Dokyung - look - somewhere)
-
-shot_id: AnotherMissOh10_002_0055,
-
-
-Input - Dokyung and other people are in the playground.
-(Dokyung, people), (people - in - playground), (Dokyung - are - people)
-
-shot_id: AnotherMissOh10_002_0056,
-"Dokyung is wearing a navy cap":
-(Dokyung, cap), (cap - navy), (Dokyung - wear - cap)
-
-shot_id: AnotherMissOh10_002_0057,
-
-(Dokyung, head), (head - down), (Dokyung - put - head)
-
-shot_id: AnotherMissOh10_002_0058,
-
-(Dokyung, look), (look - up)
-
-shot_id: AnotherMissOh10_002_0059,
-
-(people, playground), (playground - time), (people - spend - playground)
-
-shot_id: AnotherMissOh10_002_0060,
-
-(Dokyung), (Dokyung - smiling)
-
-shot_id: AnotherMissOh10_002_0061,
-
-(Two people, iron bar), (Two people - hang - iron bar)
-
-shot_id: AnotherMissOh10_002_0062,
-
-(Dokyung, people), (people - look - Dokyung), (Dokyung - sit - seesaw)
-
-shot_id: AnotherMissOh10_002_0063,
-
-(person, upside down), (person - hang - upside down)
-
-shot_id: AnotherMissOh10_002_0064,
-
-(person, talking), (talking - hanging upside down), (person - hang - upside down)
-
-shot_id: AnotherMissOh10_002_0065,
-
-(person, iron bar), (person - use - iron bar)
-
-
-shot_id: AnotherMissOh10_002_0066,
-
-(person, question), (question - ask), (person - ask - question)
-
-shot_id: AnotherMissOh10_002_0067,
-
-(person, talking), (talking - hanging), (person - hang - upside down)
-
-shot_id: AnotherMissOh10_002_0068,
-
-(person, question), (question - ask), (person - ask - question)
-
-shot_id: AnotherMissOh10_002_0069,
-
-(person, talking), (person - talk - someone), (person - talk - someone)
-
-shot_id: AnotherMissOh10_002_0070,
-
-(person, eyes), (eyes - move - side), (person - move - eyes)
-
-shot_id: AnotherMissOh10_002_0071,
-
-(Dokyung, stare), (stare - without), (Dokyung - say - nothing)
-
-shot_id: AnotherMissOh10_002_0072,
-
-(Dokyung, thought), (thought - deeply), (Dokyung - think - thought)
-
-shot_id: AnotherMissOh10_002_0073,
-
-(people, playground), (playground - have - race), (people - race - playground)
-
-shot_id: AnotherMissOh10_002_0074,
-
-(people, playground), (playground - run), (people - run - playground)
-
-shot_id: AnotherMissOh10_002_0075,
-
-(people, happy), (happy - look)
-
-shot_id: AnotherMissOh10_002_0076,
-
-
-Input - people are running in the playground.
-(people, running), (running - in), (people - run - playground)
-
-shot_id: AnotherMissOh10_002_0077,
-
-(Dokyung, look), (look - ahead)
-
-shot_id: AnotherMissOh10_002_0078,
-
-(people, playground), (playground - play), (people - play - playground)
-
-shot_id: AnotherMissOh10_002_0079,
-
-(people, spinning), (spinning - around), (people - spin - around)
-
-shot_id: AnotherMissOh10_002_0080,
-
-
-Input - Dokyung is opening his mouth.
-(Dokyung, mouth), (mouth - open), (Dokyung - open - mouth)
-
-shot_id: AnotherMissOh10_002_0081,
-
-(people, away), (away - fade)
-
-shot_id: AnotherMissOh10_002_0082,
-
-(Dokyung), (Dokyung - looking front)
-
-shot_id: AnotherMissOh10_002_0083,
-
-(Dokyung, people), (people - look - Dokyung), (Dokyung - sit - seesaw)
-
-shot_id: AnotherMissOh10_002_0084,
-
-(Dokyung, T-shirt), (T-shirt - black), (Dokyung - wear - T-shirt)
-
-shot_id: AnotherMissOh10_003_0087,
-"Haeyoung1 is looking at somewhere":
-
-(Haeyoung1, eyes), (eyes - look - somewhere), (Haeyoung1 - look - somewhere)
-
-shot_id: AnotherMissOh10_003_0088,
-
-(Dokyung, Haeyoung1), (scuffling)
-(Dokyung - scuffle - Haeyoung1)
-
-shot_id: AnotherMissOh10_003_0089,
-
-
-Input - Two people are in the alley.
-(Two people, in), (in - location - Two people)
-
-shot_id: AnotherMissOh10_003_0090,
-
-(person, go), (go - not let), (person - scream)
-So the output for the given sentence is: (person1, go), (go - not let), (person1 - scream)
-
-shot_id: AnotherMissOh10_003_0091,
-
-(Dokyung, person), (Dokyung - lift - person)
-Note: In this format, the first item in the list is the object of the action, the second item is the attribute of the object, and the third item is the subject of the action and the relation between the subject and the object.
-
-shot_id: AnotherMissOh10_003_0092,
-
-(Haeyoung1, ground), (ground - continue - fight), (Haeyoung1 - come - fight)
-
-shot_id: AnotherMissOh10_003_0094,
-
-(Dokyung, head), (head - held - Dokyung)
-
-shot_id: AnotherMissOh10_003_0095,
-
-(Dokyung, face), (Dokyung - dive - face), (Dokyung - kiss - Haeyoung1)
-
-shot_id: AnotherMissOh10_003_0096,
-
-(Dokyung, hands), (hands - leave - Haeyoung1's waist)
-
-shot_id: AnotherMissOh10_003_0097,
-
-(Dokyung, person), (Dokyung - step - back), (person - away - Dokyung)
-
-shot_id: AnotherMissOh10_003_0098,
-
-
-Input - A person Is leaving the girl behind.
-(A person, leaving), (leaving - behind), (A person - leave - girl)
-
-shot_id: AnotherMissOh10_003_0099,
-
-(Haeyoung1), (Haeyoung1 - looking down), (Haeyoung1 - quick - look)
-
-shot_id: AnotherMissOh10_003_0101,
-
-(Haeyoung1, phone), (phone - look - Haeyoung1)
-
-shot_id: AnotherMissOh10_003_0102,
-
-
-Input - Haeyoung1 breathes heavily in her striped T-shirt.
-(Haeyoung1, T-shirt), (T-shirt - striped), (Haeyoung1 - breathe - T-shirt)
-
-shot_id: AnotherMissOh10_004_0103,
-
-(Haeyoung1, laundry), (laundry - do), (Haeyoung1 - stomp - bucket)
-
-shot_id: AnotherMissOh10_004_0104,
-
-(Haeyoung1, movement), (movement - of - Haeyoung1)
-
-shot_id: AnotherMissOh10_004_0105,
-
-(person, laundry), (person - step - laundry)
-
-shot_id: AnotherMissOh10_004_0106,
-
-
-Input - Haeyoung1 moves her pony-tailed head furiously.
-(Haeyoung1, head), (head - pony-tailed), (Haeyoung1 - move - head)
-
-shot_id: AnotherMissOh10_004_0108,
-
-(Haeyoung1, cell phone), (cell phone - shout), (Haeyoung1 - shout - cell phone)
-
-shot_id: AnotherMissOh10_004_0109,
-
-
-Input - Haeyoung1 exhales with anger and irritation.
-(Haeyoung1, breath), (breath - anger), (Haeyoung1 - exhale - breath)
-
-shot_id: AnotherMissOh10_004_0111,
-
-(Haeyoung1, mom), (Haeyoung1 - call - mom)
-
-shot_id: AnotherMissOh10_004_0112,
-
-(Haeyoung1, loudly), (loudly - attribute), (Haeyoung1 - talk - loudly)
-
-shot_id: AnotherMissOh10_005_0113,
-
-
-Input - Deogi and Kyungsu are sitting quietly in the room.
-(Deogi, Kyungsu), (Deogi - sit - Kyungsu), (Kyungsu - sit - Deogi)
-
-shot_id: AnotherMissOh10_005_0114,
-"Deogi is looking at the front":
-(Deogi, front), (Deogi - look - front)
-
-shot_id: AnotherMissOh10_005_0115,
-
-(Kyungsu, Deogi), (Kyungsu - talk - Deogi)
-
-shot_id: AnotherMissOh10_005_0116,
-
-(Deogi, sigh), (sigh - deeply), (Deogi - deep - sigh)
-
-shot_id: AnotherMissOh10_005_0117,
-"Deogi takes the blanket out of the closet":
-(Deogi, blanket), (blanket - take - closet), (Deogi - take - blanket)
-
-shot_id: AnotherMissOh10_005_0118,
-"Deogi walks out of the room":
-
-(Deogi, room), (room - walk - Deogi)
-
-shot_id: AnotherMissOh10_006_0119,
-
-(Deogi, blanket), (blanket - come - Deogi)
-
-shot_id: AnotherMissOh10_006_0120,
-
-(Haeyoung1, laundry), (laundry - do - Haeyoung1), (yard - do - laundry)
-
-
-shot_id: AnotherMissOh10_006_0121,
-
-(Deogi, blanket), (blanket - throw - Deogi)
-
-shot_id: AnotherMissOh10_006_0122,
-"Haeyoung1 glares at someone":
-
-(Haeyoung1, gaze), (gaze - intense), (Haeyoung1 - look - at - someone)
-
-shot_id: AnotherMissOh10_006_0123,
-
-
-Input - Haeyoung1 is grumbling.
-(Haeyoung1, grumbling), (grumbling - attribute), (Haeyoung1 - grumble - ?)
-Note: The output is incomplete because the subject "Haeyoung1" is not specified in the input sentence. Can you please provide more context or clarify the subject of the sentence?
-
-shot_id: AnotherMissOh10_006_0124,
-
-(Deogi, alone), (Deogi - leave - alone)
-
-shot_id: AnotherMissOh10_006_0125,
-
-(Haeyoung1, deadline), (deadline - set - Dokyung), (Haeyoung1 - set - Dokyung)
-
-shot_id: AnotherMissOh10_006_0126,
-
-(Haeyoung1, phone), (phone - vibration), (Haeyoung1 - get - surprised)
-
-shot_id: AnotherMissOh10_006_0127,
-
-(Haeyoung1, phone), (phone - vibrate), (Haeyoung1 - keep - phone)
-
-shot_id: AnotherMissOh10_006_0128,
-
-(Haeyoung1, phone), (Haeyoung1 - rush - phone)
-
-shot_id: AnotherMissOh10_006_0129,
-
-(Haeyoung1, something), (something - disappointed), (Haeyoung1 - look - something)
-
-shot_id: AnotherMissOh10_006_0130,
-
-(Haeyoung1, something), (something - look - Haeyoung1)
-
-shot_id: AnotherMissOh10_006_0131,
-
-
-Input - Haeyoung1 looks at her phone, standing still.
-(Haeyoung1, phone), (phone - still), (Haeyoung1 - look - phone)
-
-shot_id: AnotherMissOh10_006_0132,
-
-(Haeyoung1, call), (call - from), (Haeyoung1 - answer)
-
-
-shot_id: AnotherMissOh10_006_0133,
-
-
-Input - Taejin is talking on the phone.
-(Taejin, phone), (phone - talking), (Taejin - talk - phone)
-
-shot_id: AnotherMissOh10_006_0134,
-
-(person, tie), (tie - hold - person)
-
-shot_id: AnotherMissOh10_006_0135,
-
-(Taejin, shirt), (shirt - unbutton), (Taejin - talk - phone)
-
-shot_id: AnotherMissOh10_006_0136,
-
-
-Input - Haeyoung1 is talking on the phone while holding her mobile phone.
-(Haeyoung1, phone), (phone - talking), (Haeyoung1 - hold - phone)
-
-shot_id: AnotherMissOh10_006_0137,
-
-(Taejin, phone), (phone - dark colored), (Taejin - talk - phone)
-
-shot_id: AnotherMissOh10_006_0138,
-
-
-Input - Haeyoung1 explains what Haeyoung1 has to do.
-(Haeyoung1, explanation), (explanation - made by - Haeyoung1)
-
-shot_id: AnotherMissOh10_006_0139,
-
-(person, unbuttoning, untying), (unbuttoning - stop), (person - stop - unbuttoning)
-
-shot_id: AnotherMissOh10_006_0140,
-
-(Taejin, hand), (hand - drop), (Taejin - drop - hand)
-
-shot_id: AnotherMissOh10_006_0141,
-
-(Haeyoung1, phone), (phone - talk), (Haeyoung1 - alone - backyard)
-
-shot_id: AnotherMissOh10_006_0142,
-
-(Haeyoung1, phone), (phone - hang - up), (Haeyoung1 - about - hang)
-
-shot_id: AnotherMissOh10_006_0143,
-
-(Taejin, smile), (smile - subtle), (Taejin - show - smile)
-
-shot_id: AnotherMissOh10_006_0144,
-
-(Taejin, cell phone), (cell phone - in - room), (Taejin - look - cell phone)
-
-shot_id: AnotherMissOh10_006_0145,
-
-(Taejin, head), (head - turn), (Taejin - look - window)
-
-shot_id: AnotherMissOh10_007_0146,
-
-(Haeyoung1, basket), (basket - full - laundry), (Haeyoung1 - drag - basket)
-
-shot_id: AnotherMissOh10_007_0147,
-
-(Deogi, door), (door - open - Deogi)
-(Deogi, someone), (Deogi - walk - someone)
-
-shot_id: AnotherMissOh10_007_0148,
-
-(Deogi, question), (question - throw - Haeyoung1), (Haeyoung1 - turn - Deogi)
-
-shot_id: AnotherMissOh10_007_0149,
-
-(Deogi, someone), (Deogi - talk to - someone)
-
-shot_id: AnotherMissOh10_007_0150,
-
-(Haeyoung1, laundry basket), (Haeyoung1 - pull - laundry basket)
-
-shot_id: AnotherMissOh10_007_0151,
-
-(Haeyoung1, bucket), (bucket - full), (Haeyoung1 - hold - bucket)
-
-shot_id: AnotherMissOh10_007_0152,
-
-(Deogi, question), (question - ask - someone), (Deogi - ask - someone)
-
-shot_id: AnotherMissOh10_007_0153,
-
-(Haeyoung1, tell), (tell - someone), (Haeyoung1 - go - out)
-
-shot_id: AnotherMissOh10_007_0154,
-"Deogi stares at someone with a baffled face":
-(Deogi, face), (face - baffled), (Deogi - stare - face)
-
-shot_id: AnotherMissOh10_007_0155,
-
-
-Input - Haeyoung1 is talking to someone.
-(Haeyoung1, talking), (talking - to someone), (Haeyoung1 - speak - someone)
-
-shot_id: AnotherMissOh10_007_0156,
-
-(Haeyoung1, talk), (Deogi), (Haeyoung1 - leave - Deogi)
-
-shot_id: AnotherMissOh10_007_0157,
-
-(Deogi, someone), (someone - angry - Deogi)
-
-shot_id: AnotherMissOh10_007_0158,
-
-
-Input - Deogi yells at someone angrily.
-(Deogi, yell), (yell - angrily), (Deogi - yell - someone)
-
-shot_id: AnotherMissOh10_007_0159,
-
-(Kyungsu, T-shirt), (T-shirt - blue gray), (Kyungsu - wear - T-shirt)
-
-shot_id: AnotherMissOh10_007_0160,
-
-(Deogi, walk), (Deogi - turn - walk)
-
-shot_id: AnotherMissOh10_007_0161,
-
-(Deogi, look), (Deogi - look - back)
-
-shot_id: AnotherMissOh10_008_0162,
-
-(Soontack, address), (Soontack - ask - Dokyung), (Dokyung - address)
-
-shot_id: AnotherMissOh10_008_0163,
-
-(Soontack, gown), (Soontack - take off - gown)
-(Soontack, clipboard), (Soontack - look at - clipboard)
-(Soontack, leave), (Soontack - leave - gown)
-
-shot_id: AnotherMissOh10_009_0164,
-
-
-Input - Dokyung is walking on the street.
-(Dokyung, street), (Dokyung - walk on - street)
-
-shot_id: AnotherMissOh10_009_0165,
-you provided:
-
-Input - A person smells a red rose by the brick wall.
-(person, rose), (rose - red), (person - smell - rose)
-
-shot_id: AnotherMissOh10_009_0166,
-
-(Dokyung, rose), (Dokyung - look - rose), (Soontack - smell - rose)
-
-shot_id: AnotherMissOh10_009_0167,
-
-(person, sunglasses), (sunglasses - black), (person - wear - sunglasses)
-
-shot_id: AnotherMissOh10_009_0168,
-"Dokyung walks to someone":
-(Dokyung, someone), (Dokyung - walk - someone)
-
-shot_id: AnotherMissOh10_009_0169,
-
-(Soontack, sunglasses), (Soontack - take off - sunglasses), (Soontack - talk - Dokyung)
-
-shot_id: AnotherMissOh10_009_0170,
-
-(Dokyung), (Dokyung - looking down), (Dokyung - answer - nothing)
-
-shot_id: AnotherMissOh10_009_0171,
-
-(Soontack, scarf), (scarf - brown), (Soontack - wear - scarf)
-
-shot_id: AnotherMissOh10_009_0172,
-
-(Soontack, chest), (Soontack - hit - Dokyung), (Soontack - gentle - Dokyung)
-
-shot_id: AnotherMissOh10_009_0173,
-
-(Dokyung, someone), (Dokyung - look at - someone)
-
-shot_id: AnotherMissOh10_010_0174,
-
-(Soontack, restaurant), (Soontack - sit - restaurant), (Dokyung - sit - restaurant)
-
-
-shot_id: AnotherMissOh10_010_0175,
-
-(Soontack, someone), (Soontack - talk - someone)
-
-shot_id: AnotherMissOh10_010_0176,
-
-
-Input - Dokyung is talking to someone.
-(Dokyung, talking), (talking - to someone), (Dokyung - talk - someone)
-
-shot_id: AnotherMissOh10_010_0177,
-
-(Soontack, hair), (Soontack - grab - hair)
-
-shot_id: AnotherMissOh10_010_0178,
-
-
-Input - Dokyung is drinking a bottle of beer.
-(Dokyung, beer), (beer - drinking), (Dokyung - drink - beer)
-
-shot_id: AnotherMissOh10_010_0179,
-
-
-Input - Soontack takes his hand off from his head.
-(Soontack, hand), (hand - off), (Soontack - take - hand)
-
-shot_id: AnotherMissOh10_010_0180,
-
-(Soontack, Dokyung), (Soontack - face - Dokyung)
-
-shot_id: AnotherMissOh10_010_0181,
-
-(Soontack, something), (Soontack - try - something), (Soontack - explain - something)
-
-shot_id: AnotherMissOh10_010_0182,
-
-
-Input - Dokyung is wearing a gray jacket.
-(Dokyung, jacket), (jacket - gray), (Dokyung - wear - jacket)
-
-shot_id: AnotherMissOh10_010_0183,
-
-(Soontack, talking), (Soontack - lean - forward)
-
-shot_id: AnotherMissOh10_010_0184,
-"Soontack is talking about a car accident":
-(Soontack, car accident), (Soontack - talk - car accident)
-
-shot_id: AnotherMissOh10_010_0185,
-
-(Soontack, Dokyung), (Soontack - talk - Dokyung), (Dokyung - listen - Soontack)
-
-shot_id: AnotherMissOh10_010_0186,
-
-(person, talking), (talking - Dokyung), (person - talk - Dokyung)
-
-shot_id: AnotherMissOh10_010_0187,
-
-(Soontack, Dokyung), (Soontack - look - Dokyung)
-
-shot_id: AnotherMissOh10_010_0188,
-
-(Soontack, hand), (hand - move - Soontack)
-
-shot_id: AnotherMissOh10_010_0189,
-
-(Dokyung, jacket), (jacket - gray), (Dokyung - wear - jacket)
-
-shot_id: AnotherMissOh10_010_0190,
-"Soontack is saying no, shaking his head":
-(Soontack, head), (head - shake - no)
-
-shot_id: AnotherMissOh10_010_0192,
-
-(Soontack, hypnosis), (Soontack - talk - hypnosis)
-
-shot_id: AnotherMissOh10_010_0193,
-
-(Soontack, someone), (Soontack - talk - someone)
-
-shot_id: AnotherMissOh10_010_0194,
-
-(Dokyung, eyes), (eyes - contemplate) (Dokyung - look - eyes)
-
-shot_id: AnotherMissOh10_010_0195,
-
-
-Input - Dokyung is listening to someone.
-(Dokyung, ear), (Dokyung - listen - someone), (someone - listen - Dokyung)
-
-shot_id: AnotherMissOh10_010_0196,
-
-Format - (Soontack, T-shirt), (T-shirt - white), (Soontack - wear - T-shirt)
-(Soontack, T-shirt), (T-shirt - white), (Soontack - wear - T-shirt)
-
-shot_id: AnotherMissOh10_010_0198,
-
-(Soontack, hair), (hair - curly), (Soontack - have - hair)
-
-shot_id: AnotherMissOh10_010_0199,
-
-(Someone, hands), (hands - explain - something)
-
-shot_id: AnotherMissOh10_010_0200,
-
-(Soontack, mind), (mind - not - affected), (Soontack - explain - mind)
-
-
-shot_id: AnotherMissOh10_010_0201,
-
-(Dokyung, someone), (Dokyung - talk to - someone)
-
-shot_id: AnotherMissOh10_010_0202,
-
-(Soontack, passionately), (passionately - speak - Soontack)
-
-shot_id: AnotherMissOh10_010_0203,
-
-
-Input - Dokyung's background is a white window panel with water crystal patterns.
-(Dokyung, background), (background - white), (Dokyung - have - background)
-
-shot_id: AnotherMissOh10_010_0204,
-
-(Soontack, self), (Soontack - point - self)
-
-shot_id: AnotherMissOh10_010_0206,
-"Soontack points at someone":
-(Soontack, someone), (Soontack - point - someone)
-
-shot_id: AnotherMissOh10_010_0207,
-
-(Soontack, chair), (Soontack - sit - chair), (Dokyung - sit - chair)
-
-
-shot_id: AnotherMissOh10_010_0208,
-
-(Dokyung, continue), (Dokyung - ask - Soontack)
-
-shot_id: AnotherMissOh10_010_0209,
-
-
-Input - Dokyung and Soontack are facing each other.
-(Dokyung, Soontack), (Soontack - face - Dokyung)
-
-shot_id: AnotherMissOh10_010_0210,
-
-(Soontack, hand), (hand - reach - ?), (Soontack - look - ?)
-Note: The output is in the format of (object), (object - attribute), (subject - relation - object), where the third part is a blank representing the unknown object in the relation.
-
-shot_id: AnotherMissOh10_010_0211,
-
-(Dokyung, listening), (listening - Dokyung)
-
-shot_id: AnotherMissOh10_010_0213,
-
-(Soontack, Dokyung), (Soontack - classify - Dokyung), (Dokyung - special - case)
-
-shot_id: AnotherMissOh10_010_0214,
-
-
-Input - Soontack is talking and the brown shelf is in the background.
-(Soontack, talking), (talking - sound), (Soontack - relate - brown shelf)
-
-shot_id: AnotherMissOh10_010_0217,
-
-(Dokyung, visions), (visions - of - Haeyoung1)
-
-shot_id: AnotherMissOh10_010_0218,
-
-(Dokyung, daze), (daze - be - Dokyung)
-
-shot_id: AnotherMissOh10_010_0220,
-
-(Soontack, table), (Soontack - sit - table), (Dokyung - sit - table)
-
-
-shot_id: AnotherMissOh10_010_0221,
-
-(Dokyung, someone), (Dokyung - talk to - someone)
-
-shot_id: AnotherMissOh10_010_0222,
-you provided:
-(Soontack, window panel), (Soontack - talk - window panel), (window panel - white)
-
-
-shot_id: AnotherMissOh10_010_0223,
-
-(Soontack, talking), (talking - Soontack), (Soontack - speak - bottles, shot glasses, beer dispensers)
-
-shot_id: AnotherMissOh10_010_0224,
-
-(Dokyung, top), (top - black), (Dokyung - be - top)
-
-shot_id: AnotherMissOh10_010_0225,
-
-(Ambulance, siren), (siren - on - ambulance)
-
-
-shot_id: AnotherMissOh10_010_0226,
-
-(Soontack, Dokyung), (Soontack - talk - Dokyung)
-
-shot_id: AnotherMissOh10_010_0228,
-
-(Soontack, person), (person - understand - Soontack)
-
-shot_id: AnotherMissOh10_010_0229,
-
-(Dokyung, hand), (hand - put - table), (Dokyung - uncross - hand)
-
-shot_id: AnotherMissOh10_010_0230,
-
-(Subject), (Object - Attribute), (Subject - Relation - Object)
-Input: Someone's finger taps twice on the table.
-Output:
-(Someone, finger), (finger - taps), (Someone - tap - finger)
-
-shot_id: AnotherMissOh10_010_0231,
-
-(Dokyung), (Dokyung - talking)
-
-shot_id: AnotherMissOh10_010_0232,
-
-(Soontack, head), (head - nod)
-
-shot_id: AnotherMissOh10_010_0233,
-
-(Soontack, Dokyung), (Soontack - face - Dokyung), (Soontack - face - Dokyung - silence)
-
-shot_id: AnotherMissOh10_010_0234,
-
-(Dokyung), (Dokyung - asking)
-
-shot_id: AnotherMissOh10_010_0235,
-
-
-Input - Soontack frowns his face.
-(Soontack, face), (face - frown), (Soontack - frown - face)
-
-shot_id: AnotherMissOh10_010_0236,
-
-(Dokyung, thought), (thought - deep), (Dokyung - look - thought)
-
-shot_id: AnotherMissOh10_011_0237,
-
-(Haeyoung1, bus), (bus - seat), (Haeyoung1 - look - front)
-
-shot_id: AnotherMissOh10_011_0238,
-
-
-Input - Haeyoung1 is sitting in the bus.
-(Haeyoung1, seat), (seat - in), (Haeyoung1 - sit - seat)
-
-shot_id: AnotherMissOh10_011_0239,
-
-(Haeyoung1, daze), (daze - state - Haeyoung1)
-
-shot_id: AnotherMissOh10_011_0240,
-
-(Haeyoung1, bus), (bus - seat), (Haeyoung1 - sit - bus)
-
-
-shot_id: AnotherMissOh10_011_0241,
-
-(Haeyoung1, blouse), (blouse - sky blue), (Haeyoung1 - wear - blouse)
-
-shot_id: AnotherMissOh10_011_0242,
-
-(Haeyoung1, seat), (Haeyoung1 - get - seat)
-
-shot_id: AnotherMissOh10_011_0243,
-you provided:
-
-Input - Haeyoung1 pushes the bus bell and it makes a beep sound.
-(Haeyoung1, bus bell), (bus bell - makes - beep sound), (Haeyoung1 - push - bus bell)
-
-shot_id: AnotherMissOh10_011_0244,
-
-
-Input - Haeyoung1 is looking ahead.
-(Haeyoung1) (Haeyoung1 - looking ahead)
-
-shot_id: AnotherMissOh10_012_0245,
-
-(Haeyoung1, bus), (bus - get off), (Haeyoung1 - talk - phone)
-
-shot_id: AnotherMissOh10_012_0246,
-
-
-Input - Haeyoung1 is walking on the street.
-(Haeyoung1, street), (Haeyoung1 - walk on - street)
-
-shot_id: AnotherMissOh10_012_0247,
-
-(Haeyoung1, phone), (phone - hang - up), (Haeyoung1 - hang - up - phone)
-
-shot_id: AnotherMissOh10_012_0248,
-
-(Taejin, phone), (phone - look - Taejin)
-
-shot_id: AnotherMissOh10_012_0250,
-
-(Taejin, restaurant), (Taejin - sit - restaurant)
-
-shot_id: AnotherMissOh10_012_0251,
-
-(Taejin, shirt), (shirt - white), (Taejin - wear - shirt)
-
-shot_id: AnotherMissOh10_012_0253,
-
-(Dokyung, turn), (Dokyung - turn - around)
-
-shot_id: AnotherMissOh10_013_0254,
-
-
-Input - Soontack steps toward someone.
-(Soontack, steps), (steps - toward), (Soontack - step - someone)
-
-shot_id: AnotherMissOh10_013_0255,
-"Dokyung says goodbye":
-
-Input - Dokyung says goodbye.
-(Dokyung, says), (says - goodbye), (Dokyung - relation - says)
-
-shot_id: AnotherMissOh10_013_0256,
-
-(Dokyung, walking away), (Soontack - talk - Dokyung), (Dokyung - turn - Soontack)
-
-shot_id: AnotherMissOh10_013_0257,
-
-(Soontack, head), (head - hit - wall), (Soontack - hit - wall)
-
-shot_id: AnotherMissOh10_014_0258,
-
-(Dokyung, street), (Dokyung - walk on - street), (street - alone)
-
-shot_id: AnotherMissOh10_014_0259,
-
-(Dokyung, thought), (thought - die), (Dokyung - think - die)
-
-
-shot_id: AnotherMissOh10_014_0260,
-"Dokyung stops walking":
-(Dokyung, walking), (walking - stop), (Dokyung - stop - walking)
-
-shot_id: AnotherMissOh10_014_0261,
-
-(Dokyung, jacket), (jacket - gray), (Dokyung - wear - jacket)
-
-shot_id: AnotherMissOh10_014_0262,
-
-(person, wall), (person - bump - wall), (person - moan)
-
-shot_id: AnotherMissOh10_014_0263,
-
-(Dokyung, person in black), (person in black - stare - Dokyung)
-
-shot_id: AnotherMissOh10_014_0264,
-
-(person, bowler hat), (bowler hat - black), (person - stand - wall)
-
-shot_id: AnotherMissOh10_014_0265,
-
-(Sukyung, French), (French - speak - Sukyung)
-
-shot_id: AnotherMissOh10_014_0266,
-
-
-Input - Dokyung walks past Sukyung.
-(Dokyung, walk), (walk - past), (Dokyung - relation - Sukyung)
-
-shot_id: AnotherMissOh10_014_0267,
-
-(Dokyung, alley), (Dokyung - walk - alley), (hands - in - pants)
-
-shot_id: AnotherMissOh10_014_0268,
-"Dokyung stops walking":
-(Dokyung, walking), (walking - stop), (Dokyung - stop - walking)
-
-shot_id: AnotherMissOh10_014_0269,
-
-(Dokyung, face), (face - irritated), (Dokyung - have - face)
-
-shot_id: AnotherMissOh10_014_0270,
-
-(Dokyung, Sukyung), (Dokyung - turn - Sukyung), (Dokyung - ask - Sukyung - go - home)
-
-shot_id: AnotherMissOh10_014_0271,
-
-(person, high heels), (high heels - black), (person - take - step)
-
-shot_id: AnotherMissOh10_014_0272,
-"Dokyung is talking to a person":
-(Dokyung, person), (Dokyung - talk to - person)
-
-shot_id: AnotherMissOh10_014_0273,
-
-(Sukyung, Dokyung), (Sukyung - follow - Dokyung), (Dokyung - reluctantly)
-
-shot_id: AnotherMissOh10_015_0274,
-
-(Sukyung, street), (Sukyung - recall - Jinsang), (Jinsang - encounter - Sukyung)
-
-shot_id: AnotherMissOh10_015_0275,
-
-(Jinsang, shirt), (shirt - check), (Jinsang - wear - shirt)
-
-shot_id: AnotherMissOh10_015_0276,
-
-(Sukyung, face), (Jinsang, urinate), (Sukyung - shout - Jinsang)
-
-shot_id: AnotherMissOh10_015_0277,
-"Jinsang is turning around while peeing":
-(Jinsang, toilet), (Jinsang - turn - toilet), (Jinsang - pee - toilet)
-
-shot_id: AnotherMissOh10_015_0278,
-
-(Jinsang, shirt), (shirt - checkered), (Jinsang - wear - shirt)
-
-shot_id: AnotherMissOh10_015_0279,
-
-(Sukyung, stuff), (stuff - pick up), (Sukyung - run - Jinsang)
-
-shot_id: AnotherMissOh10_015_0280,
-"Jinsang is pouring water on the floor":
-
-(Jinsang, water), (water - pour), (Jinsang - pour - floor)
-
-shot_id: AnotherMissOh10_016_0281,
-
-(Dokyung, beer), (Dokyung - drink - beer)
-
-shot_id: AnotherMissOh10_016_0282,
-
-(Dokyung, beer bottle), (Dokyung - hold - beer bottle)
-
-shot_id: AnotherMissOh10_016_0283,
-
-(Dokyung, beer), (Dokyung - drink - beer)
-
-shot_id: AnotherMissOh10_017_0284,
-
-
-Input - Haeyoung1 and Heeran are drinking alcohol together.
-(Haeyoung1, alcohol), (Haeyoung1 - drink - alcohol), (Heeran - drink - alcohol)
-
-shot_id: AnotherMissOh10_017_0285,
-
-(Haeyoung1, Heeran), (Haeyoung1 - have - conversation), (Heeran - listen - conversation)
-
-shot_id: AnotherMissOh10_017_0286,
-
-
-Input - Heeran tells Haeyoung1 to wait.
-(Heeran, tell), (tell - command), (Heeran - relation - Haeyoung1)
-
-shot_id: AnotherMissOh10_017_0287,
-
-(Haeyoung1, someone), (Haeyoung1 - look at - someone)
-
-shot_id: AnotherMissOh10_017_0288,
-
-(Haeyoung1, restaurant), (Haeyoung1 - sit - restaurant), (Heeran - sit - restaurant)
-
-
-shot_id: AnotherMissOh10_017_0289,
-
-
-Input - Haeyoung1 is looking at someone.
-(Haeyoung1, eyes), (eyes - gaze), (Haeyoung1 - look - someone)
-
-shot_id: AnotherMissOh10_017_0290,
-
-(Heeran, restaurant), (Heeran - talk - Haeyoung1)
-
-shot_id: AnotherMissOh10_017_0291,
-
-(Heeran, Haeyoung1), (Haeyoung1 - talk - Heeran)
-
-shot_id: AnotherMissOh10_017_0292,
-
-(Haeyoung1, someone), (Haeyoung1 - talk to - someone)
-
-shot_id: AnotherMissOh10_017_0293,
-
-(Heeran, restaurant), (Heeran - be - restaurant), (Haeyoung1 - be - restaurant)
-
-shot_id: AnotherMissOh10_017_0294,
-
-(Haeyoung1, someone), (Haeyoung1 - talk to - someone)
-
-shot_id: AnotherMissOh10_017_0295,
-
-
-Input - Heeran is talking to Haeyoung1.
-(Heeran, talking), (talking - to), (Heeran - relate - Haeyoung1)
-
-shot_id: AnotherMissOh10_017_0296,
-
-(Haeyoung1, understand), (understand - how), (Haeyoung1 - hold back)
-
-shot_id: AnotherMissOh10_017_0297,
-
-(Heeran, side), (Heeran - look - side)
-
-shot_id: AnotherMissOh10_017_0298,
-
-
-Input - Haeyoung1 is talking with someone.
-(Haeyoung1, talking), (talking - with someone), (Haeyoung1 - talk - someone)
-
-shot_id: AnotherMissOh10_017_0299,
-
-(Heeran, hair), (hair - bobbed), (Heeran - have - hair)
-
-shot_id: AnotherMissOh10_017_0300,
-
-(Heeran, dress), (dress - yellow), (Heeran - wear - dress)
-
-
-shot_id: AnotherMissOh10_017_0301,
-
-(Heeran, fingers), (fingers - snap), (Heeran - snap - fingers)
-
-shot_id: AnotherMissOh10_017_0302,
-
-
-Input - Haeyoung1 re-orients her head.
-(Haeyoung1, head), (head - re-orient), (Haeyoung1 - re-orient - head)
-
-shot_id: AnotherMissOh10_018_0304,
-
-(Haeyoung1, somewhere), (Haeyoung1 - look at - somewhere)
-
+shot_id: AnotherMissOh09_034_1156, (Haeyoung1, bag), (Haeyoung1 - wear - bag)
+shot_id: AnotherMissOh09_034_1158, (Haeyoung1, head), (Haeyoung1 - shake - head)
+shot_id: AnotherMissOh09_034_1159, (Haeyoung1), (Haeyoung1 - angry)
+shot_id: AnotherMissOh09_034_1161, `(Haeyoung1), (Haeyoung1 - crying)
+shot_id: AnotherMissOh09_034_1163, (Dokyung, Haeyoung1), (Dokyung - leave - Haeyoung1)
+shot_id: AnotherMissOh09_034_1164, (people, street), (people - two), (people - on - street)
+shot_id: AnotherMissOh09_034_1165, (Haeyoung1), (Haeyoung1 - shouting)
+shot_id: AnotherMissOh09_034_1166, (Haeyoung1, mouth), (Haeyoung1 - close - mouth)
+shot_id: AnotherMissOh09_034_1168, (Haeyoung1, Dokyung, bag), (Dokyung - with - bag), (Haeyoung1 - hit - Dokyung)
+shot_id: AnotherMissOh09_034_1169, (Dokyung, person), (Dokyung - brawl with - person)
+shot_id: AnotherMissOh09_034_1170, (Dokyung, Haeyoung1), (Haeyoung1 - leaving), (Dokyung - stop - Haeyoung1)
+shot_id: AnotherMissOh09_034_1171, (people, alley), (people - two), (people - in - alley)
+shot_id: AnotherMissOh09_034_1174, (Dokyung, someone), (Dokyung - lift - someone)
+shot_id: AnotherMissOh09_034_1176, (Dokyung, shirt), (shirt - black), (Dokyung - wear - shirt)
+shot_id: AnotherMissOh09_034_1178, (Haeyoung1, Dokyung, hand), (hand - Dokyung), (Haeyoung1 - bite - hand)
+shot_id: AnotherMissOh09_034_1179, (Haeyoung1), (Haeyoung1 - screaming)
+shot_id: AnotherMissOh09_034_1180, (Dokyung, hand), (Dokyung - look at - hand)
+shot_id: AnotherMissOh09_034_1182, (Dokyung), (Dokyung - turning around)
+shot_id: AnotherMissOh09_034_1183, (Haeyoung1, lips), (keep - tight), (Haeyoung1 - keep - lips)
+shot_id: AnotherMissOh09_034_1184, (person, shirt), (shirt - pink), (person - wear - shirt), (person - hold - bag)
+shot_id: AnotherMissOh09_034_1185, (Dokyung), (Dokyung - surprised), (Dokyung - looking back)
+shot_id: AnotherMissOh09_034_1186, (Haeyoung1, Dokyung), (Haeyoung1 - push - Dokyung)
+shot_id: AnotherMissOh09_034_1188, (Dokyung, Haeyoung1, wall), (Dokyung - push - Haeyoung1), (Haeyoung1 - against - wall)
+shot_id: AnotherMissOh09_034_1189, (Haeyoung1, someone), (Haeyoung1 - resist - someone)
+shot_id: AnotherMissOh09_034_1190, (Dokyung, Haeyoung1, arms), (arms - Haeyoung1), (Dokyung - hold - arms)
+shot_id: AnotherMissOh09_034_1191, (Dokyung), (breathing - hard), (Dokyung - breathing)
+shot_id: AnotherMissOh09_034_1192, (Haeyoung1, lips), (Haeyoung1 - bleed on - lips)
+shot_id: AnotherMissOh09_034_1194, (Haeyoung1, Dokyung, arms), (Haeyoung1 - raise - arms), (Haeyoung1 - in front of - Dokyung)
+shot_id: AnotherMissOh09_034_1197, (Dokyung, someone), (Dokyung - get close to - someone)
+shot_id: AnotherMissOh09_034_1198, (Haeyoung1), (Haeyoung1 - kissing)
+shot_id: AnotherMissOh09_034_1199, (Dokyung, Haeyoung1), (Haeyoung1 - kiss - Dokyung)
+shot_id: AnotherMissOh09_034_1200, (Haeyoung1, person), (Haeyoung1 - hug with - person)
+shot_id: AnotherMissOh09_034_1205, (Haeyoung1, jeans), (Haeyoung1 - wear - jeans)
+shot_id: AnotherMissOh09_034_1206, (Haeyoung1, hug), (Haeyoung1 - hugging), (Haeyoung1 - close - eyes)
+shot_id: AnotherMissOh09_034_1210, (Dokyung, Haeyoung1), (Dokyung - step back from - Haeyoung1)
+shot_id: AnotherMissOh09_034_1211, (Dokyung), (Dokyung - confused)
+shot_id: AnotherMissOh09_034_1213, (Dokyung, something, ground), (something - from - ground), (Dokyung - pick up - something)
+shot_id: AnotherMissOh09_034_1214, (Dokyung, alley), (Dokyung - walking), (Dokyung - in - alley)
+shot_id: AnotherMissOh09_034_1215, (Haeyoung1), (Haeyoung1 - standing)
+shot_id: AnotherMissOh09_034_1216, (Dokyung, hand, face), (hand - on - face), (Dokyung - put - hand)
+shot_id: AnotherMissOh09_034_1217, (Haeyoung1, head), (Haeyoung1 - turn - head)
+shot_id: AnotherMissOh09_034_1218, (Soontack, office), (Soontack - talking) (Soontack - in - office)
+shot_id: AnotherMissOh09_034_1219, (Soontack), (Soontack - serious)
+shot_id: AnotherMissOh09_034_1220, (Dokyung), (Dokyung - crying)
+shot_id: AnotherMissOh10_001_0026, (Dokyung, Haeyoung1), (Dokyung - restrain - Haeyoung1)
+shot_id: AnotherMissOh10_001_0027, (Haeyoung1, person), (Haeyoung1 - push away - person)
+shot_id: AnotherMissOh10_001_0028, (Haeyoung1, Dokyung, arms), (Haeyoung1 - resisting), (arms - Haeyoung1), (Dokyung - grab - arms)
+shot_id: AnotherMissOh10_001_0029, (Dokyung, person), (Dokyung - glare at - person)
+shot_id: AnotherMissOh10_001_0030, (Haeyoung1, cut, lips), (cut - on - lips), (Haeyoung1 - has - cut)
+shot_id: AnotherMissOh10_001_0031, (Dokyung, Haeyoung1), (Dokyung - kiss - Haeyoung1)
+shot_id: AnotherMissOh10_001_0032, (Dokyung, Haeyoung1), (Dokyung - kiss - Haeyoung1)
+shot_id: AnotherMissOh10_001_0033, (Haeyoung1, Dokyung, arm), (arm - Dokyung), (Haeyoung1 - hold - arm),
+shot_id: AnotherMissOh10_001_0034, (people), (people - two), (people - kissing)
+shot_id: AnotherMissOh10_001_0035, (Dokyung, Haeyoung1), (kiss - passionately), (Haeyoung1 - kiss - Dokyung)
+shot_id: AnotherMissOh10_001_0036, (Dokyung, Haeyoung1), (Haeyoung1 - hug - Dokyung), (Dokyung - kiss - Haeyoung1)
+shot_id: AnotherMissOh10_001_0037, (Haeyoung1, alley), (Haeyoung1 - kissing), (Haeyoung1 - in - alley)
+shot_id: AnotherMissOh10_001_0038, (people), (people - two), (people - hugging)
+shot_id: AnotherMissOh10_001_0039, (Dokyung, Haeyoung1), (kiss - passionately), (Haeyoung1 - kiss - Dokyung)
+shot_id: AnotherMissOh10_001_0040, (Dokyung, person), (Dokyung - hug - person)
+shot_id: AnotherMissOh10_001_0041, (Haeyoung1, person), (Haeyoung1 - hug - person)
+shot_id: AnotherMissOh10_001_0042, (Haeyoung1, eyes), (Haeyoung1 - close - eyes)
+shot_id: AnotherMissOh10_001_0043, (Dokyung, someone, eyes), (Dokyung - open - eyes), (Dokyung - hug - someone)
+shot_id: AnotherMissOh10_001_0045, (Dokyung, Haeyoung1), (Dokyung - back away from - Haeyoung1)
+shot_id: AnotherMissOh10_001_0046, (Dokyung), (Dokyung - dizzy)
+shot_id: AnotherMissOh10_001_0047, (Haeyoung1, scar, lips), (scar - on - lips), (Haeyoung1 - have - scar)
+shot_id: AnotherMissOh10_001_0048, (Dokyung, Haeyoung1, alley), (Dokyung - leave - Haeyoung1), (Dokyung - in - alley), (Haeyoung1 - in - alley)
+shot_id: AnotherMissOh10_001_0049, (Haeyoung1, alley), (Haeyoung1 - standing), (Haeyoung1 - in - alley)
+shot_id: AnotherMissOh10_001_0050, (Dokyung, Haeyoung1), (Dokyung - leave - Haeyoung1), (Haeyoung1 - glare at - Dokyung)
+shot_id: AnotherMissOh10_002_0054, (Dokyung, somewhere), (Dokyung - look at - somewhere)
+shot_id: AnotherMissOh10_002_0055, (Dokyung, people, playground), (people - in - playground), (Dokyung - in - playground)
+shot_id: AnotherMissOh10_002_0056, (Dokyung, cap), (cap - navy), (Dokyung - wear - cap)
+shot_id: AnotherMissOh10_002_0057, (Dokyung, head), (Dokyung - put down - head)
+shot_id: AnotherMissOh10_002_0058, (Dokyung), (Dokyung - looking up)
+shot_id: AnotherMissOh10_002_0059, (people, playground), (people - two), (people - spend time in - playground)
+shot_id: AnotherMissOh10_002_0060, (Dokyung), (Dokyung - smiling)
+shot_id: AnotherMissOh10_002_0061, (people, iron bar), (people - two), (people - hang from - iron bar)
+shot_id: AnotherMissOh10_002_0062, (Dokyung, people, seesaw), (Dokyung - look at - people), (Dokyung - sit on - seesaw)
+shot_id: AnotherMissOh10_002_0063, (person), (person - hanging upside down)
+shot_id: AnotherMissOh10_002_0064, (person), (person - hanging upside down), (person - talking)
+shot_id: AnotherMissOh10_002_0065, (person), (person - hanging upside down), (person - use - iron bar)
+shot_id: AnotherMissOh10_002_0066, (person), (person - asking)
+shot_id: AnotherMissOh10_002_0067, (person), (person - hanging upside down), (person - talking)
+shot_id: AnotherMissOh10_002_0068, (person), (person - asking)
+shot_id: AnotherMissOh10_002_0069, (person), (person - talk to - someone)
+shot_id: AnotherMissOh10_002_0070, (person, eyes), (person - move - eyes)
+shot_id: AnotherMissOh10_002_0071, (Dokyung), (Dokyung - staring)
+shot_id: AnotherMissOh10_002_0072, (Dokyung), (thinking - deeply), (Dokyung - thinking)
+shot_id: AnotherMissOh10_002_0073, (people, race, playground), (people - in - playground), (people - have - race)
+shot_id: AnotherMissOh10_002_0074, (people, playground), (people - run in - playground)
+shot_id: AnotherMissOh10_002_0075, (people), (people - happy)
+shot_id: AnotherMissOh10_002_0076, (people, playground), (people - run in - playground)
+shot_id: AnotherMissOh10_002_0077, (Dokyung), (Dokyung - looking ahead)
+shot_id: AnotherMissOh10_002_0078, (people, playground), (people - play in - playground)
+shot_id: AnotherMissOh10_002_0079, (people), (people - spinning around)
+shot_id: AnotherMissOh10_002_0080, (Dokyung, mouth), (Dokyung - open - mouth)
+shot_id: AnotherMissOh10_002_0081, (people), (people - fading away)
+shot_id: AnotherMissOh10_002_0082, (Dokyung), (Dokyung - looking front)
+shot_id: AnotherMissOh10_002_0083, (Dokyung, people, seesaw), (Dokyung - look at - people), (Dokyung - sit on - seesaw)
+shot_id: AnotherMissOh10_002_0084, (Dokyung, T-shirt), (T-shirt - black), (Dokyung - wear - T-shirt)
+shot_id: AnotherMissOh10_003_0087, (Haeyoung1), (Haeyoung1 - look at - somewhere)
+shot_id: AnotherMissOh10_003_0088, (Dokyung, Haeyoung1), (Dokyung - scuffling), (Haeyoung1 - scuffling)
+shot_id: AnotherMissOh10_003_0089, (people, alley), (people - two) (people - in - alley)
+shot_id: AnotherMissOh10_003_0090, (person), (person - screaming)
+shot_id: AnotherMissOh10_003_0091, (Dokyung, person), (Dokyung - lift up - person)
+shot_id: AnotherMissOh10_003_0092, (Haeyoung1, ground), (Haeyoung1 - fighting back), (Haeyoung1 - scuffling), (Haeyoung1 - come back - ground)
+shot_id: AnotherMissOh10_003_0094, (Dokyung, Haeyoung1, head), (head - Haeyoung1), (Dokyung - hold - head)
+shot_id: AnotherMissOh10_003_0095, (Dokyung, Haeyoung1, face), (face - Haeyoung1), (Dokyung - dive into - face), (Dokyung - kiss - Haeyoung1)
+shot_id: AnotherMissOh10_003_0096, (Dokyung, Haeyoung1, hands, waist), (hands - Dokyung), (waist - Haeyoung1), (hands - leave - waist)
+shot_id: AnotherMissOh10_003_0097, (Dokyung, person), (Dokyung - step back from - person)
+shot_id: AnotherMissOh10_003_0098, (person, girl), (person - leave - girl)
+shot_id: AnotherMissOh10_003_0099, (Haeyoung1), (Haeyoung1 - looking down)
+shot_id: AnotherMissOh10_003_0101, (Haeyoung1, phone), (Haeyoung1 - look at - phone)
+shot_id: AnotherMissOh10_003_0102, (Haeyoung1, T-shirt), (Haeyoung - breathing), (breathing - heavily), (T-shirt - striped), (Haeyoung1 - wear - T-shirt)
+shot_id: AnotherMissOh10_004_0103, (Haeyoung1, laundry), (Haeyoung1 - do - laundry), (Haeyoung1 - stomp in - bucket)
+shot_id: AnotherMissOh10_004_0104, (Haeyoung1), (Haeyoung1 - moving)
+shot_id: AnotherMissOh10_004_0105, (person, laundry), (person - step on - laundry)
+shot_id: AnotherMissOh10_004_0106, (Haeyoung1, head), (move - furiously), (head - pony-tailed), (Haeyoung1 - move - head)
+shot_id: AnotherMissOh10_004_0108, (Haeyoung1, cell phone), (Haeyoung1 - shout at - cell phone)
+shot_id: AnotherMissOh10_004_0109, (Haeyoung1), (exhaling - anger), (exhaling - irritated), (Haeyoung1 - exhaling)
+shot_id: AnotherMissOh10_004_0111, (Haeyoung1, mom), (Haeyoung1 - call - mom)
+shot_id: AnotherMissOh10_004_0112, (Haeyoung1), (Haeyoung1 - talking), (talking - loudly)
+shot_id: AnotherMissOh10_005_0113, (Deogi, Kyungsu, room), (Deogi - sitting), (Kyungsu - sitting), (sitting - quietly), (Deogi - in - room), (Kyungsu - in - room)
+shot_id: AnotherMissOh10_005_0114, (Deogi), (Deogi - looking front)
+shot_id: AnotherMissOh10_005_0115, (Kyungsu, Deogi), (Kyungsu - talk to - Deogi)
+shot_id: AnotherMissOh10_005_0116, (Deogi), (sighing - deeply), (Deogi - sighing)
+shot_id: AnotherMissOh10_005_0117, (Deogi, blanket, closet), (blanket - out of - closet), (Deogi - take - blanket)
+shot_id: AnotherMissOh10_005_0118, (Deogi, room), (Deogi - walk out of - room)
+shot_id: AnotherMissOh10_006_0119, (Deogi, blanket), (Deogi - coming outside), (Deogi - with - blanket)
+shot_id: AnotherMissOh10_006_0120, (Haeyoung1, laundry, yard), (Haeyoung1 - do - laundry), (Haeyoung1 - in - yard)
+shot_id: AnotherMissOh10_006_0121, (Deogi, blanket), (Deogi - throw - blanket)
+shot_id: AnotherMissOh10_006_0122, (Haeyoung1, someone), (Haeyoung1 - glare at - someone)
+shot_id: AnotherMissOh10_006_0123, (Haeyoung1), (Haeyoung1 - grumbling)
+shot_id: AnotherMissOh10_006_0124, (Deogi, Haeyoung1), (Deogi - leave - Haeyoung1)
+shot_id: AnotherMissOh10_006_0125, (Haeyoung1, deadline), (Haeyoung1 - set - deadline)
+shot_id: AnotherMissOh10_006_0126, (Haeyoung1, phone), (phone - vibration), (Haeyoung1 - surprised by - phone)
+shot_id: AnotherMissOh10_006_0127, (phone, bench), (phone - vibrating), (phone - on - bench)
+shot_id: AnotherMissOh10_006_0128, (Haeyoung1, phone), (Haeyoung1 - rush toward - phone)
+shot_id: AnotherMissOh10_006_0129, (Haeyoung1, something), (Haeyoung1 - disappointed), (Haeyoung1 - look at - something)
+shot_id: AnotherMissOh10_006_0130, (Haeyoung1, something), (Haeyoung1 - look at - something)
+shot_id: AnotherMissOh10_006_0131, (Haeyoung1, phone), (Haeyoung1 - standing), (Haeyoung1 - look at - phone)
+shot_id: AnotherMissOh10_006_0132, (Haeyoung1, call), (Haeyoung1 - answer - call)
+shot_id: AnotherMissOh10_006_0133, (Taejin, phone), (Taejin - talk on - phone)
+shot_id: AnotherMissOh10_006_0134, (person, tie), (person- hold - tie)
+shot_id: AnotherMissOh10_006_0135, (Taejin, shirt, phone), (Taejin - unbutton - shirt), (Taejin - talk on - phone)
+shot_id: AnotherMissOh10_006_0136, (Haeyoung1, phone), (Haeyoung1 - talk on - phone), (Haeyoung1 - hold - phone)
+shot_id: AnotherMissOh10_006_0137, (Taejin, phone), (phone - dark colored), (Taejin - talk on - phone), (Taejin - hold - phone)
+shot_id: AnotherMissOh10_006_0138, (Haeyoung1), (Haeyoung1 - explaining)
+shot_id: AnotherMissOh10_006_0139, (person), (person - stop unbuttoning), (person - stop untying)
+shot_id: AnotherMissOh10_006_0140, (Taejin, hand), (Taejin - drop - hand)
+shot_id: AnotherMissOh10_006_0141, (Haeyoung1, phone, backyard), (Haeyoung1 - talk on - phone), (Haeyoung1 - in - backyard)
+shot_id: AnotherMissOh10_006_0142, (Haeyoung1, phone), (Haeyoung1 - hang up - phone)
+shot_id: AnotherMissOh10_006_0143, (Taejin), (smiling - subtle), (Taejin - smiling)
+shot_id: AnotherMissOh10_006_0144, (Taejin, cell phone, room), (Taejin - in - room), (Taejin - look at - cell phone)
+shot_id: AnotherMissOh10_006_0145, (Taejin, head), (Taejin - turn - head), (Taejin - look out - window)
+shot_id: AnotherMissOh10_007_0146, (Haeyoung1, basket, laundry), (basket - full of - laundry), (Haeyoung1 - drag - basket)
+shot_id: AnotherMissOh10_007_0147, (Deogi, someone, door), (Deogi - open - door), (Deogi - walk to - someone)
+shot_id: AnotherMissOh10_007_0148, (Deogi, Haeyoung1, head), (Deogi - ask to - Haeyoung1), (Haeyoung1 - turn - head)
+shot_id: AnotherMissOh10_007_0149, (Deogi, someone), (Deogi - talk to - someone)
+shot_id: AnotherMissOh10_007_0150, (Haeyoung1), (Haeyoung1 - pull - laundry basket)
+shot_id: AnotherMissOh10_007_0151, (Haeyoung1, bucket, laundry), (bucket - full of - laundry), (Haeyoung1 - hold - bucket)
+shot_id: AnotherMissOh10_007_0152, (Deogi, someone), (Deogi - ask to - someone)
+shot_id: AnotherMissOh10_007_0153, (Haeyoung1, someone), (Haeyoung1 - tell - someone)
+shot_id: AnotherMissOh10_007_0154, (Deogi, someone), (Deogi - baffled), (Deogi - stare at - someone)
+shot_id: AnotherMissOh10_007_0155, (Haeyoung1, someone), (Haeyoung1 - talk to - someone)
+shot_id: AnotherMissOh10_007_0156, (Haeyoung1, Deogi), (Haeyoung1 - leaving), (Haeyoung1 - talk to - Deogi)
+shot_id: AnotherMissOh10_007_0157, (Deogi), (Deogi - angry)
+shot_id: AnotherMissOh10_007_0158, (Deogi, someone), (yell at - angrily), (Deogi - yell at - someone)
+shot_id: AnotherMissOh10_007_0159, (Kyungsu, T-shirt), (T-shirt - blue gray), (Kyungsu - wear - T-shirt)
+shot_id: AnotherMissOh10_007_0160, (Deogi), (Deogi - turning around), (Deogi - start walking)
+shot_id: AnotherMissOh10_007_0161, (Deogi), (Deogi - looking back)
+shot_id: AnotherMissOh10_008_0162, (Soontack, someone), (Soontack - ask - someone)
+shot_id: AnotherMissOh10_008_0163, (Soontack, gown, clipboard), (Soontack - leaving), (Soontack - take off - gown), (Soontack - look at - clipboard)
+shot_id: AnotherMissOh10_009_0164, (Dokyung, street), (Dokyung - walk on - street)
+shot_id: AnotherMissOh10_009_0165, (person, rose, wall), (wall - brick), (rose - red), (person - smell - rose), (rose - by - wall)
+shot_id: AnotherMissOh10_009_0166, (Dokyung, Soontack, rose), (Dokyung - look at - Soontack), (Soontack - smell - rose)
+shot_id: AnotherMissOh10_009_0167, (person, sunglasses), (sunglasses - black), (person - wear - sunglasses)
+shot_id: AnotherMissOh10_009_0168, (Dokyung, someone), (Dokyung - walk to - someone)
+shot_id: AnotherMissOh10_009_0169, (Soontack, Dokyung, sunglasses), (Soontack - take off - sunglasses), (Soontack - talk to - Dokyung)
+shot_id: AnotherMissOh10_009_0170, (Dokyung), (Dokyung - looking down)
+shot_id: AnotherMissOh10_009_0171, (Soontack, scarf), (scarf - brown), (Soontack - wear - scarf)
+shot_id: AnotherMissOh10_009_0172, (Soontack, Dokyung, chest), (hit on - gently), (chest - Dokyung), (Soontack - hit on - chest)
+shot_id: AnotherMissOh10_009_0173, (Dokyung, someone), (Dokyung - look at - someone)
+shot_id: AnotherMissOh10_010_0174, (Soontack, Dokyung, restaurant), (Soontack - sitting), (Dokyung - sitting), (Soontack - in - restaurant), (Dokyung - in - restaurant)
+shot_id: AnotherMissOh10_010_0175, (Soontack, someone), (Soontack - talk to - someone)
+shot_id: AnotherMissOh10_010_0176, (Dokyung, someone), (Dokyung - talk to - someone)
+shot_id: AnotherMissOh10_010_0177, (Soontack, hair), (Soontack - grab - hair)
+shot_id: AnotherMissOh10_010_0178, (Dokyung, beer), (beer - bottle of), (Dokyung - drink - beer)
+shot_id: AnotherMissOh10_010_0179, (Soontack, hand, head), (hand - from - head), (Soontack - take off - hand)
+shot_id: AnotherMissOh10_010_0180, (Soontack, Dokyung), (Soontack - face - Dokyung)
+shot_id: AnotherMissOh10_010_0181, (Soontack), (Soontack - explaining)
+shot_id: AnotherMissOh10_010_0182, (Dokyung, jacket), (jacket - gray), (Dokyung - wear - jacket)
+shot_id: AnotherMissOh10_010_0183, (Soontack), (Soontack - talking), (Soontack - leaning forward)
+shot_id: AnotherMissOh10_010_0184, (Soontack), (Soontack - talking)
+shot_id: AnotherMissOh10_010_0185, (Soontack, Dokyung), (Dokyung - listening), (listening - quietly), (Soontack - talk to - Dokyung)
+shot_id: AnotherMissOh10_010_0186, (person, Dokyung), (person - talk to - Dokyung)
+shot_id: AnotherMissOh10_010_0187, (Soontack, Dokyung), (Soontack - look at - Dokyung), (Dokyung - look at - Soontack)
+shot_id: AnotherMissOh10_010_0188, (Soontack, hand), (Soontack - talking), (Soontack - move - hand)
+shot_id: AnotherMissOh10_010_0189, (Dokyung, jacket), (jacket - gray), (Dokyung - wear - jacket)
+shot_id: AnotherMissOh10_010_0190, (Soontack, head), (Soontack - saying), (Soontack - shake - head)
+shot_id: AnotherMissOh10_010_0192, (Soontack), (Soontack - talking)
+shot_id: AnotherMissOh10_010_0193, (Soontack, someone), (Soontack - talk to - someone)
+shot_id: AnotherMissOh10_010_0194, (Dokyung), (Dokyung - contemplating) (Dokyung - looking down)
+shot_id: AnotherMissOh10_010_0195, (Dokyung, someone), (Dokyung - listen to - someone)
+shot_id: AnotherMissOh10_010_0196, (Soontack, T-shirt), (T-shirt - white), (Soontack - wear - T-shirt)
+shot_id: AnotherMissOh10_010_0198, (Soontack, hair), (hair - curly), (Soontack - have - hair)
+shot_id: AnotherMissOh10_010_0199, (Someone, hands), (Soontack - explaining), (Soontack - use - hands)
+shot_id: AnotherMissOh10_010_0200, (Soontack), (Soontack - explaining)
+shot_id: AnotherMissOh10_010_0201, (Dokyung, someone), (Dokyung - listen to - someone)
+shot_id: AnotherMissOh10_010_0202, (Soontack), (Soontack - talking), (talking - passionately)
+shot_id: AnotherMissOh10_010_0203, (Dokyung, window panel, patterns, background), (window panel - white), (patterns - water crystal), (window panel - with - patterns)
+shot_id: AnotherMissOh10_010_0204, (Soontack), (Soontack - pointing)
+shot_id: AnotherMissOh10_010_0206, (Soontack, someone), (Soontack - point at - someone)
+shot_id: AnotherMissOh10_010_0207, (Soontack, Dokyung, chair), (Soontack - sit on - chair), (Dokyung - sit on - chair)
+shot_id: AnotherMissOh10_010_0208, (Dokyung, Soontack), (Dokyung - ask to - Soontack)
+shot_id: AnotherMissOh10_010_0209, (Dokyung, Soontack), (Soontack - face - Dokyung)
+shot_id: AnotherMissOh10_010_0210, (Soontack, hand), (Soontack - looking ahead), (Soontack - reach out - hand)
+shot_id: AnotherMissOh10_010_0211, (Dokyung), (Dokyung - listening)
+shot_id: AnotherMissOh10_010_0213, (Soontack, Dokyung), (Soontack - classify - Dokyung)
+shot_id: AnotherMissOh10_010_0214, (Soontack), (Soontack - talking), (book shelf - behind - Soontack)
+shot_id: AnotherMissOh10_010_0217, (Dokyung), (Dokyung - visualizing)
+shot_id: AnotherMissOh10_010_0218, (Dokyung), (Dokyung - daze)
+shot_id: AnotherMissOh10_010_0220, (Soontack, Dokyung, table), (Soontack - sit at - table), (Dokyung - sit at - table)
+shot_id: AnotherMissOh10_010_0221, (Dokyung, someone), (listen to - quietly) (Dokyung - listen to - someone)
+shot_id: AnotherMissOh10_010_0222, (Soontack, someone, window panel), (window panel - white), (Soontack - talk to - someone), (window panel - behind - Soontack)
+shot_id: AnotherMissOh10_010_0223, (Soontack, bottle, shot glasses, beer dispenser), (Soontack - talking), (bottles - behind - Soontack), (shot glasses - behind - Soontack), (beer dispensers - behind - Soontack)
+shot_id: AnotherMissOh10_010_0224, (Dokyung, ground, top), (top - black), (Dokyung - wear - top), (Dokyung - on - ground)
+shot_id: AnotherMissOh10_010_0225, (ambulance, siren, road), (ambulance - with - siren), (ambulance - on - road)
+shot_id: AnotherMissOh10_010_0226, (Soontack, Dokyung), (Soontack - talk to - Dokyung)
+shot_id: AnotherMissOh10_010_0228, (Soontack, person), (Soontack - ask to - person)
+shot_id: AnotherMissOh10_010_0229, (Dokyung, hand, table, arms), (hand - on - table), (Dokyung - uncross - arms), (Dokyung - put - hand)
+shot_id: AnotherMissOh10_010_0230, (Someone, finger, table), (finger - someone), (tab - twice), (finger - tap on - table)
+shot_id: AnotherMissOh10_010_0231, (Dokyung), (Dokyung - talking)
+shot_id: AnotherMissOh10_010_0232, (Soontack, head), (Soontack - nod - head)
+shot_id: AnotherMissOh10_010_0233, (Soontack, Dokyung), (face - in silence), (Soontack - face - Dokyung), (Dokyung - face - Dokyung)
+shot_id: AnotherMissOh10_010_0234, (Dokyung, person), (Dokyung - ask - person)
+shot_id: AnotherMissOh10_010_0235, (Soontack), (Soontack - frown)
+shot_id: AnotherMissOh10_010_0236, (Dokyung), (thinking - deeply), (Dokyung - thinking)
+shot_id: AnotherMissOh10_011_0237, (Haeyoung1, bus), (Haeyoung1 - looking front), (Haeyoung1 - on - bus)
+shot_id: AnotherMissOh10_011_0238, (Haeyoung1, bus), (Haeyoung1 - sitting), (Haeyoung1 - in - bus)
+shot_id: AnotherMissOh10_011_0239, (Haeyoung1), (Haeyoung1 - daze)
+shot_id: AnotherMissOh10_011_0240, (Haeyoung1, bus, window), (Haeyoung1 - sitting), (Haeyoung1 - in - bus), (Haeyoung1 - look out - window)
+shot_id: AnotherMissOh10_011_0241, (Haeyoung1, blouse), (blouse - sky blue), (Haeyoung1 - wear - blouse)
+shot_id: AnotherMissOh10_011_0242, (Haeyoung1, seat), (Haeyoung1 - get up from - seat)
+shot_id: AnotherMissOh10_011_0243, (Haeyoung1, bus bell), (Haeyoung1 - push - bus bell)
+shot_id: AnotherMissOh10_011_0244, (Haeyoung1) (Haeyoung1 - looking ahead)
+shot_id: AnotherMissOh10_012_0245, (Haeyoung1, bus, phone), (Haeyoung1 - get off - bus), (Haeyoung1 - talk on - phone)
+shot_id: AnotherMissOh10_012_0246, (Haeyoung1, street), (Haeyoung1 - walk on - street)
+shot_id: AnotherMissOh10_012_0247, (Haeyoung1, phone), (Haeyoung1 - hang up - phone)
+shot_id: AnotherMissOh10_012_0248, (Taejin, phone), (Taejin - look at - phone)
+shot_id: AnotherMissOh10_012_0250, (Taejin, restaurant), (Taejin - sitting), (Taejin - in - restaurant)
+shot_id: AnotherMissOh10_012_0251, (Taejin, shirt), (shirt - white), (Taejin - wear - shirt)
+shot_id: AnotherMissOh10_012_0253, (Dokyung), (Dokyung - turning around)
+shot_id: AnotherMissOh10_013_0254, (Soontack, someone), (Soontack - step toward - someone)
+shot_id: AnotherMissOh10_013_0255, (Dokyung), (Dokyung - saying)
+shot_id: AnotherMissOh10_013_0256, (Dokyung, Soontack), (Dokyung - turning around), (Dokyung - walking away), (Soontack - talk to - Dokyung)
+shot_id: AnotherMissOh10_013_0257, (Soontack, head, wall), (head - against - wall), (Soontack - hit - head)
+shot_id: AnotherMissOh10_014_0258, (Dokyung, street), (Dokyung - walk on - street)
+shot_id: AnotherMissOh10_014_0259, (Dokyung), (Dokyung - thinking)
+shot_id: AnotherMissOh10_014_0260, (Dokyung), (Dokyung - stop walking)
+shot_id: AnotherMissOh10_014_0261, (Dokyung, jacket), (jacket - gray), (Dokyung - wear - jacket)
+shot_id: AnotherMissOh10_014_0262, (person, wall), (person - moaning), (person - bump into - wall)
+shot_id: AnotherMissOh10_014_0263, (Dokyung, person), (Dokyung - stare at - person)
+shot_id: AnotherMissOh10_014_0264, (person, bowler hat, wall), (bowler hat - black), (person - wear - bowler hat), (person - stand against - wall)
+shot_id: AnotherMissOh10_014_0265, (Sukyung, French), (Sukyung - speak - French)
+shot_id: AnotherMissOh10_014_0266, (Dokyung, Sukyung), (Dokyung - walk past - Sukyung)
+shot_id: AnotherMissOh10_014_0267, (Dokyung, alley, hands, pants), (Dokyung - walking), (Dokyung - in - alley), (hands - in - pants)
+shot_id: AnotherMissOh10_014_0268, (Dokyung), (Dokyung - stop walking)
+shot_id: AnotherMissOh10_014_0269, (Dokyung), (Dokyung - irritated)
+shot_id: AnotherMissOh10_014_0270, (Dokyung, Sukyung), (Dokyung - turning around), (Dokyung - ask - Sukyung)
+shot_id: AnotherMissOh10_014_0271, (person, high heels), (high heels - black), (person - taking a step), (person - wear - high heels)
+shot_id: AnotherMissOh10_014_0272, (Dokyung, person), (Dokyung - talk to - person)
+shot_id: AnotherMissOh10_014_0273, (Sukyung, Dokyung), (follow - reluctantly), (Sukyung - follow - Dokyung)
+shot_id: AnotherMissOh10_015_0274, (Sukyung, Jinsang, street), (Sukyung - recalling), (Jinsang - drunken), (Jinsang - encounter - Sukyung), (Jinsang - on - street), (Sukyung - on - street)
+shot_id: AnotherMissOh10_015_0275, (Jinsang, shirt), (shirt - check), (Jinsang - wear - shirt)
+shot_id: AnotherMissOh10_015_0276, (Sukyung, Jinsang), (Sukyung - disgust), (Jinsang - urinating), (Sukyung - face - Jinsang), (Sukyung - shout at - Jinsang)
+shot_id: AnotherMissOh10_015_0277, (Jinsang), (Jinsang - turning around), (Jinsang - peeing)
+shot_id: AnotherMissOh10_015_0278, (Jinsang, shirt), (shirt - checkered), (Jinsang - wear - shirt)
+shot_id: AnotherMissOh10_015_0279, (Sukyung, Jinsang, stuff), (Sukyung - pick up - stuff), (Sukyung - run away from - Jinsang)
+shot_id: AnotherMissOh10_015_0280, (Jinsang, water, floor), (water - on - floor), (Jinsang - pour - water)
+shot_id: AnotherMissOh10_016_0281, (Dokyung, beer, home), (Dokyung - drink - beer), (Dokyung - at - home)
+shot_id: AnotherMissOh10_016_0282, (Dokyung, beer bottle), (Dokyung - hold - beer bottle)
+shot_id: AnotherMissOh10_016_0283, (Dokyung, beer), (Dokyung - drink - beer)
+shot_id: AnotherMissOh10_017_0284, (Haeyoung1, Heeran, alcohol), (Haeyoung1 - drink - alcohol), (Heeran - drink - alcohol)
+shot_id: AnotherMissOh10_017_0285, (Haeyoung1, Heeran), (Haeyoung1 - have conversation with - Heeran)
+shot_id: AnotherMissOh10_017_0286, (Heeran, Haeyoung1), (Heeran - tell - Haeyoung1)
+shot_id: AnotherMissOh10_017_0287, (Haeyoung1, someone), (Haeyoung1 - look at - someone)
+shot_id: AnotherMissOh10_017_0288, (Haeyoung1, Heeran, restaurant), (Haeyoung1 - sitting), (Heeran - sitting), (Haeyoung1 - in - restaurant), (Heeran - in - restaurant)
+shot_id: AnotherMissOh10_017_0289, (Haeyoung1), (Haeyoung1 - look at - someone)
+shot_id: AnotherMissOh10_017_0290, (Heeran, Haeyoung1, restaurant), (Heeran - talk to - Haeyoung1), (Heeran - at - restaurant)
+shot_id: AnotherMissOh10_017_0291, (Heeran, Haeyoung1), (Haeyoung1 - talk to - Heeran), (Heeran - talk to - Heeran)
+shot_id: AnotherMissOh10_017_0292, (Haeyoung1, someone), (Haeyoung1 - listen to - someone)
+shot_id: AnotherMissOh10_017_0293, (Heeran, Haeyoung1, restaurant), (Heeran - in - restaurant), (Haeyoung1 - in - restaurant)
+shot_id: AnotherMissOh10_017_0294, (Haeyoung1, someone), (listen to - carefully), (Haeyoung1 - listen to - someone)
+shot_id: AnotherMissOh10_017_0295, (Heeran, Haeyoung1), (Heeran - talk to - Haeyoung1)
+shot_id: AnotherMissOh10_017_0296, (Haeyoung1), (Haeyoung1 - unbelievable)
+shot_id: AnotherMissOh10_017_0297, (Heeran), (Heeran - looking side)
+shot_id: AnotherMissOh10_017_0298, (Haeyoung1, someone), (Haeyoung1 - talk with - someone)
+shot_id: AnotherMissOh10_017_0299, (Heeran, hair), (hair - bobbed), (Heeran - have - hair)
+shot_id: AnotherMissOh10_017_0300, (Heeran, dress, restaurant), (dress - yellow), (Heeran - wear - dress), (Heeran - in - restaurant)
+shot_id: AnotherMissOh10_017_0301, (Heeran, fingers), (Heeran - snap - fingers)
+shot_id: AnotherMissOh10_017_0302,  (Haeyoung1, head), (Haeyoung1 - re-orient - head)
+shot_id: AnotherMissOh10_018_0304, (Haeyoung1, somewhere), (Haeyoung1 - look at - somewhere)
 shot_id: AnotherMissOh10_018_0305,
 
 (Haeyoung1, shoulder bag), (shoulder bag - wear), (Haeyoung1 - wear - shoulder bag)
@@ -16167,7 +15111,7 @@ shot_id: AnotherMissOh11_021_0945,
 
 shot_id: AnotherMissOh11_021_0946,
 
-(Dokyung, walking), (walking - stop), (Dokyung - stop - walking)
+(Dokyung), (Dokyung - stop walking)
 
 shot_id: AnotherMissOh11_021_0950,
 
