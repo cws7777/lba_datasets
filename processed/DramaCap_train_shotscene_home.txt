@@ -8901,265 +8901,66 @@ shot_id: AnotherMissOh10_017_0300, (Heeran, dress, restaurant), (dress - yellow)
 shot_id: AnotherMissOh10_017_0301, (Heeran, fingers), (Heeran - snap - fingers)
 shot_id: AnotherMissOh10_017_0302,  (Haeyoung1, head), (Haeyoung1 - re-orient - head)
 shot_id: AnotherMissOh10_018_0304, (Haeyoung1, somewhere), (Haeyoung1 - look at - somewhere)
-shot_id: AnotherMissOh10_018_0305,
-
-(Haeyoung1, shoulder bag), (shoulder bag - wear), (Haeyoung1 - wear - shoulder bag)
-
-shot_id: AnotherMissOh10_018_0306,
-"Haeyoung1 is standing still on the street":
-
-(Haeyoung1, standing), (standing - still), (Haeyoung1 - stand - street)
-
-shot_id: AnotherMissOh10_018_0307,
-"Haeyoung1 closes her eyes":
-(Haeyoung1, eyes), (Haeyoung1 - close - eyes)
-
-shot_id: AnotherMissOh10_018_0308,
-
-(Haeyoung1, front gate), (Haeyoung1 - open - front gate)
-(front gate, stair), (stair - up - front gate)
-(door, stair), (Haeyoung1 - stop - door)
-
-shot_id: AnotherMissOh10_018_0309,
-
-
-Input - Haeyoung1 turns back and approaches the door again.
-(Haeyoung1, turns), (turns - back), (Haeyoung1 - approach - door)
-
-shot_id: AnotherMissOh10_018_0310,
-
-
-Input - Haeyoung1 stops by the door and turns her back.
-(Haeyoung1, door), (door - by), (Haeyoung1 - turn - back)
-
-shot_id: AnotherMissOh10_018_0311,
-
-
-Input - Haeyoung1 turns her back away from the door.
-(Haeyoung1, back), (back - away), (Haeyoung1 - turn - back)
-
-shot_id: AnotherMissOh10_018_0312,
-
-(Haeyoung1, something), (something - hesitant), (Haeyoung1 - seem - something)
-
-shot_id: AnotherMissOh10_018_0313,
-
-(Haeyoung1, chair), (chair - sit), (Haeyoung1 - sit - chair)
-
-shot_id: AnotherMissOh10_018_0314,
-
-
-Input - Haeyoung1 talks to herself in confusion.
-(Haeyoung1, self), (self - confusion), (Haeyoung1 - talk - self)
-
-shot_id: AnotherMissOh10_018_0315,
-
-(Haeyoung1, front door), (front door - walk out), (Haeyoung1 - walk - Dokyung)
-(Dokyung, sofa), (sofa - lie), (Dokyung - lie - Haeyoung1)
-
-shot_id: AnotherMissOh10_019_0316,
-
-(Dokyung, couch), (couch - lie - Dokyung)
-
-shot_id: AnotherMissOh10_019_0317,
-
-(Dokyung, sound), (sound - crash), (Dokyung - think - sound)
-
-shot_id: AnotherMissOh10_019_0318,
-
-(Utility pole, light), (light - bright), (Utility pole - lit - light)
-
-shot_id: AnotherMissOh10_019_0319,
-"Dokyung is bleeding on the ground":
-(Dokyung, ground), (ground - bleed - Dokyung)
-
-shot_id: AnotherMissOh10_019_0320,
-
-(Dokyung, ground), (ground - lying), (Dokyung - lie - ground)
-(ambulance, road), (ambulance - come - road), (Dokyung - come - ambulance)
-(person, road), (person - on - road), (Dokyung - on - person)
-
-shot_id: AnotherMissOh10_019_0321,
-
-(Haeyoung1, arm), (arm - cast), (Haeyoung1 - walk - cars)
-
-shot_id: AnotherMissOh10_019_0322,
-
-(Dokyung, face), (face - sad), (Dokyung - have - face)
-
-shot_id: AnotherMissOh10_019_0323,
-
-(Dokyung, cross walk), (Dokyung - lie - cross walk), (cross walk - bleed - Dokyung)
-
-shot_id: AnotherMissOh10_019_0324,
-
-(Dokyung, eyes), (Dokyung - open - eyes)
-
-shot_id: AnotherMissOh10_019_0325,
-
-(Dokyung, living room), (living room - lying), (Dokyung - lie - living room)
-
-shot_id: AnotherMissOh10_019_0326,
-
-(Dokyung, couch), (Dokyung - shift - position on couch)
-
-shot_id: AnotherMissOh10_019_0327,
-
-(Dokyung, pillow), (pillow - black window pane pattern), (Dokyung - rest - pillow)
-
-shot_id: AnotherMissOh10_020_0328,
-
-(Dokyung, tumbler), (tumbler - drink), (Dokyung - drink - tumbler)
-
-shot_id: AnotherMissOh10_020_0330,
-
-(Dokyung, bag), (bag - grab - Dokyung)
-
-shot_id: AnotherMissOh10_020_0331,
-
-(Dokyung, shirt), (shirt - light gray), (Dokyung - wear - shirt)
-
-shot_id: AnotherMissOh10_020_0332,
-"The tumbler drops on the floor and makes a noise":
-(Tumbler, floor), (tumbler - drop - floor), (Tumbler - make - noise)
-
-shot_id: AnotherMissOh10_020_0333,
-
-(The floor, wet), (wet - floor)
-
-
-shot_id: AnotherMissOh10_020_0334,
-
-(Dokyung, floor), (floor - spilled - liquid), (Dokyung - turn - see)
-
-shot_id: AnotherMissOh10_020_0335,
-
-
-Input - Dokyung is holding a dark colored tumbler.
-(Dokyung, tumbler), (tumbler - dark colored), (Dokyung - hold - tumbler)
-
-shot_id: AnotherMissOh10_020_0336,
-
-
-Input - Dokyung picks up his bag and clothes.
-(Dokyung, bag, clothes), (bag - picked up), (Dokyung - pick up - clothes)
-
-shot_id: AnotherMissOh10_021_0337,
-
-(Anna, convenience store), (Anna - come - out), (Hun - meet - Anna)
-
-shot_id: AnotherMissOh10_021_0338,
-
-(Anna, Hun), (Hun - hug - Anna)
-
-shot_id: AnotherMissOh10_021_0339,
-
-(Anna, vest), (vest - light green), (Anna - wear - vest)
-
-shot_id: AnotherMissOh10_021_0340,
-
-(Anna, someone), (someone - arms - Anna)
-The subject of the sentence is "Anna", and the object of the verb "has" is "someone". The attribute of the object is "arms", which is being used to describe the relationship between Anna and the object.
-
-shot_id: AnotherMissOh10_021_0341,
-
-(Anna, Hun), (Anna - face - Hun)
-
-shot_id: AnotherMissOh10_021_0342,
-
-(Anna, forehead), (Anna - head - butt), (Hun - forehead - butt)
-
-shot_id: AnotherMissOh10_021_0343,
-
-(Anna, arms), (arms - wrap - Hun's neck), (Anna - wrap - Hun's neck)
-
-shot_id: AnotherMissOh10_021_0344,
-
-(Anna, convenience store), (Anna - work - convenience store)
-
-shot_id: AnotherMissOh10_021_0347,
-
-(Anna, papers), (papers - run - Hun), (Anna - run - Hun)
-
-shot_id: AnotherMissOh10_021_0348,
-
-(Anna, running), (running - towards), (Anna - run - Hun)
-
-shot_id: AnotherMissOh10_021_0349,
-
-(Anna, Hun), (Anna - hug - Hun), (Anna - from - behind)
-
-shot_id: AnotherMissOh10_021_0350,
-
-(Anna, likes), (likes - Anna), (Anna - tell - Hun)
-
-shot_id: AnotherMissOh10_021_0351,
-
-(Hun, hand), (hand - rest - Hun)
-
-shot_id: AnotherMissOh10_021_0352,
-
-(Anna, ear), (ear - whisper), (Anna - threaten - Hun)
-
-shot_id: AnotherMissOh10_021_0353,
-
-(Anna, head), (head - nod), (Anna - say - head)
-
-shot_id: AnotherMissOh10_021_0354,
-
-(Anna, ending), (ending - like - Anna)
-
-shot_id: AnotherMissOh10_021_0355,
-
-(Anna, gesture), (gesture - making - Anna)
-
-shot_id: AnotherMissOh10_021_0356,
-
-(Hun, smile), (smile - at - someone), (Hun - smile - at - someone)
-
-shot_id: AnotherMissOh10_021_0357,
-
-(Anna, conversation), (conversation - in - store), (Anna - have - conversation), (Hun - have - conversation)
-
-shot_id: AnotherMissOh10_021_0358,
-
-(Hun, someone), (Hun - talk to - someone)
-
-shot_id: AnotherMissOh10_021_0359,
-
-(Anna, head), (head - nod), (Anna - nod - head)
-
-shot_id: AnotherMissOh10_021_0360,
-
-(Hun, smile), (smile - talk), (Hun - talk - smile)
-
-shot_id: AnotherMissOh10_021_0361,
-
-(Anna, someone), (someone - look - Anna)
-
-shot_id: AnotherMissOh10_021_0362,
-
-(Hun), (Hun - laughing)
-
-shot_id: AnotherMissOh10_021_0363,
-
-(Hun, Anna), (Hun - talk - Anna)
-
-shot_id: AnotherMissOh10_021_0364,
-
-(Anna, side), (side - look - Anna)
-
-shot_id: AnotherMissOh10_021_0365,
-
-(Hun, cheek), (Hun - touch - Anna's cheek)
-
-shot_id: AnotherMissOh10_021_0366,
-
-(Anna, grumble), (grumble - attribute), (Anna - relate - Hun)
-
-shot_id: AnotherMissOh10_021_0367,
-
-(Hun, Anna), (Hun - talk - Anna)
+shot_id: AnotherMissOh10_018_0305, (Haeyoung1, shoulder bag), (Haeyoung1 - wear - shoulder bag)
+shot_id: AnotherMissOh10_018_0306, (Haeyoung1), (Haeyoung1 - standing), (Haeyoung1 - on - street)
+shot_id: AnotherMissOh10_018_0307, (Haeyoung1, eyes), (Haeyoung1 - close - eyes)
+shot_id: AnotherMissOh10_018_0308, (Haeyoung1, front gate, stairs, door), (Haeyoung1 - open - front gate), (Haeyoung1 - walk up - stairs), (Haeyoung1 - stop by - door)
+shot_id: AnotherMissOh10_018_0309, (Haeyoung1, door), (Haeyoung1 - turning back), (Haeyoung1 - approach - door)
+shot_id: AnotherMissOh10_018_0310, (Haeyoung1, door), (Haeyoung1 - tunring back), (Haeyoung1 - stop by - door)
+shot_id: AnotherMissOh10_018_0311, (Haeyoung1, door), (Haeyoung1 - tunring back), (Haeyoung1 - from - door)
+shot_id: AnotherMissOh10_018_0312, (Haeyoung1), (Haeyoung1 - hesitant)
+shot_id: AnotherMissOh10_018_0313, (Haeyoung1, chair), (Haeyoung1 - sitting down), (Haeyoung1 - on - chair)
+shot_id: AnotherMissOh10_018_0314, (Haeyoung1), (Haeyoung1 - confused), (Haeyoung1 - talking)
+shot_id: AnotherMissOh10_018_0315, (Haeyoung1, Dokyung, front door, sofa), (Haeyoung1 - walk out - front door), (Dokyung - lie on - sofa)
+shot_id: AnotherMissOh10_019_0316, (Dokyung, couch), (Dokyung - lying down), (Dokyung - on - couch)
+shot_id: AnotherMissOh10_019_0317, (Dokyung), (Dokyung - thinking)
+shot_id: AnotherMissOh10_019_0318, (utility pole, light), (light - bright), (Utility pole - lit with - light)
+shot_id: AnotherMissOh10_019_0319, (Dokyung, ground), (Dokyung - bleeding), (Dokyung - on - ground)
+shot_id: AnotherMissOh10_019_0320, (Dokyung, person, road, ground), (Dokyung - lie on - ground), (person - on - road)
+shot_id: AnotherMissOh10_019_0321, (Haeyoung1, arm, cast), (arm - in - cast), (Haeyoung1 - walk among - cars)
+shot_id: AnotherMissOh10_019_0322, (Dokyung), (Dokyung - sad)
+shot_id: AnotherMissOh10_019_0323, (Dokyung, cross walk), (Dokyung - bleeding), (Dokyung - lie on - cross walk)
+shot_id: AnotherMissOh10_019_0324, (Dokyung, eyes), (Dokyung - open - eyes)
+shot_id: AnotherMissOh10_019_0325, (Dokyung, living room), (Dokyung - lying), (Dokyung - in - living room)
+shot_id: AnotherMissOh10_019_0326, (Dokyung, couch), (Dokyung - shift - position), (Dokyung - on - couch)
+shot_id: AnotherMissOh10_019_0327, (Dokyung, head, pillow), (pillow - black window pane pattern), (Dokyung - rest - head), (head - on - pillow)
+shot_id: AnotherMissOh10_020_0328, (Dokyung, tumbler), (Dokyung - open - tumbler)
+shot_id: AnotherMissOh10_020_0330, (Dokyung, bag), (Dokyung - grab - bag)
+shot_id: AnotherMissOh10_020_0331, (Dokyung, shirt), (shirt - light gray), (Dokyung - wear - shirt)
+shot_id: AnotherMissOh10_020_0332, (tumbler, floor), (tumbler - drop on - floor)
+shot_id: AnotherMissOh10_020_0333, (floor), (floor - wet)
+shot_id: AnotherMissOh10_020_0334, (Dokyung, liquid, floor), (Dokyung - turning around) (liquid - spilled on - floor)
+shot_id: AnotherMissOh10_020_0335, (Dokyung, tumbler), (tumbler - dark colored), (Dokyung - hold - tumbler)
+shot_id: AnotherMissOh10_020_0336, (Dokyung, bag, clothes), (Dokyung - pick up - clothes), (Dokyung - pick up - bag)
+shot_id: AnotherMissOh10_021_0337, (Anna, convenience store), (Anna - come out - convenience store)
+shot_id: AnotherMissOh10_021_0338, (Anna, Hun), (Anna - hug - Hun)
+shot_id: AnotherMissOh10_021_0339, (Anna, vest), (vest - light green), (Anna - wear - vest)
+shot_id: AnotherMissOh10_021_0340, (Anna, someone), (Anna - arm around - someone)
+shot_id: AnotherMissOh10_021_0341, (Anna, Hun), (Anna - face - Hun), (Hun - face - Anna)
+shot_id: AnotherMissOh10_021_0342, (Anna, Hun, head, forehead), (head - Anna), (forehead - Hun), (head - butt - forehead)
+shot_id: AnotherMissOh10_021_0343, (Anna, arms, neck), (neck - Hun), (arms - around - neck), (Anna - wrap - arms)
+shot_id: AnotherMissOh10_021_0344, (Anna, convenience store), (Anna - work in - convenience store)
+shot_id: AnotherMissOh10_021_0347, (Anna, Hun, papers), (Anna - with - papers), (Anna - run towards - Hun)
+shot_id: AnotherMissOh10_021_0348, (Anna, Hun), (Anna - run towards - Hun)
+shot_id: AnotherMissOh10_021_0349, (Anna, Hun), (Anna - hug - Hun), (Anna - behind - Hun)
+shot_id: AnotherMissOh10_021_0350, (Anna, Hun), (Anna - tell - Hun)
+shot_id: AnotherMissOh10_021_0351, (Hun, hand, chin), (Hun - rest - chin), (chin - on - hand)
+shot_id: AnotherMissOh10_021_0352, (Anna, Hun), (Anna - whisper - Hun)
+shot_id: AnotherMissOh10_021_0353, (Anna, head), (Anna - saying), (Anna - nod - head)
+shot_id: AnotherMissOh10_021_0354, (Anna), (Anna - liking)
+shot_id: AnotherMissOh10_021_0355, (Anna, gesture), (Anna - make - gesture)
+shot_id: AnotherMissOh10_021_0356, (Hun, someone), (Hun - smile at - someone)
+shot_id: AnotherMissOh10_021_0357, (Anna, Hun, convenience store), (Anna - have conversation with - Hun), (Hun - in - convenience store), (Anna - in - convenience store)
+shot_id: AnotherMissOh10_021_0358, (Hun, someone), (Hun - talk to - someone)
+shot_id: AnotherMissOh10_021_0359, (Anna, head), (Anna - nod - head)
+shot_id: AnotherMissOh10_021_0360, (Hun), (Hun - talking), (Hun - smiling)
+shot_id: AnotherMissOh10_021_0361, (Anna, someone), (Anna - look at - someone)
+shot_id: AnotherMissOh10_021_0362, (Hun), (Hun - laughing)
+shot_id: AnotherMissOh10_021_0363, (Hun, Anna), (Hun - talk to - Anna)
+shot_id: AnotherMissOh10_021_0364, (Anna), (Anna - looking side)
+shot_id: AnotherMissOh10_021_0365, (Hun, Anna, cheek), (cheek - Anna), (Hun - touch - cheek)
+shot_id: AnotherMissOh10_021_0366, (Anna, Hun), (Anna - grumble to - Hun)
+shot_id: AnotherMissOh10_021_0367, (Hun, Anna), (Hun - talk - Anna)
 
 shot_id: AnotherMissOh10_021_0368,
 
