@@ -10056,582 +10056,139 @@ shot_id: AnotherMissOh11_011_0561, (Hun, shirt), (shirt - check), (Hun - wear - 
 shot_id: AnotherMissOh11_012_0563, (Haeyoung1), (Haeyoung1 - sad)
 shot_id: AnotherMissOh11_012_0564, (Heeran, Haeyoung1), (Heeran - sitting), (Heeran - in front of - Haeyoung1)
 shot_id: AnotherMissOh11_012_0565, (Heeran, T-shirt), (T-shirt - white), (Heeran - wear - T-shirt)
-
-shot_id: AnotherMissOh11_012_0566,
-
-(Haeyoung1, mouth), (Haeyoung1 - shut down - mouth)
-
-shot_id: AnotherMissOh11_012_0567,
-
-(Heeran, speech), (speech - Dokyung), (Heeran - speak - Dokyung)
-
-shot_id: AnotherMissOh11_012_0568,
-
-(Dokyung, jacket), (jacket - brown), (Dokyung - wear - jacket)
-
-shot_id: AnotherMissOh11_012_0569,
-
-(Heeran, hair), (hair - short), (Heeran - have - hair)
-
-shot_id: AnotherMissOh11_012_0571,
-
-(Haeyoung1, eyes), (Haeyoung1 - open - eyes)
-
-shot_id: AnotherMissOh11_012_0573,
-
-(Heeran, hug), (hug - Haeyoung1), (Heeran - hug - Haeyoung1)
-
-shot_id: AnotherMissOh11_013_0575,
-
-
-Input - Haeyoung2 is wearing earphones.
-(Haeyoung2, earphones), (earphones - worn), (Haeyoung2 - wear - earphones)
-
-shot_id: AnotherMissOh11_013_0576,
-
-(Hun, hat), (Hun - adjust - hat)
-
-shot_id: AnotherMissOh11_013_0577,
-
-(Hun, car), (Hun - get - car)
-
-shot_id: AnotherMissOh11_013_0578,
-
-(Haeyoung2, car), (Haeyoung2 - stand - car)
-
-shot_id: AnotherMissOh11_013_0579,
-
-(Gitae, hat), (hat - red), (Gitae - wear - hat)
-
-shot_id: AnotherMissOh11_013_0580,
-"Jinsang is wearing a seat belt":
-(Jinsang, seat belt), (seat belt - wear - Jinsang)
-
-shot_id: AnotherMissOh11_013_0581,
-
-
-Input - Jinsang is sitting in front of Gitae.
-(Jinsang, seat), (Jinsang - sit - Gitae), (Gitae - in front of - Jinsang)
-
-shot_id: AnotherMissOh11_013_0582,
-
-(Jinsang, head), (Jinsang - turn - head)
-
-shot_id: AnotherMissOh11_013_0583,
-
-(Dokyung), (Dokyung - walking)
-
-shot_id: AnotherMissOh11_013_0584,
-
-(Sangseok, Dokyung), (Sangseok - walk - Dokyung)
-
-shot_id: AnotherMissOh11_013_0585,
-
-
-Input - Sangseok is wearing a sky blue shirt.
-(Sangseok, shirt), (shirt - sky blue), (Sangseok - wear - shirt)
-
-shot_id: AnotherMissOh11_013_0586,
-
-(Dokyung, jacket), (jacket - gray), (Dokyung - wear - jacket)
-
-shot_id: AnotherMissOh11_013_0587,
-
-(Dokyung, hands), (hands - in - pocket), (Dokyung - walk - hands)
-
-shot_id: AnotherMissOh11_013_0588,
-
-(Dokyung, walking), (walking - look - down), (Dokyung - look - down)
-
-shot_id: AnotherMissOh11_013_0589,
-
-(Gitae, Dokyung), (Gitae - grab - Dokyung), (Sangseok - grab - Dokyung)
-
-shot_id: AnotherMissOh11_013_0590,
-
-(Jinsang, car), (Jinsang - make - gesture)
-So the output is (Jinsang, car), (Jinsang - make - gesture).
-
-shot_id: AnotherMissOh11_013_0591,
-
-(Gitae, car), (Gitae - get - car), (Sangseok, car), (Sangseok - get - car), (Dokyung, car), (Dokyung - get - car)
-
-
-shot_id: AnotherMissOh11_014_0593,
-
-(Jinsang, groan), (groan - Jinsang)
-
-shot_id: AnotherMissOh11_014_0594,
-
-(Gitae, driver's seat), (Gitae - sleep - driver's seat)
-
-shot_id: AnotherMissOh11_014_0595,
-
-(Sangseok, frown), (frown - attribute), (Sangseok - frown - ?)
-
-shot_id: AnotherMissOh11_014_0596,
-
-(Jinsang, T-shirt), (T-shirt - white), (Jinsang - wear - T-shirt)
-
-shot_id: AnotherMissOh11_014_0597,
-
-(Hun, car seat), (Hun - grab - car seat)
-
-shot_id: AnotherMissOh11_014_0598,
-
-(Jinsang, car), (Jinsang - get - out), (car - Jinsang - get)
-
-shot_id: AnotherMissOh11_014_0599,
-
-
-Input - Dokyung has an injury on his face.
-(Dokyung, face), (face - injury), (Dokyung - have - face)
-
-shot_id: AnotherMissOh11_014_0600,
-
-(Sangseok, water), (Sangseok - jump - water)
-
-shot_id: AnotherMissOh11_014_0601,
-
-(Jinsang, water), (Jinsang - spray - water)
-
-shot_id: AnotherMissOh11_014_0602,
-
-(Dokyung, jacket), (jacket - gray), (Dokyung - wear - jacket)
-
-shot_id: AnotherMissOh11_014_0603,
-
-(Gitae, sea), (Gitae - run - sea)
-
-shot_id: AnotherMissOh11_014_0604,
-
-(Dokyung, somewhere), (Dokyung - look at - somewhere)
-
-shot_id: AnotherMissOh11_014_0605,
-
-(Dokyung, sand), (Dokyung - sit - sand)
-
-shot_id: AnotherMissOh11_014_0607,
-
-(Sangseok, Dokyung), (Sangseok - hold - Dokyung)
-(Yijoon, Dokyung), (Yijoon - hold - Dokyung)
-
-shot_id: AnotherMissOh11_014_0608,
-
-(Dokyung, T-shirt), (T-shirt - dark), (Dokyung - wear - T-shirt)
-
-shot_id: AnotherMissOh11_014_0609,
-
-(Gitae, Hun), (Gitae - stand - near), (Hun - be - near)
-
-shot_id: AnotherMissOh11_014_0610,
-
-(Sangseok, sand), (Sangseok - stand - sand)
-
-shot_id: AnotherMissOh11_014_0611,
-
-(Dokyung, looking), (looking - up), (Dokyung - look - up)
-
-shot_id: AnotherMissOh11_014_0613,
-
-(Jinsang, running), (running - Dokyung), (Jinsang - run - Dokyung)
-
-shot_id: AnotherMissOh11_014_0614,
-
-(Jinsang, beach), (beach - location), (Jinsang - be - beach)
-
-shot_id: AnotherMissOh11_014_0615,
-
-(Dokyung, water), (water - fell), (Dokyung - fall)
-
-shot_id: AnotherMissOh11_014_0616,
-
-(Dokyung, water), (Dokyung - come - water)
-
-shot_id: AnotherMissOh11_014_0617,
-
-(Dokyung, water), (Dokyung - move - water)
-
-shot_id: AnotherMissOh11_014_0618,
-
-(Jinsang, water), (water - spray), (Jinsang - spray - Dokyung)
-
-shot_id: AnotherMissOh11_014_0619,
-
-(Sangseok, Gitae), (Sangseok - stand - Gitae)
-
-shot_id: AnotherMissOh11_014_0620,
-
-(Gitae, clothes), (clothes - tied), (Gitae - have - clothes)
-
-shot_id: AnotherMissOh11_014_0621,
-
-(Gitae, hat), (hat - red), (Gitae - wear - hat)
-
-shot_id: AnotherMissOh11_014_0622,
-
-(Jinsang, muffler), (Jinsang - take off - muffler)
-
-shot_id: AnotherMissOh11_014_0623,
-
-
-Input - Hun is walking on the beach.
-(Hun, beach), (beach - walking), (Hun - walk - beach)
-
-shot_id: AnotherMissOh11_014_0624,
-
-
-Input - Sangseok is looking at Gitae.
-(Sangseok, Gitae), (Gitae - look - Sangseok)
-
-shot_id: AnotherMissOh11_014_0625,
-
-
-Input - Gitae's hair is yellow.
-(Gitae, hair), (hair - yellow), (Gitae - have - hair)
-
-shot_id: AnotherMissOh11_014_0626,
-
-
-Input - Jinsang is putting on his muffler.
-(Jinsang, muffler), (muffler - on), (Jinsang - put - muffler)
-
-shot_id: AnotherMissOh11_014_0627,
-
-(Hun, mouth), (Hun - open - mouth)
-
-shot_id: AnotherMissOh11_014_0628,
-"Jinsang is crossing his arm":
-(Jinsang, arm), (arm - cross), (Jinsang - cross - arm)
-
-shot_id: AnotherMissOh11_014_0629,
-
-(Gitae, hat), (hat - red), (Gitae - wear - hat)
-
-shot_id: AnotherMissOh11_014_0630,
-
-
-Input - Sangseok is wearing a white T-shirt under the sky blue shirt.
-(Sangseok, T-shirt), (T-shirt - white), (Sangseok - wear - T-shirt)
-Note: In this case, there are two objects in the sentence (T-shirt and shirt), so we need to list both objects in the output. Also, there are two attributes (white and sky blue) associated with the objects, so we need to list both attributes in the output. Finally, there is a relation (wearing) between the subject (Sangseok) and the first object (T-shirt), so we need to list this relation in the output.
-
-shot_id: AnotherMissOh11_014_0631,
-
-(Gitae, head), (head - nod) (Gitae - nod - head)
-
-shot_id: AnotherMissOh11_014_0632,
-
-(Dokyung, pocket), (Dokyung - put - hands), (hands - in - pocket)
-
-shot_id: AnotherMissOh11_014_0633,
-
-(Sangseok, Gitae), (Sangseok - talk - Gitae)
-
-shot_id: AnotherMissOh11_014_0634,
-
-(Hun, look), (look - ahead)
-
-shot_id: AnotherMissOh11_014_0635,
-
-(Hun, hand), (hand - put - waist), (Hun - put - hand - waist)
-
-shot_id: AnotherMissOh11_014_0636,
-
-(Dokyung, shirt), (shirt - black), (Dokyung - wear - shirt)
-
-shot_id: AnotherMissOh11_014_0638,
-"Jinsang is taking off his muffler":
-
-Input - Jinsang is taking off his muffler.
-(Jinsang, muffler), (Jinsang - take off - muffler)
-
-shot_id: AnotherMissOh11_014_0639,
-
-(Sangseok, Gitae), (Sangseok - grab - Gitae)
-
-shot_id: AnotherMissOh11_014_0640,
-
-
-Input - Jinsang is wearing a white shirt.
-(Jinsang, shirt), (shirt - white), (Jinsang - wear - shirt)
-
-shot_id: AnotherMissOh11_014_0641,
-
-
-Input - Sangseok is flipping Gitae over on the sand.
-(Sangseok, Gitae), (Gitae - over), (Sangseok - flip - Gitae)
-
-shot_id: AnotherMissOh11_014_0642,
-
-(Jinsang, turn), (Jinsang - turn - Dokyung)
-
-shot_id: AnotherMissOh11_014_0643,
-
-
-Input - Gitae is lying down on the sand.
-(Gitae, sand), (sand - warm), (Gitae - lie - sand)
-
-shot_id: AnotherMissOh11_014_0644,
-
-(Dokyung), (Dokyung - talking)
-
-shot_id: AnotherMissOh11_014_0645,
-
-(Jinsang, muffler), (Jinsang - hold - muffler)
-
-shot_id: AnotherMissOh11_014_0647,
-
-(Jinsang, somewhere), (Jinsang - point - somewhere)
-
-shot_id: AnotherMissOh11_014_0648,
-
-(Dokyung, head), (Dokyung - turn - head)
-
-shot_id: AnotherMissOh11_014_0649,
-
-(Jinsang, Dokyung), (Jinsang - get - closer - Dokyung)
-
-shot_id: AnotherMissOh11_014_0650,
-"Jinsang is running on the beach":
-(Jinsang, beach), (Jinsang - run - beach)
-
-shot_id: AnotherMissOh11_014_0653,
-"Jinsang is putting a cloth on his shoulder":
-(Jinsang, cloth), (cloth - put - shoulder), (Jinsang - put - cloth)
-
-shot_id: AnotherMissOh11_014_0655,
-"Jinsang is standing in front of the sea":
-(Jinsang, sea), (Jinsang - stand - sea)
-
-shot_id: AnotherMissOh11_014_0656,
-
-(Sangseok, hand), (hand - wave - Sangseok)
-
-shot_id: AnotherMissOh11_014_0657,
-
-(Three people, beach), (people - stand - beach)
-
-
-shot_id: AnotherMissOh11_014_0658,
-
-(Dokyung, hat), (hat - red), (Dokyung - hold - hat)
-
-shot_id: AnotherMissOh11_014_0659,
-
-(Hun, face), (Hun - touch - face), (face - hand)
-
-shot_id: AnotherMissOh11_014_0660,
-
-(Dokyung, walk), (walk - Jinsang), (Dokyung - walk - Jinsang)
-
-shot_id: AnotherMissOh11_014_0661,
-
-(Jinsang, body), (Jinsang - touch - body), (Dokyung - body)
-So the output for the given sentence is: (Jinsang, body), (Jinsang - touch - body), (Dokyung - body).
-
-shot_id: AnotherMissOh11_014_0662,
-
-(Jinsang, shirt), (shirt - flower pattern), (Jinsang - wear - shirt)
-
-shot_id: AnotherMissOh11_014_0663,
-
-(Sangseok, women), (Sangseok - stand - women)
-
-shot_id: AnotherMissOh11_014_0664,
-
-
-Input - Jinsang is wearing black pants.
-(Jinsang, pants), (pants - black), (Jinsang - wear - pants)
-
-shot_id: AnotherMissOh11_014_0665,
-
-(Jinsang, laughter), (laughter - front - person), (Jinsang - laugh - person)
-
-shot_id: AnotherMissOh11_014_0666,
-
-
-Input - Jinsang is shaking hands with a person.
-(Jinsang, person), (person - hand), (Jinsang - shake - person)
-
-shot_id: AnotherMissOh11_014_0667,
-
-(Dokyung, look), (look - up)
-
-shot_id: AnotherMissOh11_014_0668,
-
-(Hun, head), (head - turn)
-
-shot_id: AnotherMissOh11_014_0669,
-
-(Sangseok, mouth), (mouth - opened), (Sangseok - open - mouth)
-
-shot_id: AnotherMissOh11_014_0670,
-"Jinsang looks surprised":
-(Jinsang, face), (face - surprise), (Jinsang - look - face)
-
-shot_id: AnotherMissOh11_014_0671,
-
-(Gitae, Sangseok), (Gitae - stand - Sangseok)
-
-shot_id: AnotherMissOh11_014_0672,
-
-(Sangseok, woman), (Sangseok - look - woman)
-
-shot_id: AnotherMissOh11_014_0674,
-
-(Dokyung, standing)
-(standing - attribute), (Dokyung - stand - standing)
-
-shot_id: AnotherMissOh11_014_0676,
-
-
-Input - Gitae has mustache on his face.
-(Gitae, mustache), (mustache - on - face), (Gitae - have - mustache)
-
-shot_id: AnotherMissOh11_014_0679,
-
-(Jinsang, Dokyung), (Jinsang - look - Dokyung)
-
-shot_id: AnotherMissOh11_014_0680,
-
-(Sangseok, Jinsang), (Sangseok - pass - Jinsang)
-
-shot_id: AnotherMissOh11_014_0681,
-
-(Hun, Dokyung), (Hun - walk - Dokyung)
-
-shot_id: AnotherMissOh11_014_0682,
-
-(Dokyung, clothes), (clothes - hand), (Dokyung - hold - clothes)
-
-shot_id: AnotherMissOh11_014_0683,
-"Jinsang is rubbing his hair with his hands":
-
-(Jinsang, hair), (hair - rub), (Jinsang - rub - hair)
-
-shot_id: AnotherMissOh11_014_0684,
-
-(Jinsang, head), (head - tilt - Jinsang)
-
-shot_id: AnotherMissOh11_014_0685,
-
-
-Input - Dokyung is walking with his face down.
-(Dokyung, face), (face - down), (Dokyung - walk - face)
-
-shot_id: AnotherMissOh11_014_0686,
-
-(Gitae, Hun), (Gitae - walk - Hun)
-
-shot_id: AnotherMissOh11_015_0696,
-
-(Sungjin, phone), (phone - held - Sungjin)
-
-shot_id: AnotherMissOh11_015_0697,
-"Sungjin is biting his lips":
-(Sungjin, lips), (Sungjin - bite - lips)
-
-shot_id: AnotherMissOh11_015_0699,
-
-(Sungjin, glasses), (glasses - pair), (Sungjin - wear - glasses)
-
-shot_id: AnotherMissOh11_015_0700,
-
-(Haeyoung2, office), (office - walk - Haeyoung2)
-
-shot_id: AnotherMissOh11_015_0702,
-
-(Sungjin, seat), (Sungjin - stand - seat)
-
-shot_id: AnotherMissOh11_015_0703,
-
-(Sungjin, tie), (tie - red), (Sungjin - wear - tie)
-
-shot_id: AnotherMissOh11_015_0705,
-
-(Sungjin, shirt), (shirt - pink), (Sungjin - look - shirt)
-
-shot_id: AnotherMissOh11_015_0706,
-
-(Sukyung, front), (front - Sukyung), (Sukyung - stand - front)
-
-shot_id: AnotherMissOh11_015_0707,
-
-(Sukyung, desk), (Sukyung - speak - desk)
-
-shot_id: AnotherMissOh11_015_0708,
-
-(Sukyung, glasses), (Sukyung - wear - glasses)
-
-shot_id: AnotherMissOh11_015_0709,
-
-(Haeyoung2, hair), (hair - long), (Haeyoung2 - have - hair)
-
-shot_id: AnotherMissOh11_015_0710,
-"Sukyung is wearing a leopard-print shirt":
-(Sukyung, shirt), (shirt - leopard-print), (Sukyung - wear - shirt)
-
-shot_id: AnotherMissOh11_015_0711,
-
-(Haeyoung2, eyes), (eyes - open - front of person), (Haeyoung2 - open - eyes)
-
-shot_id: AnotherMissOh11_015_0712,
-
-(Sukyung, earrings), (Sukyung - wear - earrings)
-
-shot_id: AnotherMissOh11_015_0713,
-
-(Haeyoung2, someone), (Haeyoung2 - talk to - someone)
-
-shot_id: AnotherMissOh11_015_0714,
-
-(Sukyung, head), (head - move - Sukyung)
-
-shot_id: AnotherMissOh11_015_0715,
-
-(Haeyoung2), (Haeyoung2 - talking)
-
-shot_id: AnotherMissOh11_015_0716,
-
-
-Input - Sukyung is turning around in front of Haeyoung2.
-(Sukyung, turning), (turning - around), (Sukyung - relation - Haeyoung2)
-
-shot_id: AnotherMissOh11_015_0717,
-"Sukyung has tied-up hair":
-(Sukyung, hair), (hair - tied-up), (Sukyung - have - hair)
-
-shot_id: AnotherMissOh11_015_0718,
-"Sukyung is sitting on the desk":
-(Sukyung, desk), (Sukyung - sit - desk)
-
-shot_id: AnotherMissOh11_015_0719,
-
-(Haeyoung2, earring), (Haeyoung2 - wear - earring)
-
-shot_id: AnotherMissOh11_015_0720,
-
-(Sukyung, glasses), (Sukyung - wear - glasses)
-
-shot_id: AnotherMissOh11_015_0721,
-
-(Haeyoung2, somewhere), (somewhere - stare - Haeyoung2)
-
-shot_id: AnotherMissOh11_015_0722,
-"Sukyung is wearing earrings":
-(Sukyung, earrings), (Sukyung - wear - earrings)
-
-shot_id: AnotherMissOh11_015_0726,
-
-(Sukyung, chair), (Sukyung - sit on - chair), (Sukyung - sit - computer)
-
-shot_id: AnotherMissOh11_015_0729,
-
-(Haeyoung2, chair), (chair - sit - Haeyoung2)
-
-shot_id: AnotherMissOh11_015_0730,
-
-(Haeyoung2, cell phone), (cell phone - pick up), (Haeyoung2 - pick up - cell phone)
+shot_id: AnotherMissOh11_012_0566, (Haeyoung1, mouth), (Haeyoung1 - shut - mouth)
+shot_id: AnotherMissOh11_012_0567, (Heeran, Dokyung), (Heeran - speak to - Dokyung)
+shot_id: AnotherMissOh11_012_0568, (Dokyung, jacket), (jacket - brown), (Dokyung - wear - jacket)
+shot_id: AnotherMissOh11_012_0569, (Heeran, hair), (hair - short), (Heeran - have - hair)
+shot_id: AnotherMissOh11_012_0571, (Haeyoung1, eyes), (Haeyoung1 - open - eyes)
+shot_id: AnotherMissOh11_012_0573, (Heeran, Haeyoung1), (Heeran - hug - Haeyoung1)
+shot_id: AnotherMissOh11_013_0575, (Haeyoung2, earphones), (Haeyoung2 - wear - earphones)
+shot_id: AnotherMissOh11_013_0576, (Hun, hat), (Hun - adjust - hat)
+shot_id: AnotherMissOh11_013_0577, (Hun, car), (Hun - get on - car)
+shot_id: AnotherMissOh11_013_0578, (Haeyoung2, car), (Haeyoung2 - stand behind - car)
+shot_id: AnotherMissOh11_013_0579, (Gitae, hat), (hat - red), (Gitae - wear - hat)
+shot_id: AnotherMissOh11_013_0580, (Jinsang, seat belt), (Jinsang - wear - seat belt)
+shot_id: AnotherMissOh11_013_0581, (Jinsang, Gitae), (Jinsang - sitting), (Jinsang - in front of - Gitae)
+shot_id: AnotherMissOh11_013_0582, (Jinsang, head), (Jinsang - turn - head)
+shot_id: AnotherMissOh11_013_0583, (Dokyung), (Dokyung - walking)
+shot_id: AnotherMissOh11_013_0584, (Sangseok, Dokyung), (Sangseok - walk behind - Dokyung)
+shot_id: AnotherMissOh11_013_0585, (Sangseok, shirt), (shirt - sky blue), (Sangseok - wear - shirt)
+shot_id: AnotherMissOh11_013_0586, (Dokyung, jacket), (jacket - gray), (Dokyung - wear - jacket)
+shot_id: AnotherMissOh11_013_0587, (Dokyung, hands, pocket), (Dokyung - walking), (hands - in - pocket)
+shot_id: AnotherMissOh11_013_0588, (Dokyung), (Dokyung - walking), (Dokyung - looking down)
+shot_id: AnotherMissOh11_013_0589, (Gitae, Sangseok, Dokyung), (arm - Dokyung), (Gitae - grab - arm), (Sangseok - grab - arm)
+shot_id: AnotherMissOh11_013_0590, (Jinsang, gesture, car), (Jinsang - make - gesture), (Jinsang - in - car)
+shot_id: AnotherMissOh11_013_0591, (Gitae, Sangseok, Dokyung), (Gitae - get in - car), (Sangseok - get in - car), (Dokyung - get in - car)
+shot_id: AnotherMissOh11_014_0593, (Jinsang), (Jinsang - groaning)
+shot_id: AnotherMissOh11_014_0594, (Gitae), (Gitae - sleeping), (seat - driver), (Gitae - in - seat)
+shot_id: AnotherMissOh11_014_0595, (Sangseok), (Sangseok - frown)
+shot_id: AnotherMissOh11_014_0596, (Jinsang, T-shirt), (T-shirt - white), (Jinsang - wear - T-shirt)
+shot_id: AnotherMissOh11_014_0597, (Hun, seat), (seat - car), (Hun - grab - car seat)
+shot_id: AnotherMissOh11_014_0598, (Jinsang, car), (Jinsang - get out of - car)
+shot_id: AnotherMissOh11_014_0599, (Dokyung, injury, face), (injury - on - face), (Dokyung - have - injury)
+shot_id: AnotherMissOh11_014_0600, (Sangseok, water), (Sangseok - jump in - water)
+shot_id: AnotherMissOh11_014_0601, (Jinsang, water), (Jinsang - spray - water)
+shot_id: AnotherMissOh11_014_0602, (Dokyung, jacket), (jacket - gray), (Dokyung - wear - jacket)
+shot_id: AnotherMissOh11_014_0603, (Gitae, sea), (Gitae - running), (Gitae - in - sea)
+shot_id: AnotherMissOh11_014_0604, (Dokyung, somewhere), (Dokyung - look at - somewhere)
+shot_id: AnotherMissOh11_014_0605, (Dokyung, sand), (Dokyung - sit on - sand)
+shot_id: AnotherMissOh11_014_0607, (Sangseok, Yijoon, Dokyung), (Sangseok - hold - Dokyung), (Yijoon - hold - Dokyung)
+shot_id: AnotherMissOh11_014_0608, (Dokyung, T-shirt), (T-shirt - dark), (Dokyung - wear - T-shirt)
+shot_id: AnotherMissOh11_014_0609, (Gitae, Hun), (Gitae - standing), (Gitae - near - Hun)
+shot_id: AnotherMissOh11_014_0610, (Sangseok, sand), (Sangseok - stand on - sand)
+shot_id: AnotherMissOh11_014_0611, (Dokyung), (Dokyung - looking up)
+shot_id: AnotherMissOh11_014_0613, (Jinsang, Dokyung), (Jinsang - run to - Dokyung)
+shot_id: AnotherMissOh11_014_0614, (Jinsang, beach), (Jinsang - at - beach)
+shot_id: AnotherMissOh11_014_0615, (Dokyung, water), (Dokyung - fall into - water)
+shot_id: AnotherMissOh11_014_0616, (Dokyung, water), (Dokyung - come out of - water)
+shot_id: AnotherMissOh11_014_0617, (Dokyung, water), (Dokyung - move in - water)
+shot_id: AnotherMissOh11_014_0618, (Jinsang, Dokyung, water), (spray - water), (Jinsang - spray to - Dokyung)
+shot_id: AnotherMissOh11_014_0619, (Sangseok, Gitae), (Sangseok - standing), (Sangseok - next to - Gitae)
+shot_id: AnotherMissOh11_014_0620, (Gitae, clothes, shoulder), (clothes - tied around - shoulder), (Gitae - have - clothes)
+shot_id: AnotherMissOh11_014_0621, (Gitae, hat), (hat - red), (Gitae - wear - hat)
+shot_id: AnotherMissOh11_014_0622, (Jinsang, muffler), (Jinsang - take off - muffler)
+shot_id: AnotherMissOh11_014_0623, (Hun, beach), (Hun - walk on - beach)
+shot_id: AnotherMissOh11_014_0624, (Sangseok, Gitae), (Sangseok - look at - Gitae)
+shot_id: AnotherMissOh11_014_0625, (Gitae, hair), (hair - yellow), (Gitae - have - hair)
+shot_id: AnotherMissOh11_014_0626, (Jinsang, muffler), (Jinsang - put on - muffler)
+shot_id: AnotherMissOh11_014_0627, (Hun, mouth), (Hun - open - mouth)
+shot_id: AnotherMissOh11_014_0628, (Jinsang, arm), (Jinsang - cross - arm)
+shot_id: AnotherMissOh11_014_0629, (Gitae, hat, beach), (hat - red), (Gitae - wear - hat), (Gitae - on - beach)
+shot_id: AnotherMissOh11_014_0630, (Sangseok, T-shirt, sky), (T-shirt - white), (Sangseok - wear - T-shirt), (Sangseok - under - sky)
+shot_id: AnotherMissOh11_014_0631, (Gitae, head), (Gitae - nod - head)
+shot_id: AnotherMissOh11_014_0632, (Dokyung, hands, pocket), (Dokyung - put - hands), (hands - in - pocket)
+shot_id: AnotherMissOh11_014_0633, (Sangseok, Gitae), (Sangseok - talk to - Gitae)
+shot_id: AnotherMissOh11_014_0634, (Hun), (Hun - looking ahead)
+shot_id: AnotherMissOh11_014_0635, (Hun, hand, waist), (hand - on - waist), (Hun - put - hand)
+shot_id: AnotherMissOh11_014_0636, (Dokyung, shirt), (shirt - black), (Dokyung - wear - shirt)
+shot_id: AnotherMissOh11_014_0638, (Jinsang, muffler), (Jinsang - take off - muffler)
+shot_id: AnotherMissOh11_014_0639, (Sangseok, Gitae, neck), (neck - Gitae), (Sangseok - grab - neck)
+shot_id: AnotherMissOh11_014_0640, (Jinsang, shirt), (shirt - white), (Jinsang - wear - shirt)
+shot_id: AnotherMissOh11_014_0641, (Sangseok, Gitae, sand), (Sangseok - flip over - Gitae), (Gitae - on - sand), (Sangseok - on - sand)
+shot_id: AnotherMissOh11_014_0642, (Jinsang, Dokyung), (Jinsang - turn to - Dokyung)
+shot_id: AnotherMissOh11_014_0643, (Gitae, sand), (Gitae - lying down), (Gitae - on - sand)
+shot_id: AnotherMissOh11_014_0644, (Dokyung), (Dokyung - talking)
+shot_id: AnotherMissOh11_014_0645, (Jinsang, muffler), (Jinsang - hold - muffler)
+shot_id: AnotherMissOh11_014_0647, (Jinsang, somewhere), (Jinsang - point at - somewhere)
+shot_id: AnotherMissOh11_014_0648, (Dokyung, head), (Dokyung - turn - head)
+shot_id: AnotherMissOh11_014_0649, (Jinsang, Dokyung), (Jinsang - get close to - Dokyung)
+shot_id: AnotherMissOh11_014_0650, (Jinsang, beach), (Jinsang - running), (Jinsang - on - beach)
+shot_id: AnotherMissOh11_014_0653, (Jinsang, cloth, shoulder), (cloth - on - shoulder), (Jinsang - put - cloth)
+shot_id: AnotherMissOh11_014_0655, (Jinsang, sea), (Jinsang - standing), (Jinsang - in front of - sea)
+shot_id: AnotherMissOh11_014_0656, (Sangseok, hand), (Sangseok - wave - hand)
+shot_id: AnotherMissOh11_014_0657, (people, beach), (people - three), (people - stand on - beach)
+shot_id: AnotherMissOh11_014_0658, (Dokyung, hat), (hat - red), (Dokyung - hold - hat)
+shot_id: AnotherMissOh11_014_0659, (Hun, face, hand), (Hun - touch - face), (face - with - hand)
+shot_id: AnotherMissOh11_014_0660, (Dokyung, Jinsang), (Dokyung - walk by - Jinsang)
+shot_id: AnotherMissOh11_014_0661, (Jinsang, body), (body - Dokyung), (Jinsang - touch - body)
+shot_id: AnotherMissOh11_014_0662, (Jinsang, shirt), (shirt - flower pattern), (Jinsang - wear - shirt)
+shot_id: AnotherMissOh11_014_0663, (Sangseok, women), (Sangseok - stand behind - women)
+shot_id: AnotherMissOh11_014_0664, (Jinsang, pants), (pants - black), (Jinsang - wear - pants)
+shot_id: AnotherMissOh11_014_0665, (Jinsang, person), (Jinsang - laughing), (Jinsang - in front of - person)
+shot_id: AnotherMissOh11_014_0666, (Jinsang, hands, person), (hands - with - person), (Jinsang - shake - hands)
+shot_id: AnotherMissOh11_014_0667, (Dokyung), (Dokyung - looking up)
+shot_id: AnotherMissOh11_014_0668, (Hun, head), (Hun - turn - head)
+shot_id: AnotherMissOh11_014_0669, (Sangseok, mouth), (Sangseok - open - mouth)
+shot_id: AnotherMissOh11_014_0670, (Jinsang), (Jinsang - surprised)
+shot_id: AnotherMissOh11_014_0671, (Gitae, Sangseok), (Gitae - standing), (Gitae - next to - Sangseok)
+shot_id: AnotherMissOh11_014_0672, (Sangseok, woman), (Sangseok - look at - woman)
+shot_id: AnotherMissOh11_014_0674, (Dokyung), (Dokyung - standing)
+shot_id: AnotherMissOh11_014_0676, (Gitae, mustache, face), (mustache - on - face), (Gitae - have - mustache)
+shot_id: AnotherMissOh11_014_0679, (Jinsang, Dokyung), (Jinsang - look at - Dokyung)
+shot_id: AnotherMissOh11_014_0680, (Sangseok, Jinsang), (Sangseok - pass by - Jinsang)
+shot_id: AnotherMissOh11_014_0681, (Hun, Dokyung), (Hun - walk behind - Dokyung)
+shot_id: AnotherMissOh11_014_0682, (Dokyung, clothes, hand), (clothes - on - hand), (Dokyung - hold - clothes)
+shot_id: AnotherMissOh11_014_0683, (Jinsang, hair, hand), (hair - with - hand), (Jinsang - rub - hair)
+shot_id: AnotherMissOh11_014_0684, (Jinsang, head), (tilt - back), (Jinsang - tilt - head)
+shot_id: AnotherMissOh11_014_0685, (Dokyung), (Dokyung - walking), (Dokyung - facing down)
+shot_id: AnotherMissOh11_014_0686, (Gitae, Hun), (Gitae - walk behind - Hun)
+shot_id: AnotherMissOh11_015_0696, (Sungjin, phone), (Sungjin - hold - phone)
+shot_id: AnotherMissOh11_015_0697, (Sungjin, lips), (Sungjin - bite - lips)
+shot_id: AnotherMissOh11_015_0699, (Sungjin, glasses), (glasses - pair of), (Sungjin - wear - glasses)
+shot_id: AnotherMissOh11_015_0700, (Haeyoung2, office), (Haeyoung2 - walking), (Haeyoung2 - in - office)
+shot_id: AnotherMissOh11_015_0702, (Sungjin), (Sungjin - standing up)
+shot_id: AnotherMissOh11_015_0703, (Sungjin, tie), (Sungjin - wear - tie)
+shot_id: AnotherMissOh11_015_0705, (Sungjin, shirt), (shirt - pink), (Sungjin - looking side), (Sungjin - wear - shirt)
+shot_id: AnotherMissOh11_015_0706, (Sukyung, Haeyoung2), (Sukyung - standing), (Sukyung - in front of - Haeyoung2)
+shot_id: AnotherMissOh11_015_0707, (Sukyung, desk), (Sukyung - speaking), (Sukyung - in front of - desk)
+shot_id: AnotherMissOh11_015_0708, (Sukyung, glasses), (Sukyung - wear - glasses)
+shot_id: AnotherMissOh11_015_0709, (Haeyoung2, hair), (hair - long), (Haeyoung2 - have - hair)
+shot_id: AnotherMissOh11_015_0710, (Sukyung, shirt), (shirt - leopard-print), (Sukyung - wear - shirt)
+shot_id: AnotherMissOh11_015_0711, (Haeyoung2, person, eyes), (Haeyoung2 - in front of - person), (Haeyoung2 - open - eyes)
+shot_id: AnotherMissOh11_015_0712, (Sukyung, earrings), (Sukyung - wear - earrings)
+shot_id: AnotherMissOh11_015_0713, (Haeyoung2, someone), (Haeyoung2 - talk to - someone)
+shot_id: AnotherMissOh11_015_0714, (Sukyung, head), (Sukyung - move - head)
+shot_id: AnotherMissOh11_015_0715, (Haeyoung2), (Haeyoung2 - talking)
+shot_id: AnotherMissOh11_015_0716, (Sukyung, Haeyoung2), (Sukyung - turning around), (Sukyung - in front of - Haeyoung2)
+shot_id: AnotherMissOh11_015_0717, (Sukyung, hair), (hair - tied-up), (Sukyung - have - hair)
+shot_id: AnotherMissOh11_015_0718, (Sukyung, desk), (Sukyung - sit on - desk)
+shot_id: AnotherMissOh11_015_0719, (Haeyoung2, earring), (Haeyoung2 - wear - earring)
+shot_id: AnotherMissOh11_015_0720, (Sukyung, glasses), (Sukyung - wear - glasses)
+shot_id: AnotherMissOh11_015_0721, (Haeyoung2, somewhere), (Haeyoung2 - stare at - somewhere)
+shot_id: AnotherMissOh11_015_0722, (Sukyung, earrings), (Sukyung - wear - earrings)
+shot_id: AnotherMissOh11_015_0726, (Sukyung, computer), (Sukyung - sitting), (Sukyung - next to - computer)
+shot_id: AnotherMissOh11_015_0729, (Haeyoung2, chair), (Haeyoung2 - sit on - chair)
+shot_id: AnotherMissOh11_015_0730, (Haeyoung2, cell phone), (cell phone - pick up), (Haeyoung2 - pick up - cell phone)
 
 shot_id: AnotherMissOh11_015_0731,
 
