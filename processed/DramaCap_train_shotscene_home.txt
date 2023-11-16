@@ -3528,7 +3528,7 @@ shot_id: AnotherMissOh05_002_0095, (Dokyung), (Dokyung - sleeping)
 shot_id: AnotherMissOh05_002_0096, (Dokyung), (Dokyung - smiling)
 shot_id: AnotherMissOh05_002_0097, (Dokyung), (Dokyung - laughing)
 shot_id: AnotherMissOh05_002_0098, (Dokyung), (Dokyung - laughing)
-shot_id: AnotherMissOh05_002_0099, (Dokyung), (Dokyung - sleeping)
+shot_id: AnotherMissOh05_002_0099, (Haeyoung1), (Haeyoung1 - sleeping)
 shot_id: AnotherMissOh05_002_0100, (Haeyoung1, bed), (Haeyoung1 - sleep on - bed)
 shot_id: AnotherMissOh05_002_0101, (Dokyung), (Dokyung - laughing)
 shot_id: AnotherMissOh05_002_0102, (Dokyung), (Dokyung - laughing), (Dokyung - on - bed)
@@ -10962,426 +10962,97 @@ shot_id: AnotherMissOh12_034_0803, (Dokyung, Haeyoung1), (Dokyung - talk to - Ha
 shot_id: AnotherMissOh12_034_0804, (Haeyoung1, Dokyung, house), (Haeyoung1 - in - house), (Haeyoung1 - talk to - Dokyung)
 shot_id: AnotherMissOh12_034_0807, (Haeyoung1, Dokyung), (Haeyoung1 - crying), (Haeyoung1 - talk to - Dokyung)
 shot_id: AnotherMissOh12_034_0808, (Haeyoung1), (Haeyoung1 - crying), (Haeyoung1 - talking)
-
-shot_id: AnotherMissOh12_034_0809,
-
-(Haeyoung1, Dokyung), (Haeyoung1 - talk to - Dokyung)
-
-shot_id: AnotherMissOh12_034_0812,
-
-(Haeyoung1, Dokyung), (Haeyoung1 - face - Dokyung)
-
-shot_id: AnotherMissOh12_034_0815,
-
-(Dokyung, someone), (Dokyung - talk to - someone)
-
-shot_id: AnotherMissOh12_034_0816,
-
-(Dokyung, room), (Dokyung - leave - room)
-
-shot_id: AnotherMissOh12_034_0817,
-
-
-Input - Haeyoung1 and Dokyung are walking outside and Haeyoung1 is leaving Dokyung.
-(Haeyoung1, walking), (walking - outside), (Haeyoung1 - leave - Dokyung)
-
-shot_id: AnotherMissOh12_035_0818,
-
-
-Input - Haeyoung1 is in the bus.
-(Haeyoung1, bus), (bus - inside), (Haeyoung1 - be - inside)
-
-shot_id: AnotherMissOh12_035_0819,
-
-
-Input - Haeyoung1 is sitting in the bus.
-(Haeyoung1, bus), (bus - seat), (Haeyoung1 - sit - bus)
-
-shot_id: AnotherMissOh12_036_0821,
-"Kyungsu is walking to see the furniture":
-(Kyungsu, walking), (walking - move), (Kyungsu - move - furniture)
-
-shot_id: AnotherMissOh12_036_0822,
-
-(Kyungsu, furniture), (Kyungsu - pick - furniture)
-
-shot_id: AnotherMissOh12_036_0823,
-
-(Kyungsu, box, doll), (Kyungsu - move - box), (Kyungsu - pick up - doll)
-
-shot_id: AnotherMissOh12_036_0824,
-
-(Kyungsu, left), (Kyungsu - look - left)
-
-shot_id: AnotherMissOh12_037_0829,
-
-(Kyungsu, Deogi), (Deogi - look - people), (Kyungsu - look - people - Deogi)
-
-shot_id: AnotherMissOh12_037_0830,
-
-(Kyungsu, people), (people - look - Kyungsu)
-
-shot_id: AnotherMissOh12_037_0831,
-
-(Kyungsu, doll), (Kyungsu - look - doll)
-So the output format is:
-(object), (object - attribute), (subject - relation - object)
-In this case, "Kyungsu" is the subject, "doll" is the object, and "looking" is the relation between Kyungsu and the doll.
-
-shot_id: AnotherMissOh12_037_0832,
-
-(Deogi, front), (Deogi - look - front)
-
-shot_id: AnotherMissOh12_037_0838,
-
-(Haeyoung1, room), (room - sleep), (Haeyoung1 - sleep - room)
-
-shot_id: AnotherMissOh12_037_0839,
-
-
-Input - Haeyoung1 is sleeping.
-(Dokyung), (Dokyung - sleeping)
-
-shot_id: AnotherMissOh12_038_0840,
-
-(Jiya, cake), (Jiya - cut - cake), (Chairman - cut - cake)
-
-
-shot_id: AnotherMissOh12_038_0841,
-
-(Jiya, cake), (Jiya - cut - cake), (Chairman - cut - cake)
-
-
-shot_id: AnotherMissOh12_038_0843,
-
-(Dokyung, somewhere), (Dokyung - look at - somewhere)
-
-shot_id: AnotherMissOh12_038_0844,
-
-
-Input - Jiya and Chairman are drinking wine.
-(Jiya, wine), (Jiya - drink - wine), (Chairman - drink - wine)
-
-shot_id: AnotherMissOh12_038_0845,
-
-(Chairman, Jiya), (Chairman - kiss - Jiya)
-
-shot_id: AnotherMissOh12_038_0847,
-
-(Dokyung, wine), (wine - drink), (Dokyung - drink - wine)
-
-shot_id: AnotherMissOh12_038_0848,
-
-(Jiya, cheek), (Jiya - kiss - Chairman's cheek)
-
-shot_id: AnotherMissOh12_038_0850,
-
-(Dokyung, somewhere), (Dokyung - look at - somewhere)
-
-shot_id: AnotherMissOh12_038_0851,
-
-
-Input - Jiya and Chairman are greeting a person.
-(Jiya, person), (person - greet - Jiya), (Chairman - greet - person)
-
-shot_id: AnotherMissOh12_038_0853,
-
-(Dokyung, wine), (wine - drink), (Dokyung - drink - wine)
-
-shot_id: AnotherMissOh12_038_0854,
-
-
-Input - Jiya and Chairman are greeting someone.
-(Jiya, Chairman), (Jiya - greet - Chairman), (Chairman - greet - someone)
-
-shot_id: AnotherMissOh12_038_0855,
-
-(Dokyung, wine glass), (wine glass - held - Dokyung)
-
-shot_id: AnotherMissOh12_038_0856,
-
-
-Input - Chairman is introducing a person to Jiya.
-(Chairman, person), (person - introduce - Jiya), (Chairman - introduce - person)
-
-shot_id: AnotherMissOh12_038_0857,
-
-(Dokyung, someone), (Dokyung - talk to - someone)
-
-shot_id: AnotherMissOh12_038_0859,
-
-(Dokyung, someone), (Dokyung - talk to - someone)
-
-shot_id: AnotherMissOh12_038_0861,
-"Chairman is carrying Jiya on his back":
-(Chairman, Jiya), (Chairman - carry - Jiya)
-
-shot_id: AnotherMissOh12_038_0862,
-"Dokyung is talking to a person next to him":
-(Dokyung, person), (Dokyung - talk to - person)
-
-shot_id: AnotherMissOh12_038_0866,
-
-(Dokyung, person), (Dokyung - look at - person)
-
-shot_id: AnotherMissOh12_038_0868,
-
-(Chairman, Jiya), (Chairman - put - Jiya), (Chairman - down - Jiya)
-
-shot_id: AnotherMissOh12_038_0870,
-
-(Dokyung, person), (Dokyung - talk to - person)
-
-shot_id: AnotherMissOh12_038_0871,
-
-(Dokyung, wine), (wine - drink), (Dokyung - drink - wine)
-
-shot_id: AnotherMissOh12_038_0872,
-
-(Jiya, people), (people - laugh - Jiya)
-
-shot_id: AnotherMissOh12_038_0874,
-
-(Chairman, Dokyung), (Chairman - come - Dokyung), (Dokyung - talk - Chairman)
-
-shot_id: AnotherMissOh12_038_0875,
-
-(Chairman, someone), (someone - talk - Chairman)
-
-shot_id: AnotherMissOh12_038_0877,
-
-(Chairman, someone), (someone - listen - Chairman)
-
-shot_id: AnotherMissOh12_038_0878,
-"Dokyung is talking to someone":
-
-(Dokyung, someone), (Dokyung - talk to - someone)
-
-shot_id: AnotherMissOh12_038_0879,
-
-(Chairman, body), (body - move - Chairman)
-
-shot_id: AnotherMissOh12_038_0880,
-
-(Dokyung, Chairman), (Dokyung - shake - Chairman)
-
-shot_id: AnotherMissOh12_038_0881,
-
-(Chairman, someone), (someone - talk - Chairman)
-
-shot_id: AnotherMissOh12_038_0883,
-"Chairman is talking to a person":
-(Chairman, person), (person - listen - Chairman)
-
-shot_id: AnotherMissOh12_038_0885,
-
-(Chairman, person), (Chairman - talk to - person)
-
-shot_id: AnotherMissOh12_038_0887,
-
-
-Input - Chairman is talking to a person.
-(Chairman, person), (person - listening - Chairman)
-
-shot_id: AnotherMissOh12_038_0888,
-
-(Chairman, person), (Chairman - talk to - person)
-
-shot_id: AnotherMissOh12_038_0893,
-
-(Chairman, someone), (Chairman - tell - someone), (Chairman - smile)
-
-shot_id: AnotherMissOh12_038_0896,
-
-
-Input - Jiya is talking to people with smiling.
-(Jiya, people), (people - smiling), (Jiya - talk - people)
-
-shot_id: AnotherMissOh12_038_0897,
-
-(Jiya, laughter), (laughter - Chairman), (Jiya - laugh - Chairman)
-
-shot_id: AnotherMissOh12_038_0898,
-
-(Jiya, people), (Jiya - walk - people)
-
-shot_id: AnotherMissOh12_038_0900,
-you provided:
-
-Input - Jiya is talking to a person with smiling at the table.
-(Jiya, person), (person - smiling), (Jiya - talk - person)
-
-shot_id: AnotherMissOh12_038_0901,
-
-(Jiya, someone), (Jiya - smile - someone)
-Note: In this format, the first object is the subject of the sentence, the second object is the attribute, and the third object is the relation between the subject and the attribute.
-
-shot_id: AnotherMissOh12_038_0903,
-
-(Jiya, someone), (Jiya - look at - someone), (Jiya - smile)
-So the output for the given sentence is: (Jiya, someone), (Jiya - look at - someone), (Jiya - smile).
-
-shot_id: AnotherMissOh12_038_0905,
-
-(Jiya, talking), (Jiya - laugh - talking)
-
-shot_id: AnotherMissOh12_038_0907,
-
-(Jiya, someone), (Jiya - look at - someone)
-
-shot_id: AnotherMissOh12_038_0910,
-
-(Jiya), (Jiya - sit on - chair)
-
-shot_id: AnotherMissOh12_038_0916,
-
-(Chairman, wine glass), (Chairman - look - wine glass), (Chairman - hold - wine glass)
-
-shot_id: AnotherMissOh12_038_0922,
-
-(Chairman, wine glass), (Chairman - look - wine glass)
-
-shot_id: AnotherMissOh12_038_0923,
-"Jiya is sitting at the table":
-
-(Jiya, table), (table - sitting), (Jiya - sit - table)
-
-shot_id: AnotherMissOh12_038_0928,
-
-(Jiya, table), (Jiya - get - near - table)
-
-shot_id: AnotherMissOh12_038_0929,
-"Jiya is whispering to a person":
-(Jiya, person), (Jiya - talk to - person)
-So the format for this sentence is:
-(Subject), (Object - Attribute), (Subject - Relation - Object)
-
-shot_id: AnotherMissOh12_038_0930,
-"Jiya is raising her head":
-
-(Jiya, head), (head - raise), (Jiya - raise - head)
-
-shot_id: AnotherMissOh12_038_0932,
-
-(Dokyung, someone), (Dokyung - look at - someone)
-
-shot_id: AnotherMissOh12_038_0933,
-
-(Dokyung, wine), (wine - drink), (Dokyung - drink - wine)
-
-shot_id: AnotherMissOh12_038_0938,
-"Dokyung is walking to someone":
-
-Input - Dokyung is walking to someone.
-(Dokyung, someone), (someone - walk - Dokyung)
-
-shot_id: AnotherMissOh12_038_0939,
-
-(Dokyung, someone), (Dokyung - stand - someone)
-
-shot_id: AnotherMissOh12_038_0951,
-
-(Jiya, scream)
-(scream - Jiya)
-
-shot_id: AnotherMissOh12_039_0963,
-
-(Dokyung, watch), (Dokyung - wear - watch)
-
-shot_id: AnotherMissOh12_040_1003,
-
-(Chairman, game), (game - Taejin), (Chairman - play - game)
-
-shot_id: AnotherMissOh12_041_1004,
-
-(Chairman, bed), (bed - lie), (Chairman - lie - bed)
-
-shot_id: AnotherMissOh12_044_1043,
-
-(Chairman, chair), (chair - sit), (Chairman - sit - chair)
-
-shot_id: AnotherMissOh12_045_1053,
-
-
-Input - Haeyoung1 is talking on the phone.
-(Haeyoung1, phone), (phone - call), (Haeyoung1 - talk - phone)
-
-shot_id: AnotherMissOh12_045_1058,
-
-(Dokyung, phone), (Dokyung - hold - phone)
-
-shot_id: AnotherMissOh12_045_1059,
-
-(Haeyoung1, crying), (crying - attribute), (Haeyoung1 - talk - crying)
-
-
-shot_id: AnotherMissOh12_045_1061,
-
-(Haeyoung1, bed), (bed - lie), (Haeyoung1 - lie - bed)
-
-shot_id: AnotherMissOh12_046_1067,
-
-
-Input - Dokyung is wearing black shirt.
-(Dokyung, shirt), (shirt - black), (Dokyung - wear - shirt)
-
-shot_id: AnotherMissOh12_046_1073,
-
-(Dokyung, ground), (ground - lie - Dokyung)
-
-shot_id: AnotherMissOh12_046_1078,
-
-(Jiya, crying), (crying - talk), (Jiya - talk - crying)
-
-shot_id: AnotherMissOh12_046_1081,
-
-(Taejin), (Taejin - talking)
-
-shot_id: AnotherMissOh12_046_1103,
-
-(Haeyoung1, road), (road - walk), (Haeyoung1 - walk)
-
-shot_id: AnotherMissOh12_046_1115,
-
-
-Input - Dokyung is wearing a white T-shirt.
-(Dokyung, T-shirt), (T-shirt - white), (Dokyung - wear - T-shirt)
-
-shot_id: AnotherMissOh12_046_1135,
-
-(Dokyung, person), (Dokyung - hug - person)
-
-shot_id: AnotherMissOh12_046_1138,
-
-(Haeyoung1, road), (Haeyoung1 - stand - road), (Dokyung - stand - road)
-
-
-shot_id: AnotherMissOh12_046_1141,
-
-(Haeyoung1, Dokyung), (Haeyoung1 - talk to - Dokyung)
-
-shot_id: AnotherMissOh12_046_1144,
-
-(Dokyung, yell), (yell - Haeyoung1)
-
-shot_id: AnotherMissOh12_046_1148,
-
-(Dokyung, street), (Dokyung - walk on - street)
-
-shot_id: AnotherMissOh12_047_1184,
-
-(Soontack, phone), (Soontack - scream - phone)
-
-shot_id: AnotherMissOh12_047_1195,
-
-(Dokyung, seat belt), (seat belt - fasten), (Dokyung - fasten - seat belt)
-
-shot_id: AnotherMissOh12_047_1197,
-
-
-Input - Dokyung is driving his car.
-(Dokyung, car), (Dokyung - drive - car)
-
-shot_id: AnotherMissOh12_047_1201,
-
-(Dokyung, car), (Dokyung - drive - car)
+shot_id: AnotherMissOh12_034_0809, (Haeyoung1, Dokyung), (Haeyoung1 - talk to - Dokyung)
+shot_id: AnotherMissOh12_034_0812, (Haeyoung1, Dokyung), (Haeyoung1 - face - Dokyung)
+shot_id: AnotherMissOh12_034_0815, (Dokyung, someone), (Dokyung - talk to - someone)
+shot_id: AnotherMissOh12_034_0816, (Dokyung, room), (Dokyung - leave - room), (Dokyung - go to - other room)
+shot_id: AnotherMissOh12_034_0817, (Haeyoung1, Dokyung), (Dokyung - walking outside), (Haeyoung1 - walking outside), (Haeyoung1 - leave - Dokyung)
+shot_id: AnotherMissOh12_035_0818, (Haeyoung1, bus), (Haeyoung1 - in - bus)
+shot_id: AnotherMissOh12_035_0819, (Haeyoung1, bus), (Haeyoung1 - sitting), (Haeyoung1 - in - bus)
+shot_id: AnotherMissOh12_036_0821, (Kyungsu, furniture), (Kyungsu - walking), (Kyungsu - see - furniture)
+shot_id: AnotherMissOh12_036_0822, (Kyungsu, furniture), (Kyungsu - pick up - furniture)
+shot_id: AnotherMissOh12_036_0823, (Kyungsu, box, doll), (Kyungsu - move - box), (Kyungsu - pick up - doll)
+shot_id: AnotherMissOh12_036_0824, (Kyungsu), (Kyungsu - looking left)
+shot_id: AnotherMissOh12_037_0829, (Kyungsu, Deogi), (Deogi - look - people), (Kyungsu - look - people), (people - move - furniture)
+shot_id: AnotherMissOh12_037_0830, (Kyungsu, people, house), (Kyungsu - look at - people), (Kyungsu - in - house)
+shot_id: AnotherMissOh12_037_0831, (Kyungsu, people), (Kyungsu - look at - people), (people - hold - doll)
+shot_id: AnotherMissOh12_037_0832, (Deogi), (Deogi - looking front)
+shot_id: AnotherMissOh12_037_0838, (Haeyoung1, room), (Haeyoung1 - sleeping), (Haeyoung1 - in - room)
+shot_id: AnotherMissOh12_037_0839, (Haeyoung1), (Haeyoung1 - sleeping)
+shot_id: AnotherMissOh12_038_0840, (Jiya, Chairman, cake), (cut - together), (Jiya - cut - cake), (Chairman - cut - cake)
+shot_id: AnotherMissOh12_038_0841, (Jiya, Chairman, cake), (Jiya - cut - cake), (Chairman - cut - cake)
+shot_id: AnotherMissOh12_038_0843, (Dokyung, somewhere), (Dokyung - look at - somewhere)
+shot_id: AnotherMissOh12_038_0844, (Jiya, Chairman, wine), (Jiya - drink - wine), (Chairman - drink - wine)
+shot_id: AnotherMissOh12_038_0845, (Chairman, Jiya), (cheek - Jiya), (Chairman - kiss - cheek)
+shot_id: AnotherMissOh12_038_0847, (Dokyung, wine), (Dokyung - drink - wine)
+shot_id: AnotherMissOh12_038_0848, (Jiya, cheek), (cheek - Chairman), (Jiya - kiss - cheek)
+shot_id: AnotherMissOh12_038_0850, (Dokyung, somewhere), (Dokyung - look at - somewhere)
+shot_id: AnotherMissOh12_038_0851, (Jiya, Chairman, person), (Jiya - greet - person), (Chairman - greet - person)
+shot_id: AnotherMissOh12_038_0853, (Dokyung, wine), (Dokyung - drink - wine)
+shot_id: AnotherMissOh12_038_0854, (Jiya, Chairman, someone), (Jiya - greet - someone), (Chairman - greet - someone)
+shot_id: AnotherMissOh12_038_0855, (Dokyung, wine glass), (Dokyung - hold - wine glass)
+shot_id: AnotherMissOh12_038_0856, (Chairman, Jiya, person), (person - to - Jiya), (Chairman - introduce - person)
+shot_id: AnotherMissOh12_038_0857, (Dokyung, someone), (Dokyung - talk to - someone)
+shot_id: AnotherMissOh12_038_0859, (Dokyung, someone), (Dokyung - talk to - someone)
+shot_id: AnotherMissOh12_038_0861, (Chairman, Jiya), (back - Chairman), (Chairman - carry - Jiya), (Jiya - on - back)
+shot_id: AnotherMissOh12_038_0862, (Dokyung, person), (Dokyung - talk to - person), (person - next to - Dokyung)
+shot_id: AnotherMissOh12_038_0866, (Dokyung, person), (Dokyung - look at - person)
+shot_id: AnotherMissOh12_038_0868, (Chairman, Jiya), (Chairman - put down - Jiya), (Jiya - on - floor)
+shot_id: AnotherMissOh12_038_0870, (Dokyung, person), (Dokyung - talk to - person)
+shot_id: AnotherMissOh12_038_0871, (Dokyung, wine), (Dokyung - drink - wine)
+shot_id: AnotherMissOh12_038_0872, (Jiya, people), (Jiya - laugh with - people)
+shot_id: AnotherMissOh12_038_0874, (Chairman, Dokyung), (Chairman - come to - Dokyung), (Chairman - talk to - Dokyung)
+shot_id: AnotherMissOh12_038_0875, (Chairman, someone), (Chairman - talk to - someone)
+shot_id: AnotherMissOh12_038_0877, (Chairman, someone), (Chairman - talk to - someone)
+shot_id: AnotherMissOh12_038_0878, (Dokyung, someone), (Dokyung - talk to - someone)
+shot_id: AnotherMissOh12_038_0879, (Chairman, body), (Chairman - move - body)
+shot_id: AnotherMissOh12_038_0880, (Dokyung, Chairman, hands), (Dokyung - shake - hands), (Chairman - shake - hands)
+shot_id: AnotherMissOh12_038_0881, (Chairman, someone), (Chairman - talk to - someone)
+shot_id: AnotherMissOh12_038_0883, (Chairman, person), (Chairman - talk to - person)
+shot_id: AnotherMissOh12_038_0885, (Chairman, person), (Chairman - talk to - person)
+shot_id: AnotherMissOh12_038_0887, (Chairman, person), (Chairman - talk to - person)
+shot_id: AnotherMissOh12_038_0888, (Chairman, person), (Chairman - talk to - person)
+shot_id: AnotherMissOh12_038_0893, (Chairman, someone), (Chairman - tell - someone)
+shot_id: AnotherMissOh12_038_0896, (Jiya, people), (Jiya - smiling), (Jiya - talk to - people)
+shot_id: AnotherMissOh12_038_0897, (Jiya, Chairman), (Chairman - laughing), (Jiya - laughing)
+shot_id: AnotherMissOh12_038_0898, (Jiya, people), (Jiya - walking around), (Jiya - greet - people)
+shot_id: AnotherMissOh12_038_0900, (Jiya, person, table), (Jiya - smiling), (Jiya - at - table) (Jiya - talk to - person)
+shot_id: AnotherMissOh12_038_0901, (Jiya, someone), (Jiya - smiling), (Jiya - talk to - someone)
+shot_id: AnotherMissOh12_038_0903, (Jiya, someone), (Jiya - smiling), (Jiya - look at - someone)
+shot_id: AnotherMissOh12_038_0905, (Jiya), (Jiya - laughing)
+shot_id: AnotherMissOh12_038_0907, (Jiya, someone), (Jiya - look at - someone)
+shot_id: AnotherMissOh12_038_0910, (Jiya), (Jiya - laughing), (Jiya - sit on - chair)
+shot_id: AnotherMissOh12_038_0916, (Chairman, someone, wine glass), (Chairman - look at - someone), (Chairman - hold - wine glass)
+shot_id: AnotherMissOh12_038_0922, (Chairman, wine glass), (Chairman - looking front), (Chairman - hold - wine glass)
+shot_id: AnotherMissOh12_038_0923, (Jiya, table), (Jiya - sit at - table)
+shot_id: AnotherMissOh12_038_0928, (Jiya, table), (Jiya - getting up), (Jiya - near - table)
+shot_id: AnotherMissOh12_038_0929, (Jiya, person), (Jiya - whisper to - person)
+shot_id: AnotherMissOh12_038_0930, (Jiya, head), (Jiya - raise - head)
+shot_id: AnotherMissOh12_038_0932, (Dokyung, someone), (Dokyung - look at - someone), (Dokyung - at - party)
+shot_id: AnotherMissOh12_038_0933, (Dokyung, wine), (Dokyung - drink - wine)
+shot_id: AnotherMissOh12_038_0938, (Dokyung, someone), (Dokyung - walk to - someone)
+shot_id: AnotherMissOh12_038_0939, (Dokyung, someone), (Dokyung - standing), (Dokyung - in front of - someone)
+shot_id: AnotherMissOh12_038_0951, (Jiya), (Jiya - screaming)
+shot_id: AnotherMissOh12_039_0963, (Dokyung, watch), (Dokyung - wear - watch)
+shot_id: AnotherMissOh12_040_1003, (Chairman, Taejin, game), (play - with Taejin), (Chairman - play - game)
+shot_id: AnotherMissOh12_041_1004, (Chairman, bed), (Chairman - lie on - bed)
+shot_id: AnotherMissOh12_044_1043, (Chairman, chair), (Chairman - sit on - chair)
+shot_id: AnotherMissOh12_045_1053, (Haeyoung1, phone), (Haeyoung1 - talk on - phone)
+shot_id: AnotherMissOh12_045_1058, (Dokyung, phone), (Dokyung - hold - phone)
+shot_id: AnotherMissOh12_045_1059, (Haeyoung1), (Haeyoung1 - crying), (Haeyoung1 - talking)
+shot_id: AnotherMissOh12_045_1061, (Haeyoung1, bed), (Haeyoung1 - lie on - bed)
+shot_id: AnotherMissOh12_046_1067, (Dokyung, shirt), (shirt - black), (Dokyung - wear - shirt)
+shot_id: AnotherMissOh12_046_1073, (Dokyung, ground), (Dokyung - lie on - ground)
+shot_id: AnotherMissOh12_046_1078, (Jiya), (Jiya - crying), (Jiya - talking)
+shot_id: AnotherMissOh12_046_1081, (Taejin), (Taejin - talking)
+shot_id: AnotherMissOh12_046_1103, (Haeyoung1, road), (Haeyoung1 - walk on - road)
+shot_id: AnotherMissOh12_046_1115, (Dokyung, T-shirt), (T-shirt - white), (Dokyung - wear - T-shirt)
+shot_id: AnotherMissOh12_046_1135, (Dokyung, person), (Dokyung - hug - person)
+shot_id: AnotherMissOh12_046_1138, (Haeyoung1, road), (Haeyoung1 - stand on - road), (Dokyung - stand on - road)
+shot_id: AnotherMissOh12_046_1141, (Haeyoung1, Dokyung), (Haeyoung1 - talk to - Dokyung)
+shot_id: AnotherMissOh12_046_1144, (Dokyung, Haeyoung1), (Dokyung - yell to - Haeyoung1)
+shot_id: AnotherMissOh12_046_1148, (Dokyung, street), (Dokyung - walk on - street)
+shot_id: AnotherMissOh12_047_1184, (Soontack, phone), (Soontack - screaming), (Soontack - hold - phone)
+shot_id: AnotherMissOh12_047_1195, (Dokyung, seat belt, car), (Dokyung - fasten - seat belt), (Dokyuung - in - car)
+shot_id: AnotherMissOh12_047_1197, (Dokyung, car), (Dokyung - drive - car)
+shot_id: AnotherMissOh12_047_1201, (Dokyung, car), (Dokyung - drive - car)
