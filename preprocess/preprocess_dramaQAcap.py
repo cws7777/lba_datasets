@@ -1,11 +1,26 @@
 import json
+import argparse
 
-file_path = '../originals/DramaCap_train.json'
-qa_file = '../originals/AnotherMissOhQA_train_set.json'
-output_file = './AnotherMissOh_integrated_train.json.rows'
+parser = argparse.ArgumentParser()
+parser.add_argument("--capfile",  help="Required original caption file of DramaQA", type=str, default="../originals/DramaCap_train.json")
+parser.add_argument("--qafile",  help="Required original QA file of DramaQA", type=str, default="../originals/AnotherMissOhQA_train_set.json")
+parser.add_argument("--tuplefile",  help="Required txt file of DramaCaption tuples", type=str, default="../processed/DramaCap_train_shotscene_wo_sent.txt")
+parser.add_argument("--output", help="Processed file output file path", type=str, default="./AnotherMissOh_integrated_train.json.rows")
+
+args = parser.parse_args()
+#out_file = open(args.output, 'w')
+
+#open_file = open(args.jsonrows, 'r')
+#txt_file = open(args.tupletxt, 'r')
+
+cap_file = args.capfile
+qa_file = args.qafile
+tuple_file = args.tuplefile
+output_file = args.output
+
 sent_list = []
 shot_key = []
-with open(file_path, 'r') as f:
+with open(cap_file, 'r') as f:
     data = json.load(f)
 
     for i, key in enumerate(data):
@@ -17,8 +32,8 @@ with open(file_path, 'r') as f:
 
 qa_que = []
 qa_vid = []
-with open(qa_file, 'r') as f:
-    qa_data = json.load(f)
+with open(qa_file, 'r') as q:
+    qa_data = json.load(q)
     leng = len(qa_data)
 
     for i in range(leng):
@@ -31,15 +46,23 @@ with open(qa_file, 'r') as f:
 
             #ans_num = qa_data[i]["correct_idx"]
             #ans = qa_data[i]["answers"][ans_num]
+tuple_list = []
+
+with open(tuple_file, 'r') as t:
+    for i in range(len(sent_list)):
+        line = t.readline()
+        tuples = line.strip('\n')
+        tuple_list.append(tuples)
 
 integrated_dict = {}
 with open(output_file, 'w') as outfile:
     for vid_id, qa in zip(qa_vid, qa_que):
-        for shot_id, cap in zip(shot_key, sent_list):
+        for shot_id, cap, tupless in zip(shot_key, sent_list, tuple_list):
             if shot_id == vid_id:
                 integrated_dict["shot_id"] = shot_id
                 integrated_dict["sent"] = cap
                 integrated_dict["qa"] = qa
+                integrated_dict["tuples"] = tupless 
                 outfile.write(json.dumps(integrated_dict))
                 outfile.write('\n')
     """
