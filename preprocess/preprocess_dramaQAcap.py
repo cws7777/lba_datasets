@@ -2,10 +2,10 @@ import json
 import argparse
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--capfile",  help="Required original caption file of DramaQA", type=str, default="../originals/DramaCap_val.json")
-parser.add_argument("--qafile",  help="Required original QA file of DramaQA", type=str, default="../originals/AnotherMissOhQA_val_set.json")
-parser.add_argument("--tuplefile",  help="Required txt file of DramaCaption tuples", type=str, default="../processed/DramaCap_val_shotscene_wo_sent.txt")
-parser.add_argument("--output", help="Processed file output file path", type=str, default="../processed/AnotherMissOh_integrated_val.json.rows")
+parser.add_argument("--capfile",  help="Required original caption file of DramaQA", type=str, default="../originals/DramaCap_test.json")
+parser.add_argument("--qafile",  help="Required original QA file of DramaQA", type=str, default="../originals/AnotherMissOhQA_test_set.json")
+parser.add_argument("--tuplefile",  help="Required txt file of DramaCaption tuples", type=str, default="../processed/DramaCap_test_shotscene_wo_sent.txt")
+parser.add_argument("--output", help="Processed file output file path", type=str, default="../processed/AnotherMissOh_integrated_test.json.rows")
 
 args = parser.parse_args()
 #out_file = open(args.output, 'w')
