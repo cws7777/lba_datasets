@@ -4,8 +4,8 @@ import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument("--capfile",  help="Required original caption file of DramaQA", type=str, default="../originals/DramaCap_test.json")
 parser.add_argument("--qafile",  help="Required original QA file of DramaQA", type=str, default="../originals/AnotherMissOhQA_test_set.json")
-parser.add_argument("--tuplefile",  help="Required txt file of DramaCaption tuples", type=str, default="../processed/DramaCap_test_shotscene_wo_sent.txt")
-parser.add_argument("--output", help="Processed file output file path", type=str, default="../processed/AnotherMissOh_integrated_test.json.rows")
+parser.add_argument("--tuplefile",  help="Required txt file of DramaCaption tuples", type=str, default="../processed/tuples/DramaCap_test_shotscene_tuple.txt")
+parser.add_argument("--output", help="Processed file output file path", type=str, default="../processed/AnotherMissOh_integrated_test_real.json.rows")
 
 args = parser.parse_args()
 #out_file = open(args.output, 'w')
@@ -29,6 +29,8 @@ with open(cap_file, 'r') as f:
         caption = data[key]
         shot_key.append(key)
         sent_list.append(caption)
+#print(len(shot_key)) #2189
+#print(len(sent_list)) #2189
 
 qa_que = []
 qa_vid = []
@@ -54,6 +56,15 @@ with open(tuple_file, 'r') as t:
         tuples = line.strip('\n')
         tuple_list.append(tuples)
 
+#print(len(tuple_list))  #2189
+#idx = shot_key.index("AnotherMissOh18_002_0035")
+#print(idx)
+#cappppp = sent_list[idx]
+#tupleeee = tuple_list[idx]
+#print(cappppp)
+#print(tupleeee)
+#exit(0)
+
 integrated_dict = {}
 with open(output_file, 'w') as outfile:
     for vid_id, qa in zip(qa_vid, qa_que):
@@ -65,6 +76,8 @@ with open(output_file, 'w') as outfile:
                 integrated_dict["tuples"] = tupless 
                 outfile.write(json.dumps(integrated_dict))
                 outfile.write('\n')
+            else:
+                continue
     """
     for shot, cap in zip(shot_key, amrbart_list):
         amrbart_dict["shot_id"] = shot

@@ -1,0 +1,670 @@
+{
+    "episode": "AnotherMissOh13_000_0000",
+    "episode_sum": "Heeran goes for a drive with Haeyoung1, who is having a hard time. Haeyoung1 laments her current situation, and Heeran offers words of comfort to Haeyoung1. Dokyung visits Haeyoung1 and confesses his feelings, asking for his forgiveness, but Haeyoung1 is determined and rejects Dokyung. Haeyoung1 proudly goes to work and her colleagues are puzzled by his appearance. Haeyoung1 acts calm towards these colleagues. Haeyoung1 is puzzled by Sukyung's unusual appearance, wearing heelless shoes and eating snacks. Haeyoung1 confessed to Haeyoung2 that she had made up her mind about Dokyung, and Haeyoung2 was saddened by these words. Dokyung catches Haeyoung1 differently from the future he saw. Although Dokyung turned around and couldn't see it, unlike the future that Dokyung saw, Haeyoung1 does not answer Taejin's phone call. Haeyoung1 says they should break up with Taejin during a meal, but Taejin says they should meet up a little more and then break up. Taejin visits Dokyung's office and gives him a sarcastic warning. When Dokyung happened to run into Haeyoung1 while walking down the street, he started talking to Haeyoung1, and Haeyoung1 turned away, telling him not to pretend to know. Unlike the future he saw, Dokyung mentioned Haeyoung1's uncomfortable shoes, and although Dokyung turned around and couldn't see it, unlike the future Dokyung saw, Haeyoung1 and Taejin do not hold hands. Haeyoung1 purposely wears uncomfortable shoes to forget about Dokyung, and while she is in pain, she does not take medicine and collapses. Haeyoung1 wakes up in the emergency room and accidentally meets Dokyung. Unlike the future he saw, Dokyung expressed his sincere apology and honest confession to Haeyoung1 and left the hospital. Haeyoung1 chases Dokyung crying and Haeyoung1 and Dokyung kiss.",
+    "episode_kg": {
+        "Haeyoung1": {
+            "personality": [
+                "determined",
+                "proud",
+                "emotional"
+            ],
+            "relationship": [
+                "interactions with Dokyung, Haeyoung2, Taejin, Heeran, Sukyung"
+            ],
+            "events": [
+                "rejects Dokyung's confession of feelings",
+                "acts calm at work despite puzzlement of colleagues",
+                "confesses to Haeyoung2 about her decision regarding Dokyung",
+                "refuses to hold hands with Taejin during a meal",
+                "purposely wears uncomfortable shoes to forget about Dokyung",
+                "collapses due to pain and ends up in the emergency room",
+                "chases Dokyung crying"
+            ]
+        },
+        "Dokyung": {
+            "personality": [
+                "apologetic",
+                "observant",
+                "sincere"
+            ],
+            "relationship": [
+                "interactions with Haeyoung1, Haeyoung2, Taejin, Heeran, Sukyung"
+            ],
+            "events": [
+                "confesses his feelings to Haeyoung1 and asks for forgiveness, which she rejects",
+                "notices unusual appearance of Haeyoung1 and mentions it",
+                "receives a sarcastic warning from Taejin",
+                "talks to Haeyoung1 on the street but gets rejected",
+                "accidentally meets Haeyoung1 in the hospital, expresses sincere apology and confession, then leaves",
+                "gets chased by Haeyoung1 and kisses her"
+            ]
+        },
+        "Heeran": {
+            "personality": [
+                "supportive",
+                "comforting"
+            ],
+            "relationship": [
+                "interactions with Haeyoung1"
+            ],
+            "events": [
+                "goes for a drive with Haeyoung1 and offers words of comfort during a hard time"
+            ]
+        },
+        "Sukyung": {
+            "personality": [
+                "unusual",
+                "puzzled"
+            ],
+            "relationship": [
+                "interactions with Haeyoung1"
+            ],
+            "events": [
+                "appears unusual to Haeyoung1 by wearing heelless shoes and eating snacks",
+                "puzzles Haeyoung1 with her behavior"
+            ]
+        },
+        "Taejin": {
+            "personality": [
+                "sarcastic",
+                "indecisive"
+            ],
+            "relationship": [
+                "interactions with Haeyoung1, Dokyung"
+            ],
+            "events": [
+                "receives a sarcastic warning from Taejin",
+                "discusses breaking up with Haeyoung1 during a meal but suggests meeting up a little more first",
+                "visits office of Dokyung and warns him sarcastically"
+            ]
+        }
+    },
+    "related_scene": [
+        "AnotherMissOh13_003_0000",
+        "AnotherMissOh13_004_0000",
+        "AnotherMissOh13_005_0000",
+        "AnotherMissOh13_010_0000",
+        "AnotherMissOh13_013_0000",
+        "AnotherMissOh13_014_0000",
+        "AnotherMissOh13_016_0000",
+        "AnotherMissOh13_024_0000",
+        "AnotherMissOh13_025_0000",
+        "AnotherMissOh13_030_0000",
+        "AnotherMissOh13_031_0000",
+        "AnotherMissOh13_037_0000",
+        "AnotherMissOh13_040_0000",
+        "AnotherMissOh13_041_0000",
+        "AnotherMissOh13_042_0000"
+    ],
+    "epi_qas": {},
+    "AnotherMissOh13_001_0000": {
+        "scene_description": "Dokyung calls Soontack and while driving, promising that he doesn't want to die without regrets."
+    },
+    "AnotherMissOh13_002_0000": {
+        "scene_description": "Haeyoung1 packed the things Dokyung had given as gifts and gave them to Dokyung."
+    },
+    "AnotherMissOh13_003_0000": {
+        "scene_description": "Heeran came to Haeyoung1's house to hang out with Haeyoung1, and Deogi came out to meet Heeran and welcome her. Haeyoung1 comes out of the house later, and Deogi feels sad when Deogi sees Haeyoung1's clothing style."
+    },
+    "AnotherMissOh13_004_0000": {
+        "scene_description": "Heeran turns on the radio to soothe Haeyoung1's mind, and the song playing on the radio is similar to Haeyoung1's situation. Haeyoung1 listens to music and thinks about the times Haeyoung1 spends with Dokyung."
+    },
+    "AnotherMissOh13_005_0000": {
+        "scene_description": "Haeyoung1 walks with Heeran and talks about life and love. Haeyoung1 also tells Heeran that Haeyoung1 is dumped by Dokyung. Heeran sympathizes with Haeyoung1 and says that men do not know how women feel."
+    },
+    "AnotherMissOh13_006_0000": {
+        "scene_description": "Haeyoung1 catch a cold because Haeyoung1 plays wetly with Heeran the day before. Deogi brings her a warm drink and asks."
+    },
+    "AnotherMissOh13_007_0000": {
+        "scene_description": "Dokyung comes to Haeyoung1's house, and Kyungsu tells Dokyung to go back quickly before Deogi comes to catch him. Dokyung is eventually caught and scolded by Deogi. Dokyung keeps saying sorry to Deogi."
+    },
+    "AnotherMissOh13_008_0000": {
+        "scene_description": "Kyungsu informs Haeyoung1 that Dokyung has arrived."
+    },
+    "AnotherMissOh13_009_0000": {
+        "scene_description": "Haeyoung1 lets Kyungsu and Deogi into the house. Dokyung says he is sorry to Haeyoung1, but Haeyoung1 has already left her mind to Dokyung."
+    },
+    "AnotherMissOh13_010_0000": {
+        "scene_description": "Haeyoung1 tells Dokyung that she doesn't need the lamp anymore and gives it back to him. Haeyoung1 enters the house and Dokyung stands in front of the house."
+    },
+    "AnotherMissOh13_011_0000": {
+        "scene_description": "Dokyung tells Soontack about what he sees and actually happens. Soontack tells Dokyung to relax and go with the flow."
+    },
+    "AnotherMissOh13_012_0000": {
+        "scene_description": "Dokyung is not afraid of his own death, but he regrets not giving Haeyoung1 much love."
+    },
+    "AnotherMissOh13_013_0000": {
+        "scene_description": "Haeyoung1 is going to work and saying hello to people around him."
+    },
+    "AnotherMissOh13_014_0000": {
+        "scene_description": "Haeyoung1 talks brightly to her co-workers. Sungjin and her coworkers feel a little uncomfortable about Haeyoung1's behavior."
+    },
+    "AnotherMissOh13_015_0000": {
+        "scene_description": "Sukyung finds out what happened between Haeyoung1 and Dokyung and says sorry to Haeyoung1. Haeyoung1 tells Sukyung that she will live like Sukyung. Haeyoung2 also apologizes to Haeyoung1 for having a hard time because of her. Haeyoung1 says it's ok and tells Haeyoung2 that she is done with Dokyung."
+    },
+    "AnotherMissOh13_016_0000": {
+        "scene_description": "Haeyoung2 is sad about the breakup between Dokyung and Haeyoung1 while making and eating salad."
+    },
+    "AnotherMissOh13_017_0000": {
+        "scene_description": "Anna cleans Hun's ear"
+    },
+    "AnotherMissOh13_018_0000": {
+        "scene_description": "Anna is cooking. Hun got phone call from Heeran that Heeran wants to edit the scenario that Hun wrote."
+    },
+    "AnotherMissOh13_019_0000": {
+        "scene_description": "Heeran and Hun have a conversation at caf\u00e9 about the scenario that Hun wrote."
+    },
+    "AnotherMissOh13_020_0000": {
+        "scene_description": "Sukyung gets out from the bus. Sukyung asks the women to take her home. Sukyung tells the women that Sukyung is pregnant."
+    },
+    "AnotherMissOh13_021_0000": {
+        "scene_description": "Sukyung is talking with the women about Jinsang at the cafe. Jinsang is talking with Sukyung on the phone. Jinsang asks his friends for solutions to her pregnancy woes and tells Sukyung."
+    },
+    "AnotherMissOh13_022_0000": {
+        "scene_description": "Sukyung hangs up the phone, and the woman tells Sukyung to tell the pregnancy woes to Jinsang."
+    },
+    "AnotherMissOh13_023_0000": {
+        "scene_description": "The landlord found out that Dokyung had given the deposit to Haeyoung1. Haeyoung1 tells landlord that it doesn't matter anymore and she wants to get out of this room. Dokyung does not act like the future he saw and tells Haeyoung1 to come back."
+    },
+    "AnotherMissOh13_024_0000": {
+        "scene_description": "Haeyoung1 comes out to the street. Dokyung follows and asks Haeyoung1 to drive her home. Haeyoung1 rejects and keeps walking. Dokyung saw Haeyoung1 answer Taejin's call in the future. However, in reality, Haeyoung1 doesn't answer Taejin's call."
+    },
+    "AnotherMissOh13_025_0000": {
+        "scene_description": "Haeyoung1 told Taejin to break up while having a meal with Taejin at a restaurant. Taejin doesn't want to break up and asks Haeyoung1 to take a little more time."
+    },
+    "AnotherMissOh13_026_0000": {
+        "scene_description": "Haeyoung1 comes back home and talks with Deogi. Deogi worries about Haeyoung1's cold. However, Haeyoung1 says it's ok"
+    },
+    "AnotherMissOh13_027_0000": {
+        "scene_description": "Haeyoung1 is tired. Haeyoung1 looks at something and smiles."
+    },
+    "AnotherMissOh13_028_0000": {
+        "scene_description": "Haeyoung1 sees the shoes in the shoe cabinet and remembers that Dokyung had previously placed shoes in the room for Haeyoung1."
+    },
+    "AnotherMissOh13_029_0000": {
+        "scene_description": "Haeyoung1 continues to think on the bus."
+    },
+    "AnotherMissOh13_030_0000": {
+        "scene_description": "Taejin comes to Dokyung's office and tells Dokyung that he has double-checked what Dokyung has done. Taejin also tells that he will put everything that happened due to Dokyung back in place."
+    },
+    "AnotherMissOh13_031_0000": {
+        "scene_description": "Taejin has left Dokyung's office while Sangseok and Gitae is greeting to Taejin even though they don't know Taejin."
+    },
+    "AnotherMissOh13_032_0000": {
+        "scene_description": "Dokyung is worried and depressed"
+    },
+    "AnotherMissOh13_033_0000": {
+        "scene_description": "Heeran suggested to Hun that they revise the unfinished scenario together within today."
+    },
+    "AnotherMissOh13_034_0000": {
+        "scene_description": "Hun mistakenly thinks that Heeran is flirting with him while he is editing the scenario at Heeran's house."
+    },
+    "AnotherMissOh13_035_0000": {
+        "scene_description": "Dokyung talks with a man about the sound of movie."
+    },
+    "AnotherMissOh13_036_0000": {
+        "scene_description": "Dokyung thinks of Haeyoung1 while watching a movie in a cinema."
+    },
+    "AnotherMissOh13_037_0000": {
+        "scene_description": "Dokyung encounters Haeyoung1 on the street, and the situation unfolds differently from what Dokyung expected."
+    },
+    "AnotherMissOh13_038_0000": {
+        "scene_description": "Jinsang tries to lighten Dokyung's distraught mood. Dokyung sees himself having an accident in the future."
+    },
+    "AnotherMissOh13_039_0000": {
+        "scene_description": "Haeyoung1 returns home and enters her room after talking with her parents. Her parents are worried about Haeyoung1."
+    },
+    "AnotherMissOh13_040_0000": {
+        "scene_description": "Haeyoung1 explains why she went out wearing high heels even though she knew it would hurt."
+    },
+    "AnotherMissOh13_041_0000": {
+        "scene_description": "Deogi takes Haeyoung1 to the hospital with Kyungsu after finding out that Haeyoung1 did not take his medicine."
+    },
+    "AnotherMissOh13_042_0000": {
+        "scene_description": "Deogi and Kyungsu are worried while Haeyoung1 lied on the bed is being carried away while "
+    },
+    "AnotherMissOh13_043_0000": {
+        "scene_description": "Dokyung and Haeyoung1 meet at the hospital. Dokyung behaves differently from the future he saw."
+    },
+    "AnotherMissOh13_044_0000": {
+        "scene_description": "Haeyoung1 can't stand it anymore and chases after Dokyung and kisses him."
+    }
+}{
+    "episode": "AnotherMissOh14_000_0000",
+    "episode_sum": "After kissing again, Haeyoung1 and Dokyung boldly reveal their affection for each other. Jinsang tells Sukyung about the good dream he had yesterday, and Sukyung senses that the dream was a prenatal dream. Jinsang fails to realize that he is the father of Sukyung's baby, which frustrates Sukyung. Sukyung, who makes eye contact with Haeyoung1 as he gets out of Dokyung's car, asks them not to ever separate from each other in the future. Haeyoung2 congratulates Haeyoung1 and turns around. Dokyung has to cancel his appointment with Haeyoung1 due to a business trip and is discouraged. Dokyung decides to kidnap Haeyoung1 with the help of his colleagues. Dokyung's colleagues pretend to be police officers and take Haeyoung1 from work. Haeyoung1, who met Dokyung like that, smiles. Haeyoung1's colleagues, worried about Haeyoung1, call the police, and Deogi collapses when the police tell her that Haeyoung1 has been kidnapped. While Haeyoung1 and Dokyung were spending time alone, the police found them and they were all called to the police station. Dokyung bows his head and apologizes to Haeyoung1's parents. Jinsang buys chicken for Sukyung and visits her, and because of what Sukyung said, Jinsang realizes that he is the father of Sukyung's baby and screams. Haeyoung1 meets Taejin and announces her breakup, revealing her commitment to love with Dokyung. Haeyoung2 runs into Dokyung and pretends to be calm, but Haeyoung2, who still has feelings for Dokyung, collapses and bursts into tears. Dokyung is devastated to see that the future of his death has not changed, but Haeyoung1 does not know that and is just happy.",
+    "episode_kg": {
+        "Haeyoung1": {
+            "personality": [
+                "bold",
+                "affectionate",
+                "determined"
+            ],
+            "relationship": [
+                "interactions with Dokyung, Haeyoung2, Taejin, Jinsang, Sukyung, Deogi"
+            ],
+            "events": [
+                "boldly reveals affection for Dokyung",
+                "meets Taejin to announce breakup and commitment to love with Dokyung",
+                "kidnapped by Dokyung's colleagues with Dokyung's plan",
+                "meets Dokyung and smiles despite the situation",
+                "Unaware of premonition of Dokyung about his death",
+                "causes concern for her well-being among colleagues and family"
+            ]
+        },
+        "Dokyung": {
+            "personality": [
+                "determined",
+                "remorseful",
+                "desperate"
+            ],
+            "relationship": [
+                "interactions with Haeyoung1, Haeyoung2, Jinsang, Sukyung, Deogi"
+            ],
+            "events": [
+                "boldly reveals affection for Haeyoung1",
+                "plans to kidnap Haeyoung1 with colleagues",
+                "apologizes to Haeyoung1's parents after being caught by the police",
+                "devastated by the realization of his future death despite efforts to change it",
+                "cancels appointment with Haeyoung1 due to business trip",
+                "meets Haeyoung1 at the police station and apologizes"
+            ]
+        },
+        "Haeyoung2": {
+            "personality": [
+                "pretends to be calm",
+                "emotional"
+            ],
+            "relationship": [
+                "interactions with Dokyung, Haeyoung1"
+            ],
+            "events": [
+                "congratulates Haeyoung1 on her relationship with Dokyung",
+                "runs into Dokyung and collapses, revealing lingering feelings for him",
+                "pretends to be calm but bursts into tears",
+                "reacts emotionally to seeing Dokyung"
+            ]
+        },
+        "Sukyung": {
+            "personality": [
+                "frustrated",
+                "surprised"
+            ],
+            "relationship": [
+                "interactions with Jinsang"
+            ],
+            "events": [
+                "frustrated by Jinsang's failure to realize he's the father of her baby; Sensing a prenatal dream",
+                "receives a visit from Jinsang who eventually realizes he's the father of her baby and screams"
+            ]
+        },
+        "Jinsang": {
+            "personality": [
+                "surprised",
+                "determined"
+            ],
+            "relationship": [
+                "interactions with Sukyung, Haeyoung1"
+            ],
+            "events": [
+                "tells Sukyung about a good dream and eventually realizes he's the father of her baby",
+                "visits Sukyung with chicken and realizes his paternity"
+            ]
+        }
+    },
+    "related_scene": [
+        "AnotherMissOh14_001_0000",
+        "AnotherMissOh14_006_0000",
+        "AnotherMissOh14_007_0000",
+        "AnotherMissOh14_008_0000",
+        "AnotherMissOh14_015_0000",
+        "AnotherMissOh14_016_0000",
+        "AnotherMissOh14_017_0000",
+        "AnotherMissOh14_021_0000",
+        "AnotherMissOh14_024_0000",
+        "AnotherMissOh14_028_0000",
+        "AnotherMissOh14_029_0000",
+        "AnotherMissOh14_032_0000",
+        "AnotherMissOh14_033_0000",
+        "AnotherMissOh14_035_0000",
+        "AnotherMissOh14_036_0000"
+    ],
+    "epi_qas": {},
+    "AnotherMissOh14_001_0000": {
+        "scene_description": "Dokyung and Haeyoung1 reaffirm their feelings for each other and are happy."
+    },
+    "AnotherMissOh14_002_0000": {
+        "scene_description": "Haeyoung1 is sad to be part from Dokyung."
+    },
+    "AnotherMissOh14_003_0000": {
+        "scene_description": "Deogi and Kyungsu are worried because Haeyoung1 has disappeared, but are surprised to see her at home."
+    },
+    "AnotherMissOh14_004_0000": {
+        "scene_description": "Soontack likes after hearing from Dokyung that the situation is going differently from what Dokyung expected. However, Dokyung still worries about the prophecy that he will die."
+    },
+    "AnotherMissOh14_005_0000": {
+        "scene_description": "Dokyung waits in front of Haeyoung1's house and gives Haeyoung1 ride to work."
+    },
+    "AnotherMissOh14_006_0000": {
+        "scene_description": "Hun, Sukyung, and Jinsang are sitting in the living room and talking about Jinsang's dream. Sukyung is interested in the dream because it seems to be a prenatal dream."
+    },
+    "AnotherMissOh14_007_0000": {
+        "scene_description": "Jinsang and Sukyung are talking about Sukyung's pregnancy in the car. Sukyung doesn't want Jinsang to know that the baby is your child. Jinsang says he will find out who the father is."
+    },
+    "AnotherMissOh14_008_0000": {
+        "scene_description": "Sukyung sees Dokyung driving Haeyoung1 to work. Sukyung congratulates Haeyoung1 and tells her not to break up with Dokyung in the elevator. Haeyoung2 also congratulates Haeyoung1."
+    },
+    "AnotherMissOh14_009_0000": {
+        "scene_description": "Deogi and Kyungsu are happy because Haeyoung1 got good grades. Haeyoung2 came to Haeyoung1\u2019s house to say that the report card had changed."
+    },
+    "AnotherMissOh14_010_0000": {
+        "scene_description": "Haeyoung2 heads home to see his mother with Haeyoung1's report card. Haeyoung2's mom tells Haeyoung2 that she is going to divorce Chairman"
+    },
+    "AnotherMissOh14_011_0000": {
+        "scene_description": "Jeongsuk continues to smile after looking at Haeyoung1\u2019s report card. Deogi gets angry at this and tries to beat Jeongsuk."
+    },
+    "AnotherMissOh14_012_0000": {
+        "scene_description": "Deogi is not pleased when she sees Haeyoung2. Haeyoung2 is jealous when she sees Deogi holding Haeyoung1's hand and walking away"
+    },
+    "AnotherMissOh14_013_0000": {
+        "scene_description": "Anna is working at a convenience store, and Hun remembers what happened with Heeran next to Anna. Anna notices right away and asks Hun."
+    },
+    "AnotherMissOh14_014_0000": {
+        "scene_description": "Dokyung and a man were talking on the phone about filming a movie. Dokyung, Sangseok, Hun, Yijoon and Gitae are talking about a situation where they have to go to a filming location unavoidably."
+    },
+    "AnotherMissOh14_015_0000": {
+        "scene_description": "Dokyung tells Haeyoung1 on the phone that he has to go on a one-night business trip, and Haeyoung1 is sad that she couldn't see Dokyung during that time."
+    },
+    "AnotherMissOh14_016_0000": {
+        "scene_description": "Dokyung calls Haeyoung1's boss, Sukyung, to try to get Haeyoung1 out of the company."
+    },
+    "AnotherMissOh14_017_0000": {
+        "scene_description": "Sangseok and Gitae infiltrate Haeyoung1's company and take Haeyoung1 out of the company while he is eating snacks with his coworkers."
+    },
+    "AnotherMissOh14_018_0000": {
+        "scene_description": "Sangseok and Gitae receive a call from their co-worker Sungjin while they are taking Haeyoung1 away. Afterwards, Dokyung, Hun, and Yijoon get into the car, and only then does Haeyoung1 realizes."
+    },
+    "AnotherMissOh14_019_0000": {
+        "scene_description": "Dokyung and the group arrive at the filming site and begin work. Hun, Gitae, Sangseok, and Yijoon tell Dokyung to have a happy time with Haeyoung1."
+    },
+    "AnotherMissOh14_020_0000": {
+        "scene_description": "Taejin visits Chansu and asks if business is going well. Chansu asks Taejin if the problem with Haeyoung1 has been resolved. Chansu tells Taejin not to worry about business."
+    },
+    "AnotherMissOh14_021_0000": {
+        "scene_description": "Sungjin calls Haeyoung1, but she doesn\u2019t answer. Sungjin contacts the police to ask what's going on, but the police don't know. The police go to Haeyoung1's house and tell Deogi that Haeyoung1 has been kidnapped."
+    },
+    "AnotherMissOh14_022_0000": {
+        "scene_description": "Haeyoung1 talks to Dokyung about her favorite sounds by the lake. Afterwards, Haeyoung1 talks with Dokyung about Haeyoung2 and Taejin."
+    },
+    "AnotherMissOh14_023_0000": {
+        "scene_description": "Haeyoung1 and Dokyung are lying in the field of reeds and having a good time. The police search for Dokyung in the field of reeds."
+    },
+    "AnotherMissOh14_024_0000": {
+        "scene_description": "Sangseok and Gitae are being scolded by the police officers at the police station. Deogi is getting angry with Haeyoung1 on the phone. Dokyung is apologizing to Deogi and Kyungsu at the police station."
+    },
+    "AnotherMissOh14_025_0000": {
+        "scene_description": "While Sukyung and Jinsang were eating steak at a restaurant, six women approached Jinsang. One of the women speaks to Jinsang."
+    },
+    "AnotherMissOh14_026_0000": {
+        "scene_description": "Jinsang was trembling with fear in front of the six women. Sukyung fought with six women on Jinsang's behalf."
+    },
+    "AnotherMissOh14_027_0000": {
+        "scene_description": "Deogi and Kyungsu notice Haeyoung1 coming into the house, and they talk about Dokyung and Haeyoung1."
+    },
+    "AnotherMissOh14_028_0000": {
+        "scene_description": "Jinsang buys chicken and eats it with Sukyung and Hun. Jinsang realizes from Sukyung's actions that he is the baby's father."
+    },
+    "AnotherMissOh14_029_0000": {
+        "scene_description": "Dokyung and Hun were angry about what Jinsang did to Sukyung. Afterwards, Jinsang drank a lot with Dokyung."
+    },
+    "AnotherMissOh14_030_0000": {
+        "scene_description": "Dokyung and Jinsang are drunk and standing facing each other in a convenience store."
+    },
+    "AnotherMissOh14_031_0000": {
+        "scene_description": "Sukyung is lying on the bed and crying, and Dokyung is talking on the phone with Haeyoung1, calling each other's names."
+    },
+    "AnotherMissOh14_032_0000": {
+        "scene_description": "Haeyoung1 tells Taejin about his current relationship with Dokyung and says she is sorry."
+    },
+    "AnotherMissOh14_033_0000": {
+        "scene_description": "Dokyung and Haeyoung2 meet on the street and talk. Afterwards, Haeyoung2 cries on the stairs of the building."
+    },
+    "AnotherMissOh14_034_0000": {
+        "scene_description": "Haeyoung1 says that his love is more affectionate. Afterwards, Dokyung and Haeyoung1 recorded sounds using tools and had a great time."
+    },
+    "AnotherMissOh14_035_0000": {
+        "scene_description": "Dokyung talks to man and spends time with Haeyoung1, and is afraid of his own death as he thinks that reality matches the situations he saw in advance."
+    },
+    "AnotherMissOh14_036_0000": {
+        "scene_description": "By telling Soontack what he experienced, Dokyung learns that getting hurt and dying doesn't change. Dokyung continues to worry about his future death for this reason."
+    }
+}{
+    "episode": "AnotherMissOh15_000_0000",
+    "episode_sum": "Haeyoung1 spends happy time with Dokyung. Dokyung plays a recording of a song he sang as a child to Haeyoung1. Haeyoung1 finds Dokyung cute when he was young. Dokyung remembers a consultation where Soontak's senior doctor asked him why he was worried when he knew the exact emotions Dokyung felt at the time of death. Jinsang becomes frustrated as he imagines his future life after marrying Sukyung. Hun makes fun of Jinsang. Sukyung says to Jinsang that she will give a day to think about kissing. Dokyung sent a thank you text to Haeyoung2, and at that time, Haeyoung2 was on a blind date. Haeyoung2 looked at the text message and felt emotionally shaken for a moment, but then made up his mind and turned off the phone. Haeyoung1 says he will receive a bouquet at her cousin Seohee's wedding. Deogi objects to bringing Dokyung to Seohee's wedding. Haeyoung2 returns a love letter to Haeyoung1 that was mistakenly addressed to her when she was in high school, and she confesses that she kept it with the intention of returning it when she could confess that he was jealous of Haeyoung1. Dokyung calls Haeyoung1, who is crying due to a fight with her parents, and Dokyung tells Haeyoung1, who is crying, not to cry. Dokyung asks Taejin for forgiveness, but he ends up getting beaten up by Taejin. The injured Dokyung receives a call from Haeyoung1 while sitting on the street. Haeyoung1 tells Dokyung on the phone that he misses him, and Dokyung goes to see Haeyoung1. Haeyoung1 bursts into tears upon seeing the injured Dokyung.",
+    "episode_kg": {
+        "Haeyoung1": {
+            "personality": [
+                "emotional",
+                "caring",
+                "nostalgic"
+            ],
+            "relationship": [
+                "interactions with Dokyung, Taejin, Seohee, Haeyoung2, Jinsang, Deogi"
+            ],
+            "events": [
+                "spends happy time with Dokyung",
+                "finds Dokyung cute as a child",
+                "plans to receive a bouquet at cousin Seohee's wedding",
+                "confesses feelings to Dokyung over the phone",
+                "bursts into tears upon seeing injured Dokyung"
+            ]
+        },
+        "Dokyung": {
+            "personality": [
+                "sentimental",
+                "remorseful",
+                "caring"
+            ],
+            "relationship": [
+                "interactions with Haeyoung1, Haeyoung2, Taejin, Jinsang"
+            ],
+            "events": [
+                "plays a childhood recording for Haeyoung1",
+                "remembers a consultation about emotions at the time of death",
+                "sends a thank you text to Haeyoung2",
+                "asks Taejin for forgiveness and gets beaten up",
+                "receives call from crying Haeyoung1 and rushes to see her",
+                "gets injured and receives call from Haeyoung1"
+            ]
+        },
+        "Haeyoung2": {
+            "personality": [
+                "emotional",
+                "reflective"
+            ],
+            "relationship": [
+                "interactions with Haeyoung1, Dokyung"
+            ],
+            "events": [
+                "goes on a blind date",
+                "returns a love letter to Haeyoung1 and confesses feelings of jealousy",
+                "gets emotionally shaken by Dokyung's text message but turns off the phone"
+            ]
+        },
+        "Jinsang": {
+            "personality": [
+                "frustrated",
+                "playful"
+            ],
+            "relationship": [
+                "interactions with Sukyung, Hun"
+            ],
+            "events": [
+                "imagines future life after marrying Sukyung",
+                "makes fun of Jinsang",
+                "receives a promise from Sukyung to think about kissing"
+            ]
+        },
+        "Sukyung": {
+            "personality": [
+                "reflective",
+                "considerate"
+            ],
+            "relationship": [
+                "interactions with Jinsang"
+            ],
+            "events": [
+                "offers Jinsang a day to think about kissing",
+                "visits Jinsang"
+            ]
+        },
+        "Deogi": {
+            "personality": [
+                "protective",
+                "traditional"
+            ],
+            "relationship": [
+                "interactions with Haeyoung1, Seohee, Dokyung"
+            ],
+            "events": [
+                "Objects to bringing Dokyung to Seohee's wedding"
+            ]
+        }
+    },
+    "related_scene": [
+        "AnotherMissOh15_003_0000",
+        "AnotherMissOh15_004_0000",
+        "AnotherMissOh15_005_0000",
+        "AnotherMissOh15_006_0000",
+        "AnotherMissOh15_007_0000",
+        "AnotherMissOh15_008_0000",
+        "AnotherMissOh15_012_0000",
+        "AnotherMissOh15_014_0000",
+        "AnotherMissOh15_017_0000",
+        "AnotherMissOh15_018_0000",
+        "AnotherMissOh15_021_0000",
+        "AnotherMissOh15_027_0000",
+        "AnotherMissOh15_028_0000",
+        "AnotherMissOh15_033_0000",
+        "AnotherMissOh15_036_0000",
+        "AnotherMissOh15_038_0000",
+        "AnotherMissOh15_039_0000"
+    ],
+    "epi_qas": {},
+    "AnotherMissOh15_001_0000": {
+        "scene_description": "In front of the house, Haeyoung1 watches Anna and Hun hug while waiting for Dokyung. Anna predicts that Hun is bewitched by another woman today. Sukyung also arrives home pretending to be drunk and meets Haeyoung1, Hun, and Anna. Hun asks Sukyung about Jinsang, but Sukyung's response is lukewarm. Jinsang, who was watching this, debates whether to go into the house or not and runs away."
+    },
+    "AnotherMissOh15_002_0000": {
+        "scene_description": "Dokyung arrives home, surprises Haeyoung1 and enters the house with Haeyoung1."
+    },
+    "AnotherMissOh15_003_0000": {
+        "scene_description": "Haeyoung1 is surprised to see that the room he used to live in has been converted into Dokyung's studio, and asks Dokyung how he feels about using his father's studio. Dokyung replies that his father died in an accident, and that Dokyung is glad he was there."
+    },
+    "AnotherMissOh15_004_0000": {
+        "scene_description": "Soontack explains the strange thing Dokyung is going through to Soontack's senior doctor. Afterwards, the senior doctor sat down with Dokyung and Soontack for a meeting and told Dokyung that people ultimately converge into love and fear. After the meeting, the senior doctor tells Soontack that he doesn't have to worry about Dokyung."
+    },
+    "AnotherMissOh15_005_0000": {
+        "scene_description": "Sukyung is sighing what she is currently facing."
+    },
+    "AnotherMissOh15_006_0000": {
+        "scene_description": "Jinsang feels terrible as he imagines his married life with Sukyung."
+    },
+    "AnotherMissOh15_007_0000": {
+        "scene_description": "Hun enters the room and teases Jinsang about what he did to Sukyung and gives him advice. Jinsang doesn't like the advice Hun gave him, and the two end up fighting. Sukyung then enters the room, gives Jinsang a baseball bat and tells him to finish off Hun."
+    },
+    "AnotherMissOh15_008_0000": {
+        "scene_description": "Sukyung tells Jinsang how she feels and asks him to go separate ways. However, Jinsang says he is hesitant to do so because the baby is his child. Sukyung gives Jinsang a day and tells him to think about whether he can kiss her or not."
+    },
+    "AnotherMissOh15_009_0000": {
+        "scene_description": "Gitae, Sangseok, Dokyung, Hun, and Yijoon travel around traditional markets and record the sounds of making red pepper powder, pancakes, and fried rice."
+    },
+    "AnotherMissOh15_010_0000": {
+        "scene_description": "Hun and Yijoon run into the cafe as soon as they got out of the car, and Dokyung gets out of the car and stops for a moment when he saw the cafe banner."
+    },
+    "AnotherMissOh15_011_0000": {
+        "scene_description": "Sangseok and Gitae urged Yijoon and Hun when they did not come out. Dokyung hesitates whether to look at the album in the cafe or not. Dokyung eventually opens the album and finds his photo has been torn. Next to the torn photo, it says thank you for loving me."
+    },
+    "AnotherMissOh15_012_0000": {
+        "scene_description": "Haeyoung2 is on a blind date with a man at a cafe. Dokyung sends a text message to Haeyoung2 thanking her, and Haeyoung2 thinks for a moment and turns off his cell phone."
+    },
+    "AnotherMissOh15_013_0000": {
+        "scene_description": "Gitae, Hun, Sangseok, and Yijoon leave the cafe and get into the car. Dokyung follows, bringing out a photo of himself from the cafe album and looking at it."
+    },
+    "AnotherMissOh15_014_0000": {
+        "scene_description": "In a group chat with Jeongsuk, Deogi, and Haeyoung1, Seohee tells Haeyoung1 that her parents are worried about her wedding tomorrow. Seohee also says that she feels sorry for asking because the friend who will receive her bouquet is in a difficult situation. Haeyoung1 says she will attend her wedding and accept the bouquet. Also, Jeongsuk and Seohee are surprised when Haeyoung1 tells them that she is in a relationship with Dokyung. While watching the group chat, Deogi gets angry at Haeyoung1 for speaking confidently, so she heads to Haeyoung1's room."
+    },
+    "AnotherMissOh15_015_0000": {
+        "scene_description": "Dokyung thinks he was in a car accident. But nothing happened, and Dokyung is embarrassed."
+    },
+    "AnotherMissOh15_016_0000": {
+        "scene_description": "Taejin gets drunk at a bar and gets angry at the waiter. The waiter asks Taejin if his heart breaks because he misses her."
+    },
+    "AnotherMissOh15_017_0000": {
+        "scene_description": "Deogi goes to Dokyung's house and asks Dokyung if he will come to Seohee's wedding tomorrow, and asks him not to come unless he wants to marry Haeyoung1."
+    },
+    "AnotherMissOh15_018_0000": {
+        "scene_description": "Haeyoung1 asks Dokyung what he is doing tomorrow, and Dokyung says he has a business trip to the province tomorrow. Dokyung tells Haeyoung1 that he will prepare food for her and that she should come to his house after the wedding."
+    },
+    "AnotherMissOh15_019_0000": {
+        "scene_description": "Haeyoung1 is surprised to find Deogi sitting in the kitchen, and tells Deogi that Dokyung will not attend the wedding tomorrow. Deogi thinks Dokyung will not marry with Haeyoung1."
+    },
+    "AnotherMissOh15_020_0000": {
+        "scene_description": "Jinsang sneaks into the house as the kissing deadline is up and is caught by Sukyung. Sukyung asks Jinsang if he can kiss her, but Jinsang cannot answer. Sukyung gives Jinsang one more chance."
+    },
+    "AnotherMissOh15_021_0000": {
+        "scene_description": "Haeyoung1 participates in Seohee's wedding and receives the bouquet that Seohee throws. People attending the wedding are puzzled when they see Haeyoung1 receiving Seohee's bouquet. Her grandmother also asks Kyungsu if Haeyoung1 is getting married again."
+    },
+    "AnotherMissOh15_022_0000": {
+        "scene_description": "In the taxi on the way home after the wedding, Haeyoung1 talks about Seohee's wedding that took place today."
+    },
+    "AnotherMissOh15_023_0000": {
+        "scene_description": "Dokyung went out to the mart to buy groceries, and Jinsang followed Dokyung out. Dokyung tells Jinsang to quickly decide about his relationship with Sukyung. Jinsang gives advice to Dokyung who is shopping groceries for Haeyoung1. Sukyung appears at the mart and asks Jinsang if he is ready to kiss."
+    },
+    "AnotherMissOh15_024_0000": {
+        "scene_description": "Haeyoung1 takes pictures of the food prepared by Dokyung before eating it. Haeyoung1 praises Dokyung while tasting the food."
+    },
+    "AnotherMissOh15_025_0000": {
+        "scene_description": "Sukyung tells Jinsang to leave since 24 hours have passed. Jinsang tells Sukyung that he cannot leave. Jinsang instead asks Sukyung if she can kiss him."
+    },
+    "AnotherMissOh15_026_0000": {
+        "scene_description": "Sukyung and Jinsang try to kiss outside, but it's awkward."
+    },
+    "AnotherMissOh15_027_0000": {
+        "scene_description": "While sorting out letters at home, Haeyoung1 brings up a letter that a male student wrote to her in high school and reads the contents of the letter to Dokyung. Dokyung is slightly jealous."
+    },
+    "AnotherMissOh15_028_0000": {
+        "scene_description": "At work, Haeyoung2 hands Haeyoung1 a letter she received in high school. When Haeyoung2 received this letter in high school, she knew that it had come to her by mistake, and she deliberately did not forward this letter to Haeyoung1. The reason is that if she gave this letter to Haeyoung1, all the love seemed to go to Haeyoung1."
+    },
+    "AnotherMissOh15_029_0000": {
+        "scene_description": "Haeyoung1 calls Heeran and asks her to take a picture of a boy who liked Haeyoung1 in high school and send it to her. Haeyoung1 is a little disappointed when she sees the photo Heeran sent her. While Dokyung wants to find out who the boy is, Deogi calls Haeyoung1 and asks where she is. Haeyoung1 lies. However, Deogi notices and tells Haeyoung1 to come home."
+    },
+    "AnotherMissOh15_030_0000": {
+        "scene_description": "Haeyoung1 comes home and complains to Deogi. Deogi tells Haeyoung1, who is complaining, not to meet Dokyung. As Haeyoung1 makes an incomprehensible expression, Deogi tells Haeyoung1 about the Seohee wedding options she had proposed to Dokyung."
+    },
+    "AnotherMissOh15_031_0000": {
+        "scene_description": "While Haeyoung1 is washing her face, she gets angry and comes out to the living room and asks Deogi why Deogi suggested that option to Dokyung. Haeyoung1 returns to the room and takes a call from Dokyung, lying that he cried because Deogi hit him."
+    },
+    "AnotherMissOh15_032_0000": {
+        "scene_description": "Jinsang and Sukyung try and end up kissing each other."
+    },
+    "AnotherMissOh15_033_0000": {
+        "scene_description": "Haeyoung1 heads to the living room to play music before leaving the house. Deogi warns Haeyoung1 not to dance. Haeyoung1 pretends to dance and then leaves the house with her bag."
+    },
+    "AnotherMissOh15_034_0000": {
+        "scene_description": "Dokyung sees the provisional seizure notice in his office and asks Jiya, who comes into the office, a question."
+    },
+    "AnotherMissOh15_035_0000": {
+        "scene_description": "Haeyoung1 runs into Dokyung on her way home and tells Dokyung why she is angry. Haeyoung1 wonders how much Dokyung loves her. Dokyung tells Haeyoung1 that he really likes her."
+    },
+    "AnotherMissOh15_036_0000": {
+        "scene_description": "Dokyung visits Taejin and asks for forgiveness. Taejin tells Dokyung about his situation and beats Dokyung."
+    },
+    "AnotherMissOh15_037_0000": {
+        "scene_description": "Haeyoung1 can't sleep, so she calls Dokyung and asks him to come to her. But Dokyung says he can't go to Haeyoung1. Haeyoung1 is sad that Dokyung's love seems not to be passionate."
+    },
+    "AnotherMissOh15_038_0000": {
+        "scene_description": "Dokyung wonders whether he should love Haeyoung1 passionately because he has a vision that he will soon die. Haeyoung1 feels sad upon seeing Dokyung\u2019s scarred face. Dokyung says he did something to deserve a beating from Haeyoung1. Dokyung tells Haeyoung1 that he is sorry for not being able to go to Seohee's wedding and that he loves her 100%."
+    },
+    "AnotherMissOh15_039_0000": {
+        "scene_description": "Haeyoung1 cries, hoping that no one will be sad. Dokyung hopes that Haeyoung1 will be happy. Dokyung keeps having visions that Taejin will kill him."
+    }
+}

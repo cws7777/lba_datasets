@@ -1,0 +1,4510 @@
+{
+    "episode": "AnotherMissOh16_000_0000",
+    "episode_sum": "Dokyung, who has been missing Haeyoung1 since the morning, tells Haeyoung1 that he is going to pick her up and leaves the house, but Haeyoung1, who had secretly arrived in advance, surprises Dokyung. Haeyoung1 apologizes to Dokyung for being surprised, but Dokyung says he is touched and that he is okay. As Dokyung goes to the company to see Haeyoung1 with a bouquet of flowers, he runs into Haeyoung2 by chance. Haeyoung2 congratulates Dokyung on the relationship between Dokyung and Haeyoung1. Dokyung secretly left a bouquet of flowers on Haeyoung1's desk. Haeyoung1 is happy to know that fact. The Chairman provokes Taejin by asking if taking away the building is revenge. Dokyung's company is subject to a seizure ticket. Jinsang apologizes to Dokyung, saying it was his fault, but Dokyung says that if Jinsang had not encouraged him, he would not have met Haeyoung1. Haeyoung1 buys Haeyoung2 a meal and reconciles. Jiya beats Haeyoung2, accusing him of ruining Dokyung's company. Haeyoung1 tells Jiya that Jiya misunderstood and that I'm the person Jiya is looking for. Jiya tells Haeyoung1 that if it's for Dokyung's sake, she should go back to Taejin. Before entering the house, Sukyung sees Jinsang smoking a cigarette and, knowing that Jinsang is having a hard time, decides to let him go. Sukyung told Jinsang something hinting at a breakup, and Jinsang cried, saying he was sorry to Sukyung. Haeyoung1 conveys her true love for Dokyung to Taejin and asks him not to hit Dokyung. Dokyung goes to see Haeyoung1, who is working overtime, with priority and waits for Haeyoung1. Haeyoung1 enters the back door of the company without Dokyung knowing and meets Dokyung calmly. Haeyoung1 and Dokyung each walk with an umbrella, and then Dokyung hands his umbrella to a passerby, and Haeyoung1 and Dokyung share an umbrella with each other. Dokyung tells Haeyoung1 that he loves her and they walk together.",
+    "episode_kg": {
+        "Haeyoung1": {
+            "personality": [
+                "surprising",
+                "apologetic",
+                "loving"
+            ],
+            "relationship": [
+                "interactions with Dokyung, Haeyoung2, Taejin, Jiya, Sukyung"
+            ],
+            "events": [
+                "surprises Dokyung",
+                "apologizes for the surprise",
+                "buys meal for Haeyoung2 and reconciles",
+                "confronts Jiya to protect Dokyung",
+                "conveys true love to Taejin",
+                "meets Dokyung calmly at work",
+                "shares an umbrella with Dokyung"
+            ]
+        },
+        "Dokyung": {
+            "personality": [
+                "caring",
+                "thoughtful",
+                "determined"
+            ],
+            "relationship": [
+                "interactions with Haeyoung1, Haeyoung2, Taejin, Jinsang, Jiya, Sukyung"
+            ],
+            "events": [
+                "misses Haeyoung1 in the morning",
+                "surprises Haeyoung1 with flowers",
+                "runs into Haeyoung2 and receives congratulations on his relationship with Haeyoung1",
+                "secretly leaves flowers on Haeyoung1's desk",
+                "confronts issues with the company's seizure ticket",
+                "expresses gratitude to Jinsang",
+                "confesses love to Haeyoung1"
+            ]
+        },
+        "Haeyoung2": {
+            "personality": [
+                "reconciliatory",
+                "victimized"
+            ],
+            "relationship": [
+                "interactions with Dokyung, Haeyoung1, Jiya"
+            ],
+            "events": [
+                "congratulates Dokyung on his relationship with Haeyoung1",
+                "reconciles with Haeyoung1",
+                "gets beaten by Jiya",
+                "is defended by Haeyoung1"
+            ]
+        },
+        "Jiya": {
+            "personality": [
+                "controlling",
+                "antagonistic"
+            ],
+            "relationship": [
+                "interactions with Haeyoung1, Haeyoung2"
+            ],
+            "events": [
+                "accuses Haeyoung2 of ruining Dokyung's company",
+                "advises Haeyoung1 to return to Taejin for Dokyung's sake"
+            ]
+        },
+        "Jinsang": {
+            "personality": [
+                "apologetic",
+                "emotional"
+            ],
+            "relationship": [
+                "interactions with Dokyung, Sukyung"
+            ],
+            "events": [
+                "apologizes to Dokyung",
+                "shares a difficult moment with Sukyung",
+                "receives hints of a breakup from Sukyung"
+            ]
+        },
+        "Sukyung": {
+            "personality": [
+                "empathetic",
+                "decisive"
+            ],
+            "relationship": [
+                "interactions with Jinsang, Dokyung"
+            ],
+            "events": [
+                "decides to let Jinsang go after seeing him smoking",
+                "hints at a breakup with Jinsang",
+                "receives apologies from Jinsang"
+            ]
+        }
+    },
+    "related_scene": [
+        "AnotherMissOh16_002_0000",
+        "AnotherMissOh16_005_0000",
+        "AnotherMissOh16_006_0000",
+        "AnotherMissOh16_007_0000",
+        "AnotherMissOh16_015_0000",
+        "AnotherMissOh16_023_0000",
+        "AnotherMissOh16_024_0000",
+        "AnotherMissOh16_025_0000",
+        "AnotherMissOh16_026_0000",
+        "AnotherMissOh16_032_0000",
+        "AnotherMissOh16_033_0000",
+        "AnotherMissOh16_035_0000",
+        "AnotherMissOh16_036_0000"
+    ],
+    "epi_qas": {},
+    "AnotherMissOh16_001_0000": {
+        "scene_desc": "In front of Haeyoung1's house, Haeyoung1 gets angry and sad when she sees Dokyung's face bruised. Dokyung conveys his sincere love to Haeyoung.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Dokyung"
+            ],
+            "location": "In front of Haeyoung1's house",
+            "events": [
+                {
+                    "subject": "Haeyoung1",
+                    "state": [
+                        "gets angry",
+                        "sad"
+                    ],
+                    "reason": "when she sees Dokyung's face bruised"
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "conveys his sincere love to Haeyoung"
+                }
+            ]
+        },
+        "related_shot": [
+            25,
+            45
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_002_0000": {
+        "scene_desc": "Haeyoung1 surprises Dokyung while Dokyung is leaving the house to give Haeyoung1 a ride to work.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subject": "Haeyoung1",
+                    "action": "surprises Dokyung"
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "is leaving the house",
+                    "purpose": "to give Haeyoung1 a ride to work"
+                }
+            ]
+        },
+        "related_shot": [
+            50,
+            115
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_003_0000": {
+        "scene_desc": "Jinsang's kiss with Su-kyung last night keeps ringing in his head. Hun teases Jinsang for kissing Sukyung. Sukyung tells Jinsang about her kiss from yesterday and asks him to make a decision.",
+        "scene_graph": {
+            "subjects": [
+                "Jinsang",
+                "Sukyung",
+                "Hun"
+            ],
+            "events": [
+                {
+                    "subject": "Jinsang",
+                    "thought": "kiss with Su-kyung last night keeps ringing in his head"
+                },
+                {
+                    "subject": "Hun",
+                    "action": "teases Jinsang",
+                    "reason": "for kissing Sukyung"
+                },
+                {
+                    "subject": "Sukyung",
+                    "actions": [
+                        {
+                            "action": "tells Jinsang about her kiss from yesterday"
+                        },
+                        {
+                            "action": "asks him to make a decision"
+                        }
+                    ]
+                }
+            ]
+        },
+        "related_shot": [
+            117,
+            173
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_004_0000": {
+        "scene_desc": "Soontack encourages Dokyung to lie to Taejin about his relationship with Haeyoung1. The Doctor scolds Soontack and tells him to get out. The Doctor tells Dokyung that if he relaxes his mind, his precognition will naturally change.",
+        "scene_graph": {
+            "subjects": [
+                "Soontack",
+                "Dokyung",
+                "Taejin",
+                "Doctor",
+                "Haeyoung1"
+            ],
+            "events": [
+                {
+                    "subject": "Soontack",
+                    "action": "encourages Dokyung",
+                    "object": "to lie to Taejin about his relationship with Haeyoung1"
+                },
+                {
+                    "subject": "Doctor",
+                    "actions": [
+                        {
+                            "action": "scolds Soontack"
+                        },
+                        {
+                            "action": "tells him to get out"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Doctor",
+                    "action": "tells Dokyung",
+                    "quote": "that if he relaxes his mind, his precognition will naturally change"
+                }
+            ]
+        },
+        "related_shot": [
+            178,
+            240
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_005_0000": {
+        "scene_desc": "Dokyung bought a bouquet of flowers and went to Haeyoung1\u2019s company. Dokyung meets Haeyoung2 in front of the company. Haeyoung2 tells Dokyung that someone like Haeyoung1 suits him. Dokyung secretly leaves a bouquet of flowers at Haeyoung1's seat while Haeyoung1 is talking with her companies.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Haeyoung1",
+                "Haeyoung2"
+            ],
+            "events": [
+                {
+                    "subject": "Dokyung",
+                    "actions": [
+                        {
+                            "action": "bought a bouquet of flowers"
+                        },
+                        {
+                            "action": "went to Haeyoung1's company"
+                        },
+                        {
+                            "action": "meets Haeyoung2",
+                            "location": "in front of the company"
+                        },
+                        {
+                            "action": "secretly leaves a bouquet of flowers at Haeyoung1's seat",
+                            "condition": "while Haeyoung1 is talking with her companies"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Haeyoung2",
+                    "action": "tells Dokyung",
+                    "quote": "that someone like Haeyoung1 suits him"
+                }
+            ]
+        },
+        "related_shot": [
+            241,
+            269
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_006_0000": {
+        "scene_desc": "Haeyoung1 is happy to see the flowers that Dokyung left at Haeyoung1's seat. Dokyung leaves a text message to Haeyoung1 saying that he left flowers at her seat.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subject": "Haeyoung1",
+                    "state": "is happy",
+                    "reason": "to see the flowers that Dokyung left at Haeyoung1's seat"
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "leaves a text message to Haeyoung1",
+                    "quote": "saying that he left flowers at her seat"
+                }
+            ]
+        },
+        "related_shot": [
+            271,
+            313
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_007_0000": {
+        "scene_desc": "Taejin and Chairman talk about seizure of Dokyung's property. Taejin later came out and saw the shoes. Taejin noticed that there was someone else in the Chairman's room.",
+        "scene_graph": {
+            "subjects": [
+                "Taejin",
+                "Chairman",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Taejin",
+                        "Chairman"
+                    ],
+                    "action": "talk about seizure of Dokyung's property"
+                },
+                {
+                    "subject": "Taejin",
+                    "actions": [
+                        {
+                            "action": "later came out"
+                        },
+                        {
+                            "action": "saw the shoes"
+                        },
+                        {
+                            "action": "noticed",
+                            "object": "that there was someone else in the Chairman's room"
+                        }
+                    ]
+                }
+            ]
+        },
+        "related_shot": [
+            314,
+            357
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_008_0000": {
+        "scene_desc": "Chansu and Chairman talk about what Chansu did.",
+        "scene_graph": {
+            "subjects": [
+                "Chansu",
+                "Chairman"
+            ],
+            "event": {
+                "subjects": [
+                    "Chansu",
+                    "Chairman"
+                ],
+                "action": "talk about",
+                "object": "what Chansu did"
+            }
+        },
+        "related_shot": [
+            358,
+            371
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_009_0000": {
+        "scene_desc": "Haeyoung1 returns home and prepares ingredients to make food. Deogi saw Haeyoung1 and left the kitchen. Kyungsu sighed while looking at Deogi and Haeyoung1 in the living room.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Deogi",
+                "Kyungsu"
+            ],
+            "events": [
+                {
+                    "subject": "Haeyoung1",
+                    "actions": [
+                        {
+                            "action": "returns home"
+                        },
+                        {
+                            "action": "prepares ingredients to make food"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Deogi",
+                    "actions": [
+                        {
+                            "action": "saw Haeyoung1"
+                        },
+                        {
+                            "action": "left the kitchen"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Kyungsu",
+                    "action": "sighed",
+                    "condition": "while looking at Deogi and Haeyoung1 in the living room"
+                }
+            ]
+        },
+        "related_shot": [
+            373,
+            395
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_010_0000": {
+        "scene_desc": "Deogi monologues about her feelings toward Haeyoung1 while coming home from buying burdock at a market.",
+        "scene_graph": {
+            "subject": "Deogi",
+            "action": "monologues about her feelings toward Haeyoung1",
+            "condition": "while coming home from buying burdock at a market"
+        },
+        "related_shot": [
+            396,
+            430
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_011_0000": {
+        "scene_desc": "Jinsang wants to go home with Dokyung and calls Dokyung. Dokyung tells Jinsang that he will be late so he should go in first. Jinsang is upset after hearing what Haeyoung1 said next to Dokyung.",
+        "scene_graph": {
+            "subjects": [
+                "Jinsang",
+                "Dokyung",
+                "Haeyoung1"
+            ],
+            "events": [
+                {
+                    "subject": "Jinsang",
+                    "action": "wants to go home with Dokyung"
+                },
+                {
+                    "subject": "Jinsang",
+                    "action": "calls Dokyung"
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "tells Jinsang",
+                    "quotes": [
+                        {
+                            "quote": "that he will be late"
+                        },
+                        {
+                            "quote": "so he should go in first"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Jinsang",
+                    "state": "is upset",
+                    "reason": "after hearing what Haeyoung1 said next to Dokyung"
+                }
+            ]
+        },
+        "related_shot": [
+            432,
+            462
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_012_0000": {
+        "scene_desc": "Anna and Hun create and record sound for a video.",
+        "scene_graph": {
+            "subjects": [
+                "Anna",
+                "Hun"
+            ],
+            "action": "create and record sound",
+            "purpose": "for a video"
+        },
+        "related_shot": [
+            463,
+            476
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_013_0000": {
+        "scene_desc": "Jinsang calls Hun and asks when he will be coming in. Hun asks Jinsang if it is because he is uncomfortable with Sukyung. Hun tells Jinsang not to do that.",
+        "scene_graph": {
+            "subjects": [
+                "Jinsang",
+                "Hun",
+                "Sukyung"
+            ],
+            "events": [
+                {
+                    "subject": "Jinsang",
+                    "action": "calls Hun"
+                },
+                {
+                    "subject": "Jinsang",
+                    "action": "asks",
+                    "question": "when he will be coming in"
+                },
+                {
+                    "subject": "Hun",
+                    "action": "asks Jinsang",
+                    "question": "if it is because he is uncomfortable with Sukyung"
+                },
+                {
+                    "subject": "Hun",
+                    "action": "tells Jinsang",
+                    "quote": "not to do that"
+                }
+            ]
+        },
+        "related_shot": [
+            478,
+            487
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_014_0000": {
+        "scene_desc": "Anna and Hun meet Heeran in office. Hun pretends to answer the phone and leaves. Anna talks to Heeran about Hun.",
+        "scene_graph": {
+            "subjects": [
+                "Anna",
+                "Hun",
+                "Heeran"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Anna",
+                        "Hun"
+                    ],
+                    "action": "meet Heeran",
+                    "location": "in office"
+                },
+                {
+                    "subject": "Hun",
+                    "actions": [
+                        {
+                            "action": "pretends to answer the phone"
+                        },
+                        {
+                            "action": "leaves"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Anna",
+                    "action": "talks to Heeran",
+                    "topic": "about Hun"
+                }
+            ]
+        },
+        "related_shot": [
+            488,
+            527
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_015_0000": {
+        "scene_desc": "Sukyung look at Jinsang smoking a cigarette and reminisces about old memories with Jinsang.",
+        "scene_graph": {
+            "subjects": [
+                "Sukyung",
+                "Jinsang"
+            ],
+            "events": [
+                {
+                    "subject": "Sukyung",
+                    "action": "look at Jinsang",
+                    "object": "smoking a cigarette"
+                },
+                {
+                    "subject": "Sukyung",
+                    "action": "reminisces about old memories with Jinsang"
+                }
+            ]
+        },
+        "related_shot": [
+            531,
+            566
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_016_0000": {
+        "scene_desc": "Taejin and Chansu drink and talk about revenge against Dokyung.",
+        "scene_graph": {
+            "subjects": [
+                "Taejin",
+                "Chansu",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Taejin",
+                        "Chansu"
+                    ],
+                    "actions": [
+                        {
+                            "action": "drink"
+                        },
+                        {
+                            "action": "talk about revenge against Dokyung"
+                        }
+                    ]
+                }
+            ]
+        },
+        "related_shot": [
+            567,
+            579
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_017_0000": {
+        "scene_desc": "Dokyung and Haeyoung1 talk about the flower that Dokyung bought for Haeyoung1",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Haeyoung1"
+            ],
+            "action": "talk about",
+            "object": "the flower that Dokyung bought for Haeyoung1"
+        },
+        "related_shot": [
+            580,
+            594
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_018_0000": {
+        "scene_desc": "Dokyung and Haeyoung1 talk about the flowers while they brush teeths in bathroom",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Haeyoung1"
+            ],
+            "action": "talk about",
+            "object": "the flowers",
+            "condition": "while they brush teeths in bathroom"
+        },
+        "related_shot": [
+            595,
+            626
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_019_0000": {
+        "scene_desc": "Dokyung asks Haeyoung1 why she fall in love with me at first sight",
+        "scene_graph": {
+            "subject": "Dokyung",
+            "action": "asks Haeyoung1",
+            "question": "why she fall in love with me at first sight"
+        },
+        "related_shot": [
+            628,
+            662
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_020_0000": {
+        "scene_desc": "Sangseok, Yijoon, Gitae, and Hun are angry and surprised by the seizure sticker.",
+        "scene_graph": {
+            "subjects": [
+                "Sangseok",
+                "Yijoon",
+                "Gitae",
+                "Hun"
+            ],
+            "states": [
+                "are angry",
+                "surprised"
+            ],
+            "reason": "by the seizure sticker"
+        },
+        "related_shot": [
+            663,
+            683
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_021_0000": {
+        "scene_desc": "Dokyung finds out about this and tries to send Hun, Sangseok, Yijoon, and Gitae to another company. Hun, Sangseok, Yijoon, and Gitae think this happened because of Jiya.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Hun",
+                "Sangseok",
+                "Yijoon",
+                "Gitae",
+                "Jiya"
+            ],
+            "events": [
+                {
+                    "subject": "Dokyung",
+                    "action": "finds out about this"
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "tries to send",
+                    "objects": [
+                        "Hun",
+                        "Sangseok",
+                        "Yijoon",
+                        "Gitae"
+                    ],
+                    "destination": "to another company"
+                },
+                {
+                    "subjects": [
+                        "Hun",
+                        "Sangseok",
+                        "Yijoon",
+                        "Gitae"
+                    ],
+                    "thought": "this happened because of Jiya"
+                }
+            ]
+        },
+        "related_shot": [
+            684,
+            710
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_022_0000": {
+        "scene_desc": "Jiya goes to a loan shark and learns from the loan shark who the seizure sticker was put on the office.",
+        "scene_graph": {
+            "subjects": [
+                "Jiya",
+                "loan shark"
+            ],
+            "events": [
+                {
+                    "subject": "Jiya",
+                    "action": "goes to a loan shark"
+                },
+                {
+                    "subject": "Jiya",
+                    "action": "learns from the loan shark",
+                    "information": "who the seizure sticker was put on the office"
+                }
+            ]
+        },
+        "related_shot": [
+            711,
+            723
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_023_0000": {
+        "scene_desc": "Jinsang realize that Taejin has seized Dokyung's property and discusses with Dokyung.",
+        "scene_graph": {
+            "subjects": [
+                "Jinsang",
+                "Taejin",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subject": "Jinsang",
+                    "action": "realize",
+                    "information": "that Taejin has seized Dokyung's property"
+                },
+                {
+                    "subject": "Jinsang",
+                    "action": "discusses with Dokyung"
+                }
+            ]
+        },
+        "related_shot": [
+            725,
+            745
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_024_0000": {
+        "scene_desc": "Haeyoung1 and Haeyoung2 have a lunch together and talk about their feelings for each other.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Haeyoung2"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Haeyoung1",
+                        "Haeyoung2"
+                    ],
+                    "action": "have a lunch together"
+                },
+                {
+                    "subjects": [
+                        "Haeyoung1",
+                        "Haeyoung2"
+                    ],
+                    "action": "talk about their feelings for each other"
+                }
+            ]
+        },
+        "related_shot": [
+            751,
+            767
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_025_0000": {
+        "scene_desc": "Jiya appears and takes her anger on Haeyoung2 who is walking with Haeyoung1. Haeyoung1 tries to stop Jiya.",
+        "scene_graph": {
+            "subjects": [
+                "Jiya",
+                "Haeyoung2",
+                "Haeyoung1"
+            ],
+            "events": [
+                {
+                    "subject": "Jiya",
+                    "actions": [
+                        {
+                            "action": "appears"
+                        },
+                        {
+                            "action": "takes her anger on Haeyoung2",
+                            "condition": "who is walking with Haeyoung1"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Haeyoung1",
+                    "action": "tries to stop Jiya"
+                }
+            ]
+        },
+        "related_shot": [
+            772,
+            807
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_026_0000": {
+        "scene_desc": "Haeyoung1 explains to Jiya about the relationship with Dokyung at the caf\u00e9. Jiya scolds Haeyoung1 to break up with Dokyung.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Jiya",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subject": "Haeyoung1",
+                    "action": "explains to Jiya",
+                    "topic": "about the relationship with Dokyung",
+                    "location": "at the caf\u00e9"
+                },
+                {
+                    "subject": "Jiya",
+                    "action": "scolds Haeyoung1",
+                    "instruction": "to break up with Dokyung"
+                }
+            ]
+        },
+        "related_shot": [
+            812,
+            880
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_027_0000": {
+        "scene_desc": "Haeyoung2 argues with Jiya coming out of the caf\u00e9.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung2",
+                "Jiya"
+            ],
+            "action": "argues with",
+            "location": "coming out of the caf\u00e9"
+        },
+        "related_shot": [
+            881,
+            900
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_028_0000": {
+        "scene_desc": "Dokyung drinks at a restaurant with Hun, Gitae, Yijoon, and Sangseok. Dokyung briefly talks about the current situation at the company.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Hun",
+                "Gitae",
+                "Yijoon",
+                "Sangseok"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Dokyung",
+                        "Hun",
+                        "Gitae",
+                        "Yijoon",
+                        "Sangseok"
+                    ],
+                    "action": "drinks",
+                    "location": "at a restaurant"
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "briefly talks about",
+                    "topic": "the current situation at the company"
+                }
+            ]
+        },
+        "related_shot": [
+            902,
+            933
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_029_0000": {
+        "scene_desc": "Taejin is dumbfounded when he sees Dokyung smiling at the restaurant, so he deliberately goes into the restaurant and pays for Dokyung.",
+        "scene_graph": {
+            "subjects": [
+                "Taejin",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subject": "Taejin",
+                    "state": "is dumbfounded",
+                    "condition": "when he sees Dokyung smiling at the restaurant"
+                },
+                {
+                    "subject": "Taejin",
+                    "actions": [
+                        {
+                            "action": "deliberately goes into the restaurant"
+                        },
+                        {
+                            "action": "pays for Dokyung"
+                        }
+                    ]
+                }
+            ]
+        },
+        "related_shot": [
+            934,
+            1002
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_030_0000": {
+        "scene_desc": "Sukyung tells Jinsang about her decision regarding relationship with Jinsang and tells Jinsang to leave house.",
+        "scene_graph": {
+            "subjects": [
+                "Sukyung",
+                "Jinsang"
+            ],
+            "events": [
+                {
+                    "subject": "Sukyung",
+                    "action": "tells Jinsang",
+                    "topic": "about her decision regarding relationship with Jinsang"
+                },
+                {
+                    "subject": "Sukyung",
+                    "action": "tells Jinsang",
+                    "instruction": "to leave house"
+                }
+            ]
+        },
+        "related_shot": [
+            1003,
+            1047
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_031_0000": {
+        "scene_desc": "Sukyung goes out with Jinsang to see him off from home. Jinsang shed tears feeling sorry for Sukyung while walking.",
+        "scene_graph": {
+            "subjects": [
+                "Sukyung",
+                "Jinsang"
+            ],
+            "events": [
+                {
+                    "subject": "Sukyung",
+                    "action": "goes out with Jinsang",
+                    "purpose": "to see him off from home"
+                },
+                {
+                    "subject": "Jinsang",
+                    "action": "shed tears",
+                    "reason": "feeling sorry for Sukyung",
+                    "condition": "while walking"
+                }
+            ]
+        },
+        "related_shot": [
+            1049,
+            1087
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_032_0000": {
+        "scene_desc": "Haeyoung1 comes to Taejin's house and asks Taejin to talk outside, but Taejin ignores and goes into room.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Taejin"
+            ],
+            "events": [
+                {
+                    "subject": "Haeyoung1",
+                    "actions": [
+                        {
+                            "action": "comes to Taejin's house"
+                        },
+                        {
+                            "action": "asks Taejin",
+                            "request": "to talk outside"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Taejin",
+                    "actions": [
+                        {
+                            "action": "ignores"
+                        },
+                        {
+                            "action": "goes into room"
+                        }
+                    ]
+                }
+            ]
+        },
+        "related_shot": [
+            1088,
+            1106
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_033_0000": {
+        "scene_desc": "Haeyoung1 opens her heart to Taejin about her feelings of being dumped the day before the wedding. Haeyoung1 talks about Dokyung to Taejin and leaves",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Taejin",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subject": "Haeyoung1",
+                    "action": "opens her heart to Taejin",
+                    "topic": "about her feelings of being dumped the day before the wedding"
+                },
+                {
+                    "subject": "Haeyoung1",
+                    "actions": [
+                        {
+                            "action": "talks about Dokyung to Taejin"
+                        },
+                        {
+                            "action": "leaves"
+                        }
+                    ]
+                }
+            ]
+        },
+        "related_shot": [
+            1107,
+            1160
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_034_0000": {
+        "scene_desc": "Sangseok, Yijoon, Gitae, and Hun are sad to be separated from Dokyung, so they cry and drink soju. Dokyung leaves.",
+        "scene_graph": {
+            "subjects": [
+                "Sangseok",
+                "Yijoon",
+                "Gitae",
+                "Hun",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Sangseok",
+                        "Yijoon",
+                        "Gitae",
+                        "Hun"
+                    ],
+                    "state": "are sad",
+                    "reason": "to be separated from Dokyung"
+                },
+                {
+                    "subjects": [
+                        "Sangseok",
+                        "Yijoon",
+                        "Gitae",
+                        "Hun"
+                    ],
+                    "actions": [
+                        {
+                            "action": "cry"
+                        },
+                        {
+                            "action": "drink soju"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "leaves"
+                }
+            ]
+        },
+        "related_shot": [
+            1161,
+            1179
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_035_0000": {
+        "scene_desc": "Dokyung waits Haeyoung1 in front of company with an umbrella for Haeyoung1, and meets Haeyoung1.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Haeyoung1"
+            ],
+            "events": [
+                {
+                    "subject": "Dokyung",
+                    "action": "waits Haeyoung1",
+                    "location": "in front of company",
+                    "with": "an umbrella for Haeyoung1"
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "meets Haeyoung1"
+                }
+            ]
+        },
+        "related_shot": [
+            1180,
+            1212
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh16_036_0000": {
+        "scene_desc": "Haeyoung1 scolds Dokyung for bringing two umbrellas. Afterwards, Do-kyung walks away sharing Haeyoung1's umbrella, and Dokyung tells Haeyoung1 that he loves her.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subject": "Haeyoung1",
+                    "action": "scolds Dokyung",
+                    "reason": "for bringing two umbrellas"
+                },
+                {
+                    "subject": "Dokyung",
+                    "actions": [
+                        {
+                            "action": "walks away",
+                            "manner": "sharing Haeyoung1's umbrella"
+                        },
+                        {
+                            "action": "tells Haeyoung1",
+                            "quote": "that he loves her"
+                        }
+                    ]
+                }
+            ]
+        },
+        "related_shot": [
+            1213,
+            1247
+        ],
+        "scene_qas": {}
+    }
+}{
+    "episode": "AnotherMissOh17_000_0000",
+    "episode_sum": "Jiya apologizes to the Chairman and tells Dokyung to send Haeyoung1 back. Dokyung is not angry and says that it happened through his fault and that Jiya was not at fault. Jiya calls Sukyung and says it's strange that Dokyung, who doesn't get angry like this, is sick. Dokyung hosted a dinner with his family and Haeyoung1. Sukyung and Haeyoung1 exchange jokes at dinner. Dokyung gives Haeyoung1 a bracelet. Haeyoung1 is scared and anxious because Dokyung is being too nice to her. Meanwhile, Jinsang is spending time with the girls at the club. Hun comes to Jinsang and says that Sukyung still loves Jinsang. Jinsang's heart becomes heavy when he sees melons that Sukyung likes. Dokyung stumbles upon Taejin staggering around drunk. The moment Taejin is in danger on the overpass, Dokyung saves Taejin. Haeyoung2 asks the Chairman to help Dokyung with his work, but the Chairman coldly refuses. Jinsang goes to Sukyung's company and criticizes her for not answering the phone, but Sukyung tries to ignore Jinsang. Jinsang is embarrassed that Sukyung turns away from him, but he ends up kissing Sukyung. Dokyung senses that the moment of his death is approaching and decides to honestly tell Haeyoung1 what has happened to him. Dokyung tells Haeyoung1 the truth about what happened, and Haeyoung1 says that she trusts Dokyung and they kiss. Deogi and Kyungsu eat together with Haeyoung1 and Dokyung. Deogi puts the side dishes on Dokyung's rice. Kyungsu, Dokyung, and Haeyoung1 are surprised that Deogi acknowledged Dokyung. When Taejin realizes that he was stabbed in the back by Chansu, he goes to see Chansu and beat him. Dokyung suggests that Haeyoung1 go on a trip, but Haeyoung1 becomes anxious recalling past events. Meanwhile, Taejin sends Haeyoung1 a text message apologizing, and Haeyoung1 runs toward Dokyung because he is worried about him. Taejin races after Dokyung in his car, gets out of the car, and pauses when he sees Dokyung's shoes. When Taejin finds himself intoxicated, he realizes that it was Dokyung who saved him on the overpass and turns around. Haeyoung1 and Dokyung run to each other, hug and kiss.",
+    "episode_kg": {
+        "Dokyung": {
+            "personality": [
+                "kind",
+                "caring",
+                "selfless"
+            ],
+            "relationship": [
+                "interactions with Jiya, Sukyung, Haeyoung1, Taejin, Deogi, Kyungsu"
+            ],
+            "events": [
+                "hosts a family dinner with Haeyoung1",
+                "saves Taejin from danger on the overpass",
+                "honest about his situation with Haeyoung1",
+                "suggests a trip for Haeyoung1"
+            ]
+        },
+        "Haeyoung1": {
+            "personality": [
+                "anxious",
+                "caring",
+                "trusting"
+            ],
+            "relationship": [
+                "interactions with Dokyung, Jiya, Taejin, Deogi, Kyungsu"
+            ],
+            "events": [
+                "receives a bracelet from Dokyung",
+                "worried about Dokyung's kindness",
+                "runs to Dokyung when worried",
+                "hugs and kisses Dokyung at the end"
+            ]
+        },
+        "Jiya": {
+            "personality": [
+                "apologetic",
+                "concerned"
+            ],
+            "relationship": [
+                "interactions with the Chairman, Dokyung, Sukyung"
+            ],
+            "events": [
+                "apologizes to the Chairman and Dokyung",
+                "calls Sukyung to express concern about Dokyung's behavior"
+            ]
+        },
+        "Jinsang": {
+            "personality": [
+                "playful",
+                "emotional"
+            ],
+            "relationship": [
+                "interactions with Hun, Sukyung"
+            ],
+            "events": [
+                "spends time at the club",
+                "kisses Sukyung after feeling embarrassed",
+                "hints at 's feelings for him"
+            ]
+        },
+        "Sukyung": {
+            "personality": [
+                "witty",
+                "conflicted"
+            ],
+            "relationship": [
+                "interactions with Haeyoung1, Jinsang"
+            ],
+            "events": [
+                "jokes with Haeyoung1 at dinner",
+                "ignores Jinsang's calls; Gets kissed by Jinsang"
+            ]
+        },
+        "Taejin": {
+            "personality": [
+                "troubled",
+                "remorseful"
+            ],
+            "relationship": [
+                "interactions with Dokyung, Haeyoung1, Chansu"
+            ],
+            "events": [
+                "gets saved by Dokyung on the overpass",
+                "apologizes to Haeyoung1",
+                "chases after Dokyung but eventually realizes his mistake"
+            ]
+        },
+        "Deogi": {
+            "personality": [
+                "supportive",
+                "surprised"
+            ],
+            "relationship": [
+                "interactions with Haeyoung1, Dokyung, Kyungsu"
+            ],
+            "events": [
+                "eats with Haeyoung1, Dokyung, and Kyungsu",
+                "acknowledges Dokyung's presence"
+            ]
+        },
+        "Kyungsu": {
+            "personality": [
+                "surprised",
+                "supportive"
+            ],
+            "relationship": [
+                "interactions with Haeyoung1, Dokyung, Deogi"
+            ],
+            "events": [
+                "surprised by Deogi's acknowledgment of Dokyung"
+            ]
+        }
+    },
+    "related_scene": [
+        "AnotherMissOh17_018_0000",
+        "AnotherMissOh17_012_0000",
+        "AnotherMissOh17_013_0000",
+        "AnotherMissOh17_016_0000",
+        "AnotherMissOh17_017_0000",
+        "AnotherMissOh17_018_0000",
+        "AnotherMissOh17_025_0000",
+        "AnotherMissOh17_026_0000",
+        "AnotherMissOh17_029_0000",
+        "AnotherMissOh17_030_0000",
+        "AnotherMissOh17_031_0000",
+        "AnotherMissOh17_033_0000",
+        "AnotherMissOh17_034_0000",
+        "AnotherMissOh17_040_0000",
+        "AnotherMissOh17_041_0000",
+        "AnotherMissOh17_043_0000",
+        "AnotherMissOh17_045_0000",
+        "AnotherMissOh17_048_0000",
+        "AnotherMissOh17_049_0000",
+        "AnotherMissOh17_051_0000",
+        "AnotherMissOh17_053_0000",
+        "AnotherMissOh17_054_0000",
+        "AnotherMissOh17_056_0000"
+    ],
+    "epi_qas": {},
+    "AnotherMissOh17_001_0000": {
+        "scene_desc": "Haeyoung1 scolds Dokyung for bringing two umbrellas. Afterwards, Do-kyung walks away sharing Haeyoung1's umbrella, and Dokyung tells Haeyoung1 that he loves her.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subject": "Haeyoung1",
+                    "action": "scolds Dokyung",
+                    "reason": "for bringing two umbrellas"
+                },
+                {
+                    "subject": "Dokyung",
+                    "actions": [
+                        {
+                            "action": "walks away",
+                            "manner": "sharing Haeyoung1's umbrella"
+                        },
+                        {
+                            "action": "tells Haeyoung1",
+                            "quote": "that he loves her"
+                        }
+                    ]
+                }
+            ]
+        },
+        "related_shot": [
+            25,
+            49
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_002_0000": {
+        "scene_desc": "Haeyoung1 shouts out the window to Dokyung that she loves Dokyung on the bus.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Dokyung"
+            ],
+            "event": {
+                "subject": "Haeyoung1",
+                "action": "shouts out the window to Dokyung",
+                "quote": "that she loves Dokyung",
+                "location": "on the bus"
+            }
+        },
+        "related_shot": [
+            50,
+            68
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_003_0000": {
+        "scene_desc": "Deogi and Kyungsu are in the front yard and surprised to see Haeyoung1 and Dokyung at the door.",
+        "scene_graph": {
+            "subjects": [
+                "Deogi",
+                "Kyungsu",
+                "Haeyoung1",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Deogi",
+                        "Kyungsu"
+                    ],
+                    "state": "are in the front yard"
+                },
+                {
+                    "subjects": [
+                        "Deogi",
+                        "Kyungsu"
+                    ],
+                    "state": "surprised",
+                    "reason": "to see Haeyoung1 and Dokyung at the door"
+                }
+            ]
+        },
+        "related_shot": [
+            71,
+            85
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_004_0000": {
+        "scene_desc": "Deogi and Kyungsu come into the house and disapprove of Haeyoung1, who likes Dokyung.",
+        "scene_graph": {
+            "subjects": [
+                "Deogi",
+                "Kyungsu",
+                "Haeyoung1",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Deogi",
+                        "Kyungsu"
+                    ],
+                    "action": "come into the house"
+                },
+                {
+                    "subjects": [
+                        "Deogi",
+                        "Kyungsu"
+                    ],
+                    "action": "disapprove of Haeyoung1",
+                    "reason": "who likes Dokyung"
+                }
+            ]
+        },
+        "related_shot": [
+            86,
+            107
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_005_0000": {
+        "scene_desc": "Dokyung looks out the window on a bus on the way home and is thankful.",
+        "scene_graph": {
+            "subject": "Dokyung",
+            "actions": [
+                {
+                    "action": "looks out the window",
+                    "location": "on a bus on the way home"
+                },
+                {
+                    "state": "is thankful"
+                }
+            ]
+        },
+        "related_shot": [
+            109,
+            111
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_006_0000": {
+        "scene_desc": "Haeyoung1 wakes up, looks in the mirror and is happy because Haeyoung1 is loved.",
+        "scene_graph": {
+            "subject": "Haeyoung1",
+            "events": [
+                {
+                    "action": "wakes up"
+                },
+                {
+                    "action": "looks in the mirror"
+                },
+                {
+                    "state": "is happy",
+                    "reason": "because Haeyoung1 is loved"
+                }
+            ]
+        },
+        "related_shot": [
+            113,
+            124
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_007_0000": {
+        "scene_desc": "Haeyoung1 is happy even though Haeyoung1 misses the bus.",
+        "scene_graph": {
+            "subject": "Haeyoung1",
+            "state": "is happy",
+            "condition": "even though Haeyoung1 misses the bus"
+        },
+        "related_shot": [
+            125,
+            133
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_008_0000": {
+        "scene_desc": "Dokyung wakes up Jinsang who is sleeping in his office, and tries to take him sauna.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Jinsang"
+            ],
+            "events": [
+                {
+                    "subject": "Dokyung",
+                    "action": "wakes up Jinsang",
+                    "condition": "who is sleeping in his office"
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "tries to take him sauna"
+                }
+            ]
+        },
+        "related_shot": [
+            134,
+            149
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_009_0000": {
+        "scene_desc": "Jinsang confesses his feelings to Dokyung and receives comfort.",
+        "scene_graph": {
+            "subjects": [
+                "Jinsang",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subject": "Jinsang",
+                    "action": "confesses his feelings to Dokyung"
+                },
+                {
+                    "subject": "Jinsang",
+                    "action": "receives comfort"
+                }
+            ]
+        },
+        "related_shot": [
+            150,
+            190
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_010_0000": {
+        "scene_desc": "Sukyung is working out at the office when Sungjin comes to receive approval, and Sukyung rejects.",
+        "scene_graph": {
+            "subjects": [
+                "Sukyung",
+                "Sungjin"
+            ],
+            "events": [
+                {
+                    "subject": "Sukyung",
+                    "action": "is working out",
+                    "location": "at the office"
+                },
+                {
+                    "subject": "Sungjin",
+                    "action": "comes to receive approval"
+                },
+                {
+                    "subject": "Sukyung",
+                    "action": "rejects"
+                }
+            ]
+        },
+        "related_shot": [
+            191,
+            219
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_011_0000": {
+        "scene_desc": "Sangseok and Hun tell Dokyung that they are not leaving, and Jiya enters the room.",
+        "scene_graph": {
+            "subjects": [
+                "Sangseok",
+                "Hun",
+                "Dokyung",
+                "Jiya"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Sangseok",
+                        "Hun"
+                    ],
+                    "action": "tell Dokyung",
+                    "quote": "that they are not leaving"
+                },
+                {
+                    "subject": "Jiya",
+                    "action": "enters the room"
+                }
+            ]
+        },
+        "related_shot": [
+            220,
+            235
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_012_0000": {
+        "scene_desc": "Jiya persuades Dokyung to seek forgiveness from the Chairman, but Dokyung says it is his fault.",
+        "scene_graph": {
+            "subjects": [
+                "Jiya",
+                "Dokyung",
+                "Chairman"
+            ],
+            "events": [
+                {
+                    "subject": "Jiya",
+                    "action": "persuades Dokyung",
+                    "goal": "to seek forgiveness from the Chairman"
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "says",
+                    "quote": "it is his fault"
+                }
+            ]
+        },
+        "related_shot": [
+            237,
+            252
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_013_0000": {
+        "scene_desc": "Jiya feels strange and calls Sukyung. Jiya tells her that Dokyung is strange.",
+        "scene_graph": {
+            "subjects": [
+                "Jiya",
+                "Sukyung",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subject": "Jiya",
+                    "state": "feels strange"
+                },
+                {
+                    "subject": "Jiya",
+                    "action": "calls Sukyung"
+                },
+                {
+                    "subject": "Jiya",
+                    "action": "tells her",
+                    "quote": "that Dokyung is strange"
+                }
+            ]
+        },
+        "related_shot": [
+            253,
+            261
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_014_0000": {
+        "scene_desc": "Haeyoung1 is happy looking at flowers and receives a call from Dokyung asking to eat dinner with Sukyung.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Dokyung",
+                "Sukyung"
+            ],
+            "events": [
+                {
+                    "subject": "Haeyoung1",
+                    "state": "is happy",
+                    "action": "looking at flowers"
+                },
+                {
+                    "subject": "Haeyoung1",
+                    "action": "receives a call from Dokyung",
+                    "quote": "asking to eat dinner with Sukyung"
+                }
+            ]
+        },
+        "related_shot": [
+            262,
+            271
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_015_0000": {
+        "scene_desc": "Haeyoung1 and Sukyung meet Dokyung and Hun in front of their house.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Sukyung",
+                "Dokyung",
+                "Hun"
+            ],
+            "event": {
+                "subjects": [
+                    "Haeyoung1",
+                    "Sukyung"
+                ],
+                "action": "meet",
+                "objects": [
+                    "Dokyung",
+                    "Hun"
+                ],
+                "location": "in front of their house"
+            }
+        },
+        "related_shot": [
+            272,
+            294
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_016_0000": {
+        "scene_desc": "Haeyoung1, Dokyung, Hun, and Sukyung prepare and eat dinner together.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Dokyung",
+                "Hun",
+                "Sukyung"
+            ],
+            "actions": [
+                {
+                    "action": "prepare and eat dinner",
+                    "manner": "together"
+                }
+            ]
+        },
+        "related_shot": [
+            295,
+            333
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_017_0000": {
+        "scene_desc": "Haeyoung1 and Dokyung talk about Jinsang and consider what music want to listen, and Dokyung gives Haeyoung1 a gift a bracelet as a gift.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Dokyung",
+                "Jinsang"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Haeyoung1",
+                        "Dokyung"
+                    ],
+                    "actions": [
+                        {
+                            "action": "talk about",
+                            "object": "Jinsang"
+                        },
+                        {
+                            "action": "consider",
+                            "object": "what music want to listen"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "gives Haeyoung1 a gift a bracelet",
+                    "object": "as a gift"
+                }
+            ]
+        },
+        "related_shot": [
+            371,
+            407
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_018_0000": {
+        "scene_desc": "Jinsang dances with many women.",
+        "scene_graph": {
+            "subject": "Jinsang",
+            "action": "dances with",
+            "object": "many women"
+        },
+        "related_shot": [
+            408,
+            416
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_019_0000": {
+        "scene_desc": "Jinsang returns to the table with his friends and drinks beer.",
+        "scene_graph": {
+            "subject": "Jinsang",
+            "events": [
+                {
+                    "action": "returns to the table",
+                    "with": "his friends"
+                },
+                {
+                    "action": "drinks beer"
+                }
+            ]
+        },
+        "related_shot": [
+            419,
+            424
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_020_0000": {
+        "scene_desc": "Hun enters the club while Jinsang is having fun with his friends.",
+        "scene_graph": {
+            "subjects": [
+                "Hun",
+                "Jinsang"
+            ],
+            "events": [
+                {
+                    "subject": "Hun",
+                    "action": "enters the club"
+                },
+                {
+                    "subject": "Jinsang",
+                    "action": "is having fun",
+                    "with": "his friends"
+                }
+            ]
+        },
+        "related_shot": [
+            425,
+            427
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_021_0000": {
+        "scene_desc": "Hun spots Jinsang and shouts, so Jinsang goes to catch Hun.",
+        "scene_graph": {
+            "subjects": [
+                "Hun",
+                "Jinsang"
+            ],
+            "events": [
+                {
+                    "subject": "Hun",
+                    "actions": [
+                        {
+                            "action": "spots Jinsang"
+                        },
+                        {
+                            "action": "shouts"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Jinsang",
+                    "action": "goes to catch Hun"
+                }
+            ]
+        },
+        "related_shot": [
+            429,
+            445
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_022_0000": {
+        "scene_desc": "Hun and Jinsang fight on the street.",
+        "scene_graph": {
+            "subjects": [
+                "Hun",
+                "Jinsang"
+            ],
+            "action": "fight",
+            "location": "on the street"
+        },
+        "related_shot": [
+            446,
+            475
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_023_0000": {
+        "scene_desc": "Jinsang returns to the club to have fun again, but leaves the club after seeing Melon at table.",
+        "scene_graph": {
+            "subject": "Jinsang",
+            "events": [
+                {
+                    "action": "returns to the club",
+                    "purpose": "to have fun again"
+                },
+                {
+                    "action": "leaves the club",
+                    "condition": "after seeing Melon at table"
+                }
+            ]
+        },
+        "related_shot": [
+            478,
+            494
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_024_0000": {
+        "scene_desc": "Dokyung and Haeyoung1 greet each other in front of Haeyoung1\u2019s house.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Haeyoung1"
+            ],
+            "action": "greet each other",
+            "location": "in front of Haeyoung1's house"
+        },
+        "related_shot": [
+            495,
+            502
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_025_0000": {
+        "scene_desc": "Dokyung sees Taejin drunk and passes by, but then goes back to Taejin.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Taejin"
+            ],
+            "events": [
+                {
+                    "subject": "Dokyung",
+                    "actions": [
+                        {
+                            "action": "sees Taejin drunk"
+                        },
+                        {
+                            "action": "passes by"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "goes back to Taejin"
+                }
+            ]
+        },
+        "related_shot": [
+            504,
+            519
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_026_0000": {
+        "scene_desc": "Dokyung finds Taejin on the pedestrian overpass and saves Taejin from falling.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Taejin"
+            ],
+            "events": [
+                {
+                    "subject": "Dokyung",
+                    "action": "finds Taejin",
+                    "location": "on the pedestrian overpass"
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "saves Taejin",
+                    "from": "falling"
+                }
+            ]
+        },
+        "related_shot": [
+            521,
+            572
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_027_0000": {
+        "scene_desc": "Haeyoung2 asks the Chairman for a favor.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung2",
+                "Chairman"
+            ],
+            "event": {
+                "subject": "Haeyoung2",
+                "action": "asks the Chairman",
+                "for": "a favor"
+            }
+        },
+        "related_shot": [
+            573,
+            594
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_028_0000": {
+        "scene_desc": "Haeyoung2 and Taejin meet and talk in front of the Chairman's house",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung2",
+                "Taejin",
+                "Chairman"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Haeyoung2",
+                        "Taejin"
+                    ],
+                    "actions": [
+                        {
+                            "action": "meet"
+                        },
+                        {
+                            "action": "talk"
+                        }
+                    ],
+                    "location": "in front of the Chairman's house"
+                }
+            ]
+        },
+        "related_shot": [
+            595,
+            637
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_029_0000": {
+        "scene_desc": "Jinsang goes to Sukyung's company. Jinsang keeps trying to talk. Sukyung ignores him.",
+        "scene_graph": {
+            "subjects": [
+                "Jinsang",
+                "Sukyung"
+            ],
+            "events": [
+                {
+                    "subject": "Jinsang",
+                    "action": "goes to Sukyung's company"
+                },
+                {
+                    "subject": "Jinsang",
+                    "action": "keeps trying to talk"
+                },
+                {
+                    "subject": "Sukyung",
+                    "action": "ignores him"
+                }
+            ]
+        },
+        "related_shot": [
+            645,
+            679
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_030_0000": {
+        "scene_desc": "Jinsang blocks the elevator door from closing and tells Sukyung to kiss him.",
+        "scene_graph": {
+            "subjects": [
+                "Jinsang",
+                "Sukyung"
+            ],
+            "events": [
+                {
+                    "subject": "Jinsang",
+                    "action": "blocks the elevator door",
+                    "from": "closing"
+                },
+                {
+                    "subject": "Jinsang",
+                    "action": "tells Sukyung",
+                    "quote": "to kiss him"
+                }
+            ]
+        },
+        "related_shot": [
+            680,
+            695
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_031_0000": {
+        "scene_desc": "Sungjin and the company are watching that Jinsang and Sukyung kiss passionately.",
+        "scene_graph": {
+            "subjects": [
+                "Sungjin",
+                "company",
+                "Jinsang",
+                "Sukyung"
+            ],
+            "event": {
+                "subjects": [
+                    "Sungjin",
+                    "company"
+                ],
+                "action": "are watching",
+                "object": {
+                    "subjects": [
+                        "Jinsang",
+                        "Sukyung"
+                    ],
+                    "action": "kiss",
+                    "manner": "passionately"
+                }
+            }
+        },
+        "related_shot": [
+            696,
+            705
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_032_0000": {
+        "scene_desc": "Haeyoung1 meets Haeyoung2 and thanks each other.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Haeyoung2"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Haeyoung1",
+                        "Haeyoung2"
+                    ],
+                    "action": "meet"
+                },
+                {
+                    "subjects": [
+                        "Haeyoung1",
+                        "Haeyoung2"
+                    ],
+                    "action": "thank each other"
+                }
+            ]
+        },
+        "related_shot": [
+            708,
+            717
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_033_0000": {
+        "scene_desc": "Dokyung is suffering while seeing an illusion.",
+        "scene_graph": {
+            "subject": "Dokyung",
+            "state": "is suffering",
+            "condition": "while seeing an illusion"
+        },
+        "related_shot": [
+            719,
+            743
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_034_0000": {
+        "scene_desc": "Dokyung is traveling in a car and is worried because he keeps seeing precognition.",
+        "scene_graph": {
+            "subject": "Dokyung",
+            "events": [
+                {
+                    "action": "is traveling",
+                    "location": "in a car"
+                },
+                {
+                    "state": "is worried",
+                    "reason": "because he keeps seeing precognition"
+                }
+            ]
+        },
+        "related_shot": [
+            744,
+            762
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_035_0000": {
+        "scene_desc": "Soontack suggests to the doctor that he should hypnotize Dokyung.",
+        "scene_graph": {
+            "subjects": [
+                "Soontack",
+                "doctor",
+                "Dokyung"
+            ],
+            "event": {
+                "subject": "Soontack",
+                "action": "suggests to the doctor",
+                "suggestion": "that he should hypnotize Dokyung"
+            }
+        },
+        "related_shot": [
+            763,
+            766
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_036_0000": {
+        "scene_desc": "Dokyung is under hypnosis, and the situation is explained by Dokyung.",
+        "scene_graph": {
+            "subject": "Dokyung",
+            "events": [
+                {
+                    "state": "is under hypnosis"
+                },
+                {
+                    "action": "the situation is explained by Dokyung"
+                }
+            ]
+        },
+        "related_shot": [
+            768,
+            801
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_037_0000": {
+        "scene_desc": "Dokyung is driving and Haeyoung1 is meditating.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Haeyoung1"
+            ],
+            "events": [
+                {
+                    "subject": "Dokyung",
+                    "action": "is driving"
+                },
+                {
+                    "subject": "Haeyoung1",
+                    "action": "is meditating"
+                }
+            ]
+        },
+        "related_shot": [
+            802,
+            803
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_038_0000": {
+        "scene_desc": "Haeyoung1 is meditating.",
+        "scene_graph": {
+            "subject": "Haeyoung1",
+            "action": "is meditating"
+        },
+        "related_shot": [
+            804,
+            810
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_039_0000": {
+        "scene_desc": "Dokyung calls Haeyoung1 by text and Haeyoung1 goes to the front of the house.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Haeyoung1"
+            ],
+            "events": [
+                {
+                    "subject": "Dokyung",
+                    "action": "calls Haeyoung1 by text"
+                },
+                {
+                    "subject": "Haeyoung1",
+                    "action": "goes to the front of the house"
+                }
+            ]
+        },
+        "related_shot": [
+            811,
+            815
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_040_0000": {
+        "scene_desc": "Dokyung and Haeyoung1 talk about when they first saw each other, and Dokyung confides his situation to Haeyoung1.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Haeyoung1"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Dokyung",
+                        "Haeyoung1"
+                    ],
+                    "action": "talk about",
+                    "topic": "when they first saw each other"
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "confides his situation to Haeyoung1"
+                }
+            ]
+        },
+        "related_shot": [
+            816,
+            903
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_041_0000": {
+        "scene_desc": "Deogi tells Haeyoung1 to ask Dokyung to come in for breakfast.",
+        "scene_graph": {
+            "subjects": [
+                "Deogi",
+                "Haeyoung1",
+                "Dokyung"
+            ],
+            "event": {
+                "subject": "Deogi",
+                "action": "tells Haeyoung1",
+                "quote": "to ask Dokyung to come in for breakfast"
+            }
+        },
+        "related_shot": [
+            904,
+            917
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_042_0000": {
+        "scene_desc": "Dokyung waits leaning against the car in front of Haeyoung1\u2019s house.",
+        "scene_graph": {
+            "subject": "Dokyung",
+            "action": "waits",
+            "manner": "leaning against the car",
+            "location": "in front of Haeyoung1's house"
+        },
+        "related_shot": [
+            918,
+            921
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_043_0000": {
+        "scene_desc": "Deogi, Kyungsu, Haeyoung1, and Dokyung eat breakfast together.",
+        "scene_graph": {
+            "subjects": [
+                "Deogi",
+                "Kyungsu",
+                "Haeyoung1",
+                "Dokyung"
+            ],
+            "action": "eat breakfast together"
+        },
+        "related_shot": [
+            923,
+            957
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_044_0000": {
+        "scene_desc": "Taejin looks at shoes of Chansu while driving and notices that Chansu was at the Chairman's house.",
+        "scene_graph": {
+            "subjects": [
+                "Taejin",
+                "Chansu",
+                "Chairman"
+            ],
+            "events": [
+                {
+                    "subject": "Taejin",
+                    "action": "looks at shoes of Chansu",
+                    "condition": "while driving"
+                },
+                {
+                    "subject": "Taejin",
+                    "action": "notices",
+                    "information": "that Chansu was at the Chairman's house"
+                }
+            ]
+        },
+        "related_shot": [
+            962,
+            983
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_045_0000": {
+        "scene_desc": "Taejin is scammed and his company is searched and seized.",
+        "scene_graph": {
+            "subject": "Taejin",
+            "events": [
+                {
+                    "state": "is scammed"
+                },
+                {
+                    "object": "his company",
+                    "actions": [
+                        {
+                            "action": "is searched"
+                        },
+                        {
+                            "action": "seized"
+                        }
+                    ]
+                }
+            ]
+        },
+        "related_shot": [
+            985,
+            1025
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_046_0000": {
+        "scene_desc": "Taejin visits the Chairman but does not meet him.",
+        "scene_graph": {
+            "subjects": [
+                "Taejin",
+                "Chairman"
+            ],
+            "events": [
+                {
+                    "subject": "Taejin",
+                    "action": "visits the Chairman"
+                },
+                {
+                    "subject": "Taejin",
+                    "action": "does not meet him"
+                }
+            ]
+        },
+        "related_shot": [
+            1028,
+            1038
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_047_0000": {
+        "scene_desc": "Taejin searches for Chansu while driving.",
+        "scene_graph": {
+            "subjects": [
+                "Taejin",
+                "Chansu"
+            ],
+            "event": {
+                "subject": "Taejin",
+                "action": "searches for Chansu",
+                "condition": "while driving"
+            }
+        },
+        "related_shot": [
+            1040,
+            1063
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_048_0000": {
+        "scene_desc": "Taejin follows and fights with Chansu.",
+        "scene_graph": {
+            "subjects": [
+                "Taejin",
+                "Chansu"
+            ],
+            "actions": [
+                {
+                    "subject": "Taejin",
+                    "action": "follows"
+                },
+                {
+                    "subjects": [
+                        "Taejin",
+                        "Chansu"
+                    ],
+                    "action": "fight"
+                }
+            ]
+        },
+        "related_shot": [
+            1068,
+            1184
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_049_0000": {
+        "scene_desc": "Dokyung calls Haeyoung1. Dokyung suggests that Dokyung and Haeyoung1 go on a trip.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Haeyoung1"
+            ],
+            "events": [
+                {
+                    "subject": "Dokyung",
+                    "action": "calls Haeyoung1"
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "suggests",
+                    "suggestion": "that Dokyung and Haeyoung1 go on a trip"
+                }
+            ]
+        },
+        "related_shot": [
+            1186,
+            1196
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_050_0000": {
+        "scene_desc": "Haeyoung1 gradually understands what Dokyung said before.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Dokyung"
+            ],
+            "event": {
+                "subject": "Haeyoung1",
+                "action": "gradually understands",
+                "object": "what Dokyung said before"
+            }
+        },
+        "related_shot": [
+            1197,
+            1220
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_051_0000": {
+        "scene_desc": "Dokyung confronts Taejin in front of the building.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Taejin"
+            ],
+            "event": {
+                "subject": "Dokyung",
+                "action": "confronts Taejin",
+                "location": "in front of the building"
+            }
+        },
+        "related_shot": [
+            1222,
+            1225
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_052_0000": {
+        "scene_desc": "Haeyoung1 runs to find Dokyung.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Dokyung"
+            ],
+            "event": {
+                "subject": "Haeyoung1",
+                "action": "runs",
+                "purpose": "to find Dokyung"
+            }
+        },
+        "related_shot": [
+            1227,
+            1228
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_053_0000": {
+        "scene_desc": "Dokyung has a premonition of the future he saw and runs away from Taejin after calling Haeyoung1.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Taejin",
+                "Haeyoung1"
+            ],
+            "events": [
+                {
+                    "subject": "Dokyung",
+                    "action": "has a premonition",
+                    "object": "of the future he saw"
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "runs away from Taejin",
+                    "condition": "after calling Haeyoung1"
+                }
+            ]
+        },
+        "related_shot": [
+            1231,
+            1311
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_054_0000": {
+        "scene_desc": "Dokyung sees Haeyoung1 coming from the other side and runs to hug him.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Haeyoung1"
+            ],
+            "events": [
+                {
+                    "subject": "Dokyung",
+                    "action": "sees Haeyoung1 coming",
+                    "location": "from the other side"
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "runs",
+                    "purpose": "to hug him"
+                }
+            ]
+        },
+        "related_shot": [
+            1313,
+            1318
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_055_0000": {
+        "scene_desc": "Soontack's senior doctor and person are talking.",
+        "scene_graph": {
+            "subjects": [
+                "Soontack's senior doctor",
+                "person"
+            ],
+            "action": "are talking"
+        },
+        "related_shot": [
+            1324,
+            1325
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_056_0000": {
+        "scene_desc": "Haeyoung1 hugs Dokyung and kisses him.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Dokyung"
+            ],
+            "actions": [
+                {
+                    "subject": "Haeyoung1",
+                    "action": "hugs Dokyung"
+                },
+                {
+                    "subject": "Haeyoung1",
+                    "action": "kisses him"
+                }
+            ]
+        },
+        "related_shot": [
+            1327,
+            1341
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh17_057_0000": {
+        "scene_desc": "Dokyung sits in a recording studio and sings with his eyes closed.",
+        "scene_graph": {
+            "subject": "Dokyung",
+            "actions": [
+                {
+                    "action": "sits in a recording studio"
+                },
+                {
+                    "action": "sings",
+                    "manner": "with his eyes closed"
+                }
+            ]
+        },
+        "related_shot": [
+            1343,
+            1345
+        ],
+        "scene_qas": {}
+    }
+}{
+    "episode": "AnotherMissOh18_000_0000",
+    "episode_sum": "Haeyoung1 goes with Dokyung to visit Soontak's senior doctor and learns that Dokyung's vision of the future was all true. Dokyung informs Haeyoung1 that he is going to propose to Haeyoung1. Taejin lets Dokyung get his studio back. Jiya gets angry at the Chairman and threatens that she will be mad if he causes trouble for Dokyung in the future. Haeyoung1 cried and said that she wanted to live with Dokyung, and Deogi felt sorry for Haeyoung1. Dokyung is confronted by Deogi and Kyungsu. Dokyung gets down on his knees and asks Deogi and Kyungsu to allow to marry Haeyoung1. Haeyoung1's parents allow Haeyoung1 and Dokyung to marry. With Anna's help, Hun meets the director, submits his script, and is happy that the day to make his dream come true has come. Haeyoung1 is surprised to learn that Sukyung and Jinsang are dating and that Sukyung is pregnant. At the reunion, Jiya is dissatisfied with Haeyoung1 and Dokyung's premarital cohabitation, but when the news of Sukyung's pregnancy is announced, Jiya remains silent. Haeyoung1 and Haeyoung2 have a drinking party, and although Haeyoung2 cannot go to Haeyoung1 and Dokyung's wedding, she sincerely congratulates her on Haeyoung1's marriage. Dokyung, who was waiting for Haeyoung1 to propose, gets hit by a car. Everyone is waiting in front of the operating room, hoping that Dokyung will ignore them. Meanwhile, Deogi calmly suggests that they should set a date for the wedding, and Jiya agrees with her. Haeyoung1 found this situation rather reassuring and comforting. In the end, the two get married with everyone congratulating them.",
+    "episode_kg": {
+        "Haeyoung1": {
+            "personality": [
+                "emotional",
+                "caring",
+                "determined"
+            ],
+            "relationship": [
+                "interactions with Dokyung, Deogi, Kyungsu, Sukyung, Jinsang, Haeyoung2, Jiya, Hun"
+            ],
+            "events": [
+                "learns about Dokyung's true vision of the future",
+                "wants to live with Dokyung",
+                "gets permission from parents to marry Dokyung",
+                "surprised by Sukyung and Jinsang's relationship",
+                "has a drinking party with Haeyoung2",
+                "gets married to Dokyung"
+            ]
+        },
+        "Dokyung": {
+            "personality": [
+                "devoted",
+                "determined",
+                "resilient"
+            ],
+            "relationship": [
+                "interactions with Haeyoung1, Deogi, Kyungsu, Jiya, Sukyung, Jinsang, Hun"
+            ],
+            "events": [
+                "plans to propose to Haeyoung1",
+                "confronted by Deogi and Kyungsu about marriage",
+                "gets hit by a car before proposing",
+                "gets married to Haeyoung1"
+            ]
+        },
+        "Deogi": {
+            "personality": [
+                "calm",
+                "supportive",
+                "understanding"
+            ],
+            "relationship": [
+                "interactions with Haeyoung1, Dokyung, Jiya"
+            ],
+            "events": [
+                "feels sorry for Haeyoung1",
+                "suggests setting a wedding date",
+                "agrees with Jiya about the wedding"
+            ]
+        },
+        "Kyungsu": {
+            "personality": [
+                "supportive",
+                "cooperative"
+            ],
+            "relationship": [
+                "interactions with Haeyoung1, Dokyung"
+            ],
+            "events": [
+                "supports Haeyoung1 and Dokyung's marriage"
+            ]
+        },
+        "Jiya": {
+            "personality": [
+                "opinionated",
+                "protective"
+            ],
+            "relationship": [
+                "interactions with Haeyoung1, Dokyung, Deogi"
+            ],
+            "events": [
+                "gets angry at the Chairman",
+                "remains silent at the news of Sukyung's pregnancy",
+                "agrees with Deogi about setting a wedding date"
+            ]
+        },
+        "Sukyung": {
+            "personality": [
+                "surprised",
+                "happy"
+            ],
+            "relationship": [
+                "interactions with Haeyoung1, Jinsang"
+            ],
+            "events": [
+                "reveals pregnancy news at the reunion"
+            ]
+        },
+        "Jinsang": {
+            "personality": [
+                "happy",
+                "surprised"
+            ],
+            "relationship": [
+                "interactions with Sukyung"
+            ],
+            "events": [
+                "dating Sukyung and learning about her pregnancy"
+            ]
+        },
+        "Haeyoung2": {
+            "personality": [
+                "sincere",
+                "supportive"
+            ],
+            "relationship": [
+                "interactions with Haeyoung1"
+            ],
+            "events": [
+                "congratulates Haeyoung1 on her marriage"
+            ]
+        },
+        "Hun": {
+            "personality": [
+                "joyful",
+                "hopeful"
+            ],
+            "relationship": [
+                "interactions with Haeyoung1, Haeyoung2"
+            ],
+            "events": [
+                "meets the director and submits his script"
+            ]
+        }
+    },
+    "related_scene": [
+        "AnotherMissOh18_001_0000",
+        "AnotherMissOh18_003_0000",
+        "AnotherMissOh18_004_0000",
+        "AnotherMissOh18_005_0000",
+        "AnotherMissOh18_007_0000",
+        "AnotherMissOh18_010_0000",
+        "AnotherMissOh18_014_0000",
+        "AnotherMissOh18_016_0000",
+        "AnotherMissOh18_017_0000",
+        "AnotherMissOh18_022_0000",
+        "AnotherMissOh18_029_0000",
+        "AnotherMissOh18_041_0000",
+        "AnotherMissOh18_044_0000",
+        "AnotherMissOh18_045_0000",
+        "AnotherMissOh18_046_0000",
+        "AnotherMissOh18_047_0000"
+    ],
+    "epi_qas": {},
+    "AnotherMissOh18_001_0000": {
+        "scene_desc": "Haeyoung1 and Dokyung are lying in bed, and Haeyoung1 is giving a monologue.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Haeyoung1",
+                        "Dokyung"
+                    ],
+                    "state": "are lying in bed"
+                },
+                {
+                    "subject": "Haeyoung1",
+                    "action": "is giving a monologue"
+                }
+            ]
+        },
+        "related_shot": [
+            25,
+            30
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_002_0000": {
+        "scene_desc": "Dokyung and Haeyoung1 listen to the daydream sung by Dokyung.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Haeyoung1"
+            ],
+            "action": "listen to",
+            "object": "the daydream sung by Dokyung"
+        },
+        "related_shot": [
+            34,
+            44
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_003_0000": {
+        "scene_desc": "Haeyoung1 meets Soontack with Dokyung and hears that everything happened before was true.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Soontack",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subject": "Haeyoung1",
+                    "action": "meets Soontack",
+                    "with": "Dokyung"
+                },
+                {
+                    "subject": "Haeyoung1",
+                    "action": "hears",
+                    "information": "that everything happened before was true"
+                }
+            ]
+        },
+        "related_shot": [
+            45,
+            60
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_004_0000": {
+        "scene_desc": "Soontack's senior doctor asks about Dokyung's condition and tells Dokyung and Haeyoung1 that when changes occur, the situation will also change.",
+        "scene_graph": {
+            "subjects": [
+                "Soontack's senior doctor",
+                "Dokyung",
+                "Haeyoung1"
+            ],
+            "events": [
+                {
+                    "subject": "Soontack's senior doctor",
+                    "action": "asks about",
+                    "object": "Dokyung's condition"
+                },
+                {
+                    "subject": "Soontack's senior doctor",
+                    "action": "tells",
+                    "recipients": [
+                        "Dokyung",
+                        "Haeyoung1"
+                    ],
+                    "quote": "that when changes occur, the situation will also change"
+                }
+            ]
+        },
+        "related_shot": [
+            64,
+            72
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_005_0000": {
+        "scene_desc": "Dokyung tells that it's okay to Haeyoung1 who asks to live together.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Haeyoung1"
+            ],
+            "events": [
+                {
+                    "subject": "Haeyoung1",
+                    "action": "asks to live together"
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "tells that it's okay",
+                    "recipient": "Haeyoung1"
+                }
+            ]
+        },
+        "related_shot": [
+            81,
+            95
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_006_0000": {
+        "scene_desc": "Hun receives a phone call from Dokyung while he is moving stuffs, and is informed that the seizure has been cancelled. Hun let Gitae, Sangseok, Yijoon know the information.",
+        "scene_graph": {
+            "subjects": [
+                "Hun",
+                "Dokyung",
+                "Gitae",
+                "Sangseok",
+                "Yijoon"
+            ],
+            "events": [
+                {
+                    "subject": "Hun",
+                    "action": "receives a phone call from Dokyung",
+                    "condition": "while he is moving stuffs"
+                },
+                {
+                    "subject": "Hun",
+                    "state": "is informed",
+                    "information": "that the seizure has been cancelled"
+                },
+                {
+                    "subject": "Hun",
+                    "action": "let know the information",
+                    "recipients": [
+                        "Gitae",
+                        "Sangseok",
+                        "Yijoon"
+                    ]
+                }
+            ]
+        },
+        "related_shot": [
+            96,
+            121
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_007_0000": {
+        "scene_desc": "All the seizure stickers are removed from the stuffs, and Dokyung receives a text message from Taejin saying, You are not at fault.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Taejin"
+            ],
+            "events": [
+                {
+                    "state": "All the seizure stickers are removed from the stuffs"
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "receives a text message from Taejin",
+                    "quote": "You are not at fault"
+                }
+            ]
+        },
+        "related_shot": [
+            123,
+            130
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_008_0000": {
+        "scene_desc": "Taejin informs the Chairman to consider the 800 million he spent on bonds as wasted.",
+        "scene_graph": {
+            "subjects": [
+                "Taejin",
+                "Chairman"
+            ],
+            "event": {
+                "subject": "Taejin",
+                "action": "informs the Chairman",
+                "quote": "to consider the 800 million he spent on bonds as wasted"
+            }
+        },
+        "related_shot": [
+            131,
+            137
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_009_0000": {
+        "scene_desc": "Taejin is leaving the Chairman's house while Jiya is trying to enter the Chairman's house by breaking through the security guards blocking the way.",
+        "scene_graph": {
+            "subjects": [
+                "Taejin",
+                "Jiya",
+                "Chairman",
+                "security guards"
+            ],
+            "events": [
+                {
+                    "subject": "Taejin",
+                    "action": "is leaving",
+                    "object": "the Chairman's house"
+                },
+                {
+                    "subject": "Jiya",
+                    "action": "is trying to enter",
+                    "object": "the Chairman's house",
+                    "manner": "by breaking through the security guards blocking the way"
+                }
+            ]
+        },
+        "related_shot": [
+            138,
+            146
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_010_0000": {
+        "scene_desc": "Jiya is angry at the Chairman for playing with Dokyung and warns Chairman not to touch Dokyung again.",
+        "scene_graph": {
+            "subjects": [
+                "Jiya",
+                "Chairman",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subject": "Jiya",
+                    "state": "is angry at the Chairman",
+                    "reason": "for playing with Dokyung"
+                },
+                {
+                    "subject": "Jiya",
+                    "action": "warns Chairman",
+                    "warning": "not to touch Dokyung again"
+                }
+            ]
+        },
+        "related_shot": [
+            147,
+            188
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_011_0000": {
+        "scene_desc": "Sukyung shows a pregnancy yoga book to a student sitting in a seat and informs the student that she is pregnant.",
+        "scene_graph": {
+            "subjects": [
+                "Sukyung",
+                "student"
+            ],
+            "events": [
+                {
+                    "subject": "Sukyung",
+                    "action": "shows",
+                    "object": "a pregnancy yoga book",
+                    "recipient": "a student sitting in a seat"
+                },
+                {
+                    "subject": "Sukyung",
+                    "action": "informs the student",
+                    "information": "that she is pregnant"
+                }
+            ]
+        },
+        "related_shot": [
+            189,
+            195
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_012_0000": {
+        "scene_desc": "Jinsang and Sukyung are walking home from the bus stop, and are embarrassed by each other.",
+        "scene_graph": {
+            "subjects": [
+                "Jinsang",
+                "Sukyung"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Jinsang",
+                        "Sukyung"
+                    ],
+                    "action": "are walking home",
+                    "from": "the bus stop"
+                },
+                {
+                    "subjects": [
+                        "Jinsang",
+                        "Sukyung"
+                    ],
+                    "state": "are embarrassed",
+                    "by": "each other"
+                }
+            ]
+        },
+        "related_shot": [
+            198,
+            228
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_013_0000": {
+        "scene_desc": "Jinsang and Sukyung enter the house awkwardly holding each other's bodies and awkwardly say good night.",
+        "scene_graph": {
+            "subjects": [
+                "Jinsang",
+                "Sukyung"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Jinsang",
+                        "Sukyung"
+                    ],
+                    "action": "enter the house",
+                    "manner": [
+                        "awkwardly holding each other's bodies",
+                        "awkwardly say good night"
+                    ]
+                }
+            ]
+        },
+        "related_shot": [
+            235,
+            268
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_014_0000": {
+        "scene_desc": "While eating with Deogi and Kyungsu, Haeyoung1 cries and says that she wants to live with Dokyung. Haeyoung1 packs her luggage and heads to Dokyung's house. When Dokyung does not accept Haeyoung1, Haeyoung1 returns home and begs at Deogi for going with her.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Deogi",
+                "Kyungsu",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subject": "Haeyoung1",
+                    "actions": [
+                        {
+                            "action": "cries"
+                        },
+                        {
+                            "action": "says",
+                            "quote": "that she wants to live with Dokyung"
+                        }
+                    ],
+                    "condition": "While eating with Deogi and Kyungsu"
+                },
+                {
+                    "subject": "Haeyoung1",
+                    "actions": [
+                        {
+                            "action": "packs her luggage"
+                        },
+                        {
+                            "action": "heads to Dokyung's house"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Haeyoung1",
+                    "action": "returns home",
+                    "condition": "When Dokyung does not accept Haeyoung1"
+                },
+                {
+                    "subject": "Haeyoung1",
+                    "action": "begs at Deogi",
+                    "for": "going with her"
+                }
+            ]
+        },
+        "related_shot": [
+            270,
+            307
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_015_0000": {
+        "scene_desc": "Jinsang tells Dokyung about Sukyung. However, Dokyung is so upset about sending Haeyoung1 back home. so he doesn't listen and is blaming himself.",
+        "scene_graph": {
+            "subjects": [
+                "Jinsang",
+                "Dokyung",
+                "Sukyung",
+                "Haeyoung1"
+            ],
+            "events": [
+                {
+                    "subject": "Jinsang",
+                    "action": "tells Dokyung",
+                    "about": "Sukyung"
+                },
+                {
+                    "subject": "Dokyung",
+                    "state": "is so upset",
+                    "reason": "about sending Haeyoung1 back home"
+                },
+                {
+                    "subject": "Dokyung",
+                    "actions": [
+                        {
+                            "action": "doesn't listen"
+                        },
+                        {
+                            "action": "is blaming himself"
+                        }
+                    ]
+                }
+            ]
+        },
+        "related_shot": [
+            308,
+            325
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_016_0000": {
+        "scene_desc": "Dokyung go straight to Haeyoung1\u2019s house to pick Haeyoung1 up. Haeyoung1 asks Deogi, who is going with him, to smile and talk to Dokyung. Dokyung takes a wrong turn on a one-way street and meets an oncoming taxi. Kyungsu and Haeyoung1 recognize Dokyung in the oncoming car and wave hand.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Haeyoung1",
+                "Deogi",
+                "Kyungsu",
+                "taxi"
+            ],
+            "events": [
+                {
+                    "subject": "Dokyung",
+                    "action": "go straight to Haeyoung1's house",
+                    "purpose": "to pick Haeyoung1 up"
+                },
+                {
+                    "subject": "Haeyoung1",
+                    "action": "asks Deogi",
+                    "request": [
+                        "to smile",
+                        "talk to Dokyung"
+                    ],
+                    "condition": "who is going with him"
+                },
+                {
+                    "subject": "Dokyung",
+                    "actions": [
+                        {
+                            "action": "takes a wrong turn",
+                            "location": "on a one-way street"
+                        },
+                        {
+                            "action": "meets",
+                            "object": "an oncoming taxi"
+                        }
+                    ]
+                },
+                {
+                    "subjects": [
+                        "Kyungsu",
+                        "Haeyoung1"
+                    ],
+                    "actions": [
+                        {
+                            "action": "recognize Dokyung",
+                            "location": "in the oncoming car"
+                        },
+                        {
+                            "action": "wave hand"
+                        }
+                    ]
+                }
+            ]
+        },
+        "related_shot": [
+            326,
+            349
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_017_0000": {
+        "scene_desc": "As soon as Dokyung gets out of the car, he kneels in front of Deogi and Kyungsu and tells them that he wants to get married with Haeyoung1. Kyungsu and Deogi say they allow Dokyung and Haeyoung1 to get married.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Deogi",
+                "Kyungsu",
+                "Haeyoung1"
+            ],
+            "events": [
+                {
+                    "subject": "Dokyung",
+                    "actions": [
+                        {
+                            "action": "gets out of the car"
+                        },
+                        {
+                            "action": "kneels",
+                            "location": "in front of Deogi and Kyungsu"
+                        },
+                        {
+                            "action": "tells them",
+                            "quote": "that he wants to get married with Haeyoung1"
+                        }
+                    ]
+                },
+                {
+                    "subjects": [
+                        "Kyungsu",
+                        "Deogi"
+                    ],
+                    "action": "say",
+                    "quote": "they allow Dokyung and Haeyoung1 to get married"
+                }
+            ]
+        },
+        "related_shot": [
+            351,
+            374
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_018_0000": {
+        "scene_desc": "Haeyoung1 says goodbye to Deogi and Kyungsu and wants Deogi to take a look at him. Deogi eventually look at Haeyoung1.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Deogi",
+                "Kyungsu"
+            ],
+            "events": [
+                {
+                    "subject": "Haeyoung1",
+                    "actions": [
+                        {
+                            "action": "says goodbye",
+                            "recipients": [
+                                "Deogi",
+                                "Kyungsu"
+                            ]
+                        },
+                        {
+                            "action": "wants Deogi",
+                            "request": "to take a look at him"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Deogi",
+                    "action": "eventually look at Haeyoung1"
+                }
+            ]
+        },
+        "related_shot": [
+            378,
+            389
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_019_0000": {
+        "scene_desc": "Dokyung and Haeyoung1 kiss passionately on sofa, and Jinsang hide behind sofa.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Haeyoung1",
+                "Jinsang"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Dokyung",
+                        "Haeyoung1"
+                    ],
+                    "action": "kiss",
+                    "manner": "passionately",
+                    "location": "on sofa"
+                },
+                {
+                    "subject": "Jinsang",
+                    "action": "hide",
+                    "location": "behind sofa"
+                }
+            ]
+        },
+        "related_shot": [
+            390,
+            404
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_020_0000": {
+        "scene_desc": "When Sukyung enters the room and looks for Jinsang, Jinsang is caught and feels ashamed of Dokyung and Haeyoung1.",
+        "scene_graph": {
+            "subjects": [
+                "Sukyung",
+                "Jinsang",
+                "Dokyung",
+                "Haeyoung1"
+            ],
+            "events": [
+                {
+                    "subject": "Sukyung",
+                    "actions": [
+                        {
+                            "action": "enters the room"
+                        },
+                        {
+                            "action": "looks for Jinsang"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Jinsang",
+                    "state": "is caught"
+                },
+                {
+                    "subject": "Jinsang",
+                    "state": "feels ashamed",
+                    "of": [
+                        "Dokyung",
+                        "Haeyoung1"
+                    ]
+                }
+            ]
+        },
+        "related_shot": [
+            405,
+            477
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_021_0000": {
+        "scene_desc": "Jinsang and Sukyung take a walk together. Sukyung uses Jinsang to stretch his arms and legs.",
+        "scene_graph": {
+            "subjects": [
+                "Jinsang",
+                "Sukyung"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Jinsang",
+                        "Sukyung"
+                    ],
+                    "action": "take a walk together"
+                },
+                {
+                    "subject": "Sukyung",
+                    "action": "uses Jinsang",
+                    "purpose": "to stretch his arms and legs"
+                }
+            ]
+        },
+        "related_shot": [
+            481,
+            487
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_022_0000": {
+        "scene_desc": "Anna recognized a customer entering the cafe and recited his customized orders. The customer complimented Anna, and Anna called Hun on her phone and told him to bounce quickly. Hun arrives at the cafe and meets the customer. The customer asks Hun, who is feeling restless, to explain the scenario Hun wrote.",
+        "scene_graph": {
+            "subjects": [
+                "Anna",
+                "customer",
+                "Hun"
+            ],
+            "events": [
+                {
+                    "subject": "Anna",
+                    "actions": [
+                        {
+                            "action": "recognized a customer",
+                            "condition": "entering the cafe"
+                        },
+                        {
+                            "action": "recited his customized orders"
+                        }
+                    ]
+                },
+                {
+                    "subject": "customer",
+                    "action": "complimented Anna"
+                },
+                {
+                    "subject": "Anna",
+                    "actions": [
+                        {
+                            "action": "called Hun",
+                            "instrument": "on her phone"
+                        },
+                        {
+                            "action": "told him",
+                            "quote": "to bounce quickly"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Hun",
+                    "actions": [
+                        {
+                            "action": "arrives at the cafe"
+                        },
+                        {
+                            "action": "meets the customer"
+                        }
+                    ]
+                },
+                {
+                    "subject": "customer",
+                    "action": "asks Hun",
+                    "request": "to explain the scenario Hun wrote",
+                    "condition": "who is feeling restless"
+                }
+            ]
+        },
+        "related_shot": [
+            488,
+            562
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_023_0000": {
+        "scene_desc": "Haeyoung1 calls Deogi to ask about the meeting of families, and Deogi reacts negatively. Haeyoung1 feels sad for Deogi due to her negative reaction.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Deogi"
+            ],
+            "events": [
+                {
+                    "subject": "Haeyoung1",
+                    "action": "calls Deogi",
+                    "purpose": "to ask about the meeting of families"
+                },
+                {
+                    "subject": "Deogi",
+                    "action": "reacts negatively"
+                },
+                {
+                    "subject": "Haeyoung1",
+                    "state": "feels sad for Deogi",
+                    "reason": "due to her negative reaction"
+                }
+            ]
+        },
+        "related_shot": [
+            566,
+            575
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_024_0000": {
+        "scene_desc": "While Dokyung is working in the studio with Sangseok, Kyungsu called Dokyung and told Dokyung to take notes. Dokyung quickly write down what Kyungsu is saying, and Kyungsu says that it is good for the body and hung up the phone.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Sangseok",
+                "Kyungsu"
+            ],
+            "events": [
+                {
+                    "subject": "Dokyung",
+                    "action": "is working",
+                    "location": "in the studio",
+                    "with": "Sangseok"
+                },
+                {
+                    "subject": "Kyungsu",
+                    "actions": [
+                        {
+                            "action": "called Dokyung"
+                        },
+                        {
+                            "action": "told Dokyung",
+                            "quote": "to take notes"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "quickly write down",
+                    "object": "what Kyungsu is saying"
+                },
+                {
+                    "subject": "Kyungsu",
+                    "actions": [
+                        {
+                            "action": "says",
+                            "quote": "that it is good for the body"
+                        },
+                        {
+                            "action": "hung up the phone"
+                        }
+                    ]
+                }
+            ]
+        },
+        "related_shot": [
+            584,
+            603
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_025_0000": {
+        "scene_desc": "Anna boasts about her boyfriend Hun in front of Heeran, and Hun is embarrassed. Afterwards, when Hun tells Anna that I love you, Anna screams and hugs Hun.",
+        "scene_graph": {
+            "subjects": [
+                "Anna",
+                "Hun",
+                "Heeran"
+            ],
+            "events": [
+                {
+                    "subject": "Anna",
+                    "action": "boasts about",
+                    "object": "her boyfriend Hun",
+                    "location": "in front of Heeran"
+                },
+                {
+                    "subject": "Hun",
+                    "state": "is embarrassed"
+                },
+                {
+                    "subject": "Hun",
+                    "action": "tells Anna",
+                    "quote": "that I love you"
+                },
+                {
+                    "subject": "Anna",
+                    "actions": [
+                        {
+                            "action": "screams"
+                        },
+                        {
+                            "action": "hugs Hun"
+                        }
+                    ]
+                }
+            ]
+        },
+        "related_shot": [
+            607,
+            641
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_026_0000": {
+        "scene_desc": "Dokyung, Haeyoung1, Jinsang, and Sukyung drink beer in the living room. Dokyung tells Jinsang and Sukyung that he will marry Haeyoung1, and Sukyung confesses to Dokyung and Haeyoung1 that she is pregnant. Afterwards, Hun and Anna come home and talk about saying I love you.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Haeyoung1",
+                "Jinsang",
+                "Sukyung",
+                "Hun",
+                "Anna"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Dokyung",
+                        "Haeyoung1",
+                        "Jinsang",
+                        "Sukyung"
+                    ],
+                    "action": "drink beer",
+                    "location": "in the living room"
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "tells",
+                    "recipients": [
+                        "Jinsang",
+                        "Sukyung"
+                    ],
+                    "quote": "that he will marry Haeyoung1"
+                },
+                {
+                    "subject": "Sukyung",
+                    "action": "confesses to",
+                    "recipients": [
+                        "Dokyung",
+                        "Haeyoung1"
+                    ],
+                    "quote": "that she is pregnant"
+                },
+                {
+                    "subjects": [
+                        "Hun",
+                        "Anna"
+                    ],
+                    "actions": [
+                        {
+                            "action": "come home"
+                        },
+                        {
+                            "action": "talk about saying I love you"
+                        }
+                    ]
+                }
+            ]
+        },
+        "related_shot": [
+            643,
+            732
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_027_0000": {
+        "scene_desc": "Haeyoung1 sees the side dishes and letter in the cooler and realizes that they were sent by Deogi. The letter is from Deogi to Dokyung.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Deogi",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subject": "Haeyoung1",
+                    "action": "sees",
+                    "objects": [
+                        "the side dishes",
+                        "letter"
+                    ],
+                    "location": "in the cooler"
+                },
+                {
+                    "subject": "Haeyoung1",
+                    "action": "realizes",
+                    "information": "that they were sent by Deogi"
+                },
+                {
+                    "subject": "letter",
+                    "states": [
+                        {
+                            "state": "is from Deogi"
+                        },
+                        {
+                            "state": "to Dokyung"
+                        }
+                    ]
+                }
+            ]
+        },
+        "related_shot": [
+            735,
+            764
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_028_0000": {
+        "scene_desc": "Kyungsu is watching TV and taking notes, and Deogi is sleeping behind Kyungsu.",
+        "scene_graph": {
+            "subjects": [
+                "Kyungsu",
+                "Deogi"
+            ],
+            "events": [
+                {
+                    "subject": "Kyungsu",
+                    "actions": [
+                        {
+                            "action": "is watching TV"
+                        },
+                        {
+                            "action": "taking notes"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Deogi",
+                    "action": "is sleeping",
+                    "location": "behind Kyungsu"
+                }
+            ]
+        },
+        "related_shot": [
+            765,
+            770
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_029_0000": {
+        "scene_desc": "Dokyung, Jiya, Deogi and Haeyoung1 have a meal together. Jiya is not happy that Dokyung and Haeyoung1 are living together before wedding. Dokyung tells Jiya about Sukyung and silences her. Deogi says congratulations to Jiya.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Jiya",
+                "Deogi",
+                "Haeyoung1",
+                "Sukyung"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Dokyung",
+                        "Jiya",
+                        "Deogi",
+                        "Haeyoung1"
+                    ],
+                    "action": "have a meal together"
+                },
+                {
+                    "subject": "Jiya",
+                    "state": "is not happy",
+                    "reason": "that Dokyung and Haeyoung1 are living together before wedding"
+                },
+                {
+                    "subject": "Dokyung",
+                    "actions": [
+                        {
+                            "action": "tells Jiya",
+                            "about": "Sukyung"
+                        },
+                        {
+                            "action": "silences her"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Deogi",
+                    "action": "says congratulations to Jiya"
+                }
+            ]
+        },
+        "related_shot": [
+            771,
+            812
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_030_0000": {
+        "scene_desc": "Jiya and Deogi greet each other and part ways. Haeyoung1 sees Deogi off, and Jiya asks Dokyung one more time if Sukyung's pregnancy is real.",
+        "scene_graph": {
+            "subjects": [
+                "Jiya",
+                "Deogi",
+                "Haeyoung1",
+                "Dokyung",
+                "Sukyung"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Jiya",
+                        "Deogi"
+                    ],
+                    "actions": [
+                        {
+                            "action": "greet each other"
+                        },
+                        {
+                            "action": "part ways"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Haeyoung1",
+                    "action": "sees Deogi off"
+                },
+                {
+                    "subject": "Jiya",
+                    "action": "asks Dokyung one more time",
+                    "question": "if Sukyung's pregnancy is real"
+                }
+            ]
+        },
+        "related_shot": [
+            835,
+            852
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_031_0000": {
+        "scene_desc": "Sukyung desperately prevents Hun, who is in a hurry to use the bathroom, from entering.",
+        "scene_graph": {
+            "subjects": [
+                "Sukyung",
+                "Hun"
+            ],
+            "events": [
+                {
+                    "subject": "Sukyung",
+                    "action": "desperately prevents Hun",
+                    "object": "from entering"
+                },
+                {
+                    "subject": "Hun",
+                    "state": "is in a hurry",
+                    "purpose": "to use the bathroom"
+                }
+            ]
+        },
+        "related_shot": [
+            854,
+            863
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_032_0000": {
+        "scene_desc": "Jinsang receives Hun's call and enters the house with a toilet plunger.",
+        "scene_graph": {
+            "subjects": [
+                "Jinsang",
+                "Hun"
+            ],
+            "events": [
+                {
+                    "subject": "Jinsang",
+                    "action": "receives Hun's call"
+                },
+                {
+                    "subject": "Jinsang",
+                    "action": "enters the house",
+                    "with": "a toilet plunger"
+                }
+            ]
+        },
+        "related_shot": [
+            866,
+            870
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_033_0000": {
+        "scene_desc": "Sukyung is embarrassed that the toilet is clogged because of her and keeps blocking Jinsang from going in. Jinsang persuades Sukyung to go into the bathroom and unclog the toilet. Jinsang informs Hun and Jinsang that the toilet was pierced.",
+        "scene_graph": {
+            "subjects": [
+                "Sukyung",
+                "Jinsang",
+                "Hun"
+            ],
+            "events": [
+                {
+                    "subject": "Sukyung",
+                    "states": [
+                        {
+                            "state": "is embarrassed",
+                            "reason": "that the toilet is clogged because of her"
+                        },
+                        {
+                            "action": "keeps blocking Jinsang",
+                            "from": "going in"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Jinsang",
+                    "action": "persuades Sukyung",
+                    "quotes": [
+                        {
+                            "quote": "to go into the bathroom"
+                        },
+                        {
+                            "quote": "unclog the toilet"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Jinsang",
+                    "action": "informs",
+                    "objects": [
+                        "Hun",
+                        "Jinsang"
+                    ],
+                    "quote": "that the toilet was pierced"
+                }
+            ]
+        },
+        "related_shot": [
+            871,
+            916
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_034_0000": {
+        "scene_desc": "Dokyung arrives at the restaurant and greets people with similar occupations. When Haeyoung1 texts Do-kyung that she wants to eat pork belly, Dokyung heads home instead of eating dinner at the restaurant.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Haeyoung1"
+            ],
+            "events": [
+                {
+                    "subject": "Dokyung",
+                    "actions": [
+                        {
+                            "action": "arrives at the restaurant"
+                        },
+                        {
+                            "action": "greets people",
+                            "with": "similar occupations"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Haeyoung1",
+                    "action": "texts Do-kyung",
+                    "quote": "that she wants to eat pork belly"
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "heads home",
+                    "condition": "instead of eating dinner at the restaurant"
+                }
+            ]
+        },
+        "related_shot": [
+            917,
+            946
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_035_0000": {
+        "scene_desc": "Haeyoung1 is trying to eat dinner alone when Dokyung arrive home. Dokyung buys pork belly and enjoys eating pork belly with Haeyoung1.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subject": "Haeyoung1",
+                    "action": "is trying to eat dinner alone",
+                    "condition": "when Dokyung arrive home"
+                },
+                {
+                    "subject": "Dokyung",
+                    "actions": [
+                        {
+                            "action": "buys pork belly"
+                        },
+                        {
+                            "action": "enjoys eating pork belly",
+                            "with": "Haeyoung1"
+                        }
+                    ]
+                }
+            ]
+        },
+        "related_shot": [
+            948,
+            963
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_036_0000": {
+        "scene_desc": "Jiya calls Sukyung and congratulates Sukyung on pregnancy. However, Sukyung talks to Jiya about the story that Sukyung and Jinsang are not enjoying a proper romance. Sukyung feels sad.",
+        "scene_graph": {
+            "subjects": [
+                "Jiya",
+                "Sukyung",
+                "Jinsang"
+            ],
+            "events": [
+                {
+                    "subject": "Jiya",
+                    "actions": [
+                        {
+                            "action": "calls Sukyung"
+                        },
+                        {
+                            "action": "congratulates Sukyung",
+                            "on": "pregnancy"
+                        }
+                    ]
+                },
+                {
+                    "subject": "Sukyung",
+                    "action": "talks to Jiya",
+                    "about": "the story that Sukyung and Jinsang are not enjoying a proper romance"
+                },
+                {
+                    "subject": "Sukyung",
+                    "state": "feels sad"
+                }
+            ]
+        },
+        "related_shot": [
+            964,
+            973
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_037_0000": {
+        "scene_desc": "Hun tells Haeyoung1 that he enjoyed the side dish Deogi made, and returns the containers. Afterwards, Hun advises Dokyung to call the person he met at the restaurant because Dokyung came home early from the restaurant.",
+        "scene_graph": {
+            "subjects": [
+                "Hun",
+                "Haeyoung1",
+                "Deogi",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subject": "Hun",
+                    "action": "tells Haeyoung1",
+                    "quote": "that he enjoyed the side dish Deogi made"
+                },
+                {
+                    "subject": "Hun",
+                    "action": "returns the containers"
+                },
+                {
+                    "subject": "Hun",
+                    "action": "advises Dokyung",
+                    "quote": "to call the person he met at the restaurant",
+                    "reason": "because Dokyung came home early from the restaurant"
+                }
+            ]
+        },
+        "related_shot": [
+            978,
+            996
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_038_0000": {
+        "scene_desc": "While watching a movie with Dokyung, Haeyoung1 recalls the moment she and Taejin parted ways by the lake.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Dokyung",
+                "Taejin"
+            ],
+            "events": [
+                {
+                    "subject": "Haeyoung1",
+                    "action": "recalls",
+                    "object": "the moment she and Taejin parted ways by the lake",
+                    "condition": "While watching a movie with Dokyung"
+                }
+            ]
+        },
+        "related_shot": [
+            1014,
+            1038
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_039_0000": {
+        "scene_desc": "Anna is extremely jealous that Jinsang and Sukyung's love story is going in reverse, and Hun is embarrassed when he hears this.",
+        "scene_graph": {
+            "subjects": [
+                "Anna",
+                "Jinsang",
+                "Sukyung",
+                "Hun"
+            ],
+            "events": [
+                {
+                    "subject": "Anna",
+                    "state": "is extremely jealous",
+                    "reason": "that Jinsang and Sukyung's love story is going in reverse"
+                },
+                {
+                    "subject": "Hun",
+                    "state": "is embarrassed",
+                    "condition": "when he hears this"
+                }
+            ]
+        },
+        "related_shot": [
+            1043,
+            1083
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_040_0000": {
+        "scene_desc": "To ease Sukyung's pressure, Jinsang paid Hun and Anna to act and ask them to act.",
+        "scene_graph": {
+            "subjects": [
+                "Jinsang",
+                "Sukyung",
+                "Hun",
+                "Anna"
+            ],
+            "event": {
+                "subject": "Jinsang",
+                "action": "paid",
+                "objects": [
+                    "Hun",
+                    "Anna"
+                ],
+                "purpose": [
+                    {
+                        "to": "act"
+                    },
+                    {
+                        "to": "ease Sukyung's pressure"
+                    }
+                ],
+                "quote": "ask them to act"
+            }
+        },
+        "related_shot": [
+            1085,
+            1097
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_041_0000": {
+        "scene_desc": "Haeyoung2 tells Haeyoung1 that she cannot attend the wedding, and that she hopes Dokyung and Haeyung1 can live happily.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung2",
+                "Haeyoung1",
+                "Dokyung"
+            ],
+            "event": {
+                "subject": "Haeyoung2",
+                "action": "tells",
+                "recipient": "Haeyoung1",
+                "quotes": [
+                    {
+                        "quote": "she cannot attend the wedding"
+                    },
+                    {
+                        "quote": "she hopes Dokyung and Haeyung1 can live happily"
+                    }
+                ]
+            }
+        },
+        "related_shot": [
+            1098,
+            1123
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_042_0000": {
+        "scene_desc": "Jinsang and Sukyung are stretching together outdoors. Meanwhile, Jinsang injured his knee.",
+        "scene_graph": {
+            "subjects": [
+                "Jinsang",
+                "Sukyung"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Jinsang",
+                        "Sukyung"
+                    ],
+                    "action": "are stretching together",
+                    "location": "outdoors"
+                },
+                {
+                    "subject": "Jinsang",
+                    "action": "injured",
+                    "object": "his knee"
+                }
+            ]
+        },
+        "related_shot": [
+            1124,
+            1127
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_043_0000": {
+        "scene_desc": "While Dokyung is preparing to shoot a wedding with people, he receive a call from Haeyoung and they are having a conversation.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Haeyoung"
+            ],
+            "events": [
+                {
+                    "subject": "Dokyung",
+                    "action": "is preparing to shoot a wedding",
+                    "with": "people"
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "receive a call",
+                    "from": "Haeyoung"
+                },
+                {
+                    "subjects": [
+                        "Dokyung",
+                        "Haeyoung"
+                    ],
+                    "action": "are having a conversation"
+                }
+            ]
+        },
+        "related_shot": [
+            1128,
+            1135
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_044_0000": {
+        "scene_desc": "Dokyung hangs up the phone with Haeyoung1 and thinks about how he came to love Haeyoung1 while looking at the wedding rings.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Haeyoung1"
+            ],
+            "events": [
+                {
+                    "subject": "Dokyung",
+                    "action": "hangs up the phone",
+                    "with": "Haeyoung1"
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "thinks about",
+                    "thought": "how he came to love Haeyoung1",
+                    "condition": "while looking at the wedding rings"
+                }
+            ]
+        },
+        "related_shot": [
+            1136,
+            1197
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_045_0000": {
+        "scene_desc": "While Dokyung was thinking, a car hit Dokyung. Dokyung feels that the death he always predicted is different from reality. When Haeyoung1 sees the ambulance, he feels strange and starts running. Go next to Dokyung and feel sad.",
+        "scene_graph": {
+            "subjects": [
+                "Dokyung",
+                "Haeyoung1"
+            ],
+            "events": [
+                {
+                    "subject": "Dokyung",
+                    "action": "was thinking",
+                    "condition": "While"
+                },
+                {
+                    "subject": "car",
+                    "action": "hit",
+                    "object": "Dokyung"
+                },
+                {
+                    "subject": "Dokyung",
+                    "state": "feels",
+                    "thought": "the death he always predicted is different from reality"
+                },
+                {
+                    "subject": "Haeyoung1",
+                    "state": "feels strange",
+                    "action": "starts running",
+                    "condition": "When Haeyoung1 sees the ambulance"
+                },
+                {
+                    "subject": "Haeyoung1",
+                    "action": "Go next to Dokyung",
+                    "state": "feel sad"
+                }
+            ]
+        },
+        "related_shot": [
+            1201,
+            1226
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_046_0000": {
+        "scene_desc": "All including Haeyoung1, Deogi, Kyungsu, Jiya, Jinsang, and Sukyung are waiting in front of the operating room for Dokyung to come out. To set a wedding date, Deogi suddenly looks at the calendar on the table and suggests September 3rd. As Deogi and Jiya start arguing about wedding present, other people start arguing too.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Deogi",
+                "Kyungsu",
+                "Jiya",
+                "Jinsang",
+                "Sukyung",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Haeyoung1",
+                        "Deogi",
+                        "Kyungsu",
+                        "Jiya",
+                        "Jinsang",
+                        "Sukyung"
+                    ],
+                    "action": "are waiting",
+                    "location": "in front of the operating room",
+                    "purpose": "for Dokyung to come out"
+                },
+                {
+                    "subject": "Deogi",
+                    "action": "looks at the calendar on the table",
+                    "purpose": "To set a wedding date"
+                },
+                {
+                    "subject": "Deogi",
+                    "action": "suggests",
+                    "object": "September 3rd"
+                },
+                {
+                    "subjects": [
+                        "Deogi",
+                        "Jiya"
+                    ],
+                    "action": "start arguing",
+                    "topic": "about wedding present",
+                    "result": "other people start arguing too"
+                }
+            ]
+        },
+        "related_shot": [
+            1228,
+            1281
+        ],
+        "scene_qas": {}
+    },
+    "AnotherMissOh18_047_0000": {
+        "scene_desc": "Haeyoung1 and Dokyung got married as planned, and everyone congratulated them. Dokyung said that the most important thing in life is a happy heart. Haeyoung1 said everything was perfect.",
+        "scene_graph": {
+            "subjects": [
+                "Haeyoung1",
+                "Dokyung"
+            ],
+            "events": [
+                {
+                    "subjects": [
+                        "Haeyoung1",
+                        "Dokyung"
+                    ],
+                    "action": "got married",
+                    "manner": "as planned"
+                },
+                {
+                    "subject": "everyone",
+                    "action": "congratulated",
+                    "objects": [
+                        "Haeyoung1",
+                        "Dokyung"
+                    ]
+                },
+                {
+                    "subject": "Dokyung",
+                    "action": "said",
+                    "quote": "the most important thing in life is a happy heart"
+                },
+                {
+                    "subject": "Haeyoung1",
+                    "action": "said",
+                    "quote": "everything was perfect"
+                }
+            ]
+        },
+        "related_shot": [
+            1285,
+            1326
+        ],
+        "scene_qas": {}
+    }
+}
