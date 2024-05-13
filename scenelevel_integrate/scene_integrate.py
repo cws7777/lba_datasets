@@ -45,5 +45,5 @@ def integrate_qa_with_scene_level_data(qa_file, scene_recon_file, output_file):
         json.dump(integrated_data, f, indent=4)
 
 # Usage example
-integrate_qa_with_scene_level_data("../sceneQ_collect/AnotherMissOhSceneQA_val.json", "AnotherMissOh_val_scene_recon.json", "AnotherMissOhQA_val_epsc.json")
+integrate_qa_with_scene_level_data("../sceneQ_collect/AnotherMissOhSceneQA_test.json", "AnotherMissOh_test_scene_recon.json", "AnotherMissOhQA_test_epsc.json")
 
