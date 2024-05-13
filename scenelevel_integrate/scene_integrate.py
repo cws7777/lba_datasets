@@ -33,7 +33,7 @@ def integrate_qa_with_scene_level_data(qa_file, scene_recon_file, output_file):
                         answer = qa_item["Answer"]
                         if scene_id == k:
                             # If scene_id matches, add the QA item to "qas"
-                            scene_data[scene_id].setdefault("qas", []).append({"Question": question, "Answer": answer})
+                            scene_data[scene_id].setdefault("scene_qas", []).append({"Question": question, "Answer": answer})
                         else:
                             continue
         
