@@ -1,0 +1,2587 @@
+[
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's eyes are closed when Deogi is in the room. (AnotherMissOh12_001_0033)",
+        "question": " What is the state of Haeyoung1's eyes when Deogi is in the room?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_001_0000",
+        "shot_contained": [
+            25,
+            36
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 is shown sleeping or with her eyes closed five times in the scene. (AnotherMissOh12_001_0025, AnotherMissOh12_001_0026, AnotherMissOh12_001_0031, AnotherMissOh12_001_0033, AnotherMissOh12_001_0036)",
+        "question": " How many times is Haeyoung1 shown sleeping or with her eyes closed in the scene?",
+        "que_type": "Q2 (Quantification)",
+        "vid": "AnotherMissOh12_001_0000",
+        "shot_contained": [
+            25,
+            36
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's neutral emotional state while lying down could indicate that she is either resting or possibly unwell, but not showing any specific signs of distress. (AnotherMissOh12_001_0025, AnotherMissOh12_001_0031)",
+        "question": " What might be the reason for Haeyoung1's neutral emotional state while she is lying down?",
+        "que_type": "Q3 (Interpretation)",
+        "vid": "AnotherMissOh12_001_0000",
+        "shot_contained": [
+            25,
+            36
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi might expect Haeyoung1 to acknowledge her offer or show some sign of needing the medicine. (AnotherMissOh12_001_0034)",
+        "question": " What might Deogi expect Haeyoung1 to do after offering to get medicine?",
+        "que_type": "Q4 (Expectation)",
+        "vid": "AnotherMissOh12_001_0000",
+        "shot_contained": [
+            25,
+            36
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi's level of concern for Haeyoung1 seems to be high, as she comes into the room, approaches Haeyoung1, and offers to get medicine. (AnotherMissOh12_001_0027, AnotherMissOh12_001_0028, AnotherMissOh12_001_0034)",
+        "question": " How would you evaluate Deogi's level of concern for Haeyoung1 based on her actions?",
+        "que_type": "Q5 (Judging)",
+        "vid": "AnotherMissOh12_001_0000",
+        "shot_contained": [
+            25,
+            36
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi is wearing green gloves while washing dishes. (AnotherMissOh12_002_0042)",
+        "question": " What is the color of the gloves Deogi is wearing while washing dishes?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_002_0000",
+        "shot_contained": [
+            38,
+            58
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 uses her foot to close a door twice in the scene. (AnotherMissOh12_002_0056, AnotherMissOh12_002_0057)",
+        "question": " How many times does Haeyoung1 use her foot to close a door in the scene?",
+        "que_type": "Q2 (Quantification)",
+        "vid": "AnotherMissOh12_002_0000",
+        "shot_contained": [
+            38,
+            58
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 takes a jar out of the refrigerator. (AnotherMissOh12_002_0050)",
+        "question": " What item does Haeyoung1 take out of the refrigerator?",
+        "que_type": "Q3 (Concept completion)",
+        "vid": "AnotherMissOh12_002_0000",
+        "shot_contained": [
+            38,
+            58
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's sadness could be due to the nagging she receives from Deogi for her actions in the morning. (AnotherMissOh12_002_0043, AnotherMissOh12_002_0057)",
+        "question": " What might be the reason for Haeyoung1's sadness when coming out of the room and going back in?",
+        "que_type": "Q4 (Interpretation)",
+        "vid": "AnotherMissOh12_002_0000",
+        "shot_contained": [
+            38,
+            58
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi might expect Haeyoung1 to put the jar back or respond to the yelling, but instead, Haeyoung1 ignores Deogi and goes to her room. (AnotherMissOh12_002_0056)",
+        "question": " What might Deogi expect Haeyoung1 to do after being yelled at for taking the jar?",
+        "que_type": "Q5 (Expectation)",
+        "vid": "AnotherMissOh12_002_0000",
+        "shot_contained": [
+            38,
+            58
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 is drinking alcohol from the bowl. (AnotherMissOh12_003_0063)",
+        "question": " What kind of drink is Haeyoung1 consuming from the bowl?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_003_0000",
+        "shot_contained": [
+            60,
+            69
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's sadness could be related to personal issues or emotional distress. (AnotherMissOh12_003_0068)",
+        "question": " What might be the reason for Haeyoung1's sadness while she is drinking?",
+        "que_type": "Q2 (Interpretation)",
+        "vid": "AnotherMissOh12_003_0000",
+        "shot_contained": [
+            60,
+            69
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 might expect to feel some relief or escape from her sadness after drinking the alcohol. (AnotherMissOh12_003_0067)",
+        "question": " What does Haeyoung1 expect to feel after drinking the alcohol?",
+        "que_type": "Q3 (Expectation)",
+        "vid": "AnotherMissOh12_003_0000",
+        "shot_contained": [
+            60,
+            69
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's state of mind appears to be troubled or distressed, as indicated by her sighing and drinking alone. (AnotherMissOh12_003_0069)",
+        "question": " How would you evaluate Haeyoung1's state of mind based on her actions in the scene?",
+        "que_type": "Q4 (Judging)",
+        "vid": "AnotherMissOh12_003_0000",
+        "shot_contained": [
+            60,
+            69
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 pours enough alcohol into the bowl to consume in a few gulps. (AnotherMissOh12_003_0060)",
+        "question": " How much alcohol does Haeyoung1 pour into the bowl before drinking?",
+        "que_type": "Q5 (Quantification)",
+        "vid": "AnotherMissOh12_003_0000",
+        "shot_contained": [
+            60,
+            69
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The room where Deogi and Kyungsu are having a conversation is a living room with a television and wooden furniture. (AnotherMissOh12_004_0072)",
+        "question": " What is the setting of the room where Deogi and Kyungsu are having a conversation?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_004_0000",
+        "shot_contained": [
+            70,
+            72
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Kyungsu expresses disgust twice during the conversation with Deogi. (AnotherMissOh12_004_0071, AnotherMissOh12_004_0072)",
+        "question": " How many times does Kyungsu express disgust during the conversation with Deogi?",
+        "que_type": "Q2 (Quantification)",
+        "vid": "AnotherMissOh12_004_0000",
+        "shot_contained": [
+            70,
+            72
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Kyungsu's expression of disgust could be a reaction to Deogi's lament about Haeyoung1's situation or due to the topic of their conversation. (AnotherMissOh12_004_0071)",
+        "question": " What might be the reason for Kyungsu's expression of disgust while looking at Deogi?",
+        "que_type": "Q3 (Interpretation)",
+        "vid": "AnotherMissOh12_004_0000",
+        "shot_contained": [
+            70,
+            72
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi likely expects Kyungsu to offer support, advice, or a solution to help with Haeyoung1's situation. (AnotherMissOh12_004_0070)",
+        "question": " What does Deogi likely expect from Kyungsu after sharing her concerns about Haeyoung1?",
+        "que_type": "Q4 (Expectation)",
+        "vid": "AnotherMissOh12_004_0000",
+        "shot_contained": [
+            70,
+            72
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi's level of concern for Haeyoung1 appears to be high, as indicated by her talking about the issue and expressing anger and frustration. (AnotherMissOh12_004_0070, AnotherMissOh12_004_0072)",
+        "question": " How would you evaluate the level of concern Deogi has for Haeyoung1 based on her actions and emotions?",
+        "que_type": "Q5 (Judging)",
+        "vid": "AnotherMissOh12_004_0000",
+        "shot_contained": [
+            70,
+            72
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung was wearing a denim shirt and a blue shirt at different times while operating the machine during the recording session. (AnotherMissOh12_005_0105, AnotherMissOh12_005_0123)",
+        "question": " What type of clothing was Dokyung wearing while operating the machine during the recording session?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_005_0000",
+        "shot_contained": [
+            74,
+            152
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "There were at least four people involved in the recording of the car sound on the road, including Gitae, Sangseok, Hun, and Dokyung. (AnotherMissOh12_005_0094, AnotherMissOh12_005_0103, AnotherMissOh12_005_0115, AnotherMissOh12_005_0139)",
+        "question": " How many people were involved in the recording of the car sound on the road?",
+        "que_type": "Q2 (Quantification)",
+        "vid": "AnotherMissOh12_005_0000",
+        "shot_contained": [
+            74,
+            152
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Gitae displayed a range of emotions including disgust, neutrality, happiness, and anger, while Sangseok's emotions ranged from neutrality to happiness, with a moment of sadness. (AnotherMissOh12_005_0075, AnotherMissOh12_005_0115)",
+        "question": " How did the emotions of Gitae and Sangseok differ during the recording of the car sound?",
+        "que_type": "Q3 (Comparison)",
+        "vid": "AnotherMissOh12_005_0000",
+        "shot_contained": [
+            74,
+            152
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun's intention when handing over the walkie-talkie to Gitae was likely to facilitate communication during the recording session, possibly to coordinate the recording or to share jokes to cheer up Dokyung. (AnotherMissOh12_005_0110)",
+        "question": " What was Hun's intention when he handed over the walkie-talkie to Gitae?",
+        "que_type": "Q4 (Intention disclosure)",
+        "vid": "AnotherMissOh12_005_0000",
+        "shot_contained": [
+            74,
+            152
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yijoon expressed fear while in the car possibly due to the rough driving required to produce the desired car sound effects, such as drifting, which can be a dangerous maneuver. (AnotherMissOh12_005_0095, AnotherMissOh12_005_0098)",
+        "question": " What caused Yijoon to express fear while in the car?",
+        "que_type": "Q5 (Cause elucidation)",
+        "vid": "AnotherMissOh12_005_0000",
+        "shot_contained": [
+            74,
+            152
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 has a white portable radio with multiple buttons and a speaker on the front. (AnotherMissOh12_006_0166)",
+        "question": " What kind of radio does Haeyoung1 have in her room?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_006_0000",
+        "shot_contained": [
+            156,
+            173
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 learns about a story that makes her feel calm and depressed. (AnotherMissOh12_006_0173)",
+        "question": " What story does Haeyoung1 learn about from the anonymous reporting channel?",
+        "que_type": "Q2 (Concept completion)",
+        "vid": "AnotherMissOh12_006_0000",
+        "shot_contained": [
+            156,
+            173
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's sadness could be related to the content of the story she hears on the radio, which might resonate with her own feelings or experiences. (AnotherMissOh12_006_0167)",
+        "question": " What might be the reason for Haeyoung1's sadness while looking at somewhere after touching the radio?",
+        "que_type": "Q3 (Interpretation)",
+        "vid": "AnotherMissOh12_006_0000",
+        "shot_contained": [
+            156,
+            173
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 might expect to either follow up on the story she heard or use the channel to share her own story. (AnotherMissOh12_006_0172)",
+        "question": " After learning about the anonymous story reporting channel, what might Haeyoung1 expect to do next?",
+        "que_type": "Q4 (Expectation)",
+        "vid": "AnotherMissOh12_006_0000",
+        "shot_contained": [
+            156,
+            173
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's emotional state appears to be fluctuating; she shows signs of disgust and sadness upon waking up, but experiences happiness while dancing, and then returns to sadness after engaging with the radio content. (AnotherMissOh12_006_0165, AnotherMissOh12_006_0173)",
+        "question": " How would you evaluate Haeyoung1's emotional state throughout the scene based on her actions and emotions?",
+        "que_type": "Q5 (Judging)",
+        "vid": "AnotherMissOh12_006_0000",
+        "shot_contained": [
+            156,
+            173
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang is eating a round-shaped lollipop. (AnotherMissOh12_007_0175)",
+        "question": " What kind of lollipop is Jinsang eating while driving?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_007_0000",
+        "shot_contained": [
+            174,
+            177
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "No, Jinsang is not exhibiting signs of stress or agitation; he is feeling good in the car. (AnotherMissOh12_007_0177)",
+        "question": " Is Jinsang exhibiting any signs of stress or agitation while in the car?",
+        "que_type": "Q2 (Verification)",
+        "vid": "AnotherMissOh12_007_0000",
+        "shot_contained": [
+            174,
+            177
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang uses one hand to steer the car while he is eating the lollipop with the other hand. (AnotherMissOh12_007_0176)",
+        "question": " How many hands does Jinsang use to steer the car while he is eating the lollipop?",
+        "que_type": "Q3 (Quantification)",
+        "vid": "AnotherMissOh12_007_0000",
+        "shot_contained": [
+            174,
+            177
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The reason for Jinsang's neutral emotion could be that he is focused on driving or simply enjoying his ride without any particular strong emotion. (AnotherMissOh12_007_0175)",
+        "question": " What might be the reason for Jinsang's neutral emotion while driving and eating a lollipop?",
+        "que_type": "Q4 (Interpretation)",
+        "vid": "AnotherMissOh12_007_0000",
+        "shot_contained": [
+            174,
+            177
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "If Jinsang continues to feel good and eat a lollipop, it can be expected that he will maintain a relaxed and content demeanor while driving. (AnotherMissOh12_007_0177)",
+        "question": " What can be expected of Jinsang's driving behavior if he continues to feel good and eat a lollipop?",
+        "que_type": "Q5 (Expectation)",
+        "vid": "AnotherMissOh12_007_0000",
+        "shot_contained": [
+            174,
+            177
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 is seen lying in bed, holding a cell phone to her cheek, and at one point, she drops the cell phone. (AnotherMissOh12_008_0181, AnotherMissOh12_008_0221, AnotherMissOh12_008_0273)",
+        "question": " What specific actions does Haeyoung1 take while talking on the phone in bed?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_008_0000",
+        "shot_contained": [
+            178,
+            276
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 starts off feeling happy, then her emotions transition to neutral, followed by sadness, and eventually she becomes angry and surprised. (AnotherMissOh12_008_0178, AnotherMissOh12_008_0182, AnotherMissOh12_008_0194, AnotherMissOh12_008_0234, AnotherMissOh12_008_0270)",
+        "question": " What is the emotional transition that Haeyoung1 experiences during her phone conversation?",
+        "que_type": "Q2 (Concept completion)",
+        "vid": "AnotherMissOh12_008_0000",
+        "shot_contained": [
+            178,
+            276
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 shouts on the phone due to her anger, which is likely a result of the conversation not going as she expected or the DJ not being kind to her. (AnotherMissOh12_008_0234, AnotherMissOh12_008_0235)",
+        "question": " What causes Haeyoung1 to shout while on the phone?",
+        "que_type": "Q3 (Cause elucidation)",
+        "vid": "AnotherMissOh12_008_0000",
+        "shot_contained": [
+            178,
+            276
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's intention in calling the radio station was to anonymously report a story about the problems she faced due to sharing the same name as Haeyoung2. (AnotherMissOh12_008_0182, AnotherMissOh12_008_0187)",
+        "question": " What was Haeyoung1's intention in calling the radio station?",
+        "que_type": "Q4 (Intention disclosure)",
+        "vid": "AnotherMissOh12_008_0000",
+        "shot_contained": [
+            178,
+            276
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Immediately after Haeyoung1 accidentally mentions her real name, she expresses surprise and drops her cell phone. (AnotherMissOh12_008_0273, AnotherMissOh12_008_0276)",
+        "question": " What happens immediately after Haeyoung1 accidentally mentions her real name?",
+        "que_type": "Q5 (Result account)",
+        "vid": "AnotherMissOh12_008_0000",
+        "shot_contained": [
+            178,
+            276
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi displays an emotion of surprise when she first hears Haeyoung1's name on the radio. (AnotherMissOh12_009_0283)",
+        "question": " What is the specific emotion displayed by Deogi when she first hears Haeyoung1's name on the radio?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_009_0000",
+        "shot_contained": [
+            283,
+            286
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yes, the radio broadcast is critical in nature as the host criticizes Haeyoung1 on the anonymous story reporting channel. (AnotherMissOh12_009_0286)",
+        "question": " Is the radio broadcast about Haeyoung1's story critical in nature?",
+        "que_type": "Q2 (Verification)",
+        "vid": "AnotherMissOh12_009_0000",
+        "shot_contained": [
+            283,
+            286
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi is holding a large, orange carrot at the market. (AnotherMissOh12_009_0285)",
+        "question": " What kind of carrot is Deogi holding at the market?",
+        "que_type": "Q3 (Concept completion)",
+        "vid": "AnotherMissOh12_009_0000",
+        "shot_contained": [
+            283,
+            286
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's name is mentioned several times on the radio, which surprises Deogi. (AnotherMissOh12_009_0286)",
+        "question": " How many times is Haeyoung1's name mentioned on the radio, causing Deogi to be surprised?",
+        "que_type": "Q4 (Quantification)",
+        "vid": "AnotherMissOh12_009_0000",
+        "shot_contained": [
+            283,
+            286
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi's neutral emotion while holding the carrot suggests she was focused on her shopping task without any particular emotional engagement until she heard the radio. (AnotherMissOh12_009_0285)",
+        "question": " What might be the reason for Deogi's neutral emotion while holding the carrot before hearing the radio?",
+        "que_type": "Q5 (Interpretation)",
+        "vid": "AnotherMissOh12_009_0000",
+        "shot_contained": [
+            283,
+            286
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Heeran displays a range of emotions including anger, disgust, sadness, and surprise. (AnotherMissOh12_010_0292, AnotherMissOh12_010_0294, AnotherMissOh12_010_0295, AnotherMissOh12_010_0296)",
+        "question": " What kind of emotions does Heeran display while talking on the phone in the cafe?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_010_0000",
+        "shot_contained": [
+            292,
+            296
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The change in Heeran's emotions could be due to the progression of the conversation, possibly involving unexpected information or reactions from the person on the other end of the line. (AnotherMissOh12_010_0292, AnotherMissOh12_010_0294, AnotherMissOh12_010_0295, AnotherMissOh12_010_0296)",
+        "question": " What might be the reason for Heeran's change in emotions during the phone conversation?",
+        "que_type": "Q2 (Interpretation)",
+        "vid": "AnotherMissOh12_010_0000",
+        "shot_contained": [
+            292,
+            296
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Heeran's feeling of disgust could have been caused by offensive or unpleasant information being discussed about Haeyoung1 in the group chat. (AnotherMissOh12_010_0294)",
+        "question": " What could have caused Heeran to feel disgust during her phone conversation?",
+        "que_type": "Q3 (Cause elucidation)",
+        "vid": "AnotherMissOh12_010_0000",
+        "shot_contained": [
+            292,
+            296
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "anger, neutrality, disgust, sadness, and surprise. (AnotherMissOh12_010_0292, AnotherMissOh12_010_0293, AnotherMissOh12_010_0294, AnotherMissOh12_010_0295, AnotherMissOh12_010_0296)",
+        "question": " How many different emotions does Heeran exhibit throughout the phone conversation according to the scene knowledge graph?",
+        "que_type": "Q4 (Quantification)",
+        "vid": "AnotherMissOh12_010_0000",
+        "shot_contained": [
+            292,
+            296
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Heeran might expect that the caller will follow her instructions to delete the chat room and stop bothering Haeyoung1, leading to a resolution of the situation. (AnotherMissOh12_010_0292, AnotherMissOh12_010_0296)",
+        "question": " What might Heeran expect to happen after her phone conversation regarding the anonymous story tip?",
+        "que_type": "Q5 (Expectation)",
+        "vid": "AnotherMissOh12_010_0000",
+        "shot_contained": [
+            292,
+            296
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 is wearing a pink top while taking a shower.",
+        "question": " What is the color of the clothes Haeyoung1 is wearing while taking a shower?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_011_0000",
+        "shot_contained": [
+            297,
+            304
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "turning on the shower and getting wet.",
+        "question": " How many different actions does Haeyoung1 perform while in the shower?",
+        "que_type": "Q2 (Quantification)",
+        "vid": "AnotherMissOh12_011_0000",
+        "shot_contained": [
+            297,
+            304
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The act of taking a shower with clothes on could symbolize Haeyoung1's desire to cleanse herself from emotional distress or a sense of feeling overwhelmed.",
+        "question": " What might the act of taking a shower with clothes on symbolize in Haeyoung1's situation?",
+        "que_type": "Q3 (Interpretation)",
+        "vid": "AnotherMissOh12_011_0000",
+        "shot_contained": [
+            297,
+            304
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "After the shower scene, Haeyoung1 might be expected to change into dry clothes or reflect on the reasons for her sadness.",
+        "question": " What might Haeyoung1 be expected to do next after this shower scene?",
+        "que_type": "Q4 (Expectation)",
+        "vid": "AnotherMissOh12_011_0000",
+        "shot_contained": [
+            297,
+            304
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Based on her actions in the shower, Haeyoung1's emotional state can be evaluated as deeply sad and possibly in a state of shock or despair.",
+        "question": " How would you evaluate Haeyoung1's emotional state based on her actions in the shower?",
+        "que_type": "Q5 (Judging)",
+        "vid": "AnotherMissOh12_011_0000",
+        "shot_contained": [
+            297,
+            304
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jeongsuk was feeling happy when she was talking on the phone with Deogi. (AnotherMissOh12_012_0309)",
+        "question": " What was Jeongsuk's emotional state when she was talking on the phone with Deogi?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_012_0000",
+        "shot_contained": [
+            305,
+            318
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jeongsuk might have expected Deogi to provide information about Haeyoung1's broken engagement over the phone. (AnotherMissOh12_012_0306)",
+        "question": " What might Jeongsuk have expected from Deogi before going to see her in person?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh12_012_0000",
+        "shot_contained": [
+            305,
+            318
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi looked back because she was interrupted by the phone ringing while engaged in another activity. (AnotherMissOh12_012_0305)",
+        "question": " What caused Deogi to look back before picking up the phone?",
+        "que_type": "Q3 (Cause elucidation)",
+        "vid": "AnotherMissOh12_012_0000",
+        "shot_contained": [
+            305,
+            318
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jeongsuk's intention was to talk to Deogi in person about Haeyoung1's break-up of engagement after Deogi hung up the phone without a word. (AnotherMissOh12_012_0308)",
+        "question": " What was Jeongsuk's intention in going to see Deogi after the phone call?",
+        "que_type": "Q4 (Intention disclosure)",
+        "vid": "AnotherMissOh12_012_0000",
+        "shot_contained": [
+            305,
+            318
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi's emotional response changes from disgust when she first answers the phone to anger when she is talking to Jeongsuk in person. (AnotherMissOh12_012_0306, AnotherMissOh12_012_0314)",
+        "question": " How does Deogi's emotional response compare when she first answers the phone to when she is talking to Jeongsuk in person?",
+        "que_type": "Q5 (Comparison)",
+        "vid": "AnotherMissOh12_012_0000",
+        "shot_contained": [
+            305,
+            318
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Sungjin has a neutral expression when he is looking at someone in the office. (AnotherMissOh12_013_0353)",
+        "question": " What kind of expression does Sungjin have when he is looking at someone in the office?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_013_0000",
+        "shot_contained": [
+            334,
+            356
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Sungjin might expect the employees to stop talking about Haeyoung1 and to reflect on their behavior. (AnotherMissOh12_013_0347)",
+        "question": " What might Sungjin expect from the employees after his confrontation in the office?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh12_013_0000",
+        "shot_contained": [
+            334,
+            356
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Sungjin expresses his anger by shouting at the employees. (AnotherMissOh12_013_0344)",
+        "question": " How does Sungjin express his anger towards the employees?",
+        "que_type": "Q3 (Method explication)",
+        "vid": "AnotherMissOh12_013_0000",
+        "shot_contained": [
+            334,
+            356
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Sungjin is shown talking to someone in the office four times according to the scene knowledge graph. (AnotherMissOh12_013_0334, AnotherMissOh12_013_0337, AnotherMissOh12_013_0340, AnotherMissOh12_013_0347)",
+        "question": " How many times is Sungjin shown talking to someone in the office according to the scene knowledge graph?",
+        "que_type": "Q4 (Quantification)",
+        "vid": "AnotherMissOh12_013_0000",
+        "shot_contained": [
+            334,
+            356
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yes, it is true that Sungjin's emotion changes from neutral to anger during the scene. (AnotherMissOh12_013_0348, AnotherMissOh12_013_0349, AnotherMissOh12_013_0350)",
+        "question": " Is it true that Sungjin's emotion changes from neutral to anger during the scene?",
+        "que_type": "Q5 (Verification)",
+        "vid": "AnotherMissOh12_013_0000",
+        "shot_contained": [
+            334,
+            356
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung2 is displaying sadness while sitting on a chair in the office. (AnotherMissOh12_014_0357)",
+        "question": " What emotion is Haeyoung2 predominantly displaying while sitting on a chair in the office?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_014_0000",
+        "shot_contained": [
+            357,
+            385
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Sukyung walks into the office and then walks around Haeyoung2 once. (AnotherMissOh12_014_0367, AnotherMissOh12_014_0371)",
+        "question": " What specific action does Sukyung take when she first walks into the office?",
+        "que_type": "Q2 (Case specification)",
+        "vid": "AnotherMissOh12_014_0000",
+        "shot_contained": [
+            357,
+            385
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yes, Sukyung expresses disgust while talking behind Haeyoung2. (AnotherMissOh12_014_0377)",
+        "question": " Is it true that Sukyung expresses disgust while talking behind Haeyoung2?",
+        "que_type": "Q3 (Verification)",
+        "vid": "AnotherMissOh12_014_0000",
+        "shot_contained": [
+            357,
+            385
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Sukyung looks at Haeyoung2 at least twice during the scene in the office. (AnotherMissOh12_014_0370, AnotherMissOh12_014_0372)",
+        "question": " How many times does Sukyung look at Haeyoung2 during the scene in the office?",
+        "que_type": "Q4 (Quantification)",
+        "vid": "AnotherMissOh12_014_0000",
+        "shot_contained": [
+            357,
+            385
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung2's neutral expression while talking to Sukyung could be an attempt to maintain composure during the confrontation. (AnotherMissOh12_014_0374)",
+        "question": " What might be the reason for Haeyoung2's neutral expression while talking to Sukyung?",
+        "que_type": "Q5 (Interpretation)",
+        "vid": "AnotherMissOh12_014_0000",
+        "shot_contained": [
+            357,
+            385
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi was talking with moving her hands to express her anger. (AnotherMissOh12_015_0393)",
+        "question": " What kind of hand movements did Deogi use while talking to the people?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_015_0000",
+        "shot_contained": [
+            387,
+            397
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Before hearing the neighbors, Deogi's emotion was neutral, but after hearing them, she became angry and disgusted. (AnotherMissOh12_015_0390, AnotherMissOh12_015_0391)",
+        "question": " How does Deogi's emotional state compare before and after she hears the neighbors talking about Haeyoung1?",
+        "que_type": "Q2 (Comparison)",
+        "vid": "AnotherMissOh12_015_0000",
+        "shot_contained": [
+            387,
+            397
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi might expect the neighbors to stop talking about Haeyoung1 and to be more respectful. (AnotherMissOh12_015_0394)",
+        "question": " What might Deogi expect from the neighbors after confronting them about their gossip?",
+        "que_type": "Q3 (Expectation)",
+        "vid": "AnotherMissOh12_015_0000",
+        "shot_contained": [
+            387,
+            397
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi feels disgust when opening the door because she overhears the neighbors gossiping about Haeyoung1. (AnotherMissOh12_015_0387)",
+        "question": " What could be the reason Deogi feels disgust when opening the door?",
+        "que_type": "Q4 (Cause elucidation)",
+        "vid": "AnotherMissOh12_015_0000",
+        "shot_contained": [
+            387,
+            397
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi's intention in staring at someone could be to convey her disapproval and to silence the gossip. (AnotherMissOh12_015_0389)",
+        "question": " What could be Deogi's intention in staring at someone when she opens the door?",
+        "que_type": "Q5 (Intention disclosure)",
+        "vid": "AnotherMissOh12_015_0000",
+        "shot_contained": [
+            387,
+            397
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 is wet and appears to be in a state of distress, sitting on the toilet. (AnotherMissOh12_016_0418)",
+        "question": " What is the physical state of Haeyoung1 when she is found in the bathroom?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_016_0000",
+        "shot_contained": [
+            401,
+            418
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi snatches the phone from Kyungsu because he is talking about Haeyoung1, which angers Deogi. (AnotherMissOh12_016_0401)",
+        "question": " What causes Deogi to snatch the phone from Kyungsu?",
+        "que_type": "Q2 (Cause elucidation)",
+        "vid": "AnotherMissOh12_016_0000",
+        "shot_contained": [
+            401,
+            418
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi might expect the person on the other end to stop bothering Kyungsu or to react to the shouting. (AnotherMissOh12_016_0402)",
+        "question": " What might Deogi expect to happen after shouting at the person on the other end of the phone?",
+        "que_type": "Q3 (Expectation)",
+        "vid": "AnotherMissOh12_016_0000",
+        "shot_contained": [
+            401,
+            418
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Kyungsu's intention is likely to discuss matters concerning Haeyoung1, possibly seeking advice or sharing concerns. (AnotherMissOh12_016_0401)",
+        "question": " What is Kyungsu's intention when he is talking on the phone about Haeyoung1?",
+        "que_type": "Q4 (Intention disclosure)",
+        "vid": "AnotherMissOh12_016_0000",
+        "shot_contained": [
+            401,
+            418
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Before Deogi snatches the phone, Kyungsu's emotional state is neutral, but he is surprised after Deogi takes the phone and starts shouting. (AnotherMissOh12_016_0401, AnotherMissOh12_016_0402)",
+        "question": " How does Kyungsu's emotional state compare before and after Deogi snatches the phone?",
+        "que_type": "Q5 (Comparison)",
+        "vid": "AnotherMissOh12_016_0000",
+        "shot_contained": [
+            401,
+            418
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang is displaying anger while he is on the phone in front of the court. (AnotherMissOh12_017_0420)",
+        "question": " What is the emotional state of Jinsang while he is on the phone in front of the court?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_017_0000",
+        "shot_contained": [
+            419,
+            423
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang's intention is to convey the urgency of the situation regarding Haeyoung1 to Dokyung. (AnotherMissOh12_017_0422)",
+        "question": " What is Jinsang's intention when he is shouting on the phone to Dokyung?",
+        "que_type": "Q2 (Intention disclosure)",
+        "vid": "AnotherMissOh12_017_0000",
+        "shot_contained": [
+            419,
+            423
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The reason for Jinsang's anonymous report about Haeyoung1 is not provided in the information given. (AnotherMissOh12_017_0419)",
+        "question": " What prompted Jinsang to report about Haeyoung1 anonymously?",
+        "que_type": "Q3 (Cause elucidation)",
+        "vid": "AnotherMissOh12_017_0000",
+        "shot_contained": [
+            419,
+            423
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung is not showing signs of distress or urgency; his emotion is described as neutral while on the phone. (AnotherMissOh12_017_0423)",
+        "question": " Is Dokyung showing any signs of distress or urgency while on the phone, similar to Jinsang?",
+        "que_type": "Q4 (Verification)",
+        "vid": "AnotherMissOh12_017_0000",
+        "shot_contained": [
+            419,
+            423
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang's emotional state is angry while talking on the phone, whereas Dokyung's emotional state is neutral. (AnotherMissOh12_017_0421, AnotherMissOh12_017_0423)",
+        "question": " How does Jinsang's emotional state while talking on the phone compare to Dokyung's?",
+        "que_type": "Q5 (Comparison)",
+        "vid": "AnotherMissOh12_017_0000",
+        "shot_contained": [
+            419,
+            423
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yijoon is feeling happiness while listening to the conversation on the cell phone. (AnotherMissOh12_018_0426)",
+        "question": " What is the emotional state of Yijoon while listening to the conversation on the cell phone?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_018_0000",
+        "shot_contained": [
+            425,
+            429
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Sangseok feels disgust when he realizes the recording file was uploaded to the cell phone group chat room. (AnotherMissOh12_018_0428)",
+        "question": " What causes Sangseok to feel disgust during the scene?",
+        "que_type": "Q2 (Cause elucidation)",
+        "vid": "AnotherMissOh12_018_0000",
+        "shot_contained": [
+            425,
+            429
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Gitae is hit by Hun and Sangseok multiple times in the scene. (AnotherMissOh12_018_0427, AnotherMissOh12_018_0429)",
+        "question": " How many times is Gitae hit by Hun and Sangseok in the scene?",
+        "que_type": "Q3 (Quantification)",
+        "vid": "AnotherMissOh12_018_0000",
+        "shot_contained": [
+            425,
+            429
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The surprise on Gitae's face indicates that he was not expecting to be hit by Hun and Sangseok. (AnotherMissOh12_018_0428)",
+        "question": " What does the surprise on Gitae's face indicate when he is first hit?",
+        "que_type": "Q4 (Interpretation)",
+        "vid": "AnotherMissOh12_018_0000",
+        "shot_contained": [
+            425,
+            429
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung's colleagues expect that there will be negative consequences if the file is not deleted from the group chat, possibly involving their boss finding out. (AnotherMissOh12_018_0429)",
+        "question": " What do Dokyung's colleagues expect to happen if they do not delete the file from the group chat?",
+        "que_type": "Q5 (Expectation)",
+        "vid": "AnotherMissOh12_018_0000",
+        "shot_contained": [
+            425,
+            429
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung might be trying to maintain a professional demeanor despite the situation with the recording. (AnotherMissOh12_019_0438)",
+        "question": " What might be the reason for Dokyung's neutral expression while listening to Gitae in the office?",
+        "que_type": "Q1 (Interpretation)",
+        "vid": "AnotherMissOh12_019_0000",
+        "shot_contained": [
+            431,
+            448
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Gitae might expect Dokyung to forgive him or at least not to react negatively to his mistake. (AnotherMissOh12_019_0439)",
+        "question": " What could Gitae expect Dokyung to do after hearing his apology?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh12_019_0000",
+        "shot_contained": [
+            431,
+            448
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The atmosphere seems tense, with Gitae appearing apologetic and Dokyung maintaining a neutral expression. (AnotherMissOh12_019_0438)",
+        "question": " Can you describe the atmosphere in the office when Dokyung and Gitae are having their conversation?",
+        "que_type": "Q3 (Feature specification)",
+        "vid": "AnotherMissOh12_019_0000",
+        "shot_contained": [
+            431,
+            448
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun might be upset about something Dokyung did or said prior to walking out of the office. (AnotherMissOh12_019_0448)",
+        "question": " What could have caused Hun to follow behind Dokyung with an angry expression?",
+        "que_type": "Q4 (Cause elucidation)",
+        "vid": "AnotherMissOh12_019_0000",
+        "shot_contained": [
+            431,
+            448
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung may have verbally confirmed listening to the recording or shown a reaction that implied he was already aware of its contents. (AnotherMissOh12_019_0447)",
+        "question": " How did Dokyung indicate that he had already listened to the recording?",
+        "que_type": "Q5 (Method explication)",
+        "vid": "AnotherMissOh12_019_0000",
+        "shot_contained": [
+            431,
+            448
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi prepares a home-cooked Korean meal for Haeyoung1. (AnotherMissOh12_020_0451)",
+        "question": " What kind of meal does Deogi prepare for Haeyoung1?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_020_0000",
+        "shot_contained": [
+            449,
+            470
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi expects Haeyoung1 to eat the meal and feel better. (AnotherMissOh12_020_0451)",
+        "question": " What does Deogi expect from Haeyoung1 after bringing her the meal?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh12_020_0000",
+        "shot_contained": [
+            449,
+            470
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi expresses anger towards Haeyoung1 three times in the scene. (AnotherMissOh12_020_0458, AnotherMissOh12_020_0462, AnotherMissOh12_020_0464)",
+        "question": " How many times does Deogi express anger towards Haeyoung1 in the scene?",
+        "que_type": "Q3 (Quantification)",
+        "vid": "AnotherMissOh12_020_0000",
+        "shot_contained": [
+            449,
+            470
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's sadness while eating could be due to the emotional stress of keeping secrets and the scolding from Deogi. (AnotherMissOh12_020_0459, AnotherMissOh12_020_0468)",
+        "question": " What could be the reason for Haeyoung1's sadness while she is eating?",
+        "que_type": "Q4 (Interpretation)",
+        "vid": "AnotherMissOh12_020_0000",
+        "shot_contained": [
+            449,
+            470
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi sits opposite Haeyoung1 to have a conversation and to ensure that Haeyoung1 eats her food. (AnotherMissOh12_020_0460)",
+        "question": " What prompts Deogi to sit opposite Haeyoung1 during the meal?",
+        "que_type": "Q5 (Cause elucidation)",
+        "vid": "AnotherMissOh12_020_0000",
+        "shot_contained": [
+            449,
+            470
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 displays sadness while talking to Deogi. (AnotherMissOh12_021_0474)",
+        "question": " What emotions does Haeyoung1 display while talking to Deogi in the scene?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_021_0000",
+        "shot_contained": [
+            471,
+            495
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi yells at someone in front of her because she is angry that Haeyoung1 still has feelings for Dokyung. (AnotherMissOh12_021_0487)",
+        "question": " What causes Deogi to yell at someone in front of her?",
+        "que_type": "Q2 (Cause elucidation)",
+        "vid": "AnotherMissOh12_021_0000",
+        "shot_contained": [
+            471,
+            495
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Kyungsu is present in the scene with Deogi and Haeyoung1, likely as a family member or close acquaintance, given the domestic setting. (AnotherMissOh12_021_0477)",
+        "question": " What is the relationship between Kyungsu and the other characters present in the scene?",
+        "que_type": "Q3 (Concept completion)",
+        "vid": "AnotherMissOh12_021_0000",
+        "shot_contained": [
+            471,
+            495
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yes, Haeyoung1 apologizes to Deogi during their interaction. (AnotherMissOh12_021_0473)",
+        "question": " Is it true that Haeyoung1 apologizes to Deogi during their interaction?",
+        "que_type": "Q4 (Verification)",
+        "vid": "AnotherMissOh12_021_0000",
+        "shot_contained": [
+            471,
+            495
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's intention when she hugs Deogi from behind is to offer comfort and express regret. (AnotherMissOh12_021_0473)",
+        "question": " What is Haeyoung1's intention when she hugs Deogi from behind?",
+        "que_type": "Q5 (Intention disclosure)",
+        "vid": "AnotherMissOh12_021_0000",
+        "shot_contained": [
+            471,
+            495
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung appears to be in a neutral emotional state while standing in front of the wall. (AnotherMissOh12_022_0496)",
+        "question": " What is the emotional state of Dokyung while he is standing in front of the wall?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_022_0000",
+        "shot_contained": [
+            496,
+            517
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang likely expects Dokyung to consider his advice regarding Haeyoung1 after their conversation in front of the vine. (AnotherMissOh12_022_0512)",
+        "question": " What does Jinsang likely expect from Dokyung after their conversation in front of the vine?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh12_022_0000",
+        "shot_contained": [
+            496,
+            517
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Sukyung expresses her feelings to Dokyung by talking and hugging him. (AnotherMissOh12_022_0499)",
+        "question": " How does Sukyung express her feelings to Dokyung when they are together?",
+        "que_type": "Q3 (Method explication)",
+        "vid": "AnotherMissOh12_022_0000",
+        "shot_contained": [
+            496,
+            517
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang shows disgust when talking to Dokyung, but his emotional response shifts to surprise when he is talking to Sukyung. (AnotherMissOh12_022_0503, AnotherMissOh12_022_0506)",
+        "question": " How does Jinsang's emotional response to Sukyung differ when he is talking to her compared to when he is talking to Dokyung?",
+        "que_type": "Q4 (Comparison)",
+        "vid": "AnotherMissOh12_022_0000",
+        "shot_contained": [
+            496,
+            517
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung's sadness when holding Sukyung's shoulder could be due to the emotional weight of the situation or a sense of empathy towards Sukyung's feelings. (AnotherMissOh12_022_0500)",
+        "question": " What might be the reason behind Dokyung's sadness when he is holding Sukyung's shoulder?",
+        "que_type": "Q5 (Interpretation)",
+        "vid": "AnotherMissOh12_022_0000",
+        "shot_contained": [
+            496,
+            517
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The cell phone Haeyoung1 is holding appears to be white. (AnotherMissOh12_023_0519)",
+        "question": " What is the color of the cell phone Haeyoung1 is holding?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_023_0000",
+        "shot_contained": [
+            518,
+            522
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "There are at least five messages visible on Haeyoung1's cell phone screen. (AnotherMissOh12_023_0522)",
+        "question": " How many messages can be seen on Haeyoung1's cell phone screen?",
+        "que_type": "Q2 (Quantification)",
+        "vid": "AnotherMissOh12_023_0000",
+        "shot_contained": [
+            518,
+            522
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yes, Haeyoung1 is alone in the room while looking at her cell phone. (AnotherMissOh12_023_0518, AnotherMissOh12_023_0519)",
+        "question": " Is Haeyoung1 alone in the room while she is looking at her cell phone?",
+        "que_type": "Q3 (Verification)",
+        "vid": "AnotherMissOh12_023_0000",
+        "shot_contained": [
+            518,
+            522
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The messages Haeyoung1 received could be expressions of concern or questions about her well-being, as indicated by her sad emotional response. (AnotherMissOh12_023_0522)",
+        "question": " What might be the content of the messages Haeyoung1 received based on her emotional response?",
+        "que_type": "Q4 (Concept completion)",
+        "vid": "AnotherMissOh12_023_0000",
+        "shot_contained": [
+            518,
+            522
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The change in Haeyoung1's emotion from sadness to neutral could be due to her finding a particular message or information on her cell phone that momentarily distracts her from her sadness. (AnotherMissOh12_023_0520)",
+        "question": " What could be the reason for the change in Haeyoung1's emotion from sadness to neutral when looking at her cell phone?",
+        "que_type": "Q5 (Interpretation)",
+        "vid": "AnotherMissOh12_023_0000",
+        "shot_contained": [
+            518,
+            522
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "No, Dokyung's attempt to call Haeyoung1 is not successful because Haeyoung1 has turned off her cell phone. (AnotherMissOh12_024_0525, AnotherMissOh12_024_0526, AnotherMissOh12_024_0527)",
+        "question": " Is Dokyung's attempt to call Haeyoung1 successful?",
+        "que_type": "Q1 (Verification)",
+        "vid": "AnotherMissOh12_024_0000",
+        "shot_contained": [
+            523,
+            531
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung might expect to have a conversation with Haeyoung1 after he calls her. (AnotherMissOh12_024_0530)",
+        "question": " What might Dokyung expect to happen after he calls Haeyoung1?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh12_024_0000",
+        "shot_contained": [
+            523,
+            531
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 might have turned off her cell phone to avoid receiving calls or to have some time undisturbed. (AnotherMissOh12_024_0531)",
+        "question": " What could be the reason for Haeyoung1 turning off her cell phone?",
+        "que_type": "Q3 (Intention disclosure)",
+        "vid": "AnotherMissOh12_024_0000",
+        "shot_contained": [
+            523,
+            531
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung is standing in front of a house, at night, with a street lamp illuminating the area. (AnotherMissOh12_024_0528)",
+        "question": " Can you describe the setting where Dokyung is trying to make the call?",
+        "que_type": "Q4 (Feature specification)",
+        "vid": "AnotherMissOh12_024_0000",
+        "shot_contained": [
+            523,
+            531
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung might be standing in front of the gate while making the call because he is contemplating visiting Haeyoung1 or is hesitant about making the call. (AnotherMissOh12_024_0528, AnotherMissOh12_024_0529)",
+        "question": " What could be the reason for Dokyung standing in front of the gate while making the call?",
+        "que_type": "Q5 (Cause elucidation)",
+        "vid": "AnotherMissOh12_024_0000",
+        "shot_contained": [
+            523,
+            531
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yes, Haeyoung1's cell phone is turned off while she is trying to sleep.",
+        "question": " Is Haeyoung1's cell phone turned off while she is trying to sleep?",
+        "que_type": "Q1 (Verification)",
+        "vid": "AnotherMissOh12_025_0000",
+        "shot_contained": [
+            532,
+            534
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 is displaying sadness while she is putting her cell phone on the table.",
+        "question": " What kind of emotions is Haeyoung1 displaying while she is putting her cell phone on the table?",
+        "que_type": "Q2 (Feature specification)",
+        "vid": "AnotherMissOh12_025_0000",
+        "shot_contained": [
+            532,
+            534
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's cell phone being turned off is what prevented Dokyung's call from being received.",
+        "question": " What is missing from Haeyoung1's actions that might have prevented Dokyung's call from being received?",
+        "que_type": "Q3 (Concept completion)",
+        "vid": "AnotherMissOh12_025_0000",
+        "shot_contained": [
+            532,
+            534
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The reason for Haeyoung1's cell phone being turned off could be that she forgot to charge it, or she intentionally turned it off to avoid disturbances while sleeping.",
+        "question": " What could be the reason for Haeyoung1's cell phone being turned off?",
+        "que_type": "Q4 (Cause elucidation)",
+        "vid": "AnotherMissOh12_025_0000",
+        "shot_contained": [
+            532,
+            534
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung might expect Haeyoung1 to answer the phone or at least for the call to go through, not knowing that her cell phone is turned off.",
+        "question": " What might Dokyung expect after calling Haeyoung1's cell phone?",
+        "que_type": "Q5 (Expectation)",
+        "vid": "AnotherMissOh12_025_0000",
+        "shot_contained": [
+            532,
+            534
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung has a neutral expression on his face while holding his cell phone. (AnotherMissOh12_026_0535)",
+        "question": " What is the expression on Dokyung's face while holding his cell phone?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_026_0000",
+        "shot_contained": [
+            535,
+            536
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The information does not specify how many times Dokyung attempts to call Haeyoung1.",
+        "question": " How many times does Dokyung attempt to call Haeyoung1 before giving up?",
+        "que_type": "Q2 (Quantification)",
+        "vid": "AnotherMissOh12_026_0000",
+        "shot_contained": [
+            535,
+            536
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung might be contemplating his next move or considering the reasons why Haeyoung1 is not answering the phone. (AnotherMissOh12_026_0536)",
+        "question": " What might Dokyung be thinking while standing in front of Haeyoung1's house with a neutral expression?",
+        "que_type": "Q3 (Interpretation)",
+        "vid": "AnotherMissOh12_026_0000",
+        "shot_contained": [
+            535,
+            536
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung might expect that Haeyoung1 will eventually return home or turn on her phone and contact him.",
+        "question": " What might Dokyung expect to happen after Haeyoung1's phone is turned off?",
+        "que_type": "Q4 (Expectation)",
+        "vid": "AnotherMissOh12_026_0000",
+        "shot_contained": [
+            535,
+            536
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung's decision to wait in front of the gate could be seen as patient and hopeful that Haeyoung1 will show up or get in touch.",
+        "question": " How would you evaluate Dokyung's decision to wait in front of the gate?",
+        "que_type": "Q5 (Judging)",
+        "vid": "AnotherMissOh12_026_0000",
+        "shot_contained": [
+            535,
+            536
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jiya's facial expression is one of disgust when she is talking with pouting her lips. (AnotherMissOh12_027_0546)",
+        "question": " What is Jiya's facial expression when she is talking with pouting her lips?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_027_0000",
+        "shot_contained": [
+            537,
+            608
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "When Sukyung is yelling at Jiya, she is angry, whereas when she is reaching out her hand to Jiya, her emotional state is one of sadness. (AnotherMissOh12_027_0597, AnotherMissOh12_027_0606)",
+        "question": " How does Sukyung's emotional state when she is yelling at Jiya compare to when she is reaching out her hand to Jiya?",
+        "que_type": "Q2 (Comparison)",
+        "vid": "AnotherMissOh12_027_0000",
+        "shot_contained": [
+            537,
+            608
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jiya scrubs someone's face with her hand due to her feeling of disgust towards that person. (AnotherMissOh12_027_0603)",
+        "question": " What causes Jiya to scrub someone's face with her hand?",
+        "que_type": "Q3 (Cause elucidation)",
+        "vid": "AnotherMissOh12_027_0000",
+        "shot_contained": [
+            537,
+            608
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Sukyung's intention when she stands up and talks to Jiya is to confront her about her behavior and attitude. (AnotherMissOh12_027_0596)",
+        "question": " What is Sukyung's intention when she stands up and talks to Jiya?",
+        "que_type": "Q4 (Intention disclosure)",
+        "vid": "AnotherMissOh12_027_0000",
+        "shot_contained": [
+            537,
+            608
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jiya likely expects the people around her to react with happiness or surprise when she announces that she is getting married. (AnotherMissOh12_027_0590)",
+        "question": " What does Jiya likely expect from the people around her when she announces that she is getting married?",
+        "que_type": "Q5 (Expectation)",
+        "vid": "AnotherMissOh12_027_0000",
+        "shot_contained": [
+            537,
+            608
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang is feeling sadness while waiting for his car at the bus station. (AnotherMissOh12_028_0612)",
+        "question": " What is the emotional state of Jinsang while he is waiting for his car at the bus station?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_028_0000",
+        "shot_contained": [
+            609,
+            612
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Sukyung's neutral emotional state could be due to her trying to process the argument she had with Jiya and the advice given by Jinsang. (AnotherMissOh12_028_0611)",
+        "question": " What might be the reason for Sukyung's neutral emotional state during the conversation with Jinsang at the bus station?",
+        "que_type": "Q2 (Concept completion)",
+        "vid": "AnotherMissOh12_028_0000",
+        "shot_contained": [
+            609,
+            612
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang's advice to Sukyung to ignore her mother suggests that he may believe some family conflicts are better left unresolved or that distancing oneself can be a coping mechanism. (AnotherMissOh12_028_0610)",
+        "question": " What does Jinsang's advice to Sukyung about ignoring her mother suggest about his perspective on family conflicts?",
+        "que_type": "Q3 (Interpretation)",
+        "vid": "AnotherMissOh12_028_0000",
+        "shot_contained": [
+            609,
+            612
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang likely expects that Sukyung will feel less burdened by her mother's words and possibly find some peace of mind. (AnotherMissOh12_028_0610)",
+        "question": " What does Jinsang likely expect to happen after advising Sukyung to ignore her mother?",
+        "que_type": "Q4 (Expectation)",
+        "vid": "AnotherMissOh12_028_0000",
+        "shot_contained": [
+            609,
+            612
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "An observer might judge the interaction as a supportive moment where Jinsang is trying to console Sukyung during a difficult time. (AnotherMissOh12_028_0611)",
+        "question": " How might an observer judge the interaction between Jinsang and Sukyung at the bus station?",
+        "que_type": "Q5 (Judging)",
+        "vid": "AnotherMissOh12_028_0000",
+        "shot_contained": [
+            609,
+            612
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang is shocked and surprised when he sees Sukyung falling off the bus seat. (AnotherMissOh12_029_0631)",
+        "question": " What is Jinsang's reaction when he sees Sukyung falling off the bus seat?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_029_0000",
+        "shot_contained": [
+            613,
+            679
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang starts a fight on the bus because he is trying to take Sukyung off the bus after she falls due to the sudden brakes. (AnotherMissOh12_029_0655)",
+        "question": " What causes Jinsang to start a fight on the bus?",
+        "que_type": "Q2 (Cause elucidation)",
+        "vid": "AnotherMissOh12_029_0000",
+        "shot_contained": [
+            613,
+            679
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang covers Sukyung with bags on the street to protect her privacy and prevent further embarrassment. (AnotherMissOh12_029_0654)",
+        "question": " Why does Jinsang cover Sukyung with bags on the street?",
+        "que_type": "Q3 (Intention disclosure)",
+        "vid": "AnotherMissOh12_029_0000",
+        "shot_contained": [
+            613,
+            679
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "After Jinsang takes Sukyung off the bus, she faints on the street. (AnotherMissOh12_029_0671)",
+        "question": " What happens to Sukyung after Jinsang takes her off the bus?",
+        "que_type": "Q4 (Result account)",
+        "vid": "AnotherMissOh12_029_0000",
+        "shot_contained": [
+            613,
+            679
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The other passengers on the bus might be thinking that there is an emergency or a conflict happening due to the sudden actions of Jinsang and the visible distress of Sukyung. (AnotherMissOh12_029_0651)",
+        "question": " What might the other passengers on the bus be thinking during the commotion caused by Jinsang and Sukyung?",
+        "que_type": "Q5 (Expectation)",
+        "vid": "AnotherMissOh12_029_0000",
+        "shot_contained": [
+            613,
+            679
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang displays emotions of disgust and sadness when he is sitting next to Sukyung in the hospital. (AnotherMissOh12_030_0725)",
+        "question": " What kind of emotions does Jinsang display when he is sitting next to Sukyung in the hospital?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_030_0000",
+        "shot_contained": [
+            680,
+            742
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Sukyung likely expects Jinsang to provide support and understanding after revealing her pregnancy in the hospital. (AnotherMissOh12_030_0737)",
+        "question": " What does Sukyung likely expect from Jinsang after revealing her pregnancy in the hospital?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh12_030_0000",
+        "shot_contained": [
+            680,
+            742
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang's intention is to demonstrate his responsibility when he shows something from his pocket while talking to Sukyung. (AnotherMissOh12_030_0710)",
+        "question": " What is Jinsang's intention when he shows something from his pocket while talking to Sukyung?",
+        "que_type": "Q3 (Intention disclosure)",
+        "vid": "AnotherMissOh12_030_0000",
+        "shot_contained": [
+            680,
+            742
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The reason for Jinsang's initial laughter could be due to surprise or disbelief upon hearing about Sukyung's pregnancy. (AnotherMissOh12_030_0690)",
+        "question": " What could be the reason for Jinsang's initial laughter upon hearing about Sukyung's pregnancy?",
+        "que_type": "Q4 (Cause elucidation)",
+        "vid": "AnotherMissOh12_030_0000",
+        "shot_contained": [
+            680,
+            742
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Before learning about her pregnancy, Sukyung's emotional state is predominantly sad, but after learning about her pregnancy, she experiences surprise and panic. (AnotherMissOh12_030_0680, AnotherMissOh12_030_0686)",
+        "question": " How does Sukyung's emotional state compare before and after she learns about her pregnancy?",
+        "que_type": "Q5 (Comparison)",
+        "vid": "AnotherMissOh12_030_0000",
+        "shot_contained": [
+            680,
+            742
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The room where Taejin is listening to the recording has a modern decor with a chandelier, curtains, and a laptop on the desk. (AnotherMissOh12_031_0744)",
+        "question": " What is the setting of the room where Taejin is listening to the recording?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_031_0000",
+        "shot_contained": [
+            743,
+            752
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The exact number of times Taejin rewinds the audio file is not specified, but he does it multiple times. (AnotherMissOh12_031_0748)",
+        "question": " How many times does Taejin rewind the audio file while listening to it?",
+        "que_type": "Q2 (Quantification)",
+        "vid": "AnotherMissOh12_031_0000",
+        "shot_contained": [
+            743,
+            752
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Taejin might be putting his hands together as a gesture of distress or to compose himself after hearing the upsetting content of the recording. (AnotherMissOh12_031_0751)",
+        "question": " What might be the reason Taejin puts his hands together after listening to the recording?",
+        "que_type": "Q3 (Interpretation)",
+        "vid": "AnotherMissOh12_031_0000",
+        "shot_contained": [
+            743,
+            752
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Taejin likely expects to find some clarity or understanding regarding Haeyoung1's feelings each time he rewinds and listens to the recording again. (AnotherMissOh12_031_0748)",
+        "question": " What does Taejin likely expect to hear each time he rewinds and listens to the recording again?",
+        "que_type": "Q4 (Expectation)",
+        "vid": "AnotherMissOh12_031_0000",
+        "shot_contained": [
+            743,
+            752
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Taejin's emotional state appears to be one of increasing distress and sadness, as indicated by his repeated listening, his focused attention, and his final gesture of putting his hands together. (AnotherMissOh12_031_0751)",
+        "question": " How would you evaluate Taejin's emotional state throughout the scene based on his actions and expressions?",
+        "que_type": "Q5 (Judging)",
+        "vid": "AnotherMissOh12_031_0000",
+        "shot_contained": [
+            743,
+            752
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Taejin displays a neutral emotional state during the meal with his acquaintance. (AnotherMissOh12_032_0754)",
+        "question": " What is the emotional state of Taejin while he is having a meal with his acquaintance?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_032_0000",
+        "shot_contained": [
+            754,
+            770
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Taejin and his acquaintance are discussing Haeyoung1 and Dokyung. (AnotherMissOh12_032_0755)",
+        "question": " What topic are Taejin and his acquaintance discussing during their meal?",
+        "que_type": "Q2 (Concept completion)",
+        "vid": "AnotherMissOh12_032_0000",
+        "shot_contained": [
+            754,
+            770
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yes, Taejin shows signs of disgust during his conversation. (AnotherMissOh12_032_0756)",
+        "question": " Is Taejin showing signs of disgust at any point during his conversation with the acquaintance?",
+        "que_type": "Q3 (Verification)",
+        "vid": "AnotherMissOh12_032_0000",
+        "shot_contained": [
+            754,
+            770
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Taejin has a neutral expression as he walks in the building, possibly reflecting his contemplation or detachment from the earlier conversation. (AnotherMissOh12_032_0764)",
+        "question": " What causes Taejin to have a neutral expression when walking in the building after his meal?",
+        "que_type": "Q4 (Cause elucidation)",
+        "vid": "AnotherMissOh12_032_0000",
+        "shot_contained": [
+            754,
+            770
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Taejin's blank face could indicate his surprise, confusion, or disappointment, possibly related to the outcome of the call. (AnotherMissOh12_032_0769)",
+        "question": " What might be the reason for Taejin's blank face while looking up after making a call?",
+        "que_type": "Q5 (Interpretation)",
+        "vid": "AnotherMissOh12_032_0000",
+        "shot_contained": [
+            754,
+            770
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi and Kyungsu both display neutral emotions while sitting at home. (AnotherMissOh12_033_0771)",
+        "question": " What is the relationship between the emotions displayed by Deogi and Kyungsu while sitting at home?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_033_0000",
+        "shot_contained": [
+            771,
+            773
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Kyungsu might be expecting some peace or resolution after Haeyoung1 leaves, as indicated by his sigh. (AnotherMissOh12_033_0773)",
+        "question": " What might Kyungsu be expecting after Haeyoung1 leaves the house?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh12_033_0000",
+        "shot_contained": [
+            771,
+            773
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Deogi's neutral reaction could indicate a sense of resignation or helplessness despite the yelling, suggesting that the yelling is more out of concern than anger. (AnotherMissOh12_033_0772)",
+        "question": " What could be the reason behind Deogi's neutral reaction despite yelling at Haeyoung1?",
+        "que_type": "Q3 (Interpretation)",
+        "vid": "AnotherMissOh12_033_0000",
+        "shot_contained": [
+            771,
+            773
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "There are two people, Deogi and Kyungsu, shown sitting in the living room scene. (AnotherMissOh12_033_0771)",
+        "question": " How many people are shown in the living room scene with Deogi and Kyungsu?",
+        "que_type": "Q4 (Quantification)",
+        "vid": "AnotherMissOh12_033_0000",
+        "shot_contained": [
+            771,
+            773
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The atmosphere in the room seems to be somber or tense, as both Deogi and Kyungsu have neutral but possibly heavy-hearted expressions. (AnotherMissOh12_033_0771)",
+        "question": " How would you evaluate the atmosphere in the room based on the expressions of Deogi and Kyungsu?",
+        "que_type": "Q5 (Judging)",
+        "vid": "AnotherMissOh12_033_0000",
+        "shot_contained": [
+            771,
+            773
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung is feeling neutral while looking at the music box. (AnotherMissOh12_034_0790)",
+        "question": " What is the emotional state of Dokyung while he is reminiscing with the music box?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_034_0000",
+        "shot_contained": [
+            775,
+            817
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 cries due to the complex emotions she is experiencing during their conversation. (AnotherMissOh12_034_0801)",
+        "question": " What causes Haeyoung1 to cry while she is with Dokyung?",
+        "que_type": "Q2 (Cause elucidation)",
+        "vid": "AnotherMissOh12_034_0000",
+        "shot_contained": [
+            775,
+            817
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung might be seeking comfort or a deeper emotional connection with Haeyoung1 during their hug. (AnotherMissOh12_034_0799)",
+        "question": " What might Dokyung be expecting from his interaction with Haeyoung1 when they are hugging?",
+        "que_type": "Q3 (Expectation)",
+        "vid": "AnotherMissOh12_034_0000",
+        "shot_contained": [
+            775,
+            817
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's intention in visiting Dokyung is likely to confront or address the emotions and issues between them. (AnotherMissOh12_034_0792)",
+        "question": " What is Haeyoung1's intention when she decides to visit Dokyung?",
+        "que_type": "Q4 (Intention disclosure)",
+        "vid": "AnotherMissOh12_034_0000",
+        "shot_contained": [
+            775,
+            817
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The overall mood of the scene is emotionally charged and poignant, with both characters displaying sadness and vulnerability. (AnotherMissOh12_034_0800)",
+        "question": " How would you evaluate the overall mood of the scene where Dokyung and Haeyoung1 are talking and hugging?",
+        "que_type": "Q5 (Judging)",
+        "vid": "AnotherMissOh12_034_0000",
+        "shot_contained": [
+            775,
+            817
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yes, Haeyoung1's only depicted emotion while on the bus is sadness. (AnotherMissOh12_035_0818, AnotherMissOh12_035_0819)",
+        "question": " Is Haeyoung1's sadness the only emotion depicted while she is on the bus?",
+        "que_type": "Q1 (Verification)",
+        "vid": "AnotherMissOh12_035_0000",
+        "shot_contained": [
+            818,
+            819
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The bus has overhead lighting and hand straps for standing passengers. (AnotherMissOh12_035_0818)",
+        "question": " What specific features of the bus can be observed in the scene where Haeyoung1 is sitting?",
+        "que_type": "Q2 (Feature specification)",
+        "vid": "AnotherMissOh12_035_0000",
+        "shot_contained": [
+            818,
+            819
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "There are no other passengers visible in the immediate vicinity of Haeyoung1 on the bus. (AnotherMissOh12_035_0819)",
+        "question": " How many other passengers can be seen in the bus along with Haeyoung1?",
+        "que_type": "Q3 (Quantification)",
+        "vid": "AnotherMissOh12_035_0000",
+        "shot_contained": [
+            818,
+            819
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The blurred lights could symbolize Haeyoung1's confusion and disorientation following her breakup. (AnotherMissOh12_035_0819)",
+        "question": " What might the blurred lights through the bus window symbolize in relation to Haeyoung1's emotional state?",
+        "que_type": "Q4 (Interpretation)",
+        "vid": "AnotherMissOh12_035_0000",
+        "shot_contained": [
+            818,
+            819
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 might be expecting to find some solace or a way to cope with her sadness after the bus ride. (AnotherMissOh12_035_0818, AnotherMissOh12_035_0819)",
+        "question": " What might Haeyoung1 be expecting to find at her destination after such a bus ride?",
+        "que_type": "Q5 (Expectation)",
+        "vid": "AnotherMissOh12_035_0000",
+        "shot_contained": [
+            818,
+            819
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Kyungsu is picking up a chest of drawers to load onto the truck. (AnotherMissOh12_036_0822, AnotherMissOh12_036_0823)",
+        "question": " What kind of furniture is Kyungsu picking up to load onto the truck?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_036_0000",
+        "shot_contained": [
+            821,
+            824
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Kyungsu moves one box before he picks up the doll. (AnotherMissOh12_036_0822, AnotherMissOh12_036_0823)",
+        "question": " How many boxes does Kyungsu move before he picks up the doll?",
+        "que_type": "Q2 (Quantification)",
+        "vid": "AnotherMissOh12_036_0000",
+        "shot_contained": [
+            821,
+            824
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Kyungsu's expression of disgust suggests that he may be displeased or uncomfortable with the moving process. (AnotherMissOh12_036_0824)",
+        "question": " What might Kyungsu's expression of disgust suggest about his feelings towards the moving process?",
+        "que_type": "Q3 (Interpretation)",
+        "vid": "AnotherMissOh12_036_0000",
+        "shot_contained": [
+            821,
+            824
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "After Kyungsu finishes loading the truck, it can be expected that the truck will depart to the destination where the items are being moved. (AnotherMissOh12_036_0823)",
+        "question": " What can be expected to happen after Kyungsu finishes loading the truck?",
+        "que_type": "Q4 (Expectation)",
+        "vid": "AnotherMissOh12_036_0000",
+        "shot_contained": [
+            821,
+            824
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Kyungsu's demeanor while walking to see the furniture is neutral, whereas his demeanor changes to disgust when picking up the doll. (AnotherMissOh12_036_0822, AnotherMissOh12_036_0823, AnotherMissOh12_036_0824)",
+        "question": " How does Kyungsu's demeanor while walking to see the furniture compare to his demeanor when picking up the doll?",
+        "que_type": "Q5 (Comparison)",
+        "vid": "AnotherMissOh12_036_0000",
+        "shot_contained": [
+            821,
+            824
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Kyungsu is holding a doll while looking at the people moving furniture. (AnotherMissOh12_037_0831)",
+        "question": " What is Kyungsu holding while looking at the people moving furniture?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_037_0000",
+        "shot_contained": [
+            829,
+            839
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "There are at least two people visible moving furniture in the house. (AnotherMissOh12_037_0829)",
+        "question": " How many people can be seen moving furniture in the house?",
+        "que_type": "Q2 (Quantification)",
+        "vid": "AnotherMissOh12_037_0000",
+        "shot_contained": [
+            829,
+            839
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The next step for the movers might be to secure the furniture in the truck and transport it to the new location. (AnotherMissOh12_037_0829)",
+        "question": " What might be the next step for the movers after taking the furniture out to the truck?",
+        "que_type": "Q3 (Expectation)",
+        "vid": "AnotherMissOh12_037_0000",
+        "shot_contained": [
+            829,
+            839
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's neutral emotion while sleeping could indicate that she is either unaware of the moving process or is choosing to rest despite the activity around her. (AnotherMissOh12_037_0838, AnotherMissOh12_037_0839)",
+        "question": " What could be the reason for Haeyoung1's neutral emotion while sleeping during the moving process?",
+        "que_type": "Q4 (Interpretation)",
+        "vid": "AnotherMissOh12_037_0000",
+        "shot_contained": [
+            829,
+            839
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Both Kyungsu and Deogi have a neutral emotional state while watching the furniture being moved. (AnotherMissOh12_037_0829, AnotherMissOh12_037_0832)",
+        "question": " How does the emotional state of Kyungsu compare to that of Deogi while watching the furniture being moved?",
+        "que_type": "Q5 (Comparison)",
+        "vid": "AnotherMissOh12_037_0000",
+        "shot_contained": [
+            829,
+            839
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jiya displays emotions of disgust and happiness while sitting at the table. (AnotherMissOh12_038_0923, AnotherMissOh12_038_0928)",
+        "question": " What kind of emotions does Jiya display while she is sitting at the table during the Chairman's 70th birthday party?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_038_0000",
+        "shot_contained": [
+            840,
+            961
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jiya screams because she is experiencing sadness. (AnotherMissOh12_038_0951)",
+        "question": " What causes Jiya to scream during the Chairman's birthday party?",
+        "que_type": "Q2 (Cause elucidation)",
+        "vid": "AnotherMissOh12_038_0000",
+        "shot_contained": [
+            840,
+            961
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The Chairman shows emotions of neutrality and disgust, while Jiya displays a range of emotions including happiness, surprise, disgust, neutrality, sadness, and anger. (AnotherMissOh12_038_0840, AnotherMissOh12_038_0841, AnotherMissOh12_038_0844, AnotherMissOh12_038_0845, AnotherMissOh12_038_0848)",
+        "question": " How do the emotions of the Chairman differ from Jiya's when they are both at the party?",
+        "que_type": "Q3 (Comparison)",
+        "vid": "AnotherMissOh12_038_0000",
+        "shot_contained": [
+            840,
+            961
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "It is likely that the Chairman's daughter will apologize to Jiya after Dokyung pulls her arm. (No specific shot id provided for this action)",
+        "question": " What is likely to happen after Dokyung pulls the Chairman's daughter's arm to make her apologize to Jiya?",
+        "que_type": "Q4 (Expectation)",
+        "vid": "AnotherMissOh12_038_0000",
+        "shot_contained": [
+            840,
+            961
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung's intention is to have the person apologize to Jiya. (No specific shot id provided for this action)",
+        "question": " What is Dokyung's intention when he brings someone to Jiya at the party?",
+        "que_type": "Q5 (Intention disclosure)",
+        "vid": "AnotherMissOh12_038_0000",
+        "shot_contained": [
+            840,
+            961
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung is wearing a watch during the confrontation with Jiya. (AnotherMissOh12_039_0963)",
+        "question": " What is Dokyung wearing during the confrontation with Jiya?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_039_0000",
+        "shot_contained": [
+            962,
+            989
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung's neutral expression suggests that he is trying to maintain composure and control his emotions during the conversation with Jiya. (AnotherMissOh12_039_0963, AnotherMissOh12_039_0965, AnotherMissOh12_039_0966, AnotherMissOh12_039_0967, AnotherMissOh12_039_0971, AnotherMissOh12_039_0973, AnotherMissOh12_039_0974, AnotherMissOh12_039_0975, AnotherMissOh12_039_0978, AnotherMissOh12_039_0980, AnotherMissOh12_039_0981, AnotherMissOh12_039_0983)",
+        "question": " What might Dokyung's neutral expression suggest about his feelings during the conversation with Jiya?",
+        "que_type": "Q2 (Interpretation)",
+        "vid": "AnotherMissOh12_039_0000",
+        "shot_contained": [
+            962,
+            989
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung felt sadness when Jiya blamed him for ruining the Chairman's birthday, indicating that the accusation affected him emotionally. (AnotherMissOh12_039_0969, AnotherMissOh12_039_0979)",
+        "question": " What specific event led to Dokyung feeling sadness during his interaction with Jiya?",
+        "que_type": "Q3 (Cause elucidation)",
+        "vid": "AnotherMissOh12_039_0000",
+        "shot_contained": [
+            962,
+            989
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung likely expects Jiya to reflect on her actions and possibly change her behavior or attitude towards the situation. (AnotherMissOh12_039_0963)",
+        "question": " What does Dokyung likely expect from Jiya after telling her not to live like this?",
+        "que_type": "Q4 (Expectation)",
+        "vid": "AnotherMissOh12_039_0000",
+        "shot_contained": [
+            962,
+            989
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "An observer might evaluate the interaction as tense and emotionally charged, with Dokyung attempting to provide guidance or a wake-up call to Jiya about her current lifestyle or choices. (AnotherMissOh12_039_0963)",
+        "question": " How might an observer evaluate the interaction between Dokyung and Jiya based on Dokyung's advice to her?",
+        "que_type": "Q5 (Judging)",
+        "vid": "AnotherMissOh12_039_0000",
+        "shot_contained": [
+            962,
+            989
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The Chairman's expression of disgust likely indicates his dissatisfaction or disapproval of the current situation or Taejin's approach to the game. (AnotherMissOh12_040_0990, AnotherMissOh12_040_0992)",
+        "question": " What does the Chairman's expression of disgust indicate about his feelings towards the game or Taejin's gameplay?",
+        "que_type": "Q1 (Interpretation)",
+        "vid": "AnotherMissOh12_040_0000",
+        "shot_contained": [
+            990,
+            1003
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Taejin might expect to strengthen his relationship with the Chairman and possibly secure continued investment by showing a positive attitude during the game. (AnotherMissOh12_040_0991, AnotherMissOh12_040_0996)",
+        "question": " What might Taejin expect to gain by playing the game with the Chairman and showing happiness?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh12_040_0000",
+        "shot_contained": [
+            990,
+            1003
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The Chairman's shift from disgust to happiness could be due to a change in the game's dynamics, perhaps Taejin made a move that impressed the Chairman or showed deference in a way that pleased him. (AnotherMissOh12_040_1001, AnotherMissOh12_040_1002)",
+        "question": " What could be the reason for the Chairman's shift from disgust to happiness during the game with Taejin?",
+        "que_type": "Q3 (Cause elucidation)",
+        "vid": "AnotherMissOh12_040_0000",
+        "shot_contained": [
+            990,
+            1003
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yes, the Chairman's emotions transitioned from neutral to disgust and then to happiness as indicated in the scene knowledge graph. (AnotherMissOh12_040_0992, AnotherMissOh12_040_0993, AnotherMissOh12_040_1000, AnotherMissOh12_040_1002)",
+        "question": " Is it true that the Chairman's emotions transitioned from neutral to disgust and then to happiness throughout the game with Taejin?",
+        "que_type": "Q4 (Verification)",
+        "vid": "AnotherMissOh12_040_0000",
+        "shot_contained": [
+            990,
+            1003
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Taejin and the Chairman are playing the game in a well-furnished room with a grand piano in the background, indicating a setting of wealth and formality. (AnotherMissOh12_040_0992, AnotherMissOh12_040_0993, AnotherMissOh12_040_1000, AnotherMissOh12_040_1002)",
+        "question": " Can you describe the setting in which Taejin and the Chairman are playing the game?",
+        "que_type": "Q5 (Feature specification)",
+        "vid": "AnotherMissOh12_040_0000",
+        "shot_contained": [
+            990,
+            1003
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The Chairman shows his anger by getting up from his bed with moanings. (AnotherMissOh12_041_1005)",
+        "question": " What physical action does the Chairman take to express his anger besides throwing a pillow?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_041_0000",
+        "shot_contained": [
+            1004,
+            1017
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Chansu put Taejin's company in danger by buying his own goods to increase product sales. (AnotherMissOh12_041_1008, AnotherMissOh12_041_1009, AnotherMissOh12_041_1010, AnotherMissOh12_041_1013)",
+        "question": " What specific action by Chansu led to Taejin's company being put in danger?",
+        "que_type": "Q2 (Cause elucidation)",
+        "vid": "AnotherMissOh12_041_0000",
+        "shot_contained": [
+            1004,
+            1017
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Taejin is likely to be extremely worried and anxious about the future of his company. (AnotherMissOh12_041_1012, AnotherMissOh12_041_1013, AnotherMissOh12_041_1014)",
+        "question": " What might be the expected reaction from Taejin upon learning that the Chairman is pulling out his investment?",
+        "que_type": "Q3 (Expectation)",
+        "vid": "AnotherMissOh12_041_0000",
+        "shot_contained": [
+            1004,
+            1017
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The Chairman's intention is likely to demonstrate his intolerance for incompetence and to safeguard his investment. (AnotherMissOh12_041_1012, AnotherMissOh12_041_1013, AnotherMissOh12_041_1014, AnotherMissOh12_041_1015)",
+        "question": " What could be the Chairman's intention behind showing such intense anger towards Chansu's actions?",
+        "que_type": "Q4 (Intention disclosure)",
+        "vid": "AnotherMissOh12_041_0000",
+        "shot_contained": [
+            1004,
+            1017
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Before finding out about Taejin's company, the Chairman was presumably in a neutral or calm state, but after learning about the situation, he became extremely angry and disgusted. (AnotherMissOh12_041_1015, AnotherMissOh12_041_1016, AnotherMissOh12_041_1017)",
+        "question": " How does the Chairman's emotional state before and after finding out about Taejin's company differ?",
+        "que_type": "Q5 (Comparison)",
+        "vid": "AnotherMissOh12_041_0000",
+        "shot_contained": [
+            1004,
+            1017
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Taejin displays happiness while drinking with the Chairman. (AnotherMissOh12_042_1018, AnotherMissOh12_042_1019, AnotherMissOh12_042_1025, AnotherMissOh12_042_1026, AnotherMissOh12_042_1029, AnotherMissOh12_042_1031, AnotherMissOh12_042_1033, AnotherMissOh12_042_1034, AnotherMissOh12_042_1037)",
+        "question": " What emotions does Taejin display while drinking with the Chairman?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_042_0000",
+        "shot_contained": [
+            1018,
+            1039
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang feels fear when he sees Taejin at the bar because he is not expecting to see him there. (AnotherMissOh12_042_1025)",
+        "question": " What causes Jinsang to feel fear when he sees Taejin at the bar?",
+        "que_type": "Q2 (Cause elucidation)",
+        "vid": "AnotherMissOh12_042_0000",
+        "shot_contained": [
+            1018,
+            1039
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang might expect Dokyung to take some action or respond to the information about Taejin being at the bar. (AnotherMissOh12_042_0000)",
+        "question": " What might Jinsang expect to happen after calling Dokyung upon seeing Taejin?",
+        "que_type": "Q3 (Expectation)",
+        "vid": "AnotherMissOh12_042_0000",
+        "shot_contained": [
+            1018,
+            1039
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung's emotions are neutral and then turn to anger, while Jinsang experiences fear and anger upon learning about Taejin's presence. (AnotherMissOh12_042_1037, AnotherMissOh12_042_1038, AnotherMissOh12_042_1039)",
+        "question": " How do the emotions of Dokyung and Jinsang differ when they learn about Taejin's presence?",
+        "que_type": "Q4 (Comparison)",
+        "vid": "AnotherMissOh12_042_0000",
+        "shot_contained": [
+            1018,
+            1039
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yes, Dokyung was throwing a dart when he was informed about Taejin. (AnotherMissOh12_042_0000)",
+        "question": " Is it true that Dokyung was throwing a dart when he was informed about Taejin?",
+        "que_type": "Q5 (Verification)",
+        "vid": "AnotherMissOh12_042_0000",
+        "shot_contained": [
+            1018,
+            1039
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "No, the Chairman's emotion of disgust is not necessarily directed towards Dokyung; it could be related to the situation or his own thoughts about the request. (AnotherMissOh12_043_1040)",
+        "question": " Is the Chairman's emotion of disgust directed towards Dokyung when he agrees to grant Dokyung's request?",
+        "que_type": "Q1 (Verification)",
+        "vid": "AnotherMissOh12_043_0000",
+        "shot_contained": [
+            1040,
+            1041
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The Chairman's facial expression shows signs of disgust, possibly indicated by a frown or a look of disapproval. (AnotherMissOh12_043_1040)",
+        "question": " What are the visible signs of the Chairman's disgust when he is interacting with Dokyung?",
+        "que_type": "Q2 (Feature specification)",
+        "vid": "AnotherMissOh12_043_0000",
+        "shot_contained": [
+            1040,
+            1041
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung might expect a sign of approval from the Chairman, as indicated by his respectful action of bowing. (AnotherMissOh12_043_1040, AnotherMissOh12_043_1041)",
+        "question": " Does Dokyung expect the Chairman to show a sign of approval after his request is granted?",
+        "que_type": "Q3 (Expectation)",
+        "vid": "AnotherMissOh12_043_0000",
+        "shot_contained": [
+            1040,
+            1041
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The Chairman's neutral emotion while tapping on Dokyung's shoulder could be due to his attempt to maintain a professional demeanor despite his personal feelings about the situation. (AnotherMissOh12_043_1040, AnotherMissOh12_043_1041)",
+        "question": " What could be the reason for the Chairman's neutral emotion while tapping on Dokyung's shoulder?",
+        "que_type": "Q4 (Cause elucidation)",
+        "vid": "AnotherMissOh12_043_0000",
+        "shot_contained": [
+            1040,
+            1041
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung's intention behind standing next to the car and bowing at the Chairman is likely to show respect and formally request the Chairman's assistance with his matter. (AnotherMissOh12_043_1040, AnotherMissOh12_043_1041)",
+        "question": " What might be Dokyung's intention behind standing next to the car and bowing at the Chairman?",
+        "que_type": "Q5 (Intention disclosure)",
+        "vid": "AnotherMissOh12_043_0000",
+        "shot_contained": [
+            1040,
+            1041
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The Chairman is displaying emotions of disgust while sitting on the chair. (AnotherMissOh12_044_1042)",
+        "question": " What kind of emotions is the Chairman displaying while sitting on the chair?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_044_0000",
+        "shot_contained": [
+            1042,
+            1043
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The Chairman's disgust could be related to his desire for revenge and possibly his current situation. (AnotherMissOh12_044_1042)",
+        "question": " What might be the reason for the Chairman's disgust while sitting on the chair?",
+        "que_type": "Q2 (Cause elucidation)",
+        "vid": "AnotherMissOh12_044_0000",
+        "shot_contained": [
+            1042,
+            1043
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The Chairman's ultimate goal is to use Taejin as a means to exact revenge, likely against Dokyung or related parties. (AnotherMissOh12_044_1042, AnotherMissOh12_044_1043)",
+        "question": " What is the Chairman's ultimate goal in seeking revenge through Taejin?",
+        "que_type": "Q3 (Intention disclosure)",
+        "vid": "AnotherMissOh12_044_0000",
+        "shot_contained": [
+            1042,
+            1043
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The Chairman expresses disgust twice in the scene, as indicated by the knowledge graph. (AnotherMissOh12_044_1042, AnotherMissOh12_044_1043)",
+        "question": " How many times does the Chairman express disgust in the scene?",
+        "que_type": "Q4 (Quantification)",
+        "vid": "AnotherMissOh12_044_0000",
+        "shot_contained": [
+            1042,
+            1043
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "While the Chairman's disgust shows his displeasure or discomfort, tapping the wine glass with a fork is an action that seems to be more about getting attention or signaling someone, which is a different kind of behavior not necessarily associated with his emotions. (AnotherMissOh12_044_1042, AnotherMissOh12_044_1043)",
+        "question": " How does the Chairman's demeanor while sitting on the chair with disgust compare to his actions when he is tapping the wine glass with a fork?",
+        "que_type": "Q5 (Comparison)",
+        "vid": "AnotherMissOh12_044_0000",
+        "shot_contained": [
+            1042,
+            1043
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung is feeling sadness during the conversation with Haeyoung1. (AnotherMissOh12_045_1058)",
+        "question": " What is the emotional state of Dokyung as he holds his phone during the conversation with Haeyoung1?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_045_0000",
+        "shot_contained": [
+            1045,
+            1061
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 might be lying on the bed due to feeling overwhelmed with sadness and needing to rest. (AnotherMissOh12_045_1061)",
+        "question": " What might be the reason for Haeyoung1 lying on the bed during the phone call?",
+        "que_type": "Q2 (Concept completion)",
+        "vid": "AnotherMissOh12_045_0000",
+        "shot_contained": [
+            1045,
+            1061
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's crying and cursing during the phone call could signify deep emotional hurt and anger towards Dokyung. (AnotherMissOh12_045_1059)",
+        "question": " What could be the significance of Haeyoung1's crying and cursing during the phone call with Dokyung?",
+        "que_type": "Q3 (Interpretation)",
+        "vid": "AnotherMissOh12_045_0000",
+        "shot_contained": [
+            1045,
+            1061
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's intention might be to convey the depth of her pain and to make Dokyung understand the impact of his actions on her. (AnotherMissOh12_045_1053)",
+        "question": " What could be Haeyoung1's intention behind calling Dokyung and expressing her emotions so vividly?",
+        "que_type": "Q4 (Intention disclosure)",
+        "vid": "AnotherMissOh12_045_0000",
+        "shot_contained": [
+            1045,
+            1061
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 might expect Dokyung to feel remorseful or to provide some form of emotional support or apology. (AnotherMissOh12_045_1059)",
+        "question": " What might Haeyoung1 expect as a response from Dokyung after expressing her feelings so openly?",
+        "que_type": "Q5 (Expectation)",
+        "vid": "AnotherMissOh12_045_0000",
+        "shot_contained": [
+            1045,
+            1061
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung was wearing a white T-shirt when he was recording the sound of the wind. (AnotherMissOh12_046_1115)",
+        "question": " What was Dokyung wearing when he was recording the sound of the wind in the grassy place?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_046_0000",
+        "shot_contained": [
+            1065,
+            1167
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung likely expects to find some peace or solace by recording the sound of the wind in the grassy place. (AnotherMissOh12_046_1071, AnotherMissOh12_046_1072, AnotherMissOh12_046_1073, AnotherMissOh12_046_1074)",
+        "question": " What does Dokyung likely expect to feel by recording the sound of the wind in the grassy place?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh12_046_0000",
+        "shot_contained": [
+            1065,
+            1167
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung might have imagined himself without Haeyoung1 by his side due to feelings of regret after their interaction. (AnotherMissOh12_046_1126, AnotherMissOh12_046_1127, AnotherMissOh12_046_1128, AnotherMissOh12_046_1129, AnotherMissOh12_046_1130, AnotherMissOh12_046_1143)",
+        "question": " What might have caused Dokyung to imagine himself without Haeyoung1 by his side?",
+        "que_type": "Q3 (Cause elucidation)",
+        "vid": "AnotherMissOh12_046_0000",
+        "shot_contained": [
+            1065,
+            1167
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The significance of Dokyung seeing himself getting hit by a car could symbolize his emotional pain or a premonition of danger in his life. (AnotherMissOh12_046_1112, AnotherMissOh12_046_1113, AnotherMissOh12_046_1114, AnotherMissOh12_046_1115)",
+        "question": " What could be the significance of Dokyung seeing himself getting hit by a car in his head?",
+        "que_type": "Q4 (Interpretation)",
+        "vid": "AnotherMissOh12_046_0000",
+        "shot_contained": [
+            1065,
+            1167
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "While lying on the ground, Dokyung's emotional state is neutral, but when recording the sound of the wind, he experiences sadness, indicating a shift from a more passive to a reflective and emotional state. (AnotherMissOh12_046_1073, AnotherMissOh12_046_1115, AnotherMissOh12_046_1125, AnotherMissOh12_046_1161, AnotherMissOh12_046_1162, AnotherMissOh12_046_1164)",
+        "question": " How does Dokyung's emotional state while lying on the ground compare to when he is recording the sound of the wind?",
+        "que_type": "Q5 (Comparison)",
+        "vid": "AnotherMissOh12_046_0000",
+        "shot_contained": [
+            1065,
+            1167
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The car Dokyung is driving is white with black. (AnotherMissOh12_047_1169)",
+        "question": " What is the color of the car Dokyung is driving?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh12_047_0000",
+        "shot_contained": [
+            1169,
+            1201
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung expresses anger six times while in the car. (AnotherMissOh12_047_1170, AnotherMissOh12_047_1171, AnotherMissOh12_047_1172)",
+        "question": " How many times does Dokyung express anger while in the car according to the scene knowledge graph?",
+        "que_type": "Q2 (Quantification)",
+        "vid": "AnotherMissOh12_047_0000",
+        "shot_contained": [
+            1169,
+            1201
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung's anger while driving the car might be due to his emotional turmoil and the difficult decision he is contemplating about Haeyoung1. (AnotherMissOh12_047_1173, AnotherMissOh12_047_1174, AnotherMissOh12_047_1175, AnotherMissOh12_047_1176)",
+        "question": " What might be the reason for Dokyung's anger while driving the car?",
+        "que_type": "Q3 (Interpretation)",
+        "vid": "AnotherMissOh12_047_0000",
+        "shot_contained": [
+            1169,
+            1201
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung might expect to resolve his emotional conflict or to move forward with his relationship with Haeyoung1 after telling Soontack his decision. (AnotherMissOh12_047_1182, AnotherMissOh12_047_1183, AnotherMissOh12_047_1184)",
+        "question": " What might Dokyung expect to happen after telling Soontack his decision about Haeyoung1?",
+        "que_type": "Q4 (Expectation)",
+        "vid": "AnotherMissOh12_047_0000",
+        "shot_contained": [
+            1169,
+            1201
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung's intention is likely to seek support or to convey his determination about his feelings for Haeyoung1. (AnotherMissOh12_047_1182, AnotherMissOh12_047_1183, AnotherMissOh12_047_1184)",
+        "question": " What is Dokyung's intention behind driving to tell Soontack about his decision regarding Haeyoung1?",
+        "que_type": "Q5 (Intention disclosure)",
+        "vid": "AnotherMissOh12_047_0000",
+        "shot_contained": [
+            1169,
+            1201
+        ]
+    }
+]
