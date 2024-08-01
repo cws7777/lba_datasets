@@ -1,0 +1,717 @@
+[
+    {
+        "videoType": "scene",
+        "answer": "Dokyung decides to love Haeyoung1 forever. (AnotherMissOh11_001_0031, AnotherMissOh11_001_0032)",
+        "question": " What decision does Dokyung make regarding his feelings for Haeyoung1 as she sleeps on his lap?",
+        "que_type": "Q1 (Intention disclosure)",
+        "vid": "AnotherMissOh11_001_0000",
+        "shot_contained": [
+            27,
+            40
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung is wearing a watch. (AnotherMissOh11_001_0031, AnotherMissOh11_001_0033)",
+        "question": " What is Dokyung wearing while he sits in the car with Haeyoung1?",
+        "que_type": "Q2 (Feature specification)",
+        "vid": "AnotherMissOh11_001_0000",
+        "shot_contained": [
+            27,
+            40
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 is lying down on Dokyung's lap. (AnotherMissOh11_001_0031, AnotherMissOh11_001_0033, AnotherMissOh11_001_0036)",
+        "question": " Where is Haeyoung1 positioned as she sleeps in the car?",
+        "que_type": "Q3 (Concept completion)",
+        "vid": "AnotherMissOh11_001_0000",
+        "shot_contained": [
+            27,
+            40
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung likely expects Haeyoung1 to continue sleeping without being disturbed by the sunlight. (AnotherMissOh11_001_0036, AnotherMissOh11_001_0037)",
+        "question": " What does Dokyung likely expect to happen after he blocks the sunlight for Haeyoung1?",
+        "que_type": "Q4 (Expectation)",
+        "vid": "AnotherMissOh11_001_0000",
+        "shot_contained": [
+            27,
+            40
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The atmosphere in the car could be described as peaceful and tender. (AnotherMissOh11_001_0036, AnotherMissOh11_001_0037, AnotherMissOh11_001_0039)",
+        "question": " How might one describe the atmosphere in the car as Dokyung watches over the sleeping Haeyoung1?",
+        "que_type": "Q5 (Judging)",
+        "vid": "AnotherMissOh11_001_0000",
+        "shot_contained": [
+            27,
+            40
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Taejin is wearing a gray suit and a tie while he is kneeling and apologizing. (AnotherMissOh11_002_0052, AnotherMissOh11_002_0054)",
+        "question": " What is Taejin wearing while he is kneeling and apologizing?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh11_002_0000",
+        "shot_contained": [
+            43,
+            71
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Kyungsu might engage in a conversation with Taejin after making him stand up. (AnotherMissOh11_002_0061, AnotherMissOh11_002_0062)",
+        "question": " What might Kyungsu do after making Taejin stand up?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh11_002_0000",
+        "shot_contained": [
+            43,
+            71
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Taejin's sad expression while kneeling could indicate his remorse and the seriousness of his apology. (AnotherMissOh11_002_0063)",
+        "question": " What could be the reason for Taejin's sad expression while kneeling?",
+        "que_type": "Q3 (Interpretation)",
+        "vid": "AnotherMissOh11_002_0000",
+        "shot_contained": [
+            43,
+            71
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Taejin, Deogi, and Kyungsu. (AnotherMissOh11_002_0047, AnotherMissOh11_002_0052)",
+        "question": " How many people are present in front of Haeyoung1's house during Taejin's apology?",
+        "que_type": "Q4 (Quantification)",
+        "vid": "AnotherMissOh11_002_0000",
+        "shot_contained": [
+            43,
+            71
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yes, Taejin's head is lowered while he is apologizing to Deogi and Kyungsu. (AnotherMissOh11_002_0058)",
+        "question": " Is it true that Taejin's head is lowered while he is apologizing to Deogi and Kyungsu?",
+        "que_type": "Q5 (Verification)",
+        "vid": "AnotherMissOh11_002_0000",
+        "shot_contained": [
+            43,
+            71
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung is wearing a gray shirt. (AnotherMissOh11_003_0091)",
+        "question": " What color is the shirt that Dokyung is wearing during the scene?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh11_003_0000",
+        "shot_contained": [
+            72,
+            104
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang might be feeling confused or frustrated while looking for his car. (AnotherMissOh11_003_0094)",
+        "question": " What might Jinsang be feeling while looking for his car?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh11_003_0000",
+        "shot_contained": [
+            72,
+            104
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung looks at Haeyoung1 twice in the scene. (AnotherMissOh11_003_0089, AnotherMissOh11_003_0096)",
+        "question": " How many times does Dokyung look at Haeyoung1 in the scene?",
+        "que_type": "Q3 (Quantification)",
+        "vid": "AnotherMissOh11_003_0000",
+        "shot_contained": [
+            72,
+            104
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's slight smile as she turns around could indicate her affection and lingering feelings for Dokyung. (AnotherMissOh11_003_0080)",
+        "question": " What could be the reason for Haeyoung1's slight smile as she turns around?",
+        "que_type": "Q4 (Interpretation)",
+        "vid": "AnotherMissOh11_003_0000",
+        "shot_contained": [
+            72,
+            104
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The emotional atmosphere between Haeyoung1 and Dokyung during their parting seems tender and loving. (AnotherMissOh11_003_0087)",
+        "question": " How would you evaluate the emotional atmosphere between Haeyoung1 and Dokyung during their parting?",
+        "que_type": "Q5 (Judging)",
+        "vid": "AnotherMissOh11_003_0000",
+        "shot_contained": [
+            72,
+            104
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun is wearing a checked shirt during breakfast with Dokyung and Sukyung. (AnotherMissOh11_004_0115)",
+        "question": " What color is the shirt that Hun is wearing during breakfast with Dokyung and Sukyung?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh11_004_0000",
+        "shot_contained": [
+            105,
+            191
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Three people, Hun, Dokyung, and Sukyung, are sitting at the table during the breakfast scene. (AnotherMissOh11_004_0115)",
+        "question": " How many people are sitting at the table during the breakfast scene?",
+        "que_type": "Q2 (Quantification)",
+        "vid": "AnotherMissOh11_004_0000",
+        "shot_contained": [
+            105,
+            191
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun, Dokyung, and Sukyung appear to be friends or acquaintances sharing a meal together. (AnotherMissOh11_004_0115)",
+        "question": " What is the relationship between the characters Hun, Dokyung, and Sukyung as they have breakfast together?",
+        "que_type": "Q3 (Concept completion)",
+        "vid": "AnotherMissOh11_004_0000",
+        "shot_contained": [
+            105,
+            191
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung's neutral reaction despite having jam on his face could indicate his patience or tolerance towards the situation or the people around him. (AnotherMissOh11_004_0127)",
+        "question": " What might be the reason for Dokyung's neutral reaction despite having jam on his face?",
+        "que_type": "Q4 (Interpretation)",
+        "vid": "AnotherMissOh11_004_0000",
+        "shot_contained": [
+            105,
+            191
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun might try to find a way to either hide his manicured nails from others or decide to openly embrace them, depending on his level of comfort. (AnotherMissOh11_004_0139)",
+        "question": " After the breakfast scene, what do you expect Hun's next action might be regarding his manicured nails?",
+        "que_type": "Q5 (Expectation)",
+        "vid": "AnotherMissOh11_004_0000",
+        "shot_contained": [
+            105,
+            191
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Taejin is wearing a gray suit when he visits Haeyoung1's company. (AnotherMissOh11_005_0195)",
+        "question": " What is Taejin wearing when he visits Haeyoung1's company?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh11_005_0000",
+        "shot_contained": [
+            192,
+            217
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 runs to the sculpture to hide and avoid being seen by Taejin. (AnotherMissOh11_005_0207)",
+        "question": " What specific action does Haeyoung1 take to conceal her presence from Taejin?",
+        "que_type": "Q2 (Concept completion)",
+        "vid": "AnotherMissOh11_005_0000",
+        "shot_contained": [
+            192,
+            217
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Taejin displays one emotion, which is neutral, during his visit to Haeyoung1's company. (AnotherMissOh11_005_0192, AnotherMissOh11_005_0208)",
+        "question": " How many different emotions does Taejin display during his visit to Haeyoung1's company?",
+        "que_type": "Q3 (Quantification)",
+        "vid": "AnotherMissOh11_005_0000",
+        "shot_contained": [
+            192,
+            217
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 shows surprise and fear, while Taejin remains neutral during their time at the company. (AnotherMissOh11_005_0206, AnotherMissOh11_005_0212)",
+        "question": " How does Haeyoung1's emotional response differ from Taejin's when they are at the company?",
+        "que_type": "Q4 (Comparison)",
+        "vid": "AnotherMissOh11_005_0000",
+        "shot_contained": [
+            192,
+            217
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 likely covers her face with her hand to avoid being recognized by Taejin. (AnotherMissOh11_005_0208)",
+        "question": " What might be the reason Haeyoung1 decides to cover her face with her hand when she sees Taejin?",
+        "que_type": "Q5 (Intention disclosure)",
+        "vid": "AnotherMissOh11_005_0000",
+        "shot_contained": [
+            192,
+            217
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 is smiling slightly and putting her hand under her chin while talking on the phone in the office. (AnotherMissOh11_006_0237, AnotherMissOh11_006_0242)",
+        "question": " What is Haeyoung1's physical reaction while she is talking on the phone in the office?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh11_006_0000",
+        "shot_contained": [
+            218,
+            261
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 might be expecting to resolve past issues and seek closure from the upcoming meeting with Taejin. (AnotherMissOh11_006_0239)",
+        "question": " What might Haeyoung1 be expecting from the upcoming meeting with Taejin?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh11_006_0000",
+        "shot_contained": [
+            218,
+            261
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's change in emotion to happiness upon receiving Taejin's message can be interpreted as her feeling hopeful or positive about the communication from Taejin. (AnotherMissOh11_006_0237, AnotherMissOh11_006_0251)",
+        "question": " How can Haeyoung1's change in emotion from neutral to happiness be interpreted when she receives Taejin's message?",
+        "que_type": "Q3 (Interpretation)",
+        "vid": "AnotherMissOh11_006_0000",
+        "shot_contained": [
+            218,
+            261
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "neutrality, happiness, and surprise. (AnotherMissOh11_006_0218, AnotherMissOh11_006_0237, AnotherMissOh11_006_0255)",
+        "question": " How many different emotions does Haeyoung1 display throughout the scene according to the knowledge graph?",
+        "que_type": "Q4 (Quantification)",
+        "vid": "AnotherMissOh11_006_0000",
+        "shot_contained": [
+            218,
+            261
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 puts her cellphone on her face while in the office as a gesture of affection or comfort after reading Taejin's message and feeling happy. (AnotherMissOh11_006_0237)",
+        "question": " What prompts Haeyoung1 to put her cellphone on her face while in the office?",
+        "que_type": "Q5 (Cause elucidation)",
+        "vid": "AnotherMissOh11_006_0000",
+        "shot_contained": [
+            218,
+            261
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Taejin was wearing a gray suit and holding a bunch of red flowers. (AnotherMissOh11_007_0274, AnotherMissOh11_007_0289)",
+        "question": " What was Taejin wearing when he went to see Haeyoung1?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh11_007_0000",
+        "shot_contained": [
+            269,
+            392
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 expected to meet Taejin the next day without any conflict. (AnotherMissOh11_007_0269)",
+        "question": " What did Haeyoung1 expect to happen when she postponed the appointment with Taejin?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh11_007_0000",
+        "shot_contained": [
+            269,
+            392
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 decided to meet Dokyung because she had something important to discuss with him. (AnotherMissOh11_007_0270)",
+        "question": " Why did Haeyoung1 decide to meet Dokyung instead of keeping her appointment with Taejin?",
+        "que_type": "Q3 (Intention disclosure)",
+        "vid": "AnotherMissOh11_007_0000",
+        "shot_contained": [
+            269,
+            392
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 became angry when she saw Taejin hitting Dokyung. (AnotherMissOh11_007_0350)",
+        "question": " What caused Haeyoung1 to become angry during the confrontation between Taejin and Dokyung?",
+        "que_type": "Q4 (Cause elucidation)",
+        "vid": "AnotherMissOh11_007_0000",
+        "shot_contained": [
+            269,
+            392
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Before the fight, Haeyoung1 was happy and smiling, but after witnessing the fight, she became shocked, sad, and angry. (AnotherMissOh11_007_0291, AnotherMissOh11_007_0362)",
+        "question": " How did Haeyoung1's emotional state compare before and after witnessing the fight between Taejin and Dokyung?",
+        "que_type": "Q5 (Comparison)",
+        "vid": "AnotherMissOh11_007_0000",
+        "shot_contained": [
+            269,
+            392
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Taejin is wearing a gray suit during the confrontation with Dokyung. (AnotherMissOh11_008_0394)",
+        "question": " What is Taejin wearing during the confrontation with Dokyung?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh11_008_0000",
+        "shot_contained": [
+            393,
+            436
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Taejin begins to physically assault Dokyung by punching and kicking him. (AnotherMissOh11_008_0425, AnotherMissOh11_008_0428)",
+        "question": " What action does Taejin take immediately after Haeyoung1 walks away from Dokyung?",
+        "que_type": "Q2 (Concept completion)",
+        "vid": "AnotherMissOh11_008_0000",
+        "shot_contained": [
+            393,
+            436
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yes, Dokyung is wearing a watch during the altercation. (AnotherMissOh11_008_0433)",
+        "question": " Is Dokyung wearing a watch during the altercation with Taejin?",
+        "que_type": "Q3 (Verification)",
+        "vid": "AnotherMissOh11_008_0000",
+        "shot_contained": [
+            393,
+            436
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "anger and sadness. (AnotherMissOh11_008_0393, AnotherMissOh11_008_0405)",
+        "question": " How many different emotions does Taejin exhibit throughout the scene?",
+        "que_type": "Q4 (Quantification)",
+        "vid": "AnotherMissOh11_008_0000",
+        "shot_contained": [
+            393,
+            436
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 might be spelling her name to clarify her identity or to make a point about who she is in the context of the conversation. (AnotherMissOh11_008_0399)",
+        "question": " What might be the reason for Haeyoung1 spelling her name during the scene?",
+        "que_type": "Q5 (Interpretation)",
+        "vid": "AnotherMissOh11_008_0000",
+        "shot_contained": [
+            393,
+            436
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 is wearing a pink sweater while standing on the bridge. (AnotherMissOh11_009_0459)",
+        "question": " What is Haeyoung1 wearing while she is standing on the bridge?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh11_009_0000",
+        "shot_contained": [
+            437,
+            485
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The relationship between Haeyoung1 and Dokyung is strained, as Haeyoung1 is seen crying and looking at Dokyung with sadness. (AnotherMissOh11_009_0472, AnotherMissOh11_009_0481)",
+        "question": " What is the relationship between Haeyoung1 and Dokyung as depicted in the scene?",
+        "que_type": "Q2 (Concept completion)",
+        "vid": "AnotherMissOh11_009_0000",
+        "shot_contained": [
+            437,
+            485
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung might have gotten the bruise on his eye from a physical altercation, as indicated by the mention of him having fought with someone. (AnotherMissOh11_009_0474)",
+        "question": " What might have caused Dokyung to have a bruise on his eye?",
+        "que_type": "Q3 (Cause elucidation)",
+        "vid": "AnotherMissOh11_009_0000",
+        "shot_contained": [
+            437,
+            485
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 could be running while smiling because she is experiencing a moment of happiness or relief amidst her troubles. (AnotherMissOh11_009_0466)",
+        "question": " What could be the reason Haeyoung1 is running while smiling in the scene?",
+        "que_type": "Q4 (Intention disclosure)",
+        "vid": "AnotherMissOh11_009_0000",
+        "shot_contained": [
+            437,
+            485
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 might be expecting some form of resolution or change after her emotional outburst on the subway, possibly hoping to confront the issues that have been causing her distress. (AnotherMissOh11_009_0451)",
+        "question": " What might Haeyoung1 be expecting after her emotional outburst on the subway?",
+        "que_type": "Q5 (Expectation)",
+        "vid": "AnotherMissOh11_009_0000",
+        "shot_contained": [
+            437,
+            485
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 was wearing a white blouse during the confrontation. (AnotherMissOh11_010_0487)",
+        "question": " What was Haeyoung1 wearing during the confrontation at the bar?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh11_010_0000",
+        "shot_contained": [
+            486,
+            505
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 exhibited anger as she was walking in the bar. (AnotherMissOh11_010_0493)",
+        "question": " What specific emotions did Haeyoung1 exhibit while she was walking in the bar before the attack?",
+        "que_type": "Q2 (Concept completion)",
+        "vid": "AnotherMissOh11_010_0000",
+        "shot_contained": [
+            486,
+            505
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yes, Haeyoung2 was smiling and waving her hand before the attack occurred. (AnotherMissOh11_010_0494)",
+        "question": " Is it true that Haeyoung2 was smiling and waving her hand before the attack occurred?",
+        "que_type": "Q3 (Verification)",
+        "vid": "AnotherMissOh11_010_0000",
+        "shot_contained": [
+            486,
+            505
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Multiple people were involved in holding Haeyoung1 back during the attack. (AnotherMissOh11_010_0500)",
+        "question": " How many people were involved in holding Haeyoung1 back during the attack?",
+        "que_type": "Q4 (Quantification)",
+        "vid": "AnotherMissOh11_010_0000",
+        "shot_contained": [
+            486,
+            505
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 touching her chest could indicate she was feeling a strong emotion, possibly related to her heartache or distress. (AnotherMissOh11_010_0489)",
+        "question": " What might be the reason for Haeyoung1 touching her chest before going to the bar?",
+        "que_type": "Q5 (Interpretation)",
+        "vid": "AnotherMissOh11_010_0000",
+        "shot_contained": [
+            486,
+            505
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung has visible injuries on his face, which include bruises and possibly cuts. (AnotherMissOh11_011_0512)",
+        "question": " What specific injuries can be seen on Dokyung's face as he walks down the street?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh11_011_0000",
+        "shot_contained": [
+            506,
+            561
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung's acquaintances might expect to engage him in conversation, understand his situation better, and possibly offer help or support. (AnotherMissOh11_011_0511)",
+        "question": " What might Dokyung's acquaintances expect to happen by following him and trying to talk to him?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh11_011_0000",
+        "shot_contained": [
+            506,
+            561
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang, Hun, Gitae, and Sangseok. (AnotherMissOh11_011_0539)",
+        "question": " How many people are in the car chasing after Dokyung?",
+        "que_type": "Q3 (Quantification)",
+        "vid": "AnotherMissOh11_011_0000",
+        "shot_contained": [
+            506,
+            561
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung putting his hands in his pockets could be a sign of discomfort, self-soothing, or an attempt to appear casual despite the emotional turmoil he might be experiencing. (AnotherMissOh11_011_0522)",
+        "question": " What could be the reason for Dokyung putting his hands in his pockets while walking?",
+        "que_type": "Q4 (Interpretation)",
+        "vid": "AnotherMissOh11_011_0000",
+        "shot_contained": [
+            506,
+            561
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung's sadness could be due to the emotional or physical pain from the injuries on his face, or it could be related to a personal issue or conflict that has not been resolved. (AnotherMissOh11_011_0518)",
+        "question": " What might have caused Dokyung to look sad as he walks in front of Jinsang?",
+        "que_type": "Q5 (Cause elucidation)",
+        "vid": "AnotherMissOh11_011_0000",
+        "shot_contained": [
+            506,
+            561
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 looks sad and is shutting her mouth, later opening her eyes wide. (AnotherMissOh11_012_0563, AnotherMissOh11_012_0566, AnotherMissOh11_012_0571)",
+        "question": " What is Haeyoung1's physical reaction as Heeran apologizes to her?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh11_012_0000",
+        "shot_contained": [
+            563,
+            573
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 might expect Heeran to understand her feelings and possibly expect some form of support or reassurance. (AnotherMissOh11_012_0573)",
+        "question": " What might Haeyoung1 expect from Heeran after receiving the apology?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh11_012_0000",
+        "shot_contained": [
+            563,
+            573
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Heeran conveys her apology by speaking to Haeyoung1, showing a sad expression, and hugging her. (AnotherMissOh11_012_0567, AnotherMissOh11_012_0573)",
+        "question": " How does Heeran convey her apology to Haeyoung1?",
+        "que_type": "Q3 (Method explication)",
+        "vid": "AnotherMissOh11_012_0000",
+        "shot_contained": [
+            563,
+            573
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "An observer might judge Heeran as being genuinely remorseful and saddened by the situation, as indicated by her tears and the act of hugging Haeyoung1. (AnotherMissOh11_012_0569, AnotherMissOh11_012_0570, AnotherMissOh11_012_0572, AnotherMissOh11_012_0573)",
+        "question": " How might an observer judge the emotional state of Heeran during her apology?",
+        "que_type": "Q4 (Judging)",
+        "vid": "AnotherMissOh11_012_0000",
+        "shot_contained": [
+            563,
+            573
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "No, Dokyung is not present during the apology scene; he is only mentioned in the context of Heeran speaking to him earlier. (AnotherMissOh11_012_0567, AnotherMissOh11_012_0568)",
+        "question": " Is Dokyung present during the apology scene between Heeran and Haeyoung1?",
+        "que_type": "Q5 (Verification)",
+        "vid": "AnotherMissOh11_012_0000",
+        "shot_contained": [
+            563,
+            573
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun is wearing a black and red checkered shirt and a black cap with white designs. (AnotherMissOh11_013_0576)",
+        "question": " What is Hun wearing when he adjusts his hat?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh11_013_0000",
+        "shot_contained": [
+            575,
+            591
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang's aggressive behavior towards Hun in the car is indicative of a tense or confrontational relationship, possibly due to a misunderstanding or a protective action towards Haeyoung2. (AnotherMissOh11_013_0579)",
+        "question": " What is the relationship between Jinsang and Hun that leads to Jinsang's aggressive behavior in the car?",
+        "que_type": "Q2 (Concept completion)",
+        "vid": "AnotherMissOh11_013_0000",
+        "shot_contained": [
+            575,
+            591
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Gitae, Dokyung, and Sangseok. (AnotherMissOh11_013_0588)",
+        "question": " How many people are involved in the scene where Gitae is grabbing Dokyung's arm?",
+        "que_type": "Q3 (Quantification)",
+        "vid": "AnotherMissOh11_013_0000",
+        "shot_contained": [
+            575,
+            591
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung2's sadness while wearing earphones could be due to her feeling isolated or disconnected from the events happening around her, or possibly due to receiving upsetting news or reflecting on a personal issue. (AnotherMissOh11_013_0575)",
+        "question": " What might be the reason for Haeyoung2's sadness while wearing earphones?",
+        "que_type": "Q4 (Interpretation)",
+        "vid": "AnotherMissOh11_013_0000",
+        "shot_contained": [
+            575,
+            591
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "It can be expected that Sangseok's emotional state has improved due to a positive development or resolution in the situation that initially caused his sadness. (AnotherMissOh11_013_0584, AnotherMissOh11_013_0590)",
+        "question": " What can be expected from Sangseok's emotional state after he is seen walking with sadness and later shows happiness?",
+        "que_type": "Q5 (Expectation)",
+        "vid": "AnotherMissOh11_013_0000",
+        "shot_contained": [
+            575,
+            591
+        ]
+    }
+]
