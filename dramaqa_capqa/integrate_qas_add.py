@@ -1,9 +1,9 @@
 import json
 
 # Paths to the input and output files
-txt_file_path = './additional_qas/AnotherMissOh01_sceneaddQA_20240522.txt'
+txt_file_path = './additional_qas/AnotherMissOh11_sceneaddQA_20240522.txt'
 json_file_path = '../originals/AnotherMissOhQA_train_set.json'
-output_file_path = './AnotherMissOhQA01_updated.json'
+output_file_path = './AnotherMissOhQA11_updated.json'
 
 # Function to parse the text file and extract vid, questions, answers, and question types
 def parse_txt_file(file_path):
@@ -15,7 +15,7 @@ def parse_txt_file(file_path):
     qa_pairs = []
 
     for line in lines:
-        if line.startswith("AnotherMissOh01"):
+        if line.startswith("AnotherMissOh11"):
             if current_vid and qa_pairs:
                 data[current_vid] = qa_pairs
                 qa_pairs = []

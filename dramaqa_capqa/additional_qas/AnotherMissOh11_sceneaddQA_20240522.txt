@@ -1,220 +1,441 @@
 AnotherMissOh11_001_0000
 
-Q1 (Intention disclosure): What decision does Dokyung make regarding his feelings for Haeyoung1 as she sleeps on his lap?
-A1: Dokyung decides to love Haeyoung1 forever. (AnotherMissOh11_001_0031, AnotherMissOh11_001_0032)
+Q1 (Intention disclosure): What decision does Dokyung make about his feelings for Haeyoung1 as she sleeps on his lap?
+A1: Dokyung decides to love Haeyoung1 forever.
 
-Q2 (Feature specification): What is Dokyung wearing while he sits in the car with Haeyoung1?
-A2: Dokyung is wearing a watch. (AnotherMissOh11_001_0031, AnotherMissOh11_001_0033)
+Q2 (Feature specification): What is Dokyung wearing on his wrist as he sits in the car?
+A2: Dokyung is wearing a watch.
 
-Q3 (Concept completion): Where is Haeyoung1 positioned as she sleeps in the car?
-A3: Haeyoung1 is lying down on Dokyung's lap. (AnotherMissOh11_001_0031, AnotherMissOh11_001_0033, AnotherMissOh11_001_0036)
+Q3 (Concept completion): Where is Haeyoung1 positioned while she is asleep in the car?
+A3: Haeyoung1 is lying down on Dokyung's lap.
 
-Q4 (Expectation): What does Dokyung likely expect to happen after he blocks the sunlight for Haeyoung1?
-A4: Dokyung likely expects Haeyoung1 to continue sleeping without being disturbed by the sunlight. (AnotherMissOh11_001_0036, AnotherMissOh11_001_0037)
+Q4 (Expectation): What does Dokyung likely expect to happen after he blocks the sunlight from Haeyoung1's face?
+A4: Dokyung likely expects Haeyoung1 to continue sleeping without being disturbed by the sunlight.
 
-Q5 (Judging): How might one describe the atmosphere in the car as Dokyung watches over the sleeping Haeyoung1?
-A5: The atmosphere in the car could be described as peaceful and tender. (AnotherMissOh11_001_0036, AnotherMissOh11_001_0037, AnotherMissOh11_001_0039)
+Q5 (Quantification): How many people are present in the car during the scene?
+A5: There are two people present in the car, Dokyung and Haeyoung1.
 
 AnotherMissOh11_002_0000
 
-Q1 (Feature specification): What is Taejin wearing while he is kneeling and apologizing?
-A1: Taejin is wearing a gray suit and a tie while he is kneeling and apologizing. (AnotherMissOh11_002_0052, AnotherMissOh11_002_0054)
+Q1 (Feature specification): What is Taejin wearing while he is kneeling down and apologizing?
+A1: Taejin is wearing a gray suit and a tie. (AnotherMissOh11_002_0052, AnotherMissOh11_002_0054)
 
-Q2 (Expectation): What might Kyungsu do after making Taejin stand up?
-A2: Kyungsu might engage in a conversation with Taejin after making him stand up. (AnotherMissOh11_002_0061, AnotherMissOh11_002_0062)
+Q2 (Expectation): What might Kyungsu do next after making Taejin stand up?
+A2: Kyungsu might continue talking to Taejin or possibly enter the house. (AnotherMissOh11_002_0061, AnotherMissOh11_002_0062)
 
-Q3 (Interpretation): What could be the reason for Taejin's sad expression while kneeling?
-A3: Taejin's sad expression while kneeling could indicate his remorse and the seriousness of his apology. (AnotherMissOh11_002_0063)
+Q3 (Quantification): How many people are present in front of Haeyoung1's house during Taejin's apology?
+A3: There are three people present: Taejin, Deogi, and Kyungsu. (AnotherMissOh11_002_0047, AnotherMissOh11_002_0053)
 
-Q4 (Quantification): How many people are present in front of Haeyoung1's house during Taejin's apology?
-A4: There are three people present in front of Haeyoung1's house during Taejin's apology: Taejin, Deogi, and Kyungsu. (AnotherMissOh11_002_0047, AnotherMissOh11_002_0052)
+Q4 (Interpretation): What could be the reason for Taejin's sad expression while kneeling?
+A4: Taejin's sad expression could be due to his remorse and the seriousness of his apology to Deogi and Kyungsu. (AnotherMissOh11_002_0063)
 
-Q5 (Verification): Is it true that Taejin's head is lowered while he is apologizing to Deogi and Kyungsu?
-A5: Yes, Taejin's head is lowered while he is apologizing to Deogi and Kyungsu. (AnotherMissOh11_002_0058)
+Q5 (Case specification): What specific action does Kyungsu take towards Taejin after he kneels down?
+A5: Kyungsu makes Taejin stand up after he kneels down. (AnotherMissOh11_002_0061)
 
 AnotherMissOh11_003_0000
 
-Q1 (Feature specification): What color is the shirt that Dokyung is wearing during the scene?
+Q1 (Feature specification): What color is the shirt that Dokyung is wearing when he meets Jinsang?
 A1: Dokyung is wearing a gray shirt. (AnotherMissOh11_003_0091)
 
-Q2 (Expectation): What might Jinsang be feeling while looking for his car?
-A2: Jinsang might be feeling confused or frustrated while looking for his car. (AnotherMissOh11_003_0094)
+Q2 (Quantification): How many times does Dokyung look at Haeyoung1 during their parting scene?
+A2: Dokyung looks at Haeyoung1 twice during their parting scene. (AnotherMissOh11_003_0089, AnotherMissOh11_003_0096)
 
-Q3 (Quantification): How many times does Dokyung look at Haeyoung1 in the scene?
-A3: Dokyung looks at Haeyoung1 twice in the scene. (AnotherMissOh11_003_0089, AnotherMissOh11_003_0096)
+Q3 (Concept completion): What is the emotional state of Jinsang when he is looking for his car?
+A3: Jinsang appears to be in a state of sadness when he is looking for his car. (AnotherMissOh11_003_0095)
 
-Q4 (Interpretation): What could be the reason for Haeyoung1's slight smile as she turns around?
-A4: Haeyoung1's slight smile as she turns around could indicate her affection and lingering feelings for Dokyung. (AnotherMissOh11_003_0080)
+Q4 (Verification): Is Haeyoung1 wearing her hair up or down when she hugs Dokyung?
+A4: Haeyoung1 is wearing her hair up when she hugs Dokyung. (AnotherMissOh11_003_0085)
 
-Q5 (Judging): How would you evaluate the emotional atmosphere between Haeyoung1 and Dokyung during their parting?
-A5: The emotional atmosphere between Haeyoung1 and Dokyung during their parting seems tender and loving. (AnotherMissOh11_003_0087)
+Q5 (Interpretation): What might be the reason for Dokyung holding a jacket while walking behind Jinsang?
+A5: Dokyung might be holding a jacket while walking behind Jinsang because he is preparing to leave or has just arrived from somewhere. (AnotherMissOh11_003_0093)
 
 AnotherMissOh11_004_0000
 
-Q1 (Feature specification): What color is the shirt that Hun is wearing during breakfast with Dokyung and Sukyung?
-A1: Hun is wearing a checked shirt during breakfast with Dokyung and Sukyung. (AnotherMissOh11_004_0115)
+Q1 (Feature specification): What is the color of the shirt that Hun is wearing during breakfast?
+A1: Hun is wearing a checked shirt. (AnotherMissOh11_004_0112)
 
 Q2 (Quantification): How many people are sitting at the table during the breakfast scene?
-A2: Three people, Hun, Dokyung, and Sukyung, are sitting at the table during the breakfast scene. (AnotherMissOh11_004_0115)
+A2: Three people, Hun, Dokyung, and Sukyung, are sitting at the table. (AnotherMissOh11_004_0115)
 
 Q3 (Concept completion): What is the relationship between the characters Hun, Dokyung, and Sukyung as they have breakfast together?
 A3: Hun, Dokyung, and Sukyung appear to be friends or acquaintances sharing a meal together. (AnotherMissOh11_004_0115)
 
-Q4 (Interpretation): What might be the reason for Dokyung's neutral reaction despite having jam on his face?
-A4: Dokyung's neutral reaction despite having jam on his face could indicate his patience or tolerance towards the situation or the people around him. (AnotherMissOh11_004_0127)
+Q4 (Interpretation): What might be the reason for Hun pushing the dish to Sukyung during breakfast?
+A4: Hun might be offering the dish to Sukyung as a gesture of politeness or to share the food. (AnotherMissOh11_004_0128)
 
-Q5 (Expectation): After the breakfast scene, what do you expect Hun's next action might be regarding his manicured nails?
-A5: Hun might try to find a way to either hide his manicured nails from others or decide to openly embrace them, depending on his level of comfort. (AnotherMissOh11_004_0139)
+Q5 (Cause elucidation): What led to Jinsang touching his head and appearing sad in the car?
+A5: Jinsang is touching his head and appears sad because he is reflecting on the previous night's events, possibly regretting his actions. (AnotherMissOh11_004_0178)
 
 AnotherMissOh11_005_0000
 
-Q1 (Feature specification): What is Taejin wearing when he visits Haeyoung1's company?
-A1: Taejin is wearing a gray suit when he visits Haeyoung1's company. (AnotherMissOh11_005_0195)
+Q1 (Feature specification): What kind of attire is Taejin wearing during his visit to Haeyoung1's company?
+A1: Taejin is wearing a gray suit, a white shirt, and a tie. (AnotherMissOh11_005_0193, AnotherMissOh11_005_0195, AnotherMissOh11_005_0205)
 
 Q2 (Concept completion): What specific action does Haeyoung1 take to conceal her presence from Taejin?
-A2: Haeyoung1 runs to the sculpture to hide and avoid being seen by Taejin. (AnotherMissOh11_005_0207)
+A2: Haeyoung1 covers her face with her hand and turns her body away to avoid being seen by Taejin. (AnotherMissOh11_005_0208, AnotherMissOh11_005_0215)
 
-Q3 (Quantification): How many different emotions does Taejin display during his visit to Haeyoung1's company?
-A3: Taejin displays one emotion, which is neutral, during his visit to Haeyoung1's company. (AnotherMissOh11_005_0192, AnotherMissOh11_005_0208)
+Q3 (Quantification): How many Haeyoungs are present in the company according to the scene?
+A3: There are two Haeyoungs present in the company. (AnotherMissOh11_005_0196, AnotherMissOh11_005_0200)
 
-Q4 (Comparison): How does Haeyoung1's emotional response differ from Taejin's when they are at the company?
-A4: Haeyoung1 shows surprise and fear, while Taejin remains neutral during their time at the company. (AnotherMissOh11_005_0206, AnotherMissOh11_005_0212)
+Q4 (Interpretation): What might be the reason for Haeyoung1's co-worker to stare at Taejin as he leaves?
+A4: Haeyoung1's co-worker might be curious or surprised about Taejin's unexpected visit, especially since he was supposed to be Haeyoung1's husband. (AnotherMissOh11_005_0196)
 
-Q5 (Intention disclosure): What might be the reason Haeyoung1 decides to cover her face with her hand when she sees Taejin?
-A5: Haeyoung1 likely covers her face with her hand to avoid being recognized by Taejin. (AnotherMissOh11_005_0208)
+Q5 (Expectation): What could Haeyoung1 be feeling or thinking while hiding and trying to avoid Taejin?
+A5: Haeyoung1 might be feeling anxious or fearful about a potential encounter with Taejin, leading her to take measures to avoid being seen. (AnotherMissOh11_005_0207, AnotherMissOh11_005_0212)
 
 AnotherMissOh11_006_0000
 
-Q1 (Feature specification): What is Haeyoung1's physical reaction while she is talking on the phone in the office?
-A1: Haeyoung1 is smiling slightly and putting her hand under her chin while talking on the phone in the office. (AnotherMissOh11_006_0237, AnotherMissOh11_006_0242)
+Q1 (Feature specification): What is the color of the chair Haeyoung1 is sitting on when she receives Taejin's text message?
+A1: The color of the chair Haeyoung1 is sitting on is orange. (AnotherMissOh11_006_0227)
 
-Q2 (Expectation): What might Haeyoung1 be expecting from the upcoming meeting with Taejin?
-A2: Haeyoung1 might be expecting to resolve past issues and seek closure from the upcoming meeting with Taejin. (AnotherMissOh11_006_0239)
+Q2 (Quantification): How many different emotions does Haeyoung1 display while in the office during the scene?
+A2: Haeyoung1 displays three different emotions: neutrality, happiness, and surprise. (AnotherMissOh11_006_0252, AnotherMissOh11_006_0237, AnotherMissOh11_006_0255)
 
-Q3 (Interpretation): How can Haeyoung1's change in emotion from neutral to happiness be interpreted when she receives Taejin's message?
-A3: Haeyoung1's change in emotion to happiness upon receiving Taejin's message can be interpreted as her feeling hopeful or positive about the communication from Taejin. (AnotherMissOh11_006_0237, AnotherMissOh11_006_0251)
+Q3 (Concept completion): What is the action that Haeyoung1 is doing while she has the cellphone on her face?
+A3: Haeyoung1 is talking on the phone while she has the cellphone on her face. (AnotherMissOh11_006_0239)
 
-Q4 (Quantification): How many different emotions does Haeyoung1 display throughout the scene according to the knowledge graph?
-A4: Haeyoung1 displays three different emotions throughout the scene: neutrality, happiness, and surprise. (AnotherMissOh11_006_0218, AnotherMissOh11_006_0237, AnotherMissOh11_006_0255)
+Q4 (Interpretation): What might be the reason for Haeyoung1's slight smile in the office?
+A4: Haeyoung1's slight smile could be a reaction to something positive or amusing she heard or thought about while in the office. (AnotherMissOh11_006_0236)
 
-Q5 (Cause elucidation): What prompts Haeyoung1 to put her cellphone on her face while in the office?
-A5: Haeyoung1 puts her cellphone on her face while in the office as a gesture of affection or comfort after reading Taejin's message and feeling happy. (AnotherMissOh11_006_0237)
+Q5 (Expectation): What can be inferred about Haeyoung1's expectations for the meeting with Taejin based on her actions and emotions?
+A5: It can be inferred that Haeyoung1 is hopeful or positive about the meeting with Taejin, as indicated by her smiling and looking happy. (AnotherMissOh11_006_0259)
 
 AnotherMissOh11_007_0000
 
-Q1 (Feature specification): What was Taejin wearing when he went to see Haeyoung1?
-A1: Taejin was wearing a gray suit and holding a bunch of red flowers. (AnotherMissOh11_007_0274, AnotherMissOh11_007_0289)
+Q1 (Feature specification): What was Haeyoung1 doing when she was surprised to see the altercation between Taejin and Dokyung?
+A1: Haeyoung1 was putting both hands on her mouth in a shocked expression when she saw Taejin hitting Dokyung. (AnotherMissOh11_007_0335)
 
-Q2 (Expectation): What did Haeyoung1 expect to happen when she postponed the appointment with Taejin?
-A2: Haeyoung1 expected to meet Taejin the next day without any conflict. (AnotherMissOh11_007_0269)
+Q2 (Expectation): What might Haeyoung1 have expected to happen when she postponed the appointment with Taejin?
+A2: Haeyoung1 might have expected to have a peaceful meeting with Taejin the next day without any conflict. (AnotherMissOh11_007_0269)
 
-Q3 (Intention disclosure): Why did Haeyoung1 decide to meet Dokyung instead of keeping her appointment with Taejin?
-A3: Haeyoung1 decided to meet Dokyung because she had something important to discuss with him. (AnotherMissOh11_007_0270)
+Q3 (Cause elucidation): What caused Taejin to become so upset that he ended up hitting Dokyung?
+A3: Taejin became upset and hit Dokyung after finding out that Haeyoung1 postponed their appointment to meet Dokyung, which led him to believe that Dokyung was interfering in his relationship with Haeyoung1. (AnotherMissOh11_007_0332)
 
-Q4 (Cause elucidation): What caused Haeyoung1 to become angry during the confrontation between Taejin and Dokyung?
-A4: Haeyoung1 became angry when she saw Taejin hitting Dokyung. (AnotherMissOh11_007_0350)
+Q4 (Intention disclosure): What was Haeyoung1's intention when she decided to stand by Dokyung after the fight?
+A4: Haeyoung1's intention was to show support for Dokyung and confront Taejin about his violent behavior. (AnotherMissOh11_007_0354)
 
-Q5 (Comparison): How did Haeyoung1's emotional state compare before and after witnessing the fight between Taejin and Dokyung?
-A5: Before the fight, Haeyoung1 was happy and smiling, but after witnessing the fight, she became shocked, sad, and angry. (AnotherMissOh11_007_0291, AnotherMissOh11_007_0362)
+Q5 (Quantification): How many times did Taejin hit Dokyung during their altercation?
+A5: The information provided does not specify the exact number of times Taejin hit Dokyung, but it indicates that he punched Dokyung in the face. (AnotherMissOh11_007_0332)
 
 AnotherMissOh11_008_0000
 
 Q1 (Feature specification): What is Taejin wearing during the confrontation with Dokyung?
-A1: Taejin is wearing a gray suit during the confrontation with Dokyung. (AnotherMissOh11_008_0394)
+A1: Taejin is wearing a gray suit and a white shirt with a tie during the confrontation with Dokyung. (AnotherMissOh11_008_0394, AnotherMissOh11_008_0397, AnotherMissOh11_008_0398)
 
-Q2 (Concept completion): What action does Taejin take immediately after Haeyoung1 walks away from Dokyung?
-A2: Taejin begins to physically assault Dokyung by punching and kicking him. (AnotherMissOh11_008_0425, AnotherMissOh11_008_0428)
+Q2 (Concept completion): What specific action does Taejin take against Dokyung out of anger?
+A2: Taejin punches and kicks Dokyung, and also grabs him by the collar. (AnotherMissOh11_008_0425, AnotherMissOh11_008_0428, AnotherMissOh11_008_0431)
 
-Q3 (Verification): Is Dokyung wearing a watch during the altercation with Taejin?
-A3: Yes, Dokyung is wearing a watch during the altercation. (AnotherMissOh11_008_0433)
+Q3 (Quantification): How many different emotions does Taejin exhibit throughout the scene?
+A3: Taejin exhibits two different emotions throughout the scene: anger and sadness. (AnotherMissOh11_008_0393, AnotherMissOh11_008_0405, AnotherMissOh11_008_0423)
 
-Q4 (Quantification): How many different emotions does Taejin exhibit throughout the scene?
-A4: Taejin exhibits two different emotions throughout the scene: anger and sadness. (AnotherMissOh11_008_0393, AnotherMissOh11_008_0405)
+Q4 (Interpretation): What might be the reason for Haeyoung1's sadness upon hearing the truth from Taejin?
+A4: Haeyoung1's sadness could stem from the realization that Dokyung, someone she trusted, was responsible for ruining Taejin, which indirectly affected her as well. (AnotherMissOh11_008_0399, AnotherMissOh11_008_0414)
 
-Q5 (Interpretation): What might be the reason for Haeyoung1 spelling her name during the scene?
-A5: Haeyoung1 might be spelling her name to clarify her identity or to make a point about who she is in the context of the conversation. (AnotherMissOh11_008_0399)
+Q5 (Expectation): After witnessing the altercation, what might Haeyoung1 expect to happen next between Taejin and Dokyung?
+A5: Haeyoung1 might expect the conflict between Taejin and Dokyung to escalate further or anticipate a resolution now that the truth has been revealed. (AnotherMissOh11_008_0421, AnotherMissOh11_008_0436)
 
 AnotherMissOh11_009_0000
 
 Q1 (Feature specification): What is Haeyoung1 wearing while she is standing on the bridge?
 A1: Haeyoung1 is wearing a pink sweater while standing on the bridge. (AnotherMissOh11_009_0459)
 
-Q2 (Concept completion): What is the relationship between Haeyoung1 and Dokyung as depicted in the scene?
-A2: The relationship between Haeyoung1 and Dokyung is strained, as Haeyoung1 is seen crying and looking at Dokyung with sadness. (AnotherMissOh11_009_0472, AnotherMissOh11_009_0481)
+Q2 (Concept completion): What action does Haeyoung1 take while standing among people in the subway station?
+A2: Haeyoung1 watches the gate closing while standing among people in the subway station. (AnotherMissOh11_009_0445)
 
-Q3 (Cause elucidation): What might have caused Dokyung to have a bruise on his eye?
-A3: Dokyung might have gotten the bruise on his eye from a physical altercation, as indicated by the mention of him having fought with someone. (AnotherMissOh11_009_0474)
+Q3 (Cause elucidation): What causes Haeyoung1 to cry on the subway?
+A3: Haeyoung1 cries on the subway because she finds out that the bad things that happened to her, including breaking off her engagement with Taejin, are because of Haeyoung2. (AnotherMissOh11_009_0451)
 
-Q4 (Intention disclosure): What could be the reason Haeyoung1 is running while smiling in the scene?
-A4: Haeyoung1 could be running while smiling because she is experiencing a moment of happiness or relief amidst her troubles. (AnotherMissOh11_009_0466)
+Q4 (Intention disclosure): What is Haeyoung1's intention when she is running while smiling?
+A4: Haeyoung1's intention when running while smiling is likely to express a moment of happiness or freedom. (AnotherMissOh11_009_0466)
 
-Q5 (Expectation): What might Haeyoung1 be expecting after her emotional outburst on the subway?
-A5: Haeyoung1 might be expecting some form of resolution or change after her emotional outburst on the subway, possibly hoping to confront the issues that have been causing her distress. (AnotherMissOh11_009_0451)
+Q5 (Comparison): How does Haeyoung1's emotional state on the bridge compare to her emotional state in the subway?
+A5: On the bridge, Haeyoung1 appears to be in a state of sadness, whereas in the subway, she is overwhelmed with emotion and crying. (AnotherMissOh11_009_0459, AnotherMissOh11_009_0451)
 
 AnotherMissOh11_010_0000
 
 Q1 (Feature specification): What was Haeyoung1 wearing during the confrontation at the bar?
-A1: Haeyoung1 was wearing a white blouse during the confrontation. (AnotherMissOh11_010_0487)
+A1: Haeyoung1 was wearing a white blouse during the confrontation at the bar. (AnotherMissOh11_010_0487)
 
-Q2 (Concept completion): What specific emotions did Haeyoung1 exhibit while she was walking in the bar before the attack?
-A2: Haeyoung1 exhibited anger as she was walking in the bar. (AnotherMissOh11_010_0493)
+Q2 (Concept completion): What specific action did Haeyoung1 take to express her anger towards Haeyoung2 in the bar?
+A2: Haeyoung1 pushed Haeyoung2 to express her anger. (AnotherMissOh11_010_0496)
 
-Q3 (Verification): Is it true that Haeyoung2 was smiling and waving her hand before the attack occurred?
-A3: Yes, Haeyoung2 was smiling and waving her hand before the attack occurred. (AnotherMissOh11_010_0494)
+Q3 (Quantification): How many people are seen holding Haeyoung1 back during the altercation?
+A3: Multiple people are seen holding Haeyoung1 back during the altercation. (AnotherMissOh11_010_0500)
 
-Q4 (Quantification): How many people were involved in holding Haeyoung1 back during the attack?
-A4: Multiple people were involved in holding Haeyoung1 back during the attack. (AnotherMissOh11_010_0500)
+Q4 (Interpretation): What might be the reason for Haeyoung1's mixed emotions of crying and laughing at the same time?
+A4: Haeyoung1's mixed emotions of crying and laughing at the same time might be due to her overwhelming sadness and frustration. (AnotherMissOh11_010_0488)
 
-Q5 (Interpretation): What might be the reason for Haeyoung1 touching her chest before going to the bar?
-A5: Haeyoung1 touching her chest could indicate she was feeling a strong emotion, possibly related to her heartache or distress. (AnotherMissOh11_010_0489)
+Q5 (Expectation): What could be the expected reaction of the other bar patrons to the altercation between Haeyoung1 and Haeyoung2?
+A5: The other bar patrons could be expected to react with shock and confusion to the altercation between Haeyoung1 and Haeyoung2. (AnotherMissOh11_010_0493)
 
 AnotherMissOh11_011_0000
 
 Q1 (Feature specification): What specific injuries can be seen on Dokyung's face as he walks down the street?
 A1: Dokyung has visible injuries on his face, which include bruises and possibly cuts. (AnotherMissOh11_011_0512)
 
-Q2 (Expectation): What might Dokyung's acquaintances expect to happen by following him and trying to talk to him?
-A2: Dokyung's acquaintances might expect to engage him in conversation, understand his situation better, and possibly offer help or support. (AnotherMissOh11_011_0511)
+Q2 (Interpretation): What might be the reason for Dokyung putting his hands in his pockets while walking?
+A2: Dokyung putting his hands in his pockets could indicate his attempt to appear casual or hide his discomfort and sadness as he walks. (AnotherMissOh11_011_0522)
 
-Q3 (Quantification): How many people are in the car chasing after Dokyung?
-A3: There are four people in the car chasing after Dokyung: Jinsang, Hun, Gitae, and Sangseok. (AnotherMissOh11_011_0539)
+Q3 (Cause elucidation): What causes Jinsang to sigh while standing on the street?
+A3: Jinsang sighs due to feelings of sadness, possibly related to the situation with Dokyung or his own personal concerns. (AnotherMissOh11_011_0508)
 
-Q4 (Interpretation): What could be the reason for Dokyung putting his hands in his pockets while walking?
-A4: Dokyung putting his hands in his pockets could be a sign of discomfort, self-soothing, or an attempt to appear casual despite the emotional turmoil he might be experiencing. (AnotherMissOh11_011_0522)
+Q4 (Expectation): What do Jinsang and his friends likely expect to happen by following Dokyung in the car?
+A4: Jinsang and his friends likely expect to catch up with Dokyung and engage with him, possibly to offer support or to understand what he is going through. (AnotherMissOh11_011_0539)
 
-Q5 (Cause elucidation): What might have caused Dokyung to look sad as he walks in front of Jinsang?
-A5: Dokyung's sadness could be due to the emotional or physical pain from the injuries on his face, or it could be related to a personal issue or conflict that has not been resolved. (AnotherMissOh11_011_0518)
+Q5 (Judging): How does Hun's demeanor change throughout the scene, and what might this suggest about his feelings towards the unfolding events?
+A5: Hun's demeanor changes from neutral to anger, suggesting that he is becoming increasingly frustrated or upset with the situation involving Dokyung and the lack of understanding among the group. (AnotherMissOh11_011_0513, AnotherMissOh11_011_0561)
 
 AnotherMissOh11_012_0000
 
-Q1 (Feature specification): What is Haeyoung1's physical reaction as Heeran apologizes to her?
-A1: Haeyoung1 looks sad and is shutting her mouth, later opening her eyes wide. (AnotherMissOh11_012_0563, AnotherMissOh11_012_0566, AnotherMissOh11_012_0571)
+Q1 (Feature specification): What is Haeyoung1's reaction in terms of her facial expression when Heeran is apologizing to her?
+A1: Haeyoung1 looks sad and is shutting her mouth, indicating she is feeling sorrowful during Heeran's apology. (AnotherMissOh11_012_0566)
 
-Q2 (Expectation): What might Haeyoung1 expect from Heeran after receiving the apology?
-A2: Haeyoung1 might expect Heeran to understand her feelings and possibly expect some form of support or reassurance. (AnotherMissOh11_012_0573)
+Q2 (Concept completion): What specific action does Heeran take to comfort Haeyoung1 during the apology?
+A2: Heeran hugs Haeyoung1 as a gesture of comfort and apology. (AnotherMissOh11_012_0573)
 
-Q3 (Method explication): How does Heeran convey her apology to Haeyoung1?
-A3: Heeran conveys her apology by speaking to Haeyoung1, showing a sad expression, and hugging her. (AnotherMissOh11_012_0567, AnotherMissOh11_012_0573)
+Q3 (Verification): Is it true that Dokyung displays anger during the scene where Heeran is speaking to him?
+A3: Yes, Dokyung shows anger in the scene where Heeran is speaking to him. (AnotherMissOh11_012_0567)
 
-Q4 (Judging): How might an observer judge the emotional state of Heeran during her apology?
-A4: An observer might judge Heeran as being genuinely remorseful and saddened by the situation, as indicated by her tears and the act of hugging Haeyoung1. (AnotherMissOh11_012_0569, AnotherMissOh11_012_0570, AnotherMissOh11_012_0572, AnotherMissOh11_012_0573)
+Q4 (Quantification): How many different emotions does Haeyoung1 display throughout the scene according to the knowledge graph?
+A4: Haeyoung1 displays two different emotions throughout the scene: neutrality and sadness. (AnotherMissOh11_012_0563, AnotherMissOh11_012_0566)
 
-Q5 (Verification): Is Dokyung present during the apology scene between Heeran and Haeyoung1?
-A5: No, Dokyung is not present during the apology scene; he is only mentioned in the context of Heeran speaking to him earlier. (AnotherMissOh11_012_0567, AnotherMissOh11_012_0568)
+Q5 (Interpretation): What might be the reason behind Haeyoung1's decision to remain silent and not verbally respond to Heeran's apology?
+A5: Haeyoung1's silence could indicate that she is processing her emotions and perhaps feeling overwhelmed by the situation, making it difficult for her to articulate a response. (AnotherMissOh11_012_0566)
 
 AnotherMissOh11_013_0000
 
 Q1 (Feature specification): What is Hun wearing when he adjusts his hat?
-A1: Hun is wearing a black and red checkered shirt and a black cap with white designs. (AnotherMissOh11_013_0576)
+A1: Hun is wearing a black cap with white designs and a red and black checkered shirt. (AnotherMissOh11_013_0576)
 
 Q2 (Concept completion): What is the relationship between Jinsang and Hun that leads to Jinsang's aggressive behavior in the car?
-A2: Jinsang's aggressive behavior towards Hun in the car is indicative of a tense or confrontational relationship, possibly due to a misunderstanding or a protective action towards Haeyoung2. (AnotherMissOh11_013_0579)
+A2: Jinsang's aggressive behavior towards Hun in the car is likely due to a misunderstanding or a protective action related to Haeyoung2. (AnotherMissOh11_013_0579)
 
-Q3 (Quantification): How many people are involved in the scene where Gitae is grabbing Dokyung's arm?
-A3: There are three people involved in the scene where Gitae is grabbing Dokyung's arm: Gitae, Dokyung, and Sangseok. (AnotherMissOh11_013_0588)
+Q3 (Quantification): How many people are involved in the scene where Jinsang is making a gesture in the car?
+A3: There are at least three people involved in the scene where Jinsang is making a gesture in the car. (AnotherMissOh11_013_0590)
 
 Q4 (Interpretation): What might be the reason for Haeyoung2's sadness while wearing earphones?
-A4: Haeyoung2's sadness while wearing earphones could be due to her feeling isolated or disconnected from the events happening around her, or possibly due to receiving upsetting news or reflecting on a personal issue. (AnotherMissOh11_013_0575)
+A4: Haeyoung2's sadness while wearing earphones could be due to a personal issue or an emotional moment in the music she is listening to. (AnotherMissOh11_013_0575)
 
-Q5 (Expectation): What can be expected from Sangseok's emotional state after he is seen walking with sadness and later shows happiness?
-A5: It can be expected that Sangseok's emotional state has improved due to a positive development or resolution in the situation that initially caused his sadness. (AnotherMissOh11_013_0584, AnotherMissOh11_013_0590)
+Q5 (Expectation): What can be expected from Gitae's and Sangseok's actions of grabbing Dokyung's arm and speaking to Jinsang?
+A5: It can be expected that Gitae and Sangseok are trying to persuade Dokyung and Jinsang for a common goal, possibly related to the trip they want to take. (AnotherMissOh11_013_0589, AnotherMissOh11_013_0590)
+
+AnotherMissOh11_014_0000
+
+Q1 (Feature specification): What is Jinsang wearing when he first encounters the women on the beach?
+A1: Jinsang is wearing a white T-shirt and a shirt with a flower pattern. (AnotherMissOh11_014_0596, AnotherMissOh11_014_0662)
+
+Q2 (Concept completion): What does Dokyung do after getting out of the car at the beach?
+A2: After getting out of the car, Dokyung walks on the beach and interacts with his colleagues. (AnotherMissOh11_014_0598, AnotherMissOh11_014_0601)
+
+Q3 (Cause elucidation): Why is Jinsang showing a disgusted emotion while at the beach?
+A3: Jinsang shows a disgusted emotion when he is groaning and when he is standing in front of the sea, possibly due to discomfort or a negative reaction to something in his surroundings. (AnotherMissOh11_014_0593, AnotherMissOh11_014_0655)
+
+Q4 (Quantification): How many times is Jinsang seen taking off or putting on his muffler at the beach?
+A4: Jinsang is seen taking off his muffler twice and putting it on once at the beach. (AnotherMissOh11_014_0622, AnotherMissOh11_014_0626, AnotherMissOh11_014_0638)
+
+Q5 (Interpretation): What might be the reason for Dokyung's sadness when he is touching the back of his neck?
+A5: Dokyung's sadness when touching the back of his neck could be a response to physical discomfort or a reflective moment of emotional distress. (AnotherMissOh11_014_0509, AnotherMissOh11_014_0518)
+
+AnotherMissOh11_015_0000
+
+Q1 (Feature specification): What kind of earrings is Haeyoung2 wearing during her conversation with Sukyung?
+A1: Haeyoung2 is wearing an earring. (AnotherMissOh11_015_0719)
+
+Q2 (Concept completion): What is the color of Haeyoung2's hair as she sits on the chair in the office?
+A2: Haeyoung2's hair is brown. (AnotherMissOh11_015_0732)
+
+Q3 (Verification): Is Sukyung wearing glasses while she is interrogating Haeyoung2?
+A3: Yes, Sukyung is wearing glasses during the interrogation. (AnotherMissOh11_015_0720)
+
+Q4 (Quantification): How many times does Haeyoung2 express sadness during her interaction with Sukyung in the office?
+A4: Haeyoung2 expresses sadness four times during her interaction with Sukyung. (AnotherMissOh11_015_0702, AnotherMissOh11_015_0709, AnotherMissOh11_015_0729, AnotherMissOh11_015_0730)
+
+Q5 (Cause elucidation): What causes Sukyung to feel anger during her interaction with Haeyoung2?
+A5: Sukyung feels anger when Haeyoung2 raises her voice while defending herself. (AnotherMissOh11_015_0716, AnotherMissOh11_015_0720)
+
+AnotherMissOh11_016_0000
+
+Q1 (Feature specification): What is Haeyoung1 wearing during her conversation with Deogi about the high school incident?
+A1: Haeyoung1 is wearing a pink shirt during her conversation with Deogi. (AnotherMissOh11_016_0737)
+
+Q2 (Concept completion): What specific action does Haeyoung1 take while lying on the bed, reflecting on the past incident?
+A2: While lying on the bed, Haeyoung1 puts her head on the pillow and opens her eyes. (AnotherMissOh11_016_0733, AnotherMissOh11_016_0734)
+
+Q3 (Quantification): How many times is Haeyoung1 shown eating uncooked ramen during the scene?
+A3: Haeyoung1 is shown eating uncooked ramen twice in the scene. (AnotherMissOh11_016_0736, AnotherMissOh11_016_0776)
+
+Q4 (Interpretation): What might be the reason for Haeyoung1's sadness while talking to Deogi?
+A4: Haeyoung1's sadness while talking to Deogi could stem from the emotional distress of being continuously compared to Haeyoung2 and the past incident from high school. (AnotherMissOh11_016_0742)
+
+Q5 (Expectation): What does Haeyoung1 likely expect from Deogi after sharing her feelings about the high school incident?
+A5: Haeyoung1 likely expects understanding and emotional support from Deogi after sharing her feelings about the high school incident. (AnotherMissOh11_016_0770)
+
+AnotherMissOh11_017_0000
+
+Q1 (Feature specification): What is Hun wearing on his head during the conversation with Heeran?
+A1: Hun is wearing a white hat during the conversation with Heeran. (AnotherMissOh11_017_0782)
+
+Q2 (Concept completion): What is the relationship between Haeyoung1 and Heeran as mentioned by Heeran?
+A2: Heeran mentions that Haeyoung1 is her friend. (AnotherMissOh11_017_0808)
+
+Q3 (Quantification): How many different emotions does Hun display throughout the scene according to the knowledge graph?
+A3: Hun displays a range of emotions including neutrality, happiness, surprise, anger, sadness, fear, disgust, and surprise, totaling eight distinct emotions. (AnotherMissOh11_017_0779, AnotherMissOh11_017_0794, AnotherMissOh11_017_0801, AnotherMissOh11_017_0805, AnotherMissOh11_017_0808, AnotherMissOh11_017_0840, AnotherMissOh11_017_0844, AnotherMissOh11_017_0848)
+
+Q4 (Interpretation): What action does Hun take after Heeran evaluates his script?
+A4: After Heeran evaluates his script, Hun takes off his nail arts with his mouth. (AnotherMissOh11_017_0844)
+
+Q5 (Cause elucidation): What prompts Hun to put down his arm under the table?
+A5: Hun puts down his arm under the table after taking off his lip from the straw, possibly as a reaction to the conversation with Heeran. (AnotherMissOh11_017_0788)
+
+AnotherMissOh11_018_0000
+
+Q1 (Feature specification): What kind of hat is Hun wearing during the confrontation with Anna?
+A1: Hun is wearing a white hat with a logo on it. (AnotherMissOh11_018_0861)
+
+Q2 (Concept completion): What does the book symbolize in the fight between Hun and Anna?
+A2: The book symbolizes the conflict between them, as Anna uses it to hit Hun. (AnotherMissOh11_018_0852)
+
+Q3 (Quantification): How many different emotions does Hun display throughout the confrontation with Anna?
+A3: Hun displays a range of emotions including fear, anger, sadness, disgust, and a neutral state. (AnotherMissOh11_018_0850, AnotherMissOh11_018_0852, AnotherMissOh11_018_0856, AnotherMissOh11_018_0858, AnotherMissOh11_018_0860, AnotherMissOh11_018_0861, AnotherMissOh11_018_0863, AnotherMissOh11_018_0865, AnotherMissOh11_018_0868, AnotherMissOh11_018_0870, AnotherMissOh11_018_0872, AnotherMissOh11_018_0874, AnotherMissOh11_018_0875, AnotherMissOh11_018_0876, AnotherMissOh11_018_0878, AnotherMissOh11_018_0881, AnotherMissOh11_018_0884, AnotherMissOh11_018_0887, AnotherMissOh11_018_0888, AnotherMissOh11_018_0889, AnotherMissOh11_018_0891)
+
+Q4 (Interpretation): What might be the reason for Anna's sadness during the fight?
+A4: Anna's sadness could stem from the fear of losing the relationship and the hurt from the conflict with Hun. (AnotherMissOh11_018_0857, AnotherMissOh11_018_0859, AnotherMissOh11_018_0864, AnotherMissOh11_018_0866, AnotherMissOh11_018_0875, AnotherMissOh11_018_0884, AnotherMissOh11_018_0885, AnotherMissOh11_018_0886, AnotherMissOh11_018_0888)
+
+Q5 (Expectation): What might Anna expect from Hun after their fight?
+A5: Anna might expect Hun to understand her fears of infidelity and to reassure her of his commitment to their relationship. (AnotherMissOh11_018_0852, AnotherMissOh11_018_0860, AnotherMissOh11_018_0870, AnotherMissOh11_018_0878)
+
+AnotherMissOh11_019_0000
+
+Q1 (Feature specification): What kind of bags was Dokyung carrying while climbing the mountain?
+A1: Dokyung was carrying some bags, including a black bag. (AnotherMissOh11_019_0893, AnotherMissOh11_019_0894)
+
+Q2 (Quantification): How many times is Dokyung seen with the headphone on his head in the scene?
+A2: Dokyung is seen with the headphone on his head at least twice in the scene. (AnotherMissOh11_019_0898, AnotherMissOh11_019_0902)
+
+Q3 (Concept completion): What was Dokyung doing with his hands while sitting on the rock?
+A3: Dokyung was putting his hands on the rock while sitting. (AnotherMissOh11_019_0899)
+
+Q4 (Verification): Is it true that Dokyung closed his eyes while listening to the waterfall?
+A4: Yes, Dokyung closed his eyes next to the waterfall. (AnotherMissOh11_019_0902)
+
+Q5 (Interpretation): What might be the reason Dokyung took off the headphone while sitting on the box?
+A5: Dokyung might have taken off the headphone to take a break from recording or to better hear his surroundings. (AnotherMissOh11_019_0903)
+
+AnotherMissOh11_020_0000
+
+Q1 (Verification): Is Haeyoung1's emotional state consistent throughout the scene where she receives the apology text from Dokyung?
+A1: Yes, Haeyoung1's emotional state is consistent throughout the scene; she is depicted as sad in all the actions described.
+
+Q2 (Feature specification): What physical feature of Haeyoung1 is highlighted in the scene as she walks down the street?
+A2: Haeyoung1's bangs are highlighted in the scene as she walks down the street.
+
+Q3 (Concept completion): What is missing from Haeyoung1's reaction to the apology text based on the scene description?
+A3: The scene description does not provide information on whether Haeyoung1 responds to the apology text or what her immediate actions are after reading it.
+
+Q4 (Quantification): How many different actions of Haeyoung1 are described in the knowledge graph related to the scene?
+A4: Three different actions of Haeyoung1 are described in the knowledge graph: she has bangs, is turning her head, and is opening her eyes.
+
+Q5 (Interpretation): What might the act of turning her head and opening her eyes signify in the context of receiving an apology text?
+A5: The act of turning her head and opening her eyes might signify Haeyoung1's surprise or attention to something unexpected, possibly the apology text from Dokyung.
+
+AnotherMissOh11_021_0000
+
+Q1 (Feature specification): What was Dokyung wearing during his encounter with Haeyoung1?
+A1: Dokyung was wearing a shirt. (AnotherMissOh11_021_0956)
+
+Q2 (Concept completion): What did Haeyoung1 do with her hands while expressing her emotions on the road?
+A2: Haeyoung1 covered her face with her hands. (AnotherMissOh11_021_1033)
+
+Q3 (Cause elucidation): What caused Haeyoung1 to scream at Dokyung?
+A3: Haeyoung1 screamed at Dokyung because she was angry. (AnotherMissOh11_021_1017)
+
+Q4 (Quantification): How many times is Haeyoung1 shown talking on the phone in the scene?
+A4: Haeyoung1 is shown talking on the phone twice. (AnotherMissOh11_021_0935, AnotherMissOh11_021_0940)
+
+Q5 (Expectation): What might Haeyoung1 be expecting after shaking off Dokyung's hand?
+A5: Haeyoung1 might be expecting Dokyung to leave her alone after shaking off his hand. (AnotherMissOh11_021_0966)
+
+AnotherMissOh11_022_0000
+
+Q1 (Feature specification): What is the Chairman's demeanor while discussing the marriage with Haeyoung2?
+A1: The Chairman displays a range of emotions including neutrality, anger, and disgust throughout the conversation. (AnotherMissOh11_022_1037, AnotherMissOh11_022_1042, AnotherMissOh11_022_1082)
+
+Q2 (Expectation): What does Taejin likely expect to achieve by telling the Chairman about Dokyung?
+A2: Taejin likely expects to influence the Chairman's decisions or views regarding Dokyung by providing him with information. (AnotherMissOh11_022_1075)
+
+Q3 (Cause elucidation): What prompts Taejin to touch the man's arms and bow to the Chairman?
+A3: Taejin's actions suggest he is trying to show respect or convey urgency in the information he is about to share with the Chairman. (AnotherMissOh11_022_1057, AnotherMissOh11_022_1061)
+
+Q4 (Intention disclosure): Why does Haeyoung2 cross her arms during the dinner?
+A4: Haeyoung2 crossing her arms could indicate her defensive stance or discomfort with the conversation taking place. (AnotherMissOh11_022_1065)
+
+Q5 (Comparison): How does Haeyoung2's emotional response to the Chairman's marriage news compare to her reaction to Taejin's information about Dokyung?
+A5: Haeyoung2 shows surprise and neutrality when reacting to the Chairman's news about his marriage, whereas her reaction to Taejin's information about Dokyung includes surprise and possibly a hint of happiness. (AnotherMissOh11_022_1048, AnotherMissOh11_022_1065)
+
+AnotherMissOh11_023_0000
+
+Q1 (Interpretation): What might be the reason for Haeyoung2's tears while she is driving?
+A1: Haeyoung2's tears could be a result of emotional distress, possibly related to the situation involving Dokyung and Haeyoung1. (AnotherMissOh11_023_1087)
+
+Q2 (Expectation): What might Haeyoung2 be planning to do after her drive?
+A2: Haeyoung2 might be planning to seek comfort or confront someone about her emotional state after her drive. (AnotherMissOh11_023_1088)
+
+Q3 (Intention disclosure): What could be Jinsang's intention in expressing frustration about Dokyung's behavior?
+A3: Jinsang's intention could be to hold Dokyung accountable for not properly apologizing to Haeyoung1, indicating a sense of justice or loyalty to Haeyoung1. (AnotherMissOh11_023_1088)
+
+Q4 (Cause elucidation): What event might have led to Haeyoung2 crying while driving?
+A4: An upsetting encounter or a significant emotional event involving Dokyung and Haeyoung1 might have led to Haeyoung2 crying while driving. (AnotherMissOh11_023_1087)
+
+Q5 (Feature specification): Can you describe the driving conditions surrounding Haeyoung2 during her emotional state?
+A5: The driving conditions appear to be at night with street lights visible, and Haeyoung2 is focused on the road despite her emotional state. (AnotherMissOh11_023_1086)
+
+AnotherMissOh11_024_0000
+
+Q1 (Feature specification): What kind of injuries does Dokyung have on his face?
+A1: Dokyung has visible injuries on his face, which appear to be bruises or abrasions. (AnotherMissOh11_024_1120)
+
+Q2 (Concept completion): What was the reason for Dokyung's sadness when he was sitting on the stairs?
+A2: Dokyung's sadness could be attributed to the complex situation involving Haeyoung2 and the emotional conversation they had. (AnotherMissOh11_024_1112)
+
+Q3 (Verification): Is it true that Jinsang expressed a range of negative emotions including anger and disgust during the scene?
+A3: Yes, Jinsang displayed emotions such as anger and disgust throughout the scene. (AnotherMissOh11_024_1092, AnotherMissOh11_024_1106)
+
+Q4 (Cause elucidation): What prompted Haeyoung2 to cover her face with her hand?
+A4: Haeyoung2 covered her face with her hand likely as a reaction to the overwhelming emotions she was experiencing during her interaction with Dokyung. (AnotherMissOh11_024_1124)
+
+Q5 (Intention disclosure): What was Haeyoung2's intention when she told Dokyung that she loves him?
+A5: Haeyoung2's intention was to express her genuine feelings for Dokyung despite the complicated circumstances surrounding their relationship. (AnotherMissOh11_024_1117)
+
+AnotherMissOh11_025_0000
+
+Q1 (Feature specification): What specific emotions does Taejin exhibit while he is in the car reflecting on the situation?
+A1: Taejin exhibits emotions of anger, laughter, and screaming while in the car. (AnotherMissOh11_025_1139, AnotherMissOh11_025_1147, AnotherMissOh11_025_1149)
+
+Q2 (Concept completion): What event triggered Haeyoung2 to stand up and leave, causing a chain of reactions from Taejin?
+A2: Haeyoung2 stood up from the seat and left, which led to the Chairman revealing her relationship with Dokyung, triggering Taejin's emotional response. (AnotherMissOh11_025_1140, AnotherMissOh11_025_1141)
+
+Q3 (Cause elucidation): What caused Haeyoung1 to feel sadness in the scene?
+A3: Haeyoung1 felt sadness due to the emotional turmoil and the complex relationships involving Taejin and Haeyoung2. (AnotherMissOh11_025_1145, AnotherMissOh11_025_1146)
+
+Q4 (Intention disclosure): What might be the Chairman's intention in telling Taejin about Haeyoung2's relationship with Dokyung?
+A4: The Chairman's intention could be to inform Taejin about the current situation or to provoke a reaction from him. (AnotherMissOh11_025_1143)
+
+Q5 (Expectation): What might Taejin expect to happen next after learning about Haeyoung2's relationship with Dokyung?
+A5: Taejin might expect further complications in his relationship with Haeyoung1 and possibly confrontations with Dokyung. (AnotherMissOh11_025_1147, AnotherMissOh11_025_1149)
+
+AnotherMissOh11_026_0000
+
+Q1 (Feature specification): What is the color of the shirt Dokyung is wearing when he starts speaking to Soontack?
+A1: Dokyung is wearing a blue shirt when he starts speaking to Soontack. (AnotherMissOh11_026_1166)
+
+Q2 (Concept completion): What is the emotional state of Dokyung when he is hit by the car according to the scene knowledge graph?
+A2: Dokyung's emotional state is neutral when he is hit by the car. (AnotherMissOh11_026_1159)
+
+Q3 (Quantification): How many different types of tops is Dokyung seen wearing in the scene according to the knowledge graph?
+A3: Dokyung is seen wearing three different types of tops: a black jacket, a khaki shirt, and a white T-shirt under the black jacket. (AnotherMissOh11_026_1155, AnotherMissOh11_026_1156, AnotherMissOh11_026_1157)
+
+Q4 (Cause elucidation): What causes Dokyung to look downside according to the scene knowledge graph?
+A4: Dokyung looks downside after being hit by a car and having injuries on his face. (AnotherMissOh11_026_1161)
+
+Q5 (Expectation): What might Soontack expect to happen after calling Dokyung's name, based on his emotional state?
+A5: Soontack, feeling sadness, might expect Dokyung to respond or show some sign of recognition after calling his name. (AnotherMissOh11_026_1167, AnotherMissOh11_026_1168)
