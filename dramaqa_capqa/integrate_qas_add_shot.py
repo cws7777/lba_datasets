@@ -5,7 +5,7 @@ with open('../originals/AnotherMissOhQA_val_set.json', 'r', encoding='utf-8') as
     json_data = json.load(json_file)
 
 # Load text data
-with open('./additional_qas_shot/shotsAnotherMissOh15_shotaddQA_20240618.txt', 'r', encoding='utf-8') as text_file:
+with open('./additional_qas_shot/shotsAnotherMissOh14_shotaddQA_20240618.txt', 'r', encoding='utf-8') as text_file:
     text_data = text_file.readlines()
 
 # Process text file data
@@ -52,7 +52,7 @@ for line in text_data:
         processed_data.append(entry)
 
 # If you want to save the processed data to a new JSON file
-with open('./AnotherMissOh15_updated_shot.json', 'w', encoding='utf-8') as output_file:
+with open('./AnotherMissOh14_updated_shot.json', 'w', encoding='utf-8') as output_file:
     json.dump(processed_data, output_file, ensure_ascii=False, indent=4)
 
 print("Processing complete. The processed data has been saved to 'processed_data.json'.")
