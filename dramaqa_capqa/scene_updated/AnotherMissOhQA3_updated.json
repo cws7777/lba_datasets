@@ -1,0 +1,1652 @@
+[
+    {
+        "videoType": "scene",
+        "answer": "Dokyung is wearing only a towel during his encounter with Haeyoung1. (AnotherMissOh03_001_0035, AnotherMissOh03_001_0036)",
+        "question": " What is Dokyung wearing during his encounter with Haeyoung1?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh03_001_0000",
+        "shot_contained": [
+            26,
+            61
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 is putting hands together, which indicates her discomfort during the conversation with Dokyung. (AnotherMissOh03_001_0035)",
+        "question": " What action is Haeyoung1 performing that indicates her discomfort during the conversation with Dokyung?",
+        "que_type": "Q2 (Concept completion)",
+        "vid": "AnotherMissOh03_001_0000",
+        "shot_contained": [
+            26,
+            61
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "'Neutral' and 'Surprise'. (AnotherMissOh03_001_0026, AnotherMissOh03_001_0027)",
+        "question": " How many different emotions does Dokyung display throughout the scene according to the knowledge graph?",
+        "que_type": "Q3 (Quantification)",
+        "vid": "AnotherMissOh03_001_0000",
+        "shot_contained": [
+            26,
+            61
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung might be thinking and shocked because Haeyoung1 says same thing that what Dokyung saw in precognition. (AnotherMissOh03_001_0031)",
+        "question": " What might be the reason for Dokyung stopping for the moment?",
+        "que_type": "Q4 (Interpretation)",
+        "vid": "AnotherMissOh03_001_0000",
+        "shot_contained": [
+            26,
+            61
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 could be expecting to resolve any misunderstandings or to establish living arrangements with Dokyung after their conversation about moving. (AnotherMissOh03_001_0039, AnotherMissOh03_001_0040)",
+        "question": " What could Haeyoung1 be expecting to happen after her conversation about moving with Dokyung?",
+        "que_type": "Q5 (Expectation)",
+        "vid": "AnotherMissOh03_001_0000",
+        "shot_contained": [
+            26,
+            61
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 is wearing a white shirt with a star on it. (AnotherMissOh03_002_0062)",
+        "question": " What is Haeyoung1 wearing during her interaction with Dokyung?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh03_002_0000",
+        "shot_contained": [
+            62,
+            73
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 is scratching her arm, which indicates her discomfort during the conversation with Dokyung. (AnotherMissOh03_002_0073)",
+        "question": " What action is Haeyoung1 performing that indicates her discomfort during the conversation with Dokyung?",
+        "que_type": "Q2 (Concept completion)",
+        "vid": "AnotherMissOh03_002_0000",
+        "shot_contained": [
+            62,
+            73
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung takes a deep breath outside his house as things get more complicated when the landlord rents out the room next to Dokyung's without permission. (AnotherMissOh03_002_0065)",
+        "question": " What might be the reason for Dokyung taking a deep breath outside?",
+        "que_type": "Q3 (Interpretation)",
+        "vid": "AnotherMissOh03_002_0000",
+        "shot_contained": [
+            62,
+            73
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "When Haeyoung1 is scratching her arm, it could indicate that she is feeling nervous or uncomfortable. (AnotherMissOh03_002_0073)",
+        "question": " What does it mean when Haeyoung1 is scratching her arm?",
+        "que_type": "Q4 (Definition)",
+        "vid": "AnotherMissOh03_002_0000",
+        "shot_contained": [
+            62,
+            73
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung might have his eyes closed as a moment of reflection or to compose himself. (AnotherMissOh03_002_0071)",
+        "question": " Why might Dokyung have his eyes closed in one of the shots?",
+        "que_type": "Q5 (Cause elucidation)",
+        "vid": "AnotherMissOh03_002_0000",
+        "shot_contained": [
+            62,
+            73
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 is wearing a shirt with a star on it during her interaction with Dokyung. (AnotherMissOh03_003_0074)",
+        "question": " What is Haeyoung1 wearing during her interaction with Dokyung in the scene?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh03_003_0000",
+        "shot_contained": [
+            74,
+            131
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 expects Dokyung to understand that her moving in was not intentional and that she is not a creepy person. (AnotherMissOh03_003_0115)",
+        "question": " What does Haeyoung1 expect Dokyung to understand after she gives her name to him?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh03_003_0000",
+        "shot_contained": [
+            74,
+            131
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 uses a gesture with her arm to indicate the door during her conversation with Dokyung. (AnotherMissOh03_003_0082)",
+        "question": " How does Haeyoung1 indicate the door with her arm?",
+        "que_type": "Q3 (Method explication)",
+        "vid": "AnotherMissOh03_003_0000",
+        "shot_contained": [
+            74,
+            131
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung's intention is to have some space and possibly to avoid further uncomfortable interactions with Haeyoung1. (AnotherMissOh03_003_0122)",
+        "question": " What is Dokyung's intention when he asks Haeyoung1 to go back to her room?",
+        "que_type": "Q4 (Intention disclosure)",
+        "vid": "AnotherMissOh03_003_0000",
+        "shot_contained": [
+            74,
+            131
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 makes an awkward smile after realizing Dokyung tried to block the door with the bookshelf, which likely made her feel embarrassed or awkward about the situation. (AnotherMissOh03_003_0130)",
+        "question": " What prompts Haeyoung1 to make an awkward smile at the end of the scene?",
+        "que_type": "Q5 (Cause elucidation)",
+        "vid": "AnotherMissOh03_003_0000",
+        "shot_contained": [
+            74,
+            131
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung exhibits a range of emotions including neutrality, assertiveness, anger, and distress. (AnotherMissOh03_004_0134, AnotherMissOh03_004_0136, AnotherMissOh03_004_0137, AnotherMissOh03_004_0144, AnotherMissOh03_004_0148, AnotherMissOh03_004_0166)",
+        "question": " What kind of emotions does Dokyung exhibit throughout the confrontation with the landlord?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh03_004_0000",
+        "shot_contained": [
+            133,
+            169
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The room was originally a storage room. (AnotherMissOh03_004_0137)",
+        "question": " What was the original purpose of the room that Dokyung and the landlord are arguing about?",
+        "que_type": "Q2 (Concept completion)",
+        "vid": "AnotherMissOh03_004_0000",
+        "shot_contained": [
+            133,
+            169
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The result is that Haeyoung1 is asked to call and arrange for some construction work to be done. (AnotherMissOh03_004_0158, AnotherMissOh03_004_0161, AnotherMissOh03_004_0162)",
+        "question": " What is the result of the landlord's directive to Haeyoung1 regarding the phone number?",
+        "que_type": "Q3 (Result account)",
+        "vid": "AnotherMissOh03_004_0000",
+        "shot_contained": [
+            133,
+            169
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The landlord expressed frustration with Dokyung's household because he felt they were not responsive or cooperative. (AnotherMissOh03_004_0149)",
+        "question": " Why did the landlord express frustration with Dokyung's household?",
+        "que_type": "Q4 (Cause elucidation)",
+        "vid": "AnotherMissOh03_004_0000",
+        "shot_contained": [
+            133,
+            169
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The landlord expects Dokyung to wait until his contract is over before making any changes or decisions regarding the property. (AnotherMissOh03_004_0165)",
+        "question": " What does the landlord expect Dokyung to do until his contract is over?",
+        "que_type": "Q5 (Expectation)",
+        "vid": "AnotherMissOh03_004_0000",
+        "shot_contained": [
+            133,
+            169
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung suggested that he would pay double the deposit to Haeyoung1 if she agreed to move out. (AnotherMissOh03_005_0175)",
+        "question": " What kind of suggestion did Dokyung make to Haeyoung1 regarding her moving out?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh03_005_0000",
+        "shot_contained": [
+            170,
+            197
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung expects that the offer of double the deposit will convince Haeyoung1 to agree to move out. (AnotherMissOh03_005_0179)",
+        "question": " What does Dokyung expect to happen after offering to pay double the deposit to Haeyoung1?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh03_005_0000",
+        "shot_contained": [
+            170,
+            197
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's intention was to warn Dokyung not to tell anyone about her wedding secret. (AnotherMissOh03_005_0193)",
+        "question": " What was Haeyoung1's intention when she walked back toward Dokyung?",
+        "que_type": "Q3 (Intention disclosure)",
+        "vid": "AnotherMissOh03_005_0000",
+        "shot_contained": [
+            170,
+            197
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung offered to pay double the deposit because he did not want to live next to Haeyoung1 and was trying to persuade her to move out. (AnotherMissOh03_005_0179)",
+        "question": " What prompted Dokyung to offer to pay double the deposit to Haeyoung1?",
+        "que_type": "Q4 (Cause elucidation)",
+        "vid": "AnotherMissOh03_005_0000",
+        "shot_contained": [
+            170,
+            197
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yes, Haeyoung1 felt happiness when Dokyung was making a suggestion about the house. (AnotherMissOh03_005_0175)",
+        "question": " Is it true that Haeyoung1 felt happiness at any point during the conversation with Dokyung?",
+        "que_type": "Q5 (Verification)",
+        "vid": "AnotherMissOh03_005_0000",
+        "shot_contained": [
+            170,
+            197
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yes, Dokyung told Haeyoung1 to move because he would give her a deposit and moving expenses.",
+        "question": " Did Dokyung offer Haeyoung1 financial assistance for moving out?",
+        "que_type": "Q1 (Verification)",
+        "vid": "AnotherMissOh03_006_0000",
+        "shot_contained": [
+            198,
+            206
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 was neutral when she was looking at the door.",
+        "question": " What was the emotional state of Haeyoung1 when she was looking at the door?",
+        "que_type": "Q2 (Feature specification)",
+        "vid": "AnotherMissOh03_006_0000",
+        "shot_contained": [
+            198,
+            206
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's intention in refusing Dokyung's offer was to assert her right to stay despite the financial incentive to leave.",
+        "question": " What was Haeyoung1's intention in refusing Dokyung's offer to move out?",
+        "que_type": "Q3 (Intention disclosure)",
+        "vid": "AnotherMissOh03_006_0000",
+        "shot_contained": [
+            198,
+            206
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung's offer was likely prompted by a desire to have Haeyoung1 move out from her current residence.",
+        "question": " What prompted Dokyung to offer Haeyoung1 money for moving expenses?",
+        "que_type": "Q4 (Cause elucidation)",
+        "vid": "AnotherMissOh03_006_0000",
+        "shot_contained": [
+            198,
+            206
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "It can be expected that Haeyoung1 might continue to resist or oppose Dokyung's attempts to influence her living situation.",
+        "question": " What can be expected of Haeyoung1's future actions towards Dokyung after refusing his offer?",
+        "que_type": "Q5 (Expectation)",
+        "vid": "AnotherMissOh03_006_0000",
+        "shot_contained": [
+            198,
+            206
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Sukyung's hair is messy and her face is half hidden by her hair. (AnotherMissOh03_007_0228)",
+        "question": " What is the condition of Sukyung's hair when she is in the kitchen?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh03_007_0000",
+        "shot_contained": [
+            210,
+            230
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Sukyung drinks the whole bottle of water. (AnotherMissOh03_007_0220)",
+        "question": " How much water does Sukyung drink from the bottle when she is in the kitchen?",
+        "que_type": "Q2 (Quantification)",
+        "vid": "AnotherMissOh03_007_0000",
+        "shot_contained": [
+            210,
+            230
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Sukyung's action of squeezing the plastic bottle may indicate a level of stress or frustration. (AnotherMissOh03_007_0224)",
+        "question": " What does Sukyung's action of squeezing the plastic bottle indicate about her state of mind or emotions?",
+        "que_type": "Q3 (Interpretation)",
+        "vid": "AnotherMissOh03_007_0000",
+        "shot_contained": [
+            210,
+            230
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun might expect Sukyung to apologize or show some sign of embarrassment after she burps. (AnotherMissOh03_007_0225)",
+        "question": " What might Hun expect Sukyung to do after she burps?",
+        "que_type": "Q4 (Expectation)",
+        "vid": "AnotherMissOh03_007_0000",
+        "shot_contained": [
+            210,
+            230
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun appears to be indifferent or focused on his own breakfast, not reacting to Sukyung's actions. (AnotherMissOh03_007_0225, AnotherMissOh03_007_0226)",
+        "question": " How would you evaluate Hun's behavior while Sukyung is drinking water and burping in the kitchen?",
+        "que_type": "Q5 (Judging)",
+        "vid": "AnotherMissOh03_007_0000",
+        "shot_contained": [
+            210,
+            230
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 is making calls outside in a garden with stairs and blooming flowers. (AnotherMissOh03_018_0392)",
+        "question": " What is the setting like where Haeyoung1 is making the phone calls?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh03_018_0000",
+        "shot_contained": [
+            392,
+            392
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The scene does not specify the exact number of times Haeyoung1 attempts to call Dokyung. (AnotherMissOh03_018_0392)",
+        "question": " How many times does Haeyoung1 attempt to call Dokyung in this scene?",
+        "que_type": "Q2 (Quantification)",
+        "vid": "AnotherMissOh03_018_0000",
+        "shot_contained": [
+            392,
+            392
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 likely expects Dokyung to answer her calls so that she can discuss the urgent matter regarding the construction of the wall. (AnotherMissOh03_018_0392)",
+        "question": " What does Haeyoung1 likely expect as a result of her phone calls to Dokyung?",
+        "que_type": "Q3 (Expectation)",
+        "vid": "AnotherMissOh03_018_0000",
+        "shot_contained": [
+            392,
+            392
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's primary reason for persistently trying to reach Dokyung is to talk to him as soon as possible about the construction of the wall. (AnotherMissOh03_018_0392)",
+        "question": " What is Haeyoung1's primary reason for persistently trying to reach Dokyung by phone?",
+        "que_type": "Q4 (Intention disclosure)",
+        "vid": "AnotherMissOh03_018_0000",
+        "shot_contained": [
+            392,
+            392
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "It can be inferred that Haeyoung1 has an urgent or important matter to discuss with Dokyung, indicating a relationship where she feels the need to communicate directly and possibly urgently. (AnotherMissOh03_018_0392)",
+        "question": " What might be inferred about Haeyoung1's relationship with Dokyung based on her repeated attempts to call him?",
+        "que_type": "Q5 (Interpretation)",
+        "vid": "AnotherMissOh03_018_0000",
+        "shot_contained": [
+            392,
+            392
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Gitae displayed anger when he initially received the phone call on Dokyung's cell phone. (AnotherMissOh03_019_0394)",
+        "question": " What specific emotion did Gitae display when he initially received the phone call on Dokyung's cell phone?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh03_019_0000",
+        "shot_contained": [
+            394,
+            405
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Gitae made a complaint about the phone call because it was an interruption, and he was likely annoyed by the persistent ringing while it was not even his own phone. (AnotherMissOh03_019_0394)",
+        "question": " What caused Gitae to make a complaint about the phone call?",
+        "que_type": "Q2 (Cause elucidation)",
+        "vid": "AnotherMissOh03_019_0000",
+        "shot_contained": [
+            394,
+            405
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Gitae's intention in not wanting to give the phone to Hun was probably to prevent further conflict or to handle the situation himself, considering Hun's anger. (AnotherMissOh03_019_0405)",
+        "question": " What was Gitae's intention in not wanting to give the phone to Hun?",
+        "que_type": "Q3 (Intention disclosure)",
+        "vid": "AnotherMissOh03_019_0000",
+        "shot_contained": [
+            394,
+            405
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun's emotional response was more intense with anger, as indicated by his actions of standing up with anger and trying to take the phone away, compared to Gitae's initial annoyance and subsequent neutral demeanor. (AnotherMissOh03_019_0404, AnotherMissOh03_019_0405)",
+        "question": " How did Hun's emotional response compare to Gitae's when they were dealing with the phone call?",
+        "que_type": "Q4 (Comparison)",
+        "vid": "AnotherMissOh03_019_0000",
+        "shot_contained": [
+            394,
+            405
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The result of Gitae informing Hun that Haeyoung1 called was that Hun became very angry, likely due to a misunderstanding about the caller's identity. (AnotherMissOh03_019_0399, AnotherMissOh03_019_0403)",
+        "question": " What was the result of Gitae informing Hun that Haeyoung1 called on Dokyung's cell phone?",
+        "que_type": "Q5 (Result account)",
+        "vid": "AnotherMissOh03_019_0000",
+        "shot_contained": [
+            394,
+            405
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 picked up the phone, quickly checked her mobile screen, and asked who was calling. (AnotherMissOh03_020_0406, AnotherMissOh03_020_0410, AnotherMissOh03_020_0411)",
+        "question": " What specific actions did Haeyoung1 take upon receiving the phone call from Hun?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh03_020_0000",
+        "shot_contained": [
+            406,
+            418
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yes, Hun was introducing himself over the phone with a bittersweet smile before he became angry. (AnotherMissOh03_020_0407, AnotherMissOh03_020_0409)",
+        "question": " Is it true that Hun showed signs of happiness before getting angry at Haeyoung1 during their phone conversation?",
+        "que_type": "Q2 (Verification)",
+        "vid": "AnotherMissOh03_020_0000",
+        "shot_contained": [
+            406,
+            418
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 displayed surprise when she first picked up the phone. (AnotherMissOh03_020_0406)",
+        "question": " What was the initial emotion displayed by Haeyoung1 when she first picked up the phone?",
+        "que_type": "Q3 (Concept completion)",
+        "vid": "AnotherMissOh03_020_0000",
+        "shot_contained": [
+            406,
+            418
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "happiness, neutrality, and anger. (AnotherMissOh03_020_0407, AnotherMissOh03_020_0409, AnotherMissOh03_020_0416)",
+        "question": " How many different emotions did Hun exhibit during the phone call with Haeyoung1?",
+        "que_type": "Q4 (Quantification)",
+        "vid": "AnotherMissOh03_020_0000",
+        "shot_contained": [
+            406,
+            418
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun's mistake was caused by the common name Haeyoung, leading him to assume he was speaking with Haeyoung2. (AnotherMissOh03_020_0412, AnotherMissOh03_020_0414)",
+        "question": " What caused Hun to mistakenly believe he was talking to Haeyoung2 instead of Haeyoung1?",
+        "que_type": "Q5 (Cause elucidation)",
+        "vid": "AnotherMissOh03_020_0000",
+        "shot_contained": [
+            406,
+            418
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung was neutral when he was looking at the phone. (AnotherMissOh03_021_0420)",
+        "question": " What was the emotional state of Dokyung when he was looking at the phone?",
+        "que_type": "Q (Feature specification)",
+        "vid": "AnotherMissOh03_021_0000",
+        "shot_contained": [
+            419,
+            427
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun shouted at Dokyung because he was angry, possibly due to the situation involving the phone call. (AnotherMissOh03_021_0421)",
+        "question": " What caused Hun to shout at Dokyung?",
+        "que_type": "Q (Cause elucidation)",
+        "vid": "AnotherMissOh03_021_0000",
+        "shot_contained": [
+            419,
+            427
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung was trying to look at the phone screen to see who was calling. (AnotherMissOh03_021_0425)",
+        "question": " What was Dokyung's intention when trying to look at the phone screen?",
+        "que_type": "Q (Intention disclosure)",
+        "vid": "AnotherMissOh03_021_0000",
+        "shot_contained": [
+            419,
+            427
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yes, Dokyung answered Haeyoung1's call with a neutral emotion. (AnotherMissOh03_021_0424)",
+        "question": " Is it true that Dokyung answered Haeyoung1's call with a neutral emotion?",
+        "que_type": "Q (Verification)",
+        "vid": "AnotherMissOh03_021_0000",
+        "shot_contained": [
+            419,
+            427
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung's emotions changed twice during the scene, from neutral to anger and back to neutral. (AnotherMissOh03_021_0419, AnotherMissOh03_021_0423, AnotherMissOh03_021_0424)",
+        "question": " How many times did Dokyung's emotions change during the scene?",
+        "que_type": "Q (Quantification)",
+        "vid": "AnotherMissOh03_021_0000",
+        "shot_contained": [
+            419,
+            427
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung had a neutral expression on his face when he was looking down at the beginning of the confrontation with Hun. (AnotherMissOh03_022_0428)",
+        "question": " What was the expression on Dokyung's face when he was looking down at the beginning of the confrontation with Hun?",
+        "que_type": "Q (Feature specification)",
+        "vid": "AnotherMissOh03_022_0000",
+        "shot_contained": [
+            428,
+            436
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun's intention was to express his grievances and possibly to confront Dokyung about a situation that was bothering him. (AnotherMissOh03_022_0428)",
+        "question": " What was Hun's intention when he was complaining to Dokyung?",
+        "que_type": "Q (Intention disclosure)",
+        "vid": "AnotherMissOh03_022_0000",
+        "shot_contained": [
+            428,
+            436
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung was trying to take off his jacket because he was preparing to physically discipline Hun for his mistake. (AnotherMissOh03_022_0435)",
+        "question": " What caused Dokyung to try to take off his jacket during the altercation with Hun?",
+        "que_type": "Q (Cause elucidation)",
+        "vid": "AnotherMissOh03_022_0000",
+        "shot_contained": [
+            428,
+            436
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun likely expected further reprimand or physical confrontation after being slapped down by Dokyung. (AnotherMissOh03_022_0434)",
+        "question": " What did Hun likely expect to happen after he got slapped down by Dokyung?",
+        "que_type": "Q (Expectation)",
+        "vid": "AnotherMissOh03_022_0000",
+        "shot_contained": [
+            428,
+            436
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Gitae appeared to be fearful and compliant when he closed the door as instructed by Dokyung, indicating he understood the gravity of the situation and wanted to avoid any conflict. (AnotherMissOh03_022_0430)",
+        "question": " How would you evaluate Gitae's reaction when he closed the door as instructed by Dokyung?",
+        "que_type": "Q (Judging)",
+        "vid": "AnotherMissOh03_022_0000",
+        "shot_contained": [
+            428,
+            436
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 is wearing a pink sweater. (AnotherMissOh03_047_1003)",
+        "question": " What color is the sweater that Haeyoung1 is wearing while throwing the album into the river?",
+        "que_type": "Q (Feature specification)",
+        "vid": "AnotherMissOh03_047_0000",
+        "shot_contained": [
+            1002,
+            1035
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "golden bell trees and cherry blossoms. (AnotherMissOh03_047_1023, AnotherMissOh03_047_1026)",
+        "question": " How many types of trees are mentioned as being part of the scenery while Haeyoung1 is riding her bike?",
+        "que_type": "Q (Quantification)",
+        "vid": "AnotherMissOh03_047_0000",
+        "shot_contained": [
+            1002,
+            1035
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 throws her wedding album into the river from the bridge. (AnotherMissOh03_047_1012)",
+        "question": " What is the specific location where Haeyoung1 disposes of her wedding album?",
+        "que_type": "Q (Concept completion)",
+        "vid": "AnotherMissOh03_047_0000",
+        "shot_contained": [
+            1002,
+            1035
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's emotional state changes from sad and distressed when looking at and throwing the album into the river to happiness while riding her bike afterward. (AnotherMissOh03_047_1006, AnotherMissOh03_047_1012, AnotherMissOh03_047_1021, AnotherMissOh03_047_1035)",
+        "question": " How does Haeyoung1's emotional state change from the beginning to the end of the scene?",
+        "que_type": "Q (Comparison)",
+        "vid": "AnotherMissOh03_047_0000",
+        "shot_contained": [
+            1002,
+            1035
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's action suggests that she expects to move on from the past and start a new chapter in her life. (AnotherMissOh03_047_1012)",
+        "question": " What does Haeyoung1's action of throwing the wedding album into the river suggest about her expectations for the future?",
+        "que_type": "Q (Expectation)",
+        "vid": "AnotherMissOh03_047_0000",
+        "shot_contained": [
+            1002,
+            1035
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung was wearing a gray jacket. (AnotherMissOh03_048_1037)",
+        "question": " What was Dokyung wearing when he got out of the house?",
+        "que_type": "Q (Feature specification)",
+        "vid": "AnotherMissOh03_048_0000",
+        "shot_contained": [
+            1036,
+            1046
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "There are five actions of Dokyung mentioned in the scene knowledge graph. (AnotherMissOh03_048_1036, AnotherMissOh03_048_1037, AnotherMissOh03_048_1039, AnotherMissOh03_048_1043, AnotherMissOh03_048_1046)",
+        "question": " How many actions of Dokyung are mentioned in the scene knowledge graph?",
+        "que_type": "Q (Quantification)",
+        "vid": "AnotherMissOh03_048_0000",
+        "shot_contained": [
+            1036,
+            1046
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's emotional state is not explicitly mentioned when she was speaking to Dokyung, but she was happy shortly after in the scene. (AnotherMissOh03_048_1036, AnotherMissOh03_048_1038)",
+        "question": " What was Haeyoung1's emotional state when she was speaking to Dokyung?",
+        "que_type": "Q (Concept completion)",
+        "vid": "AnotherMissOh03_048_0000",
+        "shot_contained": [
+            1036,
+            1046
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's intention for asking for the deposit was likely related to her moving out and needing the funds for her new place. (AnotherMissOh03_048_1040)",
+        "question": " What was Haeyoung1's intention for asking for the deposit?",
+        "que_type": "Q (Intention disclosure)",
+        "vid": "AnotherMissOh03_048_0000",
+        "shot_contained": [
+            1036,
+            1046
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "It can be inferred that Haeyoung1 expects to start a new chapter in her life by finding a new place to live. (AnotherMissOh03_048_1036)",
+        "question": " What can be inferred about Haeyoung1's expectations after telling Dokyung she is moving out?",
+        "que_type": "Q (Expectation)",
+        "vid": "AnotherMissOh03_048_0000",
+        "shot_contained": [
+            1036,
+            1046
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung is wearing a gray jacket and a sweater while greeting people in the office. (AnotherMissOh03_049_1047)",
+        "question": " What is the attire of Dokyung while greeting people in the office?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh03_049_0000",
+        "shot_contained": [
+            1047,
+            1049
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The people being led by Dokyung might expect to see a presentation or demonstration of his work in the recording studio. (AnotherMissOh03_049_1047)",
+        "question": " What might be the expectations of the people being led by Dokyung in the office?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh03_049_0000",
+        "shot_contained": [
+            1047,
+            1049
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung is leading a group of several people through the office, but the exact number is not specified. (AnotherMissOh03_049_1047)",
+        "question": " How many people is Dokyung leading in the office?",
+        "que_type": "Q3 (Quantification)",
+        "vid": "AnotherMissOh03_049_0000",
+        "shot_contained": [
+            1047,
+            1049
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "It can be inferred that Dokyung holds a significant position in the company, as he is leading and greeting people, possibly indicating a leadership or managerial role. (AnotherMissOh03_049_1047)",
+        "question": " What could be inferred about Dokyung's position in the company based on his actions?",
+        "que_type": "Q4 (Interpretation)",
+        "vid": "AnotherMissOh03_049_0000",
+        "shot_contained": [
+            1047,
+            1049
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung's demeanor appears professional and neutral as he shakes hands and leads the people through the office. (AnotherMissOh03_049_1047)",
+        "question": " How would you evaluate Dokyung's demeanor while interacting with the people in the office?",
+        "que_type": "Q5 (Judging)",
+        "vid": "AnotherMissOh03_049_0000",
+        "shot_contained": [
+            1047,
+            1049
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Heeran's emotional state is neutral when she agrees to look at Hun's scenario. (AnotherMissOh03_050_1051)",
+        "question": " What is the emotional state of Heeran when she agrees to look at Hun's scenario?",
+        "que_type": "Q (Feature specification)",
+        "vid": "AnotherMissOh03_050_0000",
+        "shot_contained": [
+            1050,
+            1051
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun displays two different emotions, neutral and happiness, during the interaction with Heeran. (AnotherMissOh03_050_1050, AnotherMissOh03_050_1051)",
+        "question": " How many different emotions does Hun display during the interaction with Heeran about his scenario?",
+        "que_type": "Q (Quantification)",
+        "vid": "AnotherMissOh03_050_0000",
+        "shot_contained": [
+            1050,
+            1051
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yes, it is true that Heeran is wearing red lipstick when she talks to Hun in the office. (AnotherMissOh03_050_1051)",
+        "question": " Is it true that Heeran is wearing red lipstick when she talks to Hun in the office?",
+        "que_type": "Q (Verification)",
+        "vid": "AnotherMissOh03_050_0000",
+        "shot_contained": [
+            1050,
+            1051
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun might expect Heeran to provide feedback or show interest in his scenario after she looks at it. (AnotherMissOh03_050_1050)",
+        "question": " What might Hun expect from Heeran after she looks at his scenario?",
+        "que_type": "Q (Expectation)",
+        "vid": "AnotherMissOh03_050_0000",
+        "shot_contained": [
+            1050,
+            1051
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun approaches Heeran by talking to her and asking if she could take a look at his scenario. (AnotherMissOh03_050_1050)",
+        "question": " How does Hun approach Heeran to ask her to read his scenario?",
+        "que_type": "Q (Method explication)",
+        "vid": "AnotherMissOh03_050_0000",
+        "shot_contained": [
+            1050,
+            1051
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Heeran was wearing a white sleeveless shirt. (AnotherMissOh03_051_1056)",
+        "question": " What was Heeran wearing during the movie screening?",
+        "que_type": "Q (Feature specification)",
+        "vid": "AnotherMissOh03_051_0000",
+        "shot_contained": [
+            1052,
+            1061
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Sangseok tapped on Yijoon's back. (AnotherMissOh03_051_1059)",
+        "question": " What specific action did Sangseok take to show his happiness after the movie screening?",
+        "que_type": "Q (Concept completion)",
+        "vid": "AnotherMissOh03_051_0000",
+        "shot_contained": [
+            1052,
+            1061
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "sadness, neutrality, and happiness. (AnotherMissOh03_051_1054, AnotherMissOh03_051_1058, AnotherMissOh03_051_1059)",
+        "question": " How many different emotions did Yijoon display during the movie screening scene?",
+        "que_type": "Q (Quantification)",
+        "vid": "AnotherMissOh03_051_0000",
+        "shot_contained": [
+            1052,
+            1061
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun's emotional response was neutral during the screening but showed happiness afterwards, while Gitae displayed happiness immediately after the movie finished. (AnotherMissOh03_051_1054, AnotherMissOh03_051_1055, AnotherMissOh03_051_1058, AnotherMissOh03_051_1061)",
+        "question": " How did Hun's emotional response compare to Gitae's after the movie screening?",
+        "que_type": "Q (Comparison)",
+        "vid": "AnotherMissOh03_051_0000",
+        "shot_contained": [
+            1052,
+            1061
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Heeran intended to celebrate and acknowledge Dokyung's successful sound work. (AnotherMissOh03_051_1060, AnotherMissOh03_051_1061)",
+        "question": " What was Heeran's intention when praising Dokyung's work after the movie screening?",
+        "que_type": "Q (Intention disclosure)",
+        "vid": "AnotherMissOh03_051_0000",
+        "shot_contained": [
+            1052,
+            1061
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Heeran is feeling happiness while saying goodbye to Dokyung. (AnotherMissOh03_052_1063)",
+        "question": " What is the emotional state of Heeran while saying goodbye to Dokyung?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh03_052_0000",
+        "shot_contained": [
+            1062,
+            1074
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Anna might be running to meet someone or she could be late for an appointment. (AnotherMissOh03_052_1074)",
+        "question": " What might be the reason for Anna running with a bag in her hand?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh03_052_0000",
+        "shot_contained": [
+            1062,
+            1074
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun was rushing and not paying attention to his surroundings, which led to him getting hit by the direction board. (AnotherMissOh03_052_1073)",
+        "question": " What caused Hun to get hit by the direction board?",
+        "que_type": "Q3 (Cause elucidation)",
+        "vid": "AnotherMissOh03_052_0000",
+        "shot_contained": [
+            1062,
+            1074
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung left three people, Sangseok, Gitae, and Yijoon, after giving the credit card to Gitae. (AnotherMissOh03_052_1069)",
+        "question": " How many people did Dokyung leave after giving the credit card to Gitae?",
+        "que_type": "Q4 (Quantification)",
+        "vid": "AnotherMissOh03_052_0000",
+        "shot_contained": [
+            1062,
+            1074
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung conveyed his appreciation by giving Gitae a credit card and instructing him to spend more than a thousand dollars on drinks with Sangseok and Yijoon. (AnotherMissOh03_052_1067)",
+        "question": " How did Dokyung convey his appreciation to his team members for their hard work?",
+        "que_type": "Q5 (Method explication)",
+        "vid": "AnotherMissOh03_052_0000",
+        "shot_contained": [
+            1062,
+            1074
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun is feeling happiness when he first opens his arms to Anna.",
+        "question": " What is the emotional state of Hun when he first opens his arms to Anna? (AnotherMissOh03_053_1075)",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh03_053_0000",
+        "shot_contained": [
+            1075,
+            1083
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Anna likely expects to embrace Hun without any obstructions when she throws her bag away and runs towards him.",
+        "question": " What does Anna likely expect to happen when she throws her bag away and runs towards Hun? (AnotherMissOh03_053_1076)",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh03_053_0000",
+        "shot_contained": [
+            1075,
+            1083
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun experiences fear when he takes off his bag, possibly due to the sudden and intense nature of Anna's approach.",
+        "question": " What causes Hun to experience fear during his date with Anna? (AnotherMissOh03_053_1077)",
+        "que_type": "Q3 (Cause elucidation)",
+        "vid": "AnotherMissOh03_053_0000",
+        "shot_contained": [
+            1075,
+            1083
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "happiness, fear, neutral, and anger.",
+        "question": " How many different emotions does Hun display throughout the date scene? (AnotherMissOh03_053_1075, AnotherMissOh03_053_1076, AnotherMissOh03_053_1077, AnotherMissOh03_053_1078, AnotherMissOh03_053_1079, AnotherMissOh03_053_1080, AnotherMissOh03_053_1082, AnotherMissOh03_053_1083)",
+        "que_type": "Q4 (Quantification)",
+        "vid": "AnotherMissOh03_053_0000",
+        "shot_contained": [
+            1075,
+            1083
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Anna's neutral emotion when expressing missing Hun might indicate her attempt to control her feelings or a moment of calmness amidst the excitement of their reunion.",
+        "question": " What might be the reason for Anna's neutral emotion when expressing missing Hun? (AnotherMissOh03_053_1081)",
+        "que_type": "Q5 (Interpretation)",
+        "vid": "AnotherMissOh03_053_0000",
+        "shot_contained": [
+            1075,
+            1083
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun displays happiness when he is grinning with delight while making sounds with some stuff. (AnotherMissOh03_054_1100)",
+        "question": " What specific emotions does Hun display while making sounds with some stuff?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh03_054_0000",
+        "shot_contained": [
+            1084,
+            1106
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung asks to put some traffic sounds into the sound mix. (AnotherMissOh03_054_1097, AnotherMissOh03_054_1101)",
+        "question": " What is missing from the scene that Dokyung asks to be included in the sound mix?",
+        "que_type": "Q2 (Concept completion)",
+        "vid": "AnotherMissOh03_054_0000",
+        "shot_contained": [
+            1084,
+            1106
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "playing with her hair, dancing behind Hun, shaking her head, wearing twin tails, and being impressed by Hun. (AnotherMissOh03_054_1085, AnotherMissOh03_054_1088, AnotherMissOh03_054_1090, AnotherMissOh03_054_1094, AnotherMissOh03_054_1105)",
+        "question": " How many different actions does Anna perform while watching Hun in the studio?",
+        "que_type": "Q3 (Quantification)",
+        "vid": "AnotherMissOh03_054_0000",
+        "shot_contained": [
+            1084,
+            1106
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Before watching Hun, Anna displays happiness, and after watching Hun make sounds, she continues to display happiness, indicating that her emotional state remains positive throughout the scene. (AnotherMissOh03_054_1084, AnotherMissOh03_054_1085, AnotherMissOh03_054_1105)",
+        "question": " How does Anna's emotional state compare before and after she watches Hun making sounds?",
+        "que_type": "Q4 (Comparison)",
+        "vid": "AnotherMissOh03_054_0000",
+        "shot_contained": [
+            1084,
+            1106
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The reason for Hun's change in emotion from anger to happiness could be the successful creation of sound effects and the pleasure of sharing his work with Anna, as indicated by his grinning with delight. (AnotherMissOh03_054_1086, AnotherMissOh03_054_1100)",
+        "question": " What might be the reason for Hun's change in emotion from anger to happiness during the scene?",
+        "que_type": "Q5 (Interpretation)",
+        "vid": "AnotherMissOh03_054_0000",
+        "shot_contained": [
+            1084,
+            1106
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Sukyung was feeling sadness when she said 'Let's go.' (AnotherMissOh03_055_1108)",
+        "question": " What was the emotional state of Sukyung when she was saying 'Let's go.'?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh03_055_0000",
+        "shot_contained": [
+            1107,
+            1110
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Sukyung said thank you in French. (AnotherMissOh03_055_1110)",
+        "question": " What language did Sukyung use to express her gratitude?",
+        "que_type": "Q2 (Concept completion)",
+        "vid": "AnotherMissOh03_055_0000",
+        "shot_contained": [
+            1107,
+            1110
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Sukyung asked two persons to take her home. (AnotherMissOh03_055_1108)",
+        "question": " How many people did Sukyung ask to take her home?",
+        "que_type": "Q3 (Quantification)",
+        "vid": "AnotherMissOh03_055_0000",
+        "shot_contained": [
+            1107,
+            1110
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Sukyung might have decided to dance in the street as an impulsive act due to her drunken state. (AnotherMissOh03_055_1110)",
+        "question": " What might be the reason Sukyung decided to dance in the street?",
+        "que_type": "Q4 (Interpretation)",
+        "vid": "AnotherMissOh03_055_0000",
+        "shot_contained": [
+            1107,
+            1110
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Sukyung likely expected the two persons to agree and escort her home safely. (AnotherMissOh03_055_1108)",
+        "question": " What did Sukyung likely expect from the two persons when she asked them to take her home?",
+        "que_type": "Q5 (Expectation)",
+        "vid": "AnotherMissOh03_055_0000",
+        "shot_contained": [
+            1107,
+            1110
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang brought chicken to celebrate with Hun and Anna. (AnotherMissOh03_056_1113)",
+        "question": " What kind of food did Jinsang bring to celebrate with Hun and Anna?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh03_056_0000",
+        "shot_contained": [
+            1111,
+            1116
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun and Anna likely expected to have a meal and celebrate together upon seeing Jinsang with a bag of food. (AnotherMissOh03_056_1112)",
+        "question": " What was likely Hun and Anna's expectation upon seeing Jinsang with a bag of food?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh03_056_0000",
+        "shot_contained": [
+            1111,
+            1116
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Three people, Jinsang, Hun, and Anna, were present when Jinsang suggested going inside. (AnotherMissOh03_056_1115)",
+        "question": " How many people were present when Jinsang suggested going inside?",
+        "que_type": "Q3 (Quantification)",
+        "vid": "AnotherMissOh03_056_0000",
+        "shot_contained": [
+            1111,
+            1116
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang communicated with Hun and Anna by greeting them and lifting a bag of food as a gesture to celebrate. (AnotherMissOh03_056_1111, AnotherMissOh03_056_1113)",
+        "question": " How did Jinsang communicate with Hun and Anna when he arrived?",
+        "que_type": "Q4 (Method explication)",
+        "vid": "AnotherMissOh03_056_0000",
+        "shot_contained": [
+            1111,
+            1116
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang's action of speaking in French implies that he was trying to add a touch of sophistication or festivity to the celebration. (AnotherMissOh03_056_1116)",
+        "question": " What does Jinsang's action of speaking in French imply about the celebration?",
+        "que_type": "Q5 (Interpretation)",
+        "vid": "AnotherMissOh03_056_0000",
+        "shot_contained": [
+            1111,
+            1116
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Yes, Dokyung's emotion is neutral when he hangs up the phone. (AnotherMissOh03_057_1117)",
+        "question": " Is Dokyung's emotion neutral when he hangs up the phone?",
+        "que_type": "Q (Verification)",
+        "vid": "AnotherMissOh03_057_0000",
+        "shot_contained": [
+            1117,
+            1118
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung's room appears to be tidy and well-organized while he is on the phone. (AnotherMissOh03_057_1117)",
+        "question": " What is the state of Dokyung's room when he is on the phone?",
+        "que_type": "Q (Feature specification)",
+        "vid": "AnotherMissOh03_057_0000",
+        "shot_contained": [
+            1117,
+            1118
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung might be hearing the voice of Haeyoung1 responding to the delivery after hanging up the phone. (AnotherMissOh03_057_1118)",
+        "question": " What might Dokyung be hearing in the house after hanging up the phone?",
+        "que_type": "Q (Concept completion)",
+        "vid": "AnotherMissOh03_057_0000",
+        "shot_contained": [
+            1117,
+            1118
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "hanging up the phone and hearing some voice in the house. (AnotherMissOh03_057_1117, AnotherMissOh03_057_1118)",
+        "question": " How many actions is Dokyung performing in the scene according to the knowledge graph?",
+        "que_type": "Q (Quantification)",
+        "vid": "AnotherMissOh03_057_0000",
+        "shot_contained": [
+            1117,
+            1118
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung approaches the desk after the phone call possibly to check the recording machine. (AnotherMissOh03_057_1118)",
+        "question": " What could be the reason Dokyung approaches the desk after the phone call?",
+        "que_type": "Q (Intention disclosure)",
+        "vid": "AnotherMissOh03_057_0000",
+        "shot_contained": [
+            1117,
+            1118
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 ordered several dishes, which included soup and other items, prompting the delivery man to remark that it was too much for one person. (AnotherMissOh03_058_1120)",
+        "question": " What kind of food did Haeyoung1 order that led the delivery man to comment on the quantity?",
+        "que_type": "Q (Feature specification)",
+        "vid": "AnotherMissOh03_058_0000",
+        "shot_contained": [
+            1119,
+            1126
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 might expect the delivery man to leave promptly after delivering the food, considering the personal nature of the question he asked. (AnotherMissOh03_058_1123)",
+        "question": " What might Haeyoung1 expect to happen next after telling the delivery man that she lives alone?",
+        "que_type": "Q (Expectation)",
+        "vid": "AnotherMissOh03_058_0000",
+        "shot_contained": [
+            1119,
+            1126
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 was supposed to receive an unspecified amount of change from the delivery man, which he did not have at the moment. (AnotherMissOh03_058_1120)",
+        "question": " How much change was Haeyoung1 supposed to receive from the delivery man?",
+        "que_type": "Q (Quantification)",
+        "vid": "AnotherMissOh03_058_0000",
+        "shot_contained": [
+            1119,
+            1126
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The delivery man's inquiry could be out of curiosity due to the large amount of food ordered, or it could be a routine question for safety or customer service purposes. (AnotherMissOh03_058_1123)",
+        "question": " What could be the reason behind the delivery man's inquiry about Haeyoung1 living alone?",
+        "que_type": "Q (Interpretation)",
+        "vid": "AnotherMissOh03_058_0000",
+        "shot_contained": [
+            1119,
+            1126
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "It may be considered inappropriate for the delivery man to ask Haeyoung1 if she lives alone, as it is a personal question that could make the customer feel uncomfortable. (AnotherMissOh03_058_1123)",
+        "question": " How appropriate was it for the delivery man to ask Haeyoung1 if she lives alone?",
+        "que_type": "Q (Judging)",
+        "vid": "AnotherMissOh03_058_0000",
+        "shot_contained": [
+            1119,
+            1126
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung appeared neutral when he observed the delivery man, but his hesitation to do something might indicate some level of concern. (AnotherMissOh03_059_1131)",
+        "question": " Did Dokyung exhibit any signs of distress or concern when he observed the delivery man's behavior?",
+        "que_type": "Q1 (Verification)",
+        "vid": "AnotherMissOh03_059_0000",
+        "shot_contained": [
+            1127,
+            1131
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung raised his head to observe the delivery man's actions more closely. (AnotherMissOh03_059_1128)",
+        "question": " What specific action did Dokyung take when he raised his head upon seeing the delivery man?",
+        "que_type": "Q2 (Feature specification)",
+        "vid": "AnotherMissOh03_059_0000",
+        "shot_contained": [
+            1127,
+            1131
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung hesitated to confront or interact with the delivery man. (AnotherMissOh03_059_1131)",
+        "question": " What was Dokyung hesitating to do when he saw the delivery man?",
+        "que_type": "Q3 (Concept completion)",
+        "vid": "AnotherMissOh03_059_0000",
+        "shot_contained": [
+            1127,
+            1131
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung did not directly engage with the delivery man; he only observed him from a distance. (AnotherMissOh03_059_1131)",
+        "question": " How many times did Dokyung engage with the delivery man during this scene?",
+        "que_type": "Q4 (Quantification)",
+        "vid": "AnotherMissOh03_059_0000",
+        "shot_contained": [
+            1127,
+            1131
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung might have been expecting the delivery man to do something inappropriate or harmful. (AnotherMissOh03_059_1131)",
+        "question": " What might Dokyung have been expecting to happen after seeing the delivery man's suspicious behavior?",
+        "que_type": "Q5 (Expectation)",
+        "vid": "AnotherMissOh03_059_0000",
+        "shot_contained": [
+            1127,
+            1131
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "No, Haeyoung1 is also present in the house when Dokyung hears the delivery man. (AnotherMissOh03_060_1132)",
+        "question": " Is Dokyung alone in the house when he hears the delivery man coming in?",
+        "que_type": "Q1 (Verification)",
+        "vid": "AnotherMissOh03_060_0000",
+        "shot_contained": [
+            1132,
+            1132
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 asks who is at the door and expresses surprise that Dokyung is back already. (AnotherMissOh03_060_1132)",
+        "question": " What specific action does Haeyoung1 take when she expresses surprise at Dokyung's early return?",
+        "que_type": "Q2 (Feature specification)",
+        "vid": "AnotherMissOh03_060_0000",
+        "shot_contained": [
+            1132,
+            1132
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung's specific protective actions or verbal warnings to Haeyoung1 about the delivery man are not mentioned. (AnotherMissOh03_060_1132)",
+        "question": " What is missing from Dokyung's reaction to the delivery man's arrival that might indicate his concern for Haeyoung1's safety?",
+        "que_type": "Q3 (Concept completion)",
+        "vid": "AnotherMissOh03_060_0000",
+        "shot_contained": [
+            1132,
+            1132
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Two people, Dokyung and Haeyoung1, are directly involved in the scene. (AnotherMissOh03_060_1132)",
+        "question": " How many people are directly involved in the scene where Dokyung hears the delivery man?",
+        "que_type": "Q4 (Quantification)",
+        "vid": "AnotherMissOh03_060_0000",
+        "shot_contained": [
+            1132,
+            1132
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung's intention might be to ensure Haeyoung1's safety and to understand the situation better. (AnotherMissOh03_060_1132)",
+        "question": " What might be Dokyung's intention behind trying to listen to the delivery man's voice coming from Haeyoung1's room?",
+        "que_type": "Q5 (Intention disclosure)",
+        "vid": "AnotherMissOh03_060_0000",
+        "shot_contained": [
+            1132,
+            1132
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung was holding some food in his mouth, but the specific type of food is not mentioned. (AnotherMissOh03_061_1144)",
+        "question": " What kind of food was Dokyung holding in his mouth when he was talking with Haeyoung1?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh03_061_0000",
+        "shot_contained": [
+            1133,
+            1177
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 might expect to feel safer or more secure with Dokyung's presence suggesting he will protect her. (AnotherMissOh03_061_1167)",
+        "question": " What might Haeyoung1 expect to happen after Dokyung tells her to continue living there?",
+        "que_type": "Q2 (Expectation)",
+        "vid": "AnotherMissOh03_061_0000",
+        "shot_contained": [
+            1133,
+            1177
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung's intention was to protect Haeyoung1 by implying his presence would deter any potential threats. (AnotherMissOh03_061_1167)",
+        "question": " What was Dokyung's intention when he asked Haeyoung1 to continue living in her current residence?",
+        "que_type": "Q3 (Intention disclosure)",
+        "vid": "AnotherMissOh03_061_0000",
+        "shot_contained": [
+            1133,
+            1177
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung showed up suddenly in Haeyoung1's room to scare her as part of their conversation about change. (AnotherMissOh03_061_1135)",
+        "question": " What prompted Dokyung to suddenly show up in Haeyoung1's room?",
+        "que_type": "Q4 (Cause elucidation)",
+        "vid": "AnotherMissOh03_061_0000",
+        "shot_contained": [
+            1133,
+            1177
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 expressed surprise multiple times during her interactions with Dokyung, as indicated by her emotions in the knowledge graph. (AnotherMissOh03_061_1135, AnotherMissOh03_061_1137, AnotherMissOh03_061_1138, AnotherMissOh03_061_1143, AnotherMissOh03_061_1144, AnotherMissOh03_061_1148, AnotherMissOh03_061_1161, AnotherMissOh03_061_1162, AnotherMissOh03_061_1172, AnotherMissOh03_061_1173)",
+        "question": " How many times did Haeyoung1 express surprise during her interactions with Dokyung in this scene?",
+        "que_type": "Q5 (Quantification)",
+        "vid": "AnotherMissOh03_061_0000",
+        "shot_contained": [
+            1133,
+            1177
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang displayed disgust when he commented on Sukyung's voice. (AnotherMissOh03_062_1185)",
+        "question": " What was the emotional reaction of Jinsang when he commented on Sukyung's voice?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh03_062_0000",
+        "shot_contained": [
+            1178,
+            1203
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Jinsang stood up from the couch in anger. (AnotherMissOh03_062_1194)",
+        "question": " What caused Jinsang to stand up from the couch during the scene?",
+        "que_type": "Q2 (Cause elucidation)",
+        "vid": "AnotherMissOh03_062_0000",
+        "shot_contained": [
+            1178,
+            1203
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "happiness and neutrality. (AnotherMissOh03_062_1189, AnotherMissOh03_062_1190, AnotherMissOh03_062_1203)",
+        "question": " How many different emotions did Dokyung exhibit throughout the scene?",
+        "que_type": "Q3 (Quantification)",
+        "vid": "AnotherMissOh03_062_0000",
+        "shot_contained": [
+            1178,
+            1203
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Hun showed surprise at Sukyung's behavior, while Jinsang's reactions ranged from anger to disgust and surprise. (AnotherMissOh03_062_1194, AnotherMissOh03_062_1195, AnotherMissOh03_062_1202)",
+        "question": " How did Hun's emotional reactions compare to Jinsang's when observing Sukyung's behavior?",
+        "que_type": "Q4 (Comparison)",
+        "vid": "AnotherMissOh03_062_0000",
+        "shot_contained": [
+            1178,
+            1203
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Dokyung appeared to be amused and in a happy state of mind, as indicated by his laughter, grinning, and consistent display of happiness. (AnotherMissOh03_062_1189, AnotherMissOh03_062_1190, AnotherMissOh03_062_1198)",
+        "question": " What can be inferred about Dokyung's state of mind from his actions and emotions in the scene?",
+        "que_type": "Q5 (Interpretation)",
+        "vid": "AnotherMissOh03_062_0000",
+        "shot_contained": [
+            1178,
+            1203
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung2 is wearing a wedding outfit when she is being kissed by Dokyung. (AnotherMissOh03_063_1224)",
+        "question": " What is Haeyoung2 wearing during the scene where she is being kissed by Dokyung?",
+        "que_type": "Q1 (Feature specification)",
+        "vid": "AnotherMissOh03_063_0000",
+        "shot_contained": [
+            1204,
+            1226
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 refers to Haeyoung2 as \"Pretty Oh Haeyoung\" in Dokyung's illusion. (AnotherMissOh03_063_1207)",
+        "question": " What specific phrase does Haeyoung1 use to refer to Haeyoung2 in Dokyung's illusion?",
+        "que_type": "Q2 (Concept completion)",
+        "vid": "AnotherMissOh03_063_0000",
+        "shot_contained": [
+            1204,
+            1226
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "The wedding outfit signifies that Haeyoung2 and Dokyung are in a close relationship, possibly indicating a marriage or a fantasy of one. (AnotherMissOh03_063_1212)",
+        "question": " What might the wedding outfit signify about Haeyoung2's relationship with Dokyung in the scene?",
+        "que_type": "Q3 (Interpretation)",
+        "vid": "AnotherMissOh03_063_0000",
+        "shot_contained": [
+            1204,
+            1226
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung2 mentions her favorite sound in the world to Dokyung to express her affection and emotional connection to him. (AnotherMissOh03_063_1225)",
+        "question": " Why does Haeyoung2 mention her favorite sound in the world to Dokyung?",
+        "que_type": "Q4 (Intention disclosure)",
+        "vid": "AnotherMissOh03_063_0000",
+        "shot_contained": [
+            1204,
+            1226
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "neutrality and happiness. (AnotherMissOh03_063_1205, AnotherMissOh03_063_1212)",
+        "question": " How many different emotions are displayed by Dokyung in the shots provided in the scene knowledge graph?",
+        "que_type": "Q5 (Quantification)",
+        "vid": "AnotherMissOh03_063_0000",
+        "shot_contained": [
+            1204,
+            1226
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 is wearing a black shirt while she is in the car with Heeran. (AnotherMissOh03_064_1231)",
+        "question": " What is Haeyoung1 wearing while she is in the car with Heeran?",
+        "que_type": "Q (Feature specification)",
+        "vid": "AnotherMissOh03_064_0000",
+        "shot_contained": [
+            1227,
+            1248
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 is shown expressing happiness six times while in the car. (AnotherMissOh03_064_1229, AnotherMissOh03_064_1231, AnotherMissOh03_064_1232, AnotherMissOh03_064_1233, AnotherMissOh03_064_1234, AnotherMissOh03_064_1236)",
+        "question": " How many times is Haeyoung1 shown expressing happiness while in the car?",
+        "que_type": "Q (Quantification)",
+        "vid": "AnotherMissOh03_064_0000",
+        "shot_contained": [
+            1227,
+            1248
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 fastens her seat belt for safety before the car starts moving. (AnotherMissOh03_064_1236)",
+        "question": " What action does Haeyoung1 take for safety before the car starts moving?",
+        "que_type": "Q (Concept completion)",
+        "vid": "AnotherMissOh03_064_0000",
+        "shot_contained": [
+            1227,
+            1248
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1's laughter in the car might be due to the joy of seeing someone with the same name as hers participating in the race. (AnotherMissOh03_064_1233)",
+        "question": " What might be the reason for Haeyoung1's laughter while she is in the car?",
+        "que_type": "Q (Interpretation)",
+        "vid": "AnotherMissOh03_064_0000",
+        "shot_contained": [
+            1227,
+            1248
+        ]
+    },
+    {
+        "videoType": "scene",
+        "answer": "Haeyoung1 likely expects to encourage Haeyoung2 and possibly make a connection due to their shared name after she cheers for her. (AnotherMissOh03_064_1241)",
+        "question": " What does Haeyoung1 likely expect to happen after she cheers for Haeyoung2?",
+        "que_type": "Q (Expectation)",
+        "vid": "AnotherMissOh03_064_0000",
+        "shot_contained": [
+            1227,
+            1248
+        ]
+    }
+]

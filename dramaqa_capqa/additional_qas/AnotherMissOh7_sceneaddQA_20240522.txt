@@ -1,0 +1,883 @@
+AnotherMissOh07_001_0000
+
+Q1 (Feature specification): What is the expression on Haeyoung1's face when she is seen in Dokyung's future?
+A1: Haeyoung1 is smiling brightly when she is seen in Dokyung's future. (AnotherMissOh07_001_0034)
+
+Q2 (Interpretation): What might be the reason for Dokyung's expression of disgust when standing in front of the table?
+A2: Dokyung's expression of disgust could be a reaction to the unexpected vision of Haeyoung1 in his future, conflicting with his current emotional state. (AnotherMissOh07_001_0035)
+
+Q3 (Expectation): What does Dokyung likely expect to happen after seeing Haeyoung1 in his future?
+A3: Dokyung likely expects to have some form of interaction or connection with Haeyoung1 after seeing her in his future. (AnotherMissOh07_001_0031)
+
+Q4 (Quantification): How many different emotions does Dokyung display throughout the scene?
+A4: Dokyung displays two different emotions throughout the scene: neutrality and disgust. (AnotherMissOh07_001_0027, AnotherMissOh07_001_0035)
+
+Q5 (Cause elucidation): What causes Haeyoung1 to blink her eyes when she is seen in Dokyung's future?
+A5: Haeyoung1 blinking her eyes could be a response to the bright light of the illusion or a natural reaction within the vision Dokyung is having. (AnotherMissOh07_001_0030)
+
+AnotherMissOh07_002_0000
+
+Q1 (Feature specification): What type of clothing does Haeyoung1 put on after waking up?
+A1: Haeyoung1 puts on a sweatshirt after waking up. (AnotherMissOh07_002_0039)
+
+Q2 (Interpretation): What might be the reason for Haeyoung1's sadness upon waking up?
+A2: Haeyoung1 might be feeling sadness due to a bad dream or personal troubles she is experiencing. (AnotherMissOh07_002_0038)
+
+Q3 (Quantification): How many actions does Haeyoung1 perform after waking up according to the scene knowledge graph?
+A3: Haeyoung1 performs three actions after waking up: getting up from her bed, stretching herself out, and putting her sweatshirt on. (AnotherMissOh07_002_0037, AnotherMissOh07_002_0038, AnotherMissOh07_002_0039)
+
+Q4 (Verification): Is it true that Haeyoung1's emotion changes from sadness to neutral after she stretches?
+A4: Yes, Haeyoung1's emotion changes from sadness to neutral after she stretches. (AnotherMissOh07_002_0038, AnotherMissOh07_002_0039)
+
+Q5 (Expectation): What might Haeyoung1 be planning to do after getting dressed?
+A5: Haeyoung1 might be planning to start her day by going to work or running errands after getting dressed. (AnotherMissOh07_002_0039)
+
+AnotherMissOh07_003_0000
+
+Q1 (Feature specification): What is the expression on Dokyung's face when he tells Haeyoung1 not to cross over?
+A1: Dokyung's expression is neutral when he tells Haeyoung1 not to cross over. (AnotherMissOh07_003_0044)
+
+Q2 (Expectation): What might Haeyoung1 have expected before Dokyung opened the door?
+A2: Haeyoung1 might have expected privacy and not to be disturbed before Dokyung opened the door. (AnotherMissOh07_003_0044)
+
+Q3 (Intention disclosure): What could be Dokyung's intention behind telling Haeyoung1 not to cross over?
+A3: Dokyung's intention could be to maintain personal boundaries or to prevent an unwanted encounter. (AnotherMissOh07_003_0044)
+
+Q4 (Cause elucidation): What could be the reason Dokyung decided to open the door without knocking?
+A4: The reason could be that Dokyung felt comfortable enough or it was an urgent matter that prompted him to open the door without knocking. (AnotherMissOh07_003_0043)
+
+Q5 (Verification): Is it true that Dokyung's actions were unexpected by Haeyoung1, leading her to pretend to be asleep?
+A5: Yes, it is true that Dokyung's unexpected actions led Haeyoung1 to pretend to be asleep. (AnotherMissOh07_003_0044)
+
+AnotherMissOh07_004_0000
+
+Q1 (Feature specification): What specific actions does Haeyoung1 perform while making dumplings in the kitchen?
+A1: Haeyoung1 is very careful when making dumplings, as she folds the edge of the dumpling meticulously. (AnotherMissOh07_004_0087, AnotherMissOh07_004_0089)
+
+Q2 (Quantification): How many different types of activities are Deogi and Kyungsu shown doing in the kitchen?
+A2: Deogi and Kyungsu are shown doing a variety of activities, including washing lunch boxes, stir-frying vegetables, making dumplings, and kneading dough. (AnotherMissOh07_004_0045, AnotherMissOh07_004_0048, AnotherMissOh07_004_0049, AnotherMissOh07_004_0050, AnotherMissOh07_004_0063, AnotherMissOh07_004_0064, AnotherMissOh07_004_0066, AnotherMissOh07_004_0074, AnotherMissOh07_004_0075, AnotherMissOh07_004_0081, AnotherMissOh07_004_0082, AnotherMissOh07_004_0084, AnotherMissOh07_004_0086)
+
+Q3 (Interpretation): What might be the reason for Deogi's surprise when moving the chair in the living room?
+A3: Deogi's surprise could be due to unexpectedly finding the lunch box in the drawer or encountering something unexpected while moving the chair. (AnotherMissOh07_004_0045)
+
+Q4 (Expectation): What can be inferred about the characters' expectations for the lunch they are preparing?
+A4: It can be inferred that the characters expect the lunch to be well-received, as they are putting in a lot of effort and care into preparing it, such as making dumplings carefully and washing the lunch boxes thoroughly. (AnotherMissOh07_004_0050, AnotherMissOh07_004_0087)
+
+Q5 (Judging): How would you evaluate the level of cooperation between Haeyoung1, Deogi, and Kyungsu in the kitchen based on their actions?
+A5: The level of cooperation between Haeyoung1, Deogi, and Kyungsu appears to be high, as they are all engaged in different tasks to contribute to the preparation of the lunch, such as Haeyoung1 making dumplings, Deogi washing lunch boxes, and Kyungsu kneading dough. (AnotherMissOh07_004_0051, AnotherMissOh07_004_0062, AnotherMissOh07_004_0066, AnotherMissOh07_004_0072)
+
+AnotherMissOh07_005_0000
+
+Q1 (Feature specification): What is the color of the taxi Haeyoung1 is trying to take?
+A1: The taxi is white with a gray bottom and has a sign on top. (AnotherMissOh07_005_0093)
+
+Q2 (Quantification): How many people are seeing Haeyoung1 off as she tries to take the taxi?
+A2: Two people, Deogi and Kyungsu, are seeing Haeyoung1 off. (AnotherMissOh07_005_0094)
+
+Q3 (Comparison): How do Deogi's emotions compare to Kyungsu's while they are seeing Haeyoung1 off?
+A3: Deogi's emotions remain neutral, while Kyungsu shows an expression of disgust at one point. (AnotherMissOh07_005_0097)
+
+Q4 (Interpretation): What might be the reason for Kyungsu's expression of disgust while talking to Deogi?
+A4: Kyungsu's expression of disgust could be related to the conversation or situation they are discussing, but the exact reason is not specified. (AnotherMissOh07_005_0097)
+
+Q5 (Expectation): What might Deogi and Kyungsu expect to happen after Haeyoung1 takes the taxi?
+A5: Deogi and Kyungsu might expect Haeyoung1 to reach her destination on time and not be late. (AnotherMissOh07_005_0094)
+
+AnotherMissOh07_006_0000
+
+Q1 (Feature specification): What is Haeyoung1 doing while she is explaining about the lunchbox to Dokyung?
+A1: Haeyoung1 is talking to Dokyung and explaining about the lunchbox. (AnotherMissOh07_006_0101)
+
+Q2 (Quantification): How many times does Dokyung express surprise during the exchange with Haeyoung1?
+A2: Dokyung expresses surprise four times during the exchange with Haeyoung1. (AnotherMissOh07_006_0098, AnotherMissOh07_006_0099, AnotherMissOh07_006_0101, AnotherMissOh07_006_0102)
+
+Q3 (Interpretation): What might be the reason for Haeyoung1's neutral emotion while giving the lunchbox to Dokyung?
+A3: Haeyoung1's neutral emotion could indicate that she is trying to act casually or that giving the lunchbox is a straightforward gesture without any hidden feelings. (AnotherMissOh07_006_0103)
+
+Q4 (Intention disclosure): What could be Haeyoung1's intention behind giving the lunchbox to Dokyung?
+A4: Haeyoung1's intention behind giving the lunchbox to Dokyung could be to apologize and make amends for the broken stand and window. (AnotherMissOh07_006_0103)
+
+Q5 (Expectation): What might Dokyung expect to happen after receiving the lunchbox from Haeyoung1?
+A5: Dokyung might expect that Haeyoung1 is trying to reconcile or that there could be a conversation following the gesture of giving the lunchbox. (AnotherMissOh07_006_0104)
+
+AnotherMissOh07_007_0000
+
+Q1 (Feature specification): What type of car does Dokyung use to take the lunch box to work?
+A1: Dokyung uses his personal car to take the lunch box to work. (AnotherMissOh07_007_0112)
+
+Q2 (Quantification): How many times is Dokyung seen handling the lunch box in the scene?
+A2: Dokyung is seen handling the lunch box once when he puts it on the passenger seat of the car. (AnotherMissOh07_007_0112)
+
+Q3 (Expectation): What might Dokyung be planning to do with the lunch box during his lunchtime at work?
+A3: Dokyung might be planning to eat the lunch Haeyoung1 prepared for him during his lunchtime at work. (AnotherMissOh07_007_0112)
+
+Q4 (Intention disclosure): What could be the reason Dokyung decides to take the lunch box with him despite his initial hesitation?
+A4: Dokyung decides to take the lunch box with him because he appreciates Haeyoung1's effort in making it for him. (AnotherMissOh07_007_0112)
+
+Q5 (Judging): How would you evaluate Dokyung's emotional state as he puts the lunch box in the car?
+A5: Dokyung's emotional state appears to be neutral as he puts the lunch box in the car, suggesting he may have resolved his earlier hesitation. (AnotherMissOh07_007_0112)
+
+AnotherMissOh07_008_0000
+
+Q1 (Feature specification): What physical action did Sukyung take to alert Haeyoung1 of her presence while Haeyoung1 was dozing off?
+A1: Sukyung knocked on the desk and blew her breath on Haeyoung1's head. (AnotherMissOh07_008_0140, AnotherMissOh07_008_0141)
+
+Q2 (Interpretation): What might be the reason behind Sukyung's decision to massage Haeyoung1's shoulder after waking her up?
+A2: Sukyung might have massaged Haeyoung1's shoulder as a comforting gesture or to alleviate any stiffness from dozing off at the desk. (AnotherMissOh07_008_0145)
+
+Q3 (Cause elucidation): What led to Haeyoung1's big surprise when she opened her eyes?
+A3: Haeyoung1 was surprised because she was caught dozing off at work by Sukyung. (AnotherMissOh07_008_0141)
+
+Q4 (Quantification): How many different emotions did Haeyoung1 display throughout the scene according to the knowledge graph?
+A4: Haeyoung1 displayed five different emotions: Neutral, Surprise, Happiness, Disgust, and Anger. (AnotherMissOh07_008_0115, AnotherMissOh07_008_0120, AnotherMissOh07_008_0128, AnotherMissOh07_008_0134, AnotherMissOh07_008_0136)
+
+Q5 (Expectation): What might Haeyoung1 be expected to do after being woken up by Sukyung in the office?
+A5: Haeyoung1 might be expected to resume her work or address the reason for her dozing off with Sukyung. (AnotherMissOh07_008_0141, AnotherMissOh07_008_0145)
+
+AnotherMissOh07_009_0000
+
+Q1 (Feature specification): What is Haeyoung1 wearing during the interrogation by her co-workers?
+A1: Haeyoung1 is wearing a black sweater. (AnotherMissOh07_009_0151)
+
+Q2 (Interpretation): What might be the reason for Haeyoung1's expression of disgust while wearing a black sweater?
+A2: Haeyoung1's expression of disgust could be a reaction to a comment or situation during the interrogation by her co-workers. (AnotherMissOh07_009_0151)
+
+Q3 (Expectation): What do Haeyoung1's co-workers expect to learn from her during the interrogation?
+A3: Haeyoung1's co-workers expect to learn about her well-being or any recent events that might explain her behavior. (AnotherMissOh07_009_0150)
+
+Q4 (Quantification): How many times is Haeyoung1 shown expressing happiness during the interrogation?
+A4: Haeyoung1 is shown expressing happiness three times during the interrogation. (AnotherMissOh07_009_0155, AnotherMissOh07_009_0161, AnotherMissOh07_009_0163)
+
+Q5 (Cause elucidation): What causes Haeyoung1 to glance sideways during the interrogation?
+A5: Haeyoung1 glances sideways possibly in response to a co-worker's action or question during the interrogation. (AnotherMissOh07_009_0163)
+
+AnotherMissOh07_010_0000
+
+Q1 (Feature specification): What specific emotions does Dokyung display while running in place during the recording session?
+A1: Dokyung displays emotions of disgust while running in place. (AnotherMissOh07_010_0174)
+
+Q2 (Cause elucidation): What causes Sangseok to experience surprise during the recording session?
+A2: Sangseok experiences surprise when he hears an unexpected noise while wearing headphones. (AnotherMissOh07_010_0180)
+
+Q3 (Intention disclosure): What is Gitae's intention when he suggests eating something before running again?
+A3: Gitae's intention is to provide a break and replenish energy for the team after they have become tired from running. (AnotherMissOh07_010_0182)
+
+Q4 (Comparison): How do the emotions of Hun compare to those of Dokyung during the recording of the running sound?
+A4: Hun shows emotions of surprise and disgust, similar to Dokyung's disgust, but also experiences sadness, which is not shown by Dokyung during the recording. (AnotherMissOh07_010_0177, AnotherMissOh07_010_0182)
+
+Q5 (Expectation): What might be the expected quality of the sound recording given the team's reactions to the airplane noise?
+A5: The expected quality of the sound recording might be compromised due to the airplane noise, as indicated by Sangseok's reaction to stop the recording. (AnotherMissOh07_010_0180)
+
+AnotherMissOh07_011_0000
+
+Q1 (Feature specification): What kind of emotions does Sangseok display when he is seen talking with a smile in the car?
+A1: Sangseok displays happiness when he is seen talking with a smile in the car. (AnotherMissOh07_011_0208)
+
+Q2 (Cause elucidation): What causes Hun to explode with rage during the scene?
+A2: Hun explodes with rage after talking to a person, possibly due to a disagreement or an upsetting conversation. (AnotherMissOh07_011_0203)
+
+Q3 (Expectation): What might Dokyung expect to happen after informing his colleagues about the lunch box in the car?
+A3: Dokyung might expect his colleagues to be pleased and to go have the lunch from the lunch box he mentioned. (AnotherMissOh07_011_0210)
+
+Q4 (Intention disclosure): Why does Dokyung decide to yell when he is outside the car?
+A4: Dokyung yells to get the attention of his colleagues to inform them about the lunch box in the car. (AnotherMissOh07_011_0206)
+
+Q5 (Comparison): How do the emotions of Gitae compare when he is sitting on the passenger seat to when he is surprised?
+A5: Gitae shows disgust when sitting on the passenger seat, but his emotion changes to surprise at a later point in the scene. (AnotherMissOh07_011_0197, AnotherMissOh07_011_0208)
+
+AnotherMissOh07_012_0000
+
+Q1 (Feature specification): What kind of food did Dokyung eat from the lunch box that Haeyoung1 packed?
+A1: Dokyung ate kimbap from the lunch box. (AnotherMissOh07_012_0246)
+
+Q2 (Quantification): How many times is Dokyung seen looking back during the lunch scene?
+A2: Dokyung is seen looking back twice during the lunch scene. (AnotherMissOh07_012_0213, AnotherMissOh07_012_0226)
+
+Q3 (Concept completion): What was the reason for Dokyung's neutral emotion while eating the lunch box?
+A3: Dokyung felt neutral while eating the lunch box because he was initially too embarrassed to eat it but decided not to waste it. (AnotherMissOh07_012_0248)
+
+Q4 (Cause elucidation): What caused Hun to express disgust during the lunch?
+A4: Hun expressed disgust during the lunch because he spat out the food. (AnotherMissOh07_012_0223, AnotherMissOh07_012_0227)
+
+Q5 (Intention disclosure): What was Yijoon's intention when he guessed who Dokyung's girlfriend is?
+A5: Yijoon's intention was to figure out the identity of the person who packed the lunch box for Dokyung. (AnotherMissOh07_012_0221)
+
+AnotherMissOh07_013_0000
+
+Q1 (Feature specification): What kind of emotions does Haeyoung1 display while offering food to Sungjin?
+A1: Haeyoung1 displays happiness when offering food to Sungjin. (AnotherMissOh07_013_0254)
+
+Q2 (Expectation): What reaction does Haeyoung1 anticipate from the person receiving the leftovers?
+A2: Haeyoung1 likely anticipates a positive reaction or gratitude from the person receiving the leftovers, as indicated by her generous emotion. (AnotherMissOh07_013_0258)
+
+Q3 (Cause elucidation): What prompts Haeyoung1 to defend Dokyung in the conversation?
+A3: Haeyoung1 defends Dokyung likely due to a sense of loyalty or to correct a misunderstanding about him. (AnotherMissOh07_013_0263)
+
+Q4 (Intention disclosure): Why does Haeyoung2 decide to eat food in front of Haeyoung1?
+A4: Haeyoung2 decides to eat food in front of Haeyoung1 possibly because she is interested in the food and wants to share the experience with Haeyoung1. (AnotherMissOh07_013_0290)
+
+Q5 (Comparison): How does Sungjin's emotional response to the food compare before and after eating it?
+A5: Before eating, Sungjin's emotion is neutral or happy, but after eating, he is surprised by the taste, indicating a significant positive shift in his response to the food. (AnotherMissOh07_013_0257, AnotherMissOh07_013_0285)
+
+AnotherMissOh07_014_0000
+
+Q1 (Feature specification): What is Hun wearing during the lunch scene?
+A1: Hun is wearing a pink overcoat. (AnotherMissOh07_014_0306)
+
+Q2 (Quantification): How many people are shown in the scene finishing their lunch boxes?
+A2: There are multiple people, including Dokyung and his colleagues, shown finishing their lunch boxes. (AnotherMissOh07_014_0307)
+
+Q3 (Interpretation): What might be the reason for Gitae expressing enjoyment of the food?
+A3: Gitae might be expressing enjoyment of the food because he found the lunch satisfying or particularly tasty. (AnotherMissOh07_014_0307)
+
+Q4 (Expectation): What does Dokyung suggest his colleagues should do after finishing their lunch?
+A4: Dokyung suggests they should hurry and work after finishing their lunch. (AnotherMissOh07_014_0307)
+
+Q5 (Method explication): How does Hun stack the separated lunchbox?
+A5: Hun stacks the separated lunchbox by placing one compartment on top of another neatly. (AnotherMissOh07_014_0307)
+
+AnotherMissOh07_015_0000
+
+Q1 (Feature specification): What type of top was Haeyoung2 wearing while using the computer and cell phone?
+A1: Haeyoung2 was wearing a sleeveless top. (AnotherMissOh07_015_0324)
+
+Q2 (Concept completion): What specific item did Haeyoung2 use to connect her phone to the laptop?
+A2: Haeyoung2 used a cable to connect the phone to the laptop. (AnotherMissOh07_015_0322)
+
+Q3 (Verification): Is it true that Haeyoung2 was feeling happy while holding a framed photo?
+A3: No, Haeyoung2's emotion was neutral when she was holding a framed photo. (AnotherMissOh07_015_0310)
+
+Q4 (Quantification): How many actions did Haeyoung2 perform related to her cellphone after opening the box?
+A4: Haeyoung2 performed five actions related to her cellphone: holding a framed photo, taking the photos out of the box, looking at the cellphone, turning on the cellphone, and checking the voice recording in the phone. (AnotherMissOh07_015_0310, AnotherMissOh07_015_0311, AnotherMissOh07_015_0313, AnotherMissOh07_015_0315, AnotherMissOh07_015_0318)
+
+Q5 (Intention disclosure): What was Haeyoung2's intention for checking the voice recording in the phone?
+A5: Haeyoung2's intention for checking the voice recording in the phone was likely to revisit past memories or to gather information for a specific purpose. (AnotherMissOh07_015_0318)
+
+AnotherMissOh07_016_0000
+
+Q1 (Feature specification): What was Dokyung wearing when he was walking with the lunch box?
+A1: Dokyung was wearing a gray jacket. (AnotherMissOh07_016_0329)
+
+Q2 (Concept completion): What did Hun do after hugging Anna?
+A2: Hun circled around holding Anna. (AnotherMissOh07_016_0327)
+
+Q3 (Quantification): How many different emotions did Anna display during her reunion with Hun?
+A3: Anna displayed four different emotions: surprise, happiness, neutral, and surprise again. (AnotherMissOh07_016_0325, AnotherMissOh07_016_0327, AnotherMissOh07_016_0328, AnotherMissOh07_016_0330, AnotherMissOh07_016_0331, AnotherMissOh07_016_0332, AnotherMissOh07_016_0333)
+
+Q4 (Interpretation): What might be the reason for Dokyung's astonishment when opening his mouth in the scene?
+A4: Dokyung's astonishment could be due to an unexpected event or a surprising encounter. (AnotherMissOh07_016_0352)
+
+Q5 (Expectation): What could be expected from Dokyung's reaction after saying the lunch was delicious?
+A5: It could be expected that Dokyung appreciated the taste of the food and was expressing his satisfaction. (AnotherMissOh07_016_0339)
+
+AnotherMissOh07_017_0000
+
+Q1 (Feature specification): What is Dokyung wearing while he is staring into the distance?
+A1: Dokyung is wearing a white shirt. (AnotherMissOh07_017_0363)
+
+Q2 (Concept completion): What does Haeyoung1 say about Dokyung's hand?
+A2: Haeyoung1 says that Dokyung's hand is warm. (AnotherMissOh07_017_0359)
+
+Q3 (Quantification): How many times does Dokyung show a neutral emotion during the hiding scene?
+A3: Dokyung shows a neutral emotion nine times during the hiding scene. (AnotherMissOh07_017_0356, AnotherMissOh07_017_0357, AnotherMissOh07_017_0359, AnotherMissOh07_017_0360, AnotherMissOh07_017_0362, AnotherMissOh07_017_0363, AnotherMissOh07_017_0364, AnotherMissOh07_017_0366, AnotherMissOh07_017_0367)
+
+Q4 (Interpretation): What might be the reason for Dokyung bowing his head?
+A4: Dokyung might be bowing his head to avoid being seen by Sukyung. (AnotherMissOh07_017_0366)
+
+Q5 (Intention disclosure): Why does Haeyoung1 question why they hid?
+A5: Haeyoung1 is likely curious about the necessity of their actions and possibly questioning Dokyung's motives for hiding. (AnotherMissOh07_017_0364)
+
+AnotherMissOh07_018_0000
+
+Q1 (Feature specification): What is Jinsang wearing during his confrontation with Dokyung?
+A1: Jinsang is wearing a checkered jacket. (AnotherMissOh07_018_0375)
+
+Q2 (Cause elucidation): What prompts Jinsang to warn Dokyung about Taejin?
+A2: Jinsang warns Dokyung about Taejin because he expects that Taejin will be released soon. (AnotherMissOh07_018_0394)
+
+Q3 (Method explication): How does Jinsang express his anger towards Dokyung in the scene?
+A3: Jinsang expresses his anger by yelling at Dokyung, frowning, and using gestures. (AnotherMissOh07_018_0376, AnotherMissOh07_018_0384, AnotherMissOh07_018_0393)
+
+Q4 (Expectation): What does Jinsang likely expect to happen after telling Dokyung that Taejin will be released soon?
+A4: Jinsang likely expects Dokyung to take some action or be cautious in response to the news of Taejin's impending release. (AnotherMissOh07_018_0407)
+
+Q5 (Comparison): How does Dokyung's emotional response differ from Jinsang's during their argument?
+A5: Dokyung remains mostly neutral and serious, while Jinsang displays a range of emotions including anger, surprise, and disgust. (AnotherMissOh07_018_0398, AnotherMissOh07_018_0403)
+
+AnotherMissOh07_019_0000
+
+Q1 (Feature specification): What is the color of the trousers Dokyung is wearing while standing by the brick wall?
+A1: Dokyung is wearing black trousers. (AnotherMissOh07_019_0413)
+
+Q2 (Quantification): How many times does Haeyoung1 express happiness in the scene according to the knowledge graph?
+A2: Haeyoung1 expresses happiness three times in the scene. (AnotherMissOh07_019_0409, AnotherMissOh07_019_0414, AnotherMissOh07_019_0416)
+
+Q3 (Verification): Is Dokyung sitting on the sofa at any point during the scene?
+A3: Yes, Dokyung is sitting on the sofa during the scene. (AnotherMissOh07_019_0417)
+
+Q4 (Concept completion): What object is making the sound that Haeyoung1 looks down at?
+A4: Haeyoung1 is looking down at a music box making the sound. (AnotherMissOh07_019_0414)
+
+Q5 (Interpretation): What might be the reason for Dokyung's neutral expression throughout the scene?
+A5: Dokyung's neutral expression could indicate that he is deep in thought or feeling contemplative. (AnotherMissOh07_019_0409, AnotherMissOh07_019_0411, AnotherMissOh07_019_0412, AnotherMissOh07_019_0413, AnotherMissOh07_019_0416, AnotherMissOh07_019_0417)
+
+AnotherMissOh07_020_0000
+
+Q1 (Feature specification): What is Haeyoung1 doing with her drink before she becomes irritated?
+A1: Haeyoung1 is drinking a glass of tea and holding the straw in the glass with a happy look on her face. (AnotherMissOh07_020_0418, AnotherMissOh07_020_0421)
+
+Q2 (Cause elucidation): What causes Haeyoung1's mood to change from happiness to irritation during the conversation?
+A2: Haeyoung1's mood changes to irritation when Heeran mentions Haeyoung2 while talking to her. (AnotherMissOh07_020_0430)
+
+Q3 (Comparison): How do the emotions of Haeyoung1 and Heeran differ when discussing Dokyung?
+A3: Haeyoung1 feels happy when talking about Dokyung, while Heeran shows a neutral emotion during the conversation. (AnotherMissOh07_020_0426, AnotherMissOh07_020_0429)
+
+Q4 (Intention disclosure): What is Heeran's intention when she brings up Haeyoung2 in the conversation with Haeyoung1?
+A4: Heeran's intention may be to discuss their mutual connection to Dokyung, as Haeyoung2 was Dokyung's ex-girlfriend. (AnotherMissOh07_020_0420)
+
+Q5 (Expectation): What does Haeyoung1 likely expect from her meeting with Heeran at the cafe before the conversation takes a turn?
+A5: Haeyoung1 likely expects to have a pleasant catch-up with her friend Heeran without discussing uncomfortable topics like Haeyoung2. (AnotherMissOh07_020_0424, AnotherMissOh07_020_0426)
+
+AnotherMissOh07_021_0000
+
+Q1 (Feature specification): What is Dokyung wearing while he is reading the email from Haeyoung2?
+A1: Dokyung is wearing a black jacket. (AnotherMissOh07_021_0436)
+
+Q2 (Verification): Is Dokyung's emotional state consistent throughout the scene where he reads the email and listens to the voice recording?
+A2: Yes, Dokyung's emotional state is described as neutral throughout the scene. (AnotherMissOh07_021_0436, AnotherMissOh07_021_0438, AnotherMissOh07_021_0439, AnotherMissOh07_021_0440, AnotherMissOh07_021_0442, AnotherMissOh07_021_0443, AnotherMissOh07_021_0445, AnotherMissOh07_021_0448)
+
+Q3 (Concept completion): What specific action does Dokyung take when he hears his own voice from the voice recording?
+A3: Dokyung hears his own voice from the voice recording. (AnotherMissOh07_021_0447)
+
+Q4 (Quantification): How many different actions of Dokyung are described in the scene knowledge graph while he is in the office?
+A4: There are five different actions of Dokyung described: wearing a black jacket, holding his hands around his neck, putting his hand on his lips, staring at something, and listening to the voice file. (AnotherMissOh07_021_0436, AnotherMissOh07_021_0438, AnotherMissOh07_021_0442, AnotherMissOh07_021_0445, AnotherMissOh07_021_0448)
+
+Q5 (Intention disclosure): What might be Jiya's intention for speaking in the scene where Dokyung is listening to the voice file?
+A5: Jiya's intention for speaking could be related to the content of the voice file that Dokyung is listening to. (AnotherMissOh07_021_0448)
+
+AnotherMissOh07_022_0000
+
+Q1 (Feature specification): What is the emotional state of Haeyoung2 as she listens to the voice file in the car?
+A1: Haeyoung2 is in a state of sadness as she listens to the voice file. (AnotherMissOh07_022_0451)
+
+Q2 (Interpretation): What might be the content of the conversation between Dokyung and Jia that causes Haeyoung2 to feel devastated?
+A2: The conversation likely reveals Dokyung's true feelings about Haeyoung2, which are not of love, leading to her feeling devastated. (AnotherMissOh07_022_0452)
+
+Q3 (Cause elucidation): What could be the reason for Haeyoung2's action of beating her chest in tears?
+A3: Haeyoung2's action of beating her chest in tears could be a physical manifestation of her overwhelming emotional pain and heartbreak. (AnotherMissOh07_022_0456)
+
+Q4 (Quantification): How many different emotions does Haeyoung2 exhibit throughout the scene?
+A4: Haeyoung2 exhibits three different emotions throughout the scene: neutrality, sadness, and happiness. (AnotherMissOh07_022_0449, AnotherMissOh07_022_0451, AnotherMissOh07_022_0453)
+
+Q5 (Comparison): How does Haeyoung2's emotional response to the voice file differ from her emotions shown in the photo with Dokyung?
+A5: In the photo with Dokyung, Haeyoung2 displays happiness, whereas her response to the voice file is one of sadness and devastation. (AnotherMissOh07_022_0453, AnotherMissOh07_022_0451)
+
+AnotherMissOh07_023_0000
+
+Q1 (Feature specification): What is Haeyoung2's emotional state while she is sitting with her seat belt fastened in the car?
+A1: Haeyoung2 is in a neutral emotional state while sitting with her seat belt fastened. (AnotherMissOh07_023_0457)
+
+Q2 (Expectation): What does Dokyung expect to happen after telling Haeyoung2 that he will pick her up tomorrow?
+A2: Dokyung expects to see Haeyoung2 again when he picks her up the next day. (AnotherMissOh07_023_0461)
+
+Q3 (Interpretation): What could be the reason behind Haeyoung2's surprise when talking to Dokyung in the car?
+A3: Haeyoung2 might be surprised by something unexpected or significant that Dokyung said. (AnotherMissOh07_023_0459)
+
+Q4 (Quantification): How many different emotions does Haeyoung2 display throughout the scene?
+A4: Haeyoung2 displays four different emotions throughout the scene: surprise, happiness, and neutrality. (AnotherMissOh07_023_0457, AnotherMissOh07_023_0459, AnotherMissOh07_023_0460, AnotherMissOh07_023_0461, AnotherMissOh07_023_0462, AnotherMissOh07_023_0463, AnotherMissOh07_023_0465, AnotherMissOh07_023_0466, AnotherMissOh07_023_0467, AnotherMissOh07_023_0468)
+
+Q5 (Judging): How would you evaluate Dokyung's behavior towards Haeyoung2 in the car based on his actions and expressions?
+A5: Dokyung's behavior towards Haeyoung2 appears to be caring and attentive, as he is seen talking with a smile and looking at her while smiling. (AnotherMissOh07_023_0458, AnotherMissOh07_023_0459, AnotherMissOh07_023_0464, AnotherMissOh07_023_0466)
+
+AnotherMissOh07_024_0000
+
+Q1 (Feature specification): What kind of documents does Haeyoung2 receive from her sergeant?
+A1: Haeyoung2 receives a file folder containing documents from her sergeant. (AnotherMissOh07_024_0472)
+
+Q2 (Quantification): How many times does Haeyoung2 blink her eyes after receiving the documents?
+A2: Haeyoung2 blinks her eyes once after receiving the documents. (AnotherMissOh07_024_0473)
+
+Q3 (Interpretation): What might be the reason for Haeyoung2's happiness after receiving the documents?
+A3: Haeyoung2's happiness could be due to receiving important or positive information in the documents. (AnotherMissOh07_024_0473)
+
+Q4 (Expectation): What is likely to happen next after Haeyoung2 receives the documents?
+A4: After receiving the documents, Haeyoung2 is likely to review the contents and proceed with her work. (AnotherMissOh07_024_0472)
+
+Q5 (Verification): Is the sergeant standing while handing over the documents to Haeyoung2?
+A5: Yes, the sergeant is standing while handing over the documents to Haeyoung2, who is sitting. (AnotherMissOh07_024_0472)
+
+AnotherMissOh07_025_0000
+
+Q1 (Verification): Is Dokyung alone in the office when he reads the email from Haeyoung2?
+A1: Yes, Dokyung is alone in the office when he reads the email. (AnotherMissOh07_025_0474)
+
+Q2 (Concept completion): What kind of email did Dokyung receive from Haeyoung2 that made him sigh?
+A2: Dokyung received an email from Haeyoung2 that likely contained unexpected or significant information, prompting him to sigh. (AnotherMissOh07_025_0476)
+
+Q3 (Feature specification): Can you describe the lighting in the office where Dokyung is standing?
+A3: The lighting in the office is dim with some light coming through the window blinds, creating a somewhat somber atmosphere. (AnotherMissOh07_025_0474)
+
+Q4 (Cause elucidation): What might be the reason for Dokyung's neutral expression while reading the email?
+A4: Dokyung's neutral expression could indicate that he is processing the information in the email without immediate emotional reaction, or he is trying to maintain composure despite what the email contains. (AnotherMissOh07_025_0475)
+
+Q5 (Expectation): What might Dokyung do next after reading the email from Haeyoung2?
+A5: After reading the email, Dokyung might take some time to think about the content, respond to it, or discuss it with someone else if it requires further action. (AnotherMissOh07_025_0476)
+
+AnotherMissOh07_026_0000
+
+Q1 (Feature specification): What kind of ingredients did Haeyoung1 purchase from the street vendor?
+A1: Haeyoung1 bought various groceries from the street vendor. (AnotherMissOh07_026_0483)
+
+Q2 (Quantification): How many times is Haeyoung1 shown expressing happiness during her interaction with the street vendor?
+A2: Haeyoung1 is shown expressing happiness five times during her interaction with the street vendor. (AnotherMissOh07_026_0477, AnotherMissOh07_026_0482, AnotherMissOh07_026_0483, AnotherMissOh07_026_0486, AnotherMissOh07_026_0487)
+
+Q3 (Expectation): What does Haeyoung1 likely expect the street vendor to do after buying everything from her?
+A3: Haeyoung1 likely expects the street vendor to be able to go home early after buying everything from her. (AnotherMissOh07_026_0486)
+
+Q4 (Method explication): How did Haeyoung1 approach the street vendor to initiate the purchase?
+A4: Haeyoung1 walked up to the old lady sitting and selling on the street to initiate the purchase. (AnotherMissOh07_026_0482)
+
+Q5 (Intention disclosure): What was Haeyoung1's intention in telling the street vendor that she would buy everything?
+A5: Haeyoung1's intention was to help the street vendor by allowing her to sell all her goods quickly. (AnotherMissOh07_026_0486)
+
+AnotherMissOh07_027_0000
+
+Q1 (Feature specification): What kind of expression does Haeyoung1 have when she receives the business card from the man?
+A1: Haeyoung1 has an expression of disgust when she receives the business card from the man. (AnotherMissOh07_027_0505)
+
+Q2 (Verification): Is it true that Haeyoung1's initial reaction to the man's invitation was positive?
+A2: No, Haeyoung1's initial reaction was not positive; she looked skeptical and later showed disgust. (AnotherMissOh07_027_0499, AnotherMissOh07_027_0505)
+
+Q3 (Cause elucidation): What prompted Haeyoung1 to stand up while holding a plastic bag?
+A3: Haeyoung1 stood up while holding a plastic bag in response to the man's sudden approach and invitation. (AnotherMissOh07_027_0498)
+
+Q4 (Intention disclosure): What might be the man's intention in giving Haeyoung1 his business card?
+A4: The man's intention in giving Haeyoung1 his business card could be to establish a more formal or professional connection, possibly for future contact. (AnotherMissOh07_027_0504)
+
+Q5 (Expectation): What might Haeyoung1 be expected to do after receiving the business card from the man?
+A5: After receiving the business card, Haeyoung1 might be expected to either contact the man later or discard the card, depending on her interest in his invitation. (AnotherMissOh07_027_0505)
+
+AnotherMissOh07_028_0000
+
+Q1 (Feature specification): What is Haeyoung1 wearing during her dinner with Gitae?
+A1: Haeyoung1 is wearing a white blouse during her dinner with Gitae. (AnotherMissOh07_028_0526)
+
+Q2 (Interpretation): What might be the reason for Haeyoung1's surprised reaction while talking to Gitae?
+A2: Haeyoung1's surprised reaction could be due to discovering something unexpected or suspicious about Gitae. (AnotherMissOh07_028_0522)
+
+Q3 (Expectation): What does Haeyoung1 expect to happen after she refuses to drink with Gitae?
+A3: Haeyoung1 likely expects that Gitae will respect her decision and not insist on her drinking. (AnotherMissOh07_028_0544)
+
+Q4 (Cause elucidation): What causes Haeyoung1 to put her hand on her chest during the conversation with Gitae?
+A4: Haeyoung1 puts her hand on her chest possibly as a reaction to an emotional or surprising moment in the conversation with Gitae. (AnotherMissOh07_028_0528)
+
+Q5 (Judging): How does Haeyoung1 evaluate the situation when she is lifting the card?
+A5: Haeyoung1 seems to be assessing the situation with curiosity or suspicion when she is lifting the card. (AnotherMissOh07_028_0524)
+
+AnotherMissOh07_029_0000
+
+Q1 (Feature specification): What is Jinsang wearing during his confrontation with Haeyoung1 in the office?
+A1: Jinsang is wearing glasses and a tie during his confrontation with Haeyoung1. (AnotherMissOh07_029_0582, AnotherMissOh07_029_0593)
+
+Q2 (Concept completion): What specific action does Haeyoung1 take when she first enters Jinsang's office?
+A2: Haeyoung1 pushes the person's back with her hand as she enters Jinsang's office. (AnotherMissOh07_029_0573)
+
+Q3 (Quantification): How many different emotions does Jinsang display throughout the confrontation with Haeyoung1?
+A3: Jinsang displays a range of emotions including surprise, astonishment, embarrassment, happiness, conflicted feelings, suspicion, anger, disgust, sadness, and laughter. (AnotherMissOh07_029_0569 to AnotherMissOh07_029_0636)
+
+Q4 (Comparison): How does Haeyoung1's emotional state compare to Jinsang's during their conversation in the office?
+A4: Haeyoung1's emotional state is predominantly neutral, suspicious, angry, disgusted, and upset, while Jinsang shows a wider range of emotions including surprise, happiness, and anger. (AnotherMissOh07_029_0572 to AnotherMissOh07_029_0636)
+
+Q5 (Intention disclosure): What is Haeyoung1's intention when she mentions Dokyung during her conversation with Jinsang?
+A5: Haeyoung1's intention when mentioning Dokyung is to seek information or clarification about Dokyung's actions or feelings. (AnotherMissOh07_029_0613)
+
+AnotherMissOh07_030_0000
+
+Q1 (Feature specification): What is Haeyoung1 holding in her hand while walking down the street?
+A1: Haeyoung1 is walking with a plastic bag in her hand. (AnotherMissOh07_030_0637)
+
+Q2 (Quantification): How many different actions does Haeyoung1 perform while walking down the street according to the scene knowledge graph?
+A2: Haeyoung1 performs five different actions while walking down the street: walking in tears, crying sadly, walking while wiping off her tears, walking with a plastic bag in her hand, and walking while blinking her eyes. (AnotherMissOh07_030_0637, AnotherMissOh07_030_0638, AnotherMissOh07_030_0639)
+
+Q3 (Concept completion): What is the missing emotion that Haeyoung1 might be feeling while walking with a neutral expression?
+A3: Haeyoung1 might also be feeling contemplative or reflective. (AnotherMissOh07_030_0637, AnotherMissOh07_030_0638, AnotherMissOh07_030_0639)
+
+Q4 (Interpretation): What could be the reason behind Haeyoung1's transition from crying to a neutral expression while walking?
+A4: The transition from crying to a neutral expression could indicate that Haeyoung1 is beginning to come to terms with her emotions or is trying to compose herself. (AnotherMissOh07_030_0637, AnotherMissOh07_030_0638, AnotherMissOh07_030_0639)
+
+Q5 (Expectation): What might Haeyoung1 be expecting to happen next after her walk down the street?
+A5: Haeyoung1 might be expecting to find some resolution or peace of mind after her emotional walk down the street. (AnotherMissOh07_030_0637, AnotherMissOh07_030_0638, AnotherMissOh07_030_0639)
+
+AnotherMissOh07_031_0000
+
+Q1 (Verification): Is Sukyung's emotional state while talking on the phone depicted as neutral?
+A1: Yes, Sukyung's emotional state while talking on the phone is depicted as neutral. (AnotherMissOh07_031_0642)
+
+Q2 (Feature specification): What color are the trousers that Sukyung is wearing while talking on the phone?
+A2: Sukyung is wearing red trousers while talking on the phone. (AnotherMissOh07_031_0642)
+
+Q3 (Concept completion): Who is on the other end of the phone call with Sukyung?
+A3: Dokyung is on the other end of the phone call asking Sukyung for a favor. (AnotherMissOh07_031_0642)
+
+Q4 (Quantification): How many people are involved in the phone conversation in the scene?
+A4: There are two people involved in the phone conversation: Sukyung and Dokyung. (AnotherMissOh07_031_0642)
+
+Q5 (Intention disclosure): What is Dokyung's intention for calling Sukyung?
+A5: Dokyung's intention for calling Sukyung is to ask for a favor. (AnotherMissOh07_031_0642)
+
+AnotherMissOh07_032_0000
+
+Q1 (Feature specification): What is the emotional state of Dokyung while he is having the conversation with Haeyoung1?
+A1: Dokyung appears neutral during the conversation with Haeyoung1. (AnotherMissOh07_032_0668)
+
+Q2 (Expectation): What might Haeyoung1 expect from Dokyung after their emotional conversation?
+A2: Haeyoung1 might expect Dokyung to understand her feelings and possibly act differently in the future. (AnotherMissOh07_032_0679)
+
+Q3 (Intention disclosure): Why is Dokyung talking to Haeyoung1 about her name?
+A3: Dokyung is likely trying to address a personal matter or clarify a misunderstanding related to Haeyoung1's identity. (AnotherMissOh07_032_0669)
+
+Q4 (Cause elucidation): What causes Haeyoung1 to display sadness during the scene?
+A4: Haeyoung1's sadness is likely due to the emotional nature of the conversation with Dokyung and the issues they are discussing. (AnotherMissOh07_032_0672)
+
+Q5 (Verification): Is it true that Dokyung gets out of the car to talk to Haeyoung1 face to face?
+A5: Yes, Dokyung gets out of the car to have a face-to-face conversation with Haeyoung1. (AnotherMissOh07_032_0667)
+
+AnotherMissOh07_033_0000
+
+Q1 (Feature specification): What physical reaction does Dokyung exhibit as he rushes into the house after Haeyoung1?
+A1: Dokyung is gasping for breath as he rushes into the house to catch up with Haeyoung1. (AnotherMissOh07_033_0699)
+
+Q2 (Interpretation): What might be the reason behind Haeyoung1's emotion of disgust as seen in the scene?
+A2: Haeyoung1's emotion of disgust could be a reaction to Dokyung's unexpected and possibly unwelcome pursuit. (AnotherMissOh07_033_0699)
+
+Q3 (Cause elucidation): What triggers Dokyung to take a deep breath in surprise during the scene?
+A3: Dokyung takes a deep breath in surprise likely due to the sudden realization or shock of seeing Haeyoung1, prompting him to chase after her. (AnotherMissOh07_033_0692)
+
+Q4 (Quantification): How many different emotions does Dokyung experience throughout the chase sequence?
+A4: Dokyung experiences a range of four different emotions: surprised, shocked, breathless, and frustrated. (AnotherMissOh07_033_0692, AnotherMissOh07_033_0695, AnotherMissOh07_033_0696, AnotherMissOh07_033_0697, AnotherMissOh07_033_0698, AnotherMissOh07_033_0699)
+
+Q5 (Expectation): What might Dokyung be hoping to achieve by catching up to Haeyoung1?
+A5: Dokyung might be hoping to confront Haeyoung1 and seek explanations for her recurring appearances in his illusions, or to communicate with her regarding his visions. (AnotherMissOh07_033_0699)
+
+AnotherMissOh07_034_0000
+
+Q1 (Feature specification): What specific emotions does Dokyung display while talking out loud to Haeyoung1?
+A1: Dokyung displays emotions of disgust and anger while talking out loud to Haeyoung1. (AnotherMissOh07_034_0700, AnotherMissOh07_034_0701)
+
+Q2 (Concept completion): What action does Haeyoung1 take in response to Dokyung telling her to move away?
+A2: Haeyoung1 refuses to move away when Dokyung tells her to do so. (AnotherMissOh07_034_0702)
+
+Q3 (Interpretation): What might be the reason behind Dokyung's neutral emotion following the argument with Haeyoung1?
+A3: Dokyung's neutral emotion following the argument could indicate a moment of reflection or an attempt to calm down after the heated exchange. (AnotherMissOh07_034_0705, AnotherMissOh07_034_0706)
+
+Q4 (Cause elucidation): What could have caused Haeyoung1 to have a sad look on her face while speaking to Dokyung?
+A4: Haeyoung1's sad look could be caused by the emotional hurt from the argument and Dokyung's harsh words. (AnotherMissOh07_034_0704)
+
+Q5 (Expectation): What might Haeyoung1 expect to happen after closing the door and going into the house?
+A5: Haeyoung1 might expect to have some space and time to process the argument or perhaps hope for Dokyung to understand her perspective. (AnotherMissOh07_034_0706)
+
+AnotherMissOh07_035_0000
+
+Q1 (Feature specification): What does Haeyoung1's facial expression reveal about her emotional state in the scene?
+A1: Haeyoung1's facial expression reveals that she is upset and angry, as indicated by her having an angry look on her face. (AnotherMissOh07_035_0708)
+
+Q2 (Concept completion): What action does Haeyoung1 take immediately after stamping her feet on the floor?
+A2: Immediately after stamping her feet on the floor, Haeyoung1 takes a step forward. (AnotherMissOh07_035_0712)
+
+Q3 (Verification): Is Haeyoung1's emotion consistent throughout the scene, according to the knowledge graph?
+A3: No, Haeyoung1's emotion changes from neutral to anger as the scene progresses. (AnotherMissOh07_035_0708, AnotherMissOh07_035_0713)
+
+Q4 (Cause elucidation): What might have caused Haeyoung1's neutral expression to shift to anger?
+A4: The cause of Haeyoung1's shift from a neutral expression to anger could be related to her thoughts or memories about Dokyung, which intensify her emotions. (AnotherMissOh07_035_0708, AnotherMissOh07_035_0713)
+
+Q5 (Intention disclosure): What could be Haeyoung1's intention behind taking a step forward after expressing her anger?
+A5: Haeyoung1's intention behind taking a step forward could be to confront the situation or to move away from the source of her anger, which is symbolized by the shoes. (AnotherMissOh07_035_0712)
+
+AnotherMissOh07_036_0000
+
+Q1 (Feature specification): What is Dokyung wearing on his wrist while sitting in the armchair?
+A1: Dokyung is wearing a watch on his wrist while sitting in the armchair. (AnotherMissOh07_036_0718)
+
+Q2 (Concept completion): What is the emotional state of Haeyoung1 while she is talking?
+A2: Haeyoung1 is feeling sadness while she is talking with tears in her eyes. (AnotherMissOh07_036_0715)
+
+Q3 (Verification): Is Dokyung experiencing anger while sitting in the armchair?
+A3: Yes, Dokyung is experiencing anger while sitting in the armchair. (AnotherMissOh07_036_0717)
+
+Q4 (Quantification): How many different emotions does Dokyung display in the scene?
+A4: Dokyung displays three different emotions in the scene: neutrality, anger, and disgust. (AnotherMissOh07_036_0714, AnotherMissOh07_036_0716, AnotherMissOh07_036_0717, AnotherMissOh07_036_0718)
+
+Q5 (Interpretation): What might be the reason for Dokyung's disgust while he is in his house?
+A5: Dokyung's disgust could be a reaction to his thoughts or memories of the argument with Haeyoung1. (AnotherMissOh07_036_0718)
+
+AnotherMissOh07_037_0000
+
+Q1 (Verification): Is Haeyoung1 alone while she is sad in the bathroom?
+A1: Yes, Haeyoung1 is alone while she is sad in the bathroom. (AnotherMissOh07_037_0720)
+
+Q2 (Feature specification): What is the expression on Haeyoung1's face as she sits in the bathroom?
+A2: Haeyoung1 has a tearful and distressed expression on her face as she sits in the bathroom. (AnotherMissOh07_037_0720)
+
+Q3 (Quantification): How long does Haeyoung1 stay in the bathroom?
+A3: The specific duration of Haeyoung1's stay in the bathroom is not provided in the scene information. (AnotherMissOh07_037_0720)
+
+Q4 (Interpretation): What might be the reason for Haeyoung1 choosing the bathroom as a place to express her sadness?
+A4: Haeyoung1 might choose the bathroom as a place to express her sadness because it is a private space where she can be alone with her emotions. (AnotherMissOh07_037_0720)
+
+Q5 (Expectation): What does Haeyoung1 hope to achieve by meditating and speaking to herself in the bathroom?
+A5: Haeyoung1 hopes to achieve a sense of calm and regain control over her emotions by meditating and speaking to herself in the bathroom. (AnotherMissOh07_037_0720)
+
+AnotherMissOh07_038_0000
+
+Q1 (Verification): Is Haeyoung1 alone in her house when Deogi and Kyungsu arrive?
+A1: Yes, Haeyoung1 is alone in her house, meditating on the toilet when Deogi and Kyungsu arrive. (AnotherMissOh07_037_0720)
+
+Q2 (Feature specification): What is the emotional state of Deogi and Kyungsu as they decide to enter Haeyoung1's house?
+A2: Deogi has a neutral emotion, while Kyungsu is surprised as they decide to enter Haeyoung1's house. (AnotherMissOh07_038_0722)
+
+Q3 (Concept completion): What is missing from the knowledge graph regarding Haeyoung1's emotions during her meditation?
+A3: The knowledge graph does not specify Haeyoung1's emotions while she is meditating on the toilet. (AnotherMissOh07_037_0720)
+
+Q4 (Quantification): How many people are shown to be entering Haeyoung1's house in the scene?
+A4: Two people, Deogi and Kyungsu, are shown to be entering Haeyoung1's house in the scene. (AnotherMissOh07_038_0722)
+
+Q5 (Intention disclosure): What is Deogi's intention for walking on the street and going to Haeyoung1's house?
+A5: Deogi's intention for walking on the street and going to Haeyoung1's house is to see Haeyoung1. (AnotherMissOh07_038_0000)
+
+AnotherMissOh07_039_0000
+
+Q1 (Feature specification): What was Haeyoung1 wearing during the scene where she was eating grilled meat with Deogi and Kyungsu?
+A1: Haeyoung1 was wearing white clothes. (AnotherMissOh07_039_0744)
+
+Q2 (Expectation): What reaction did Haeyoung1 expect from Deogi when she slowly opened the bathroom door?
+A2: Haeyoung1 likely expected Deogi to be surprised when she slowly opened the bathroom door. (AnotherMissOh07_039_0727)
+
+Q3 (Cause elucidation): What caused Haeyoung1 to raise her eyebrows while talking to Deogi?
+A3: Haeyoung1 raised her eyebrows in response to something Deogi said or did during their conversation. (AnotherMissOh07_039_0754)
+
+Q4 (Intention disclosure): What was Kyungsu's intention when he was smiling with scissors and tongs?
+A4: Kyungsu's intention was likely to show enjoyment or contentment while preparing the meal. (AnotherMissOh07_039_0752)
+
+Q5 (Comparison): How did Deogi's emotional state compare before and after Haeyoung1 opened the bathroom door?
+A5: Before Haeyoung1 opened the bathroom door, Deogi's emotional state was neutral, but after Haeyoung1 opened the door, Deogi showed signs of surprise and anger. (AnotherMissOh07_039_0728, AnotherMissOh07_039_0760)
+
+AnotherMissOh07_040_0000
+
+Q1 (Feature specification): What is Dokyung wearing when he appears in the scene?
+A1: Dokyung is wearing a white shirt and a black cardigan when he appears in the scene. (AnotherMissOh07_040_0780, AnotherMissOh07_040_0803)
+
+Q2 (Cause elucidation): What causes Haeyoung1 to have an irritated face while sitting next to Dokyung?
+A2: Haeyoung1 has an irritated face while sitting next to Dokyung because she is uncomfortable with his presence. (AnotherMissOh07_040_0824)
+
+Q3 (Comparison): How does Deogi's emotion while talking with a spoon in her hand compare to her emotion when she is encouraging Dokyung to eat?
+A3: Deogi's emotion while talking with a spoon in her hand is neutral, whereas when she is encouraging Dokyung to eat, she displays happiness. (AnotherMissOh07_040_0806, AnotherMissOh07_040_0823)
+
+Q4 (Intention disclosure): What is Kyungsu's intention when he covers Deogi's mouth with his hand?
+A4: Kyungsu's intention when covering Deogi's mouth with his hand is to stop her from speaking further, possibly to prevent a conflict or to keep the situation under control. (AnotherMissOh07_040_0969)
+
+Q5 (Expectation): What does Haeyoung1 expect from Dokyung when she looks at him with contempt as he is eating meat?
+A5: Haeyoung1 expects Dokyung to understand her disapproval and discomfort with his actions when she looks at him with contempt as he is eating meat. (AnotherMissOh07_040_0856)
+
+AnotherMissOh07_041_0000
+
+Q1 (Feature specification): What is the state of Deogi's clothes after she attempts to unbutton them?
+A1: Deogi's clothes are torn, and a button comes off after she attempts to unbutton them. (AnotherMissOh07_041_0985)
+
+Q2 (Cause elucidation): What prompts Deogi to make threats over the phone?
+A2: Deogi makes threats over the phone because she wants Haeyoung1 to give up on Dokyung. (AnotherMissOh07_041_0977)
+
+Q3 (Verification): Is Kyungsu actively participating in the conversation between Deogi and Haeyoung1?
+A3: No, Kyungsu is not actively participating; he is only listening to Deogi talking on the phone. (AnotherMissOh07_041_0976)
+
+Q4 (Quantification): How many emotions does Deogi display throughout the scene?
+A4: Deogi displays a range of emotions including neutrality, surprise, anger, and disgust. (AnotherMissOh07_041_0973, AnotherMissOh07_041_0976, AnotherMissOh07_041_0977, AnotherMissOh07_041_0980, AnotherMissOh07_041_0982, AnotherMissOh07_041_0985, AnotherMissOh07_041_0988, AnotherMissOh07_041_0990, AnotherMissOh07_041_0992, AnotherMissOh07_041_0994, AnotherMissOh07_041_0996, AnotherMissOh07_041_0997)
+
+Q5 (Intention disclosure): What is Kyungsu's intention when he tries to sit next to Deogi after the incident with her clothes?
+A5: Kyungsu's intention when trying to sit next to Deogi seems to be to offer support or assistance after the incident with her clothes. (AnotherMissOh07_041_0996)
+
+AnotherMissOh07_042_0000
+
+Q1 (Feature specification): What is Haeyoung1 wearing while reminiscing about Dokyung?
+A1: Haeyoung1 is wearing a white sweatshirt. (AnotherMissOh07_042_1003)
+
+Q2 (Concept completion): What is the emotional state of Haeyoung1 while she is lost in thought?
+A2: Haeyoung1 appears to be neutral while lost in thought. (AnotherMissOh07_042_1005)
+
+Q3 (Verification): Is Dokyung showing any signs of happiness while sitting down and sighing deeply?
+A3: No, Dokyung is not showing signs of happiness; he appears neutral when sitting down and sighing deeply. (AnotherMissOh07_042_1002)
+
+Q4 (Interpretation): What might be the reason for Dokyung's troubled look while bowing his head?
+A4: Dokyung's troubled look could indicate that he is feeling distressed or concerned about something. (AnotherMissOh07_042_1012)
+
+Q5 (Quantification): How many different emotions are displayed by Dokyung in the provided shots?
+A5: Dokyung displays two different emotions in the provided shots: neutral and disgust. (AnotherMissOh07_042_1002, AnotherMissOh07_042_1004, AnotherMissOh07_042_1006, AnotherMissOh07_042_1009, AnotherMissOh07_042_1012)
+
+AnotherMissOh07_043_0000
+
+Q1 (Feature specification): What was Haeyoung1's emotional state when she was talking to Jinsang after the near accident?
+A1: Haeyoung1 felt disgust when she was talking to Jinsang after the near accident. (AnotherMissOh07_043_1020)
+
+Q2 (Expectation): What might Haeyoung1 expect from Jinsang after he almost hit her with his car?
+A2: Haeyoung1 might expect an apology or some form of acknowledgment of the danger he caused. (AnotherMissOh07_043_1018)
+
+Q3 (Interpretation): How could Haeyoung1's action of singing while listening to music be interpreted in the context of her night bike ride?
+A3: Haeyoung1's action of singing while listening to music could be interpreted as her way of finding joy and relaxation during her bike ride. (AnotherMissOh07_043_1031)
+
+Q4 (Cause elucidation): What could have caused Jinsang to get out of the car in a hurry?
+A4: The cause of Jinsang getting out of the car in a hurry was likely the shock and concern after almost hitting Haeyoung1. (AnotherMissOh07_043_1018)
+
+Q5 (Quantification): How many times did Haeyoung1 express a neutral emotion during the scene?
+A5: Haeyoung1 expressed a neutral emotion nine times during the scene. (AnotherMissOh07_043_1013, AnotherMissOh07_043_1014, AnotherMissOh07_043_1015, AnotherMissOh07_043_1016, AnotherMissOh07_043_1021, AnotherMissOh07_043_1022, AnotherMissOh07_043_1023, AnotherMissOh07_043_1027, AnotherMissOh07_043_1029)
+
+AnotherMissOh07_044_0000
+
+Q1 (Feature specification): What is Dokyung wearing while he is standing in front of the wall on the terrace?
+A1: Dokyung is wearing a white shirt and a black cardigan while standing in front of the wall on the terrace. (AnotherMissOh07_044_1036, AnotherMissOh07_044_1038)
+
+Q2 (Concept completion): What specific action does Haeyoung1 perform that reflects her happiness in Dokyung's mind?
+A2: Haeyoung1 is taking a shot, which reflects her happiness in Dokyung's mind. (AnotherMissOh07_044_1040)
+
+Q3 (Interpretation): What might be the reason for Taejin's expression of disgust in the scene?
+A3: Taejin's expression of disgust could be a reaction to an unpleasant situation or a disagreement with something that occurred in the scene. (AnotherMissOh07_044_1043)
+
+Q4 (Quantification): How many different emotions does Dokyung display while he is on the terrace?
+A4: Dokyung displays three different emotions while he is on the terrace: neutral, surprise, and disgust. (AnotherMissOh07_044_1034, AnotherMissOh07_044_1035, AnotherMissOh07_044_1036, AnotherMissOh07_044_1037, AnotherMissOh07_044_1038, AnotherMissOh07_044_1039, AnotherMissOh07_044_1041, AnotherMissOh07_044_1044)
+
+Q5 (Expectation): What might Dokyung be anticipating as he walks back and forth on the terrace?
+A5: Dokyung might be anticipating some clarity or resolution regarding his thoughts about Haeyoung1 and the man she would almost marry. (AnotherMissOh07_044_1035)
+
+AnotherMissOh07_045_0000
+
+Q1 (Feature specification): What kind of top was Sukyung wearing when she decided to take it off in front of Jinsang?
+A1: Sukyung was wearing a white top with a pattern when she decided to take it off in front of Jinsang. (AnotherMissOh07_045_1047)
+
+Q2 (Expectation): What reaction does Jinsang likely expect from others when he mistakenly believes he is wearing pajamas instead of underwear?
+A2: Jinsang likely expects others to be indifferent or not surprised, as he mistakenly believes he is dressed appropriately in pajamas. (AnotherMissOh07_045_1046)
+
+Q3 (Cause elucidation): What prompts Jinsang to run away from Sukyung in the living room?
+A3: Jinsang runs away from Sukyung in the living room likely because he is surprised and possibly embarrassed by Sukyung's prank of showing her underwear. (AnotherMissOh07_045_1066)
+
+Q4 (Quantification): How many people are present in the kitchen during the conversation about Haeyoung1?
+A4: There are three people present in the kitchen during the conversation about Haeyoung1: Dokyung, Hun, and Jinsang. (AnotherMissOh07_045_1070)
+
+Q5 (Comparison): How does Sukyung's emotional state compare before and after she takes off her top in front of Jinsang?
+A5: Before taking off her top, Sukyung appears neutral, but after the action, her emotional state is not explicitly described in the provided information. However, based on the context, it could be inferred that her emotional state might shift to surprise or disgust in reaction to Jinsang's behavior. (AnotherMissOh07_045_1054, AnotherMissOh07_045_1055)
+
+AnotherMissOh07_046_0000
+
+Q1 (Feature specification): What is the color of the blouse that Haeyoung1 is wearing when she encounters Haeyoung2?
+A1: Haeyoung1 is wearing a sky blue blouse. (AnotherMissOh07_046_1131)
+
+Q2 (Quantification): How many people are visibly present in the lobby scene where Haeyoung1 is walking behind Haeyoung2?
+A2: There are at least three people visibly present in the lobby scene. (AnotherMissOh07_046_1104)
+
+Q3 (Comparison): How do the emotions of Haeyoung1 differ before and after she hands over the delivery box to Haeyoung2?
+A3: Before handing over the delivery box, Haeyoung1 has a sullen look, but after handing it over, she displays happiness. (AnotherMissOh07_046_1115, AnotherMissOh07_046_1121)
+
+Q4 (Interpretation): What might be the reason for Haeyoung1's irritated look after the misunderstanding is cleared?
+A4: Haeyoung1's irritated look could be due to the inconvenience and embarrassment caused by the boss's scolding over the package mix-up. (AnotherMissOh07_046_1128)
+
+Q5 (Expectation): What can be expected of Haeyoung2's actions following the awkward smile she gives in the elevator?
+A5: Following the awkward smile, Haeyoung2 might attempt to clear up any remaining misunderstandings or try to make amends with Haeyoung1. (AnotherMissOh07_046_1125)
+
+AnotherMissOh07_047_0000
+
+Q1 (Feature specification): What is the color of the skirt Haeyoung2 is wearing while walking in the office?
+A1: Haeyoung2 is wearing a gray skirt while walking in the office. (AnotherMissOh07_047_1132)
+
+Q2 (Verification): Is Dokyung's name at the top of the recipient list in the email Haeyoung2 is checking?
+A2: Yes, Dokyung's name is at the top of the recipient list in the email Haeyoung2 is checking. (AnotherMissOh07_047_1142)
+
+Q3 (Concept completion): What item is Haeyoung2 using to greet her superiors in the morning?
+A3: Haeyoung2 is using her cell phone to greet her superiors in the morning. (AnotherMissOh07_047_1136)
+
+Q4 (Quantification): How many emotions does Haeyoung2 display throughout the scene according to the knowledge graph?
+A4: Haeyoung2 displays two different emotions throughout the scene: happiness and neutral. (AnotherMissOh07_047_1132, AnotherMissOh07_047_1137)
+
+Q5 (Interpretation): What might be the reason for Haeyoung2 flipping her hair behind her ears while at her desk?
+A5: Haeyoung2 flipping her hair behind her ears could indicate a shift from a casual to a more focused or professional demeanor as she begins to work at her desk. (AnotherMissOh07_047_1137)
+
+AnotherMissOh07_048_0000
+
+Q1 (Feature specification): What kind of earrings was Jiya wearing during her visit to the company?
+A1: Jiya was wearing earrings when she was in the company. (AnotherMissOh07_048_1148)
+
+Q2 (Quantification): How many times did Jiya express disgust during her visit to the company?
+A2: Jiya expressed disgust four times during her visit to the company. (AnotherMissOh07_048_1153, AnotherMissOh07_048_1155, AnotherMissOh07_048_1159, AnotherMissOh07_048_1160)
+
+Q3 (Comparison): How did Sangseok's emotional response to Jiya's presence in the company compare to Gitae's?
+A3: Sangseok had a neutral and sometimes surprised reaction to Jiya's presence, while Gitae showed disgust and surprise. (AnotherMissOh07_048_1147, AnotherMissOh07_048_1149, AnotherMissOh07_048_1160, AnotherMissOh07_048_1168, AnotherMissOh07_048_1169, AnotherMissOh07_048_1171, AnotherMissOh07_048_1176)
+
+Q4 (Interpretation): What might be the reason for Jiya's surprise when she was sticking to the wall?
+A4: Jiya was likely surprised by an unexpected encounter or event while she was in the company. (AnotherMissOh07_048_1146)
+
+Q5 (Expectation): What was Jiya likely expecting when she was waving her hands and showing a surprised expression?
+A5: Jiya was likely expecting not to be noticed or was reacting to an unexpected situation when she was waving her hands. (AnotherMissOh07_048_1150)
+
+AnotherMissOh07_049_0000
+
+Q1 (Feature specification): What physical action did Dokyung take as a sign of his anger towards Hun?
+A1: Dokyung stood up and rolled up his sleeves. (AnotherMissOh07_049_1204)
+
+Q2 (Cause elucidation): What prompted Jiya to get down quickly and walk in a low position?
+A2: Jiya was likely trying to avoid being noticed or involved in the confrontation between Dokyung and Hun. (AnotherMissOh07_049_1212, AnotherMissOh07_049_1213)
+
+Q3 (Expectation): What might Hun do in response to Dokyung's anger and instructions?
+A3: Hun might go back to the beach to record the sound again as instructed by Dokyung. (AnotherMissOh07_049_1201)
+
+Q4 (Interpretation): What does Dokyung's action of turning his head indicate about his emotional state?
+A4: Dokyung turning his head might indicate his frustration and an attempt to control his anger. (AnotherMissOh07_049_1190)
+
+Q5 (Quantification): How many times is Jiya shown reacting to the situation between Dokyung and Hun?
+A5: Jiya is shown reacting twice, once by getting down quickly and another time by walking in a low position. (AnotherMissOh07_049_1188, AnotherMissOh07_049_1212, AnotherMissOh07_049_1213)
+
+AnotherMissOh07_050_0000
+
+Q1 (Feature specification): What specific action does Gitae perform as he enters the office?
+A1: Gitae is closing the door and coming into the office. (AnotherMissOh07_050_1214)
+
+Q2 (Interpretation): What might the clicking sound Gitae makes with his thumb indicate about his state of mind or mood?
+A2: The clicking sound could indicate Gitae's impatience or a habit he exhibits when he is in thought or processing something. (AnotherMissOh07_050_1218)
+
+Q3 (Cause elucidation): What causes Hun to cover his face while he is talking?
+A3: Hun covers his face as he talks due to a feeling of surprise. (AnotherMissOh07_050_1230)
+
+Q4 (Quantification): How many different emotions does Hun display throughout the scene?
+A4: Hun displays five different emotions throughout the scene: Neutral, Disgust, Surprise, Anger, and Happiness. (AnotherMissOh07_050_1214, AnotherMissOh07_050_1218, AnotherMissOh07_050_1220, AnotherMissOh07_050_1223, AnotherMissOh07_050_1224, AnotherMissOh07_050_1226, AnotherMissOh07_050_1230, AnotherMissOh07_050_1231, AnotherMissOh07_050_1233, AnotherMissOh07_050_1235, AnotherMissOh07_050_1236)
+
+Q5 (Comparison): How do Gitae's emotions compare to Hun's throughout the scene?
+A5: Gitae's emotions are mostly neutral, with instances of disgust and happiness, while Hun's emotions are more varied, including neutral, disgust, surprise, anger, and happiness. (AnotherMissOh07_050_1214, AnotherMissOh07_050_1216, AnotherMissOh07_050_1217, AnotherMissOh07_050_1218, AnotherMissOh07_050_1219, AnotherMissOh07_050_1220, AnotherMissOh07_050_1221, AnotherMissOh07_050_1222, AnotherMissOh07_050_1223, AnotherMissOh07_050_1224, AnotherMissOh07_050_1232, AnotherMissOh07_050_1234, AnotherMissOh07_050_1236)
+
+AnotherMissOh07_051_0000
+
+Q1 (Feature specification): What is the color of the jacket Jiya is wearing while talking to Dokyung?
+A1: Jiya is wearing a yellow jacket. (AnotherMissOh07_051_1246)
+
+Q2 (Concept completion): What specific memory of Dokyung is triggered by the text message from Haeyoung2?
+A2: The memory of Dokyung and Jiya fighting is triggered by the text message from Haeyoung2. (AnotherMissOh07_051_1243, AnotherMissOh07_051_1244, AnotherMissOh07_051_1245)
+
+Q3 (Quantification): How many different emotions does Dokyung display throughout the scene?
+A3: Dokyung displays three different emotions throughout the scene: neutral, disgust, and anger. (AnotherMissOh07_051_1237, AnotherMissOh07_051_1251, AnotherMissOh07_051_1257, AnotherMissOh07_051_1258, AnotherMissOh07_051_1259)
+
+Q4 (Interpretation): What might be the reason for Dokyung's deep thought while gazing into the distance?
+A4: Dokyung could be contemplating his relationship with Haeyoung2 and the recent altercation with Jiya. (AnotherMissOh07_051_1244)
+
+Q5 (Cause elucidation): What causes Dokyung to contradict Jiya in anger?
+A5: Dokyung contradicts Jiya in anger because of her negative remarks about Haeyoung2. (AnotherMissOh07_051_1251)
+
+AnotherMissOh07_052_0000
+
+Q1 (Feature specification): What is Haeyoung2 wearing while she is walking with a jacket on her shoulder?
+A1: Haeyoung2 is wearing a white top and light-colored pants while walking with a jacket on her shoulder. (AnotherMissOh07_052_1260)
+
+Q2 (Comparison): How do the emotions of Haeyoung1 differ from those of Haeyoung2 when they are both in the presence of their respective partners?
+A2: Haeyoung1 exhibits emotions of surprise and nervousness when she is with Taejin, while Haeyoung2 shows happiness when she is with Dokyung. (AnotherMissOh07_052_1279, AnotherMissOh07_052_1263)
+
+Q3 (Cause elucidation): What causes Deogi to display anger towards Dokyung?
+A3: Deogi displays anger towards Dokyung because he is shouting and pointing, which indicates a heated exchange or disagreement. (AnotherMissOh07_052_1268)
+
+Q4 (Intention disclosure): What is Taejin's intention when he approaches Haeyoung1 at the bus stop?
+A4: Taejin's intention appears to be to engage with Haeyoung1 as he is seen walking forward and looking at her. (AnotherMissOh07_052_1288)
+
+Q5 (Expectation): What can be expected of Haeyoung2's behavior in the future after meeting Dokyung and showing happiness?
+A5: It can be expected that Haeyoung2 will seek further interaction with Dokyung, as her happiness suggests a positive association with him. (AnotherMissOh07_052_1263)

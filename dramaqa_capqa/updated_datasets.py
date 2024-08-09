@@ -43,12 +43,12 @@ def merge_data(updated_file, test_set_file):
     return test_set_data
 
 # Processing all files (16, 17, 18)
-for i in range(13, 16):
+for i in range(1, 13):
     updated_filename = f"./scene_updated/AnotherMissOhQA{i}_updated.json"
-    test_set_filename = "../originals/AnotherMissOhQA_val_set.json"
-    new_filename = "./AnotherMissOhQA_val_set_scnew.json"
+    test_set_filename = "../originals/AnotherMissOhQA_train_set.json"
+    new_filename = "./AnotherMissOhQA_train_set_scnew.json"
 
-    if i > 13:
+    if i > 1:
         merged_data = merge_data(updated_filename, new_filename)
         save_json(merged_data, new_filename)
     else:
