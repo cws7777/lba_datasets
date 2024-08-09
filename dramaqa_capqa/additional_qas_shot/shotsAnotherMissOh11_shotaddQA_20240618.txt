@@ -1,0 +1,3622 @@
+AnotherMissOh11_001_0027
+Q (Q1, Verification): Is Dokyung's action of opening his eyes indicative of him waking up from sleep or regaining consciousness?
+A: Yes, Dokyung opening his eyes suggests that he is waking up from sleep or regaining consciousness.
+
+AnotherMissOh11_001_0027
+Q (Q1, Verification): Is Dokyung waking up from sleep or unconsciousness?
+A: Dokyung is opening his eyes, which indicates that he is waking up.
+
+AnotherMissOh11_001_0028
+Q (Q4, Feature specification): What is the position of Dokyung's hand while blocking the sunlight?
+A: Dokyung's hand is positioned in front of his face to block the sunlight.
+
+AnotherMissOh11_001_0028
+Q (Q4, Feature specification): What is the position of Dokyung's hand in relation to his face while blocking the sunlight?
+A: Dokyung's hand is positioned in front of his face to block the sunlight.
+
+AnotherMissOh11_001_0029
+Q (Q4, Feature specification): What kind of car is Dokyung in?
+A: Dokyung is in a white car.
+
+AnotherMissOh11_001_0029
+Q (Q4, Feature specification): What is the color of the car Dokyung is in?
+A: The car Dokyung is in is white.
+
+AnotherMissOh11_001_0030
+Q (Q4, Feature specification): What is Dokyung's posture while he is in the car?
+A: Dokyung is sitting in the car.
+
+AnotherMissOh11_001_0031
+Q (Q11, Intention disclosure): Why might Dokyung be looking at Haeyoung1?
+A: Dokyung could be looking at Haeyoung1 because he has an interest in her or there is something about her that has caught his attention.
+
+AnotherMissOh11_001_0032
+Q (Q8, Interpretation): What might be the reason behind Dokyung's slight smile?
+A: Dokyung's slight smile could indicate that he is experiencing a subtle moment of happiness or amusement.
+
+AnotherMissOh11_001_0033
+Q (Q11, Intention disclosure): Why does Dokyung put his hand on Haeyoung1's shoulder?
+A: Dokyung puts his hand on Haeyoung1's shoulder as a gesture of comfort or support.
+
+AnotherMissOh11_001_0033
+Q (Q11, Intention disclosure): Why does Dokyung put his hand on Haeyoung1's shoulder?
+A: Dokyung puts his hand on Haeyoung1's shoulder to offer comfort or support.
+
+AnotherMissOh11_001_0034
+Q (Q4, Feature specification): What position is Haeyoung1 in while sleeping?
+A: Haeyoung1 is lying down with her eyes closed, appearing peaceful as she sleeps.
+
+AnotherMissOh11_001_0035
+Q (Q9, Cause elucidation): What might be the reason Dokyung is looking down?
+A: Dokyung could be looking down due to a moment of contemplation, feeling sad, or reflecting on a situation.
+
+AnotherMissOh11_001_0036
+Q (Q4, Feature specification): What type of accessory is Dokyung wearing on his wrist?
+A: Dokyung is wearing a watch on his wrist.
+
+AnotherMissOh11_001_0036
+Q (Q4, Feature specification): What type of watch is Dokyung wearing?
+A: Dokyung is wearing a wristwatch.
+
+AnotherMissOh11_001_0037
+Q (Q4, Feature specification): What type of clothing is Haeyoung1 wearing?
+A: Haeyoung1 is wearing a shirt.
+
+AnotherMissOh11_001_0038
+Q (Q11, Intention disclosure): Why might Haeyoung1 be lying down on the person's lap?
+A: Haeyoung1 might be lying down on the person's lap for comfort or emotional support.
+
+AnotherMissOh11_002_0043
+Q (Q4, Feature specification): What is the expression on Kyungsu's face while standing next to Deogi?
+A: Kyungsu has a surprised expression on his face while standing next to Deogi.
+
+AnotherMissOh11_002_0043
+Q (Q4, Feature specification): What is the expression on Kyungsu's face as he stands by Deogi?
+A: Kyungsu has a surprised expression on his face as he stands by Deogi.
+
+AnotherMissOh11_002_0044
+Q (Q11, Intention disclosure): Why might Taejin be holding a phone?
+A: Taejin could be holding a phone to make a call, send a message, or check for updates or notifications.
+
+AnotherMissOh11_002_0044
+Q (Q11, Intention disclosure): Why is Taejin holding a phone?
+A: Taejin is holding a phone likely because he is about to make a call, receive a call, or is currently engaged in a conversation.
+
+AnotherMissOh11_002_0045
+Q (Q11, Intention disclosure): Why is Taejin bowing?
+A: Taejin is bowing as a sign of respect or apology, which is a common gesture in Korean culture.
+
+AnotherMissOh11_002_0045
+Q (Q11, Intention disclosure): Why is Taejin bowing in this scene?
+A: Taejin is bowing as a sign of respect or apology, which is a common gesture in Korean culture to convey sincerity in social interactions.
+
+AnotherMissOh11_002_0046
+Q (Q4, Feature specification): What type of clothing is Deogi wearing in the shot?
+A: Deogi is wearing a jacket.
+
+AnotherMissOh11_002_0047
+Q (Q1, Verification): Is Taejin alone when Deogi and Kyungsu pass by him?
+A: Yes, Taejin is alone when Deogi and Kyungsu pass by him.
+
+AnotherMissOh11_002_0047
+Q (Q11, Intention disclosure): Why might Taejin be concerned about Haeyoung not answering the phone?
+A: Taejin might be concerned about Haeyoung not answering the phone because he could be waiting for an important response from her or he might be worried about her well-being.
+
+AnotherMissOh11_002_0048
+Q (Q11, Intention disclosure): Why is Taejin trying to call Haeyoung?
+A: Taejin might be trying to call Haeyoung because he needs to discuss something important or has a matter to resolve with her.
+
+AnotherMissOh11_002_0049
+Q (Q11, Intention disclosure): Why is Deogi questioning Taejin about Haeyoung answering his call?
+A: Deogi is implying that there is no reason for Haeyoung to be answering Taejin's call, suggesting that Deogi is suspicious of Taejin's intentions or relationship with Haeyoung.
+
+AnotherMissOh11_002_0050
+Q (Q4, Feature specification): What is a distinctive feature of Deogi's hairstyle?
+A: Deogi has bangs.
+
+AnotherMissOh11_002_0051
+Q (Q11, Intention disclosure): Why is Taejin kneeling down on his knees in this shot?
+A: Taejin is kneeling down as a gesture of apology or to show respect to Deogi and Kyungsu.
+
+AnotherMissOh11_002_0052
+Q (Q11, Intention disclosure): Why did Taejin decide to wear a tie?
+A: Taejin might have decided to wear a tie to present himself formally, possibly for a professional or significant personal occasion.
+
+AnotherMissOh11_002_0053
+Q (Q11, Intention disclosure): Why might Kyungsu be wearing a towel around his neck?
+A: Kyungsu might be wearing a towel around his neck to dry off sweat or water, possibly after exercising or taking a shower.
+
+AnotherMissOh11_002_0054
+Q (Q11, Intention disclosure): Why did Taejin wear a suit?
+A: Taejin wore a suit because he had to attend an event or a formal occasion that required him to dress formally.
+
+AnotherMissOh11_002_0058
+Q (Q4, Feature specification): What was Taejin's posture when he lowered his head?
+A: Taejin's posture was slightly bent forward as he lowered his head.
+
+AnotherMissOh11_002_0059
+Q (Q4, Feature specification): What is the relationship between Kyungsu and his hair?
+A: Kyungsu has hair.
+
+AnotherMissOh11_002_0060
+Q (Q4, Feature specification): What is the appearance of the house gate that Deogi is entering?
+A: The house gate that Deogi is entering is a white, metal gate with a design that includes vertical bars, and there are flowering plants around it.
+
+AnotherMissOh11_002_0061
+Q (Q11, Intention disclosure): Why is Kyungsu making Taejin stand up?
+A: Kyungsu is likely trying to help Taejin regain his composure or move him from his current location for a specific reason.
+
+AnotherMissOh11_002_0062
+Q (Q11, Intention disclosure): Why did Kyungsu say to Taejin that he heard it all and acknowledged Taejin's hard times?
+A: Kyungsu intended to show empathy and understanding towards Taejin's recent struggles.
+
+AnotherMissOh11_002_0063
+Q (Q9, Cause elucidation): What caused Taejin to feel sad?
+A: Taejin had a hard time, which caused him to feel sad.
+
+AnotherMissOh11_002_0065
+Q (Q3, Concept completion): Where did Haeyoung1 move out from?
+A: Haeyoung1 moved out from her place in Pyeongchang dong.
+
+AnotherMissOh11_002_0068
+Q (Q11, Intention disclosure): Why did Kyungsu pick up the bottle?
+A: Kyungsu picked up the bottle because he was responding to someone coming.
+
+AnotherMissOh11_002_0069
+Q (Q1, Verification): Did Kyungsu close the door gently?
+A: The information provided does not specify how Kyungsu closed the door.
+
+AnotherMissOh11_002_0070
+Q (Q4, Feature specification): What is the weather like where Taejin is standing outside?
+A: The weather appears to be clear and sunny as there are shadows on the ground, indicating the presence of sunlight, and the overall brightness of the scene suggests a daytime setting with good weather.
+
+AnotherMissOh11_003_0072
+Q (Q4, Feature specification): What is the condition of Haeyoung1 as she gets off the car?
+A: Haeyoung1 is experiencing discomfort in her back as she gets off the car.
+
+AnotherMissOh11_003_0072
+Q (Q4, Feature specification): What is the condition of Haeyoung1 as she gets off the car?
+A: Haeyoung1 is experiencing discomfort in her back as she gets off the car.
+
+AnotherMissOh11_003_0073
+Q (Q4, Feature specification): What is the color of the car near which Haeyoung1 is standing?
+
+A: The car is white.
+
+AnotherMissOh11_003_0073
+Q (Q11, Intention disclosure): Why is Haeyoung1 standing near the car?
+A: Haeyoung1 is expressing gratitude, possibly after a conversation or receiving a favor, as indicated by her saying "Thank you..." while standing near the car.
+
+AnotherMissOh11_003_0074
+Q (Q11, Intention disclosure): Why might Haeyoung1 consider calling in sick today?
+A: Haeyoung1 might consider calling in sick today because she feels like her whole body is aching as if she went on a trip overseas.
+
+AnotherMissOh11_003_0074
+Q (Q11, Intention disclosure): Why might Haeyoung1 consider calling in sick today?
+A: Haeyoung1 might consider calling in sick today because she feels like her whole body is aching as if she went on a trip overseas.
+
+AnotherMissOh11_003_0075
+Q (Q11, Intention disclosure): Why would Isadora want to kill Haeyoung1 for doing that day?
+A: Haeyoung1 believes that Isadora would be extremely upset or angry with her actions, implying that what she considered doing would go against Isadora's wishes or expectations.
+
+AnotherMissOh11_003_0076
+Q (Q11, Intention disclosure): Why does Haeyoung1 decide to go home quickly?
+A: Haeyoung1 realizes she is late and decides to go home quickly to address her tardiness.
+
+AnotherMissOh11_003_0077
+Q (Q9, Cause elucidation): Why is Haeyoung1 running?
+A: Haeyoung1 is running due to a reason not specified in the provided information.
+
+AnotherMissOh11_003_0079
+Q (Q1, Verification): Is Dokyung's action of opening his eyes indicative of him waking up from sleep or rest?
+A: Yes, Dokyung opening his eyes suggests that he is waking up from sleep or rest.
+
+AnotherMissOh11_003_0080
+Q (Q4, Feature specification): What is the intensity of Haeyoung1's smile in the shot?
+A: Haeyoung1's smile is slight in the shot.
+
+AnotherMissOh11_003_0081
+Q (Q4, Feature specification): What is the expression on Haeyoung1's face as she turns around?
+A: Haeyoung1 has a pleasant expression on her face as she turns around.
+
+AnotherMissOh11_003_0082
+Q (Q4, Feature specification): What color is the shirt that Dokyung is wearing?
+A: Dokyung is wearing a light-colored shirt.
+
+AnotherMissOh11_003_0084
+Q (Q11, Intention disclosure): What might be the reason behind Haeyoung1's smile?
+A: Haeyoung1 could be smiling because she is experiencing a moment of happiness or joy.
+
+AnotherMissOh11_003_0085
+Q (Q11, Intention disclosure): Why might Haeyoung1 be hugging someone?
+A: Haeyoung1 might be hugging someone as a gesture of affection, comfort, or greeting.
+
+AnotherMissOh11_003_0086
+Q (Q11, Intention disclosure): Why are Dokyung and Haeyoung1 hugging each other?
+A: They are hugging each other as a display of affection and emotional connection.
+
+AnotherMissOh11_003_0087
+Q (Q11, Intention disclosure): Why is Haeyoung1 smiling at Dokyung?
+A: Haeyoung1 is smiling at Dokyung because she is happy to see him and is expressing a farewell with a positive attitude as she says, "See you later!"
+
+AnotherMissOh11_003_0088
+Q (Q4, Feature specification): What is the natural color of Haeyoung1's hair?
+A: Haeyoung1's natural hair color is brown.
+
+AnotherMissOh11_003_0089
+Q (Q4, Feature specification): What expression is on Dokyung's face as he looks at Haeyoung1?
+A: Dokyung has a focused expression as he looks at Haeyoung1.
+
+AnotherMissOh11_003_0090
+Q (Q4, Feature specification): What is the attire of the person climbing the stairs?
+A: The person is wearing a white dress.
+
+AnotherMissOh11_003_0091
+Q (Q11, Intention disclosure): Why might Dokyung be wearing a gray shirt?
+A: Dokyung might be wearing a gray shirt to present a neutral or professional appearance.
+
+AnotherMissOh11_003_0092
+Q (Q11, Intention disclosure): Why does Jinsang say he's been so great these days while walking?
+A: Jinsang expresses that he's been feeling great lately, which could imply that he's experiencing a positive phase in his life or recent events have been favorable to him.
+
+AnotherMissOh11_003_0093
+Q (Q11, Intention disclosure): Why is Dokyung holding a jacket?
+A: Dokyung might be holding a jacket because he is preparing to go somewhere or it could be a gesture of care if he intends to offer it to someone who might be cold.
+
+AnotherMissOh11_003_0094
+Q (Q9, Cause elucidation): What is the reason Jinsang is looking around?
+A: Jinsang is looking around because he cannot find his car.
+
+AnotherMissOh11_003_0095
+Q (Q11, Intention disclosure): Why might Jinsang be asking Dokyung if he has seen something?
+A: Jinsang could be seeking confirmation or information about an event or object that is relevant to their current situation or conversation.
+
+AnotherMissOh11_003_0096
+Q (Q4, Feature specification): What expression does Dokyung have while looking at the person walking?
+A: Dokyung has a focused expression while looking at the person walking.
+
+AnotherMissOh11_003_0097
+Q (Q1, Verification): Is Jinsang alone when he looked back?
+A: Yes, Jinsang is alone when he looks back.
+
+AnotherMissOh11_003_0099
+Q (Q11, Intention disclosure): Why does Jinsang ask Dokyung if he is going to work or leaving?
+A: Jinsang is trying to understand Dokyung's intentions to determine whether he is starting his day or ending it.
+
+AnotherMissOh11_003_0102
+Q (Q11, Intention disclosure): Why is Dokyung walking behind Jinsang?
+A: Dokyung is walking behind Jinsang possibly to follow him to a destination or to engage in a conversation with him.
+
+AnotherMissOh11_004_0105
+Q (Q11, Intention disclosure): Why was Hun planning to confront Park Dokyung?
+A: Hun was planning to confront Park Dokyung to address an issue confidently.
+
+AnotherMissOh11_004_0105
+Q (Q11, Intention disclosure): What is Hun's intention for wanting to confront Park Dokyung confidently?
+A: Hun intended to confront Park Dokyung confidently to address an issue or express his feelings directly, but he is concerned that his appearance might undermine his confidence in doing so.
+
+AnotherMissOh11_004_0105
+Q (Q11, Intention disclosure): Why was Hun planning to confront Park Dokyung?
+A: Hun was planning to confront Park Dokyung to address an issue confidently.
+
+AnotherMissOh11_004_0106
+Q (Q11, Intention disclosure): Why did Jinsang ask about the time he came back last night?
+A: Jinsang is trying to recall or confirm details about his actions from the previous night, possibly because he does not remember them clearly.
+
+AnotherMissOh11_004_0106
+Q (Q11, Intention disclosure): Why is Jinsang asking about the time he came back last night?
+A: Jinsang is trying to recall the events from the previous night, possibly because he does not remember them clearly.
+
+AnotherMissOh11_004_0107
+Q (Q11, Intention disclosure): Why is Jinsang asking Hun about the time he came back?
+A: Jinsang is trying to recall or confirm the time he returned, possibly because he does not remember it himself.
+
+AnotherMissOh11_004_0108
+Q (Q4, Feature specification): What is Jinsang wearing in addition to the black T-shirt?
+A: Jinsang is wearing a black T-shirt.
+
+AnotherMissOh11_004_0108
+Q (Q4, Feature specification): What type of clothing is Jinsang wearing?
+A: Jinsang is wearing a black T-shirt.
+
+AnotherMissOh11_004_0109
+Q (Q11, Intention disclosure): Why did Jinsang want to use Hun's phone?
+A: Jinsang needed to use a phone and decided to borrow Hun's.
+
+AnotherMissOh11_004_0109
+Q (Q11, Intention disclosure): Why did Jinsang want to use Hun's phone?
+A: Jinsang needed to use a phone and decided to borrow Hun's.
+
+AnotherMissOh11_004_0110
+Q (Q4, Feature specification): What kind of bed is Hun lying on?
+A: Hun is lying on a bed with a patterned blanket and multiple pillows.
+
+AnotherMissOh11_004_0110
+Q (Q4, Feature specification): What is the color of the bedsheet covering Hun?
+
+A: The bedsheet covering Hun is white with gray patterns.
+
+AnotherMissOh11_004_0111
+Q (Q11, Intention disclosure): Why is Jinsang asking about Mr. Kim and his whereabouts?
+A: Jinsang is trying to find out if Mr. Kim went to work because he needs to speak with him on the phone.
+
+AnotherMissOh11_004_0111
+Q (Q11, Intention disclosure): Why is Jinsang trying to find out who he was with last night?
+A: Jinsang is trying to piece together the events of the previous night because he has no recollection of them and has lost his possessions.
+
+AnotherMissOh11_004_0112
+Q (Q4, Feature specification): What pattern is on Hun's shirt?
+A: Hun's shirt has a checked pattern.
+
+AnotherMissOh11_004_0112
+Q (Q4, Feature specification): What kind of shirt is Hun wearing?
+A: Hun is wearing a checked shirt.
+
+AnotherMissOh11_004_0113
+Q (Q4, Feature specification): What kind of cup is Dokyung holding?
+A: Dokyung is holding a white cup.
+
+AnotherMissOh11_004_0114
+Q (Q4, Feature specification): What is the relationship between Hun and his hair?
+A: Hun has yellow hair.
+
+AnotherMissOh11_004_0115
+Q (Q4, Feature specification): What kind of beverage is on the table while Hun, Dokyung, and Sukyung are sitting?
+A: There is a pitcher that appears to contain orange juice on the table.
+
+AnotherMissOh11_004_0115
+Q (Q11, Intention disclosure): Why are Hun, Dokyung, and Sukyung sitting at the table together?
+A: They are likely sitting at the table together to have a meal or a discussion.
+
+AnotherMissOh11_004_0116
+Q (Q4, Feature specification): What type of clothing is Dokyung wearing in the shot?
+A: Dokyung is wearing a T-shirt.
+
+AnotherMissOh11_004_0118
+Q (Q4, Feature specification): What expression is on Dokyung's face as he looks down?
+A: Dokyung has a somber or thoughtful expression on his face as he looks down.
+
+AnotherMissOh11_004_0119
+Q (Q4, Feature specification): What expression does Sukyung have on her face as she looks aside?
+A: Sukyung has a surprised expression on her face.
+
+AnotherMissOh11_004_0122
+Q (Q4, Feature specification): What type of clothing is Sukyung wearing in the shot?
+A: Sukyung is wearing a white T-shirt.
+
+AnotherMissOh11_004_0122
+Q (Q4, Feature specification): What type of clothing is Sukyung wearing in the shot?
+A: Sukyung is wearing a white T-shirt.
+
+AnotherMissOh11_004_0124
+Q (Q4, Feature specification): What action did Dokyung perform in the shot?
+A: Dokyung put down the cup on the table.
+
+AnotherMissOh11_004_0125
+Q (Q11, Intention disclosure): Why does Dokyung ask Hun if he can do it with both hands?
+A: Dokyung is questioning Hun's capability or effort in a task, implying that he expects more from Hun and is expressing his dissatisfaction with Hun's current performance.
+
+AnotherMissOh11_004_0126
+Q (Q4, Feature specification): What expression is Sukyung showing while she is blinking?
+A: Sukyung is showing a neutral expression while she is blinking.
+
+AnotherMissOh11_004_0127
+Q (Q4, Feature specification): What substance did Dokyung have on his cheek that he needed to wipe off?
+A: Dokyung had jam on his cheek.
+
+AnotherMissOh11_004_0128
+Q (Q11, Intention disclosure): Why did Hun ask Sukyung to put some jam on for him?
+A: Hun asked Sukyung to put some jam on for him because he wanted her to prepare the dish to his liking.
+
+AnotherMissOh11_004_0129
+Q (Q11, Intention disclosure): Why does Sukyung hit the dish with the spoon?
+A: Sukyung is likely expressing frustration or disbelief at Hun's request for her to put jam on for him, as indicated by her rhetorical question about him having hands.
+
+AnotherMissOh11_004_0129
+Q (Q11, Intention disclosure): Why does Sukyung hit the dish with the spoon?
+A: Sukyung is likely expressing frustration or disbelief at Hun's request for her to put jam on for him, as indicated by her rhetorical question about him having hands.
+
+AnotherMissOh11_004_0133
+Q (Q4, Feature specification): What is the setting where Dokyung and Sukyung are seated?
+A: Dokyung and Sukyung are seated in a dining area.
+
+AnotherMissOh11_004_0134
+Q (Q4, Feature specification): What position is Hun's hand in as he raises it?
+A: Hun's hand is raised up.
+
+AnotherMissOh11_004_0138
+Q (Q4, Feature specification): What kind of bread is Sukyung holding?
+A: Sukyung is holding a loaf of bread.
+
+AnotherMissOh11_004_0138
+Q (Q4, Feature specification): What kind of bread is Sukyung holding?
+A: Sukyung is holding a loaf of bread.
+
+AnotherMissOh11_004_0139
+Q (Q11, Intention disclosure): Why did Hun decide to get manicures?
+A: Hun got manicures because Anna said she'd kill him if he didn't.
+
+AnotherMissOh11_004_0142
+Q (Q4, Feature specification): What position are Dokyung's arms in while he is at the table?
+A: Dokyung's arms are on the table.
+
+AnotherMissOh11_004_0143
+Q (Q4, Feature specification): What type of food is Sukyung holding?
+A: Sukyung is holding a piece of bread.
+
+AnotherMissOh11_004_0149
+Q (Q11, Intention disclosure): Why might Sukyung be nodding in response to Dokyung's statement?
+A: Sukyung might be nodding to indicate agreement or understanding of Dokyung's instruction to "Just do it."
+
+AnotherMissOh11_004_0150
+Q (Q11, Intention disclosure): Why is Hun speaking during the meal?
+A: Hun is speaking to engage in conversation with Dokyung and Sukyung while they are eating together.
+
+AnotherMissOh11_004_0154
+Q (Q11, Intention disclosure): Why is Hun planning to make facial expressions?
+A: Hun is planning to make facial expressions to ensure he does things the right way and is looking forward to the outcome.
+
+AnotherMissOh11_004_0156
+Q (Q11, Intention disclosure): What is Hun's intention behind the conversation he is having?
+A: Hun's intention is to communicate his thoughts or feelings to the person he is talking to.
+
+AnotherMissOh11_004_0157
+Q (Q11, Intention disclosure): Why does Sukyung suggest Hun might choose to fight with gloves on?
+A: Sukyung implies that Hun might be intentionally making it harder for himself to fight properly by keeping the gloves on.
+
+AnotherMissOh11_004_0161
+Q (Q4, Feature specification): What is the setting in which Jinsang walked to the table and sat on the chair?
+A: The setting is a room with a table and at least one chair, where Jinsang is present along with other individuals.
+
+AnotherMissOh11_004_0162
+Q (Q9, Cause elucidation): Why is Jinsang's car in front of Anyang Prison?
+A: Jinsang might have visited someone or had some business at Anyang Prison, which is why his car is parked there.
+
+AnotherMissOh11_004_0163
+Q (Q11, Intention disclosure): Why might Sukyung be holding a white cup?
+A: Sukyung might be holding a white cup to drink a beverage during a conversation or a meal.
+
+AnotherMissOh11_004_0164
+Q (Q9, Cause elucidation): Why might Jinsang's car be in front of Anyang Prison?
+A: Jinsang might have visited someone at Anyang Prison.
+
+AnotherMissOh11_004_0165
+Q (Q1, Verification): Is Jinsang sitting across from Sukyung in the scene?
+A: Yes, Jinsang is sitting across from Sukyung.
+
+AnotherMissOh11_004_0167
+Q (Q9, Cause elucidation): What led Hun to ask Jinsang about the location of an item?
+A: Hun noticed something was out of place and questioned Jinsang to understand how it got there.
+
+AnotherMissOh11_004_0168
+Q (Q11, Intention disclosure): Why is Jinsang talking about the people he was drinking with?
+A: Jinsang is providing context or information related to a situation or event that involves the people he was drinking with.
+
+AnotherMissOh11_004_0170
+Q (Q9, Cause elucidation): Why did they say Jinsang was with a con woman?
+A: It is implied that there was a misunderstanding or a situation that led others to believe Jinsang was associated with a con woman.
+
+AnotherMissOh11_004_0171
+Q (Q4, Feature specification): What expression is Sukyung showing when she gasps in surprise?
+A: Sukyung is showing a shocked expression with her eyes wide open and mouth slightly agape.
+
+AnotherMissOh11_004_0172
+Q (Q11, Intention disclosure): What is Jinsang trying to express to the person he calls 'Honey'?
+A: Jinsang seems to be struggling to find the right words to express something important to the person he refers to as 'Honey'.
+
+AnotherMissOh11_004_0173
+Q (Q11, Intention disclosure): Why might Jinsang be wearing a blue jacket?
+A: Jinsang might be wearing a blue jacket to look presentable or because it is his preferred style.
+
+AnotherMissOh11_004_0174
+Q (Q11, Intention disclosure): What is Jinsang's intention when he starts his sentence with "Honey, you're just..."?
+A: Jinsang's intention appears to be to express a sentiment or opinion about the woman, but he stops himself before finishing the sentence.
+
+AnotherMissOh11_004_0175
+Q (Q11, Intention disclosure): What is Jinsang's intention when he tries to kiss the woman?
+A: Jinsang's intention is to express his attraction or affection towards the woman by attempting to kiss her.
+
+AnotherMissOh11_004_0178
+Q (Q11, Intention disclosure): Why did Jinsang touch his head?
+A: Jinsang touched his head as a gesture that seems to reflect his distress over the situation involving begging and crying.
+
+AnotherMissOh11_004_0179
+Q (Q11, Intention disclosure): Why is Jinsang touching his hair while talking about letting her go?
+A: Jinsang is likely touching his hair as a nervous or stressed gesture while reflecting on the emotional difficulty of letting someone go.
+
+AnotherMissOh11_004_0181
+Q (Q11, Intention disclosure): Why does Sukyung tell Jinsang to not set foot in the house?
+A: Sukyung is likely expressing her desire for Jinsang to stay away, indicating a boundary or a break in their relationship.
+
+AnotherMissOh11_004_0183
+Q (Q11, Intention disclosure): Why did Sukyung tell Jinsang to not set foot in her house?
+A: Sukyung likely told Jinsang not to set foot in her house because she was angry or upset with him, as indicated by the harshness of her words.
+
+AnotherMissOh11_004_0184
+Q (Q11, Intention disclosure): Why is Jinsang accusing Sukyung of not being clean?
+A: Jinsang is retaliating to Sukyung's rude remark by asserting that she is not clean because she was involved with a married man.
+
+AnotherMissOh11_004_0188
+Q (Q11, Intention disclosure): Why is Jinsang touching his body with his hand?
+A: Jinsang is likely gesturing to emphasize his point that he loves as well, possibly indicating that he feels love in his body or heart.
+
+AnotherMissOh11_004_0189
+Q (Q9, Cause elucidation): What is the reason for Sukyung's claim that Jinsang never listens?
+A: Sukyung feels that Jinsang does not acknowledge her feelings or opinions, as indicated by her frustration during the argument when she says, "Yapping! You never listen."
+
+AnotherMissOh11_004_0190
+Q (Q4, Feature specification): What kind of bread is Hun eating?
+A: Hun is eating a slice of bread.
+
+AnotherMissOh11_004_0190
+Q (Q4, Feature specification): What is Hun doing with the bread in the shot?
+A: Hun is eating the bread.
+
+AnotherMissOh11_004_0191
+Q (Q4, Feature specification): What is the expression on Jinsang's face while he is touching his ears next to Sukyung?
+A: Jinsang has a focused expression on his face while touching his ears next to Sukyung.
+
+AnotherMissOh11_005_0192
+Q (Q11, Intention disclosure): Why did Taejin come to the front desk?
+A: Taejin came to the front desk to see Oh Haeyoung from the product planning team.
+
+AnotherMissOh11_005_0193
+Q (Q11, Intention disclosure): Why did Taejin decide to wear a tie?
+A: Taejin might have decided to wear a tie to appear formal or professional for an occasion or meeting.
+
+AnotherMissOh11_005_0194
+Q (Q11, Intention disclosure): Why does Taejin put his hands in his pocket?
+A: Taejin puts his hands in his pocket as a casual gesture while walking.
+
+AnotherMissOh11_005_0194
+Q (Q4, Feature specification): What is Taejin doing with his hands in this shot?
+A: Taejin puts his hands in his pocket.
+
+AnotherMissOh11_005_0195
+Q (Q11, Intention disclosure): Why might Taejin be wearing a gray suit?
+A: Taejin might be wearing a gray suit for a formal occasion or a business-related event.
+
+AnotherMissOh11_005_0196
+Q (Q11, Intention disclosure): Why might Haeyoung2 be standing near the person?
+A: Haeyoung2 could be standing near the person to engage in a conversation or to accompany them.
+
+AnotherMissOh11_005_0197
+Q (Q11, Intention disclosure): Why might Taejin have given a slight nod?
+A: Taejin might have given a slight nod to indicate agreement, acknowledgment, or understanding in response to something said or done by another character.
+
+AnotherMissOh11_005_0198
+Q (Q4, Feature specification): What expression is Haeyoung2 showing while standing between the people?
+A: Haeyoung2 is showing a serious expression while standing between the people.
+
+AnotherMissOh11_005_0200
+Q (Q11, Intention disclosure): Why did Haeyoung1 choose to wear navy clothes?
+A: The information provided does not disclose Haeyoung1's intention for choosing to wear navy clothes.
+
+AnotherMissOh11_005_0200
+Q (Q11, Intention disclosure): Why did the person mention meeting Taejin a few times?
+A: The person mentioned meeting Taejin a few times to indicate familiarity with him and possibly to provide context or background information about their relationship or encounters with Taejin.
+
+AnotherMissOh11_005_0201
+Q (Q4, Feature specification): What type of earrings is Haeyoung2 wearing?
+A: Haeyoung2 is wearing a pair of earrings.
+
+AnotherMissOh11_005_0201
+Q (Q4, Feature specification): What is the style of the earrings Haeyoung2 is wearing?
+A: Haeyoung2 is wearing a pair of earrings, but the specific style is not described in the provided information.
+
+AnotherMissOh11_005_0202
+Q (Q11, Intention disclosure): Why might Taejin be walking?
+A: Taejin could be walking to reach a destination, to clear his mind, or as part of his daily routine.
+
+AnotherMissOh11_005_0203
+Q (Q4, Feature specification): What type of clothing is Haeyoung1 wearing in the shot?
+A: Haeyoung1 is wearing a white blouse.
+
+AnotherMissOh11_005_0203
+Q (Q4, Feature specification): What type of clothing is Haeyoung1 wearing in the shot?
+A: Haeyoung1 is wearing a white blouse.
+
+AnotherMissOh11_005_0204
+Q (Q12, Method explication): How does Taejin get into the car?
+A: Taejin opens the car door and gets in.
+
+AnotherMissOh11_005_0205
+Q (Q4, Feature specification): What color is the shirt that Taejin is wearing?
+A: The shirt that Taejin is wearing is white.
+
+AnotherMissOh11_005_0206
+Q (Q4, Feature specification): What hairstyle does Haeyoung1 have in the shot?
+A: Haeyoung1 has her brown hair styled in a way that frames her face.
+
+AnotherMissOh11_005_0206
+Q (Q4, Feature specification): What color is Haeyoung1's hair?
+A: Haeyoung1's hair is brown.
+
+AnotherMissOh11_005_0207
+Q (Q9, Cause elucidation): Why is Haeyoung1 running to the sculpture?
+A: Haeyoung1 is running to the sculpture because she is likely in a hurry to reach or interact with it for a reason that is not specified in the provided information.
+
+AnotherMissOh11_005_0208
+Q (Q4, Feature specification): What is the expression on Haeyoung1's face as she covers it with her hand?
+A: Haeyoung1's face is not fully visible as she is covering it with her hand, making it difficult to discern her expression.
+
+AnotherMissOh11_005_0209
+Q (Q4, Feature specification): What expression is Haeyoung1 making with her face as she puts her hand on it?
+A: Haeyoung1 has a troubled or thoughtful expression on her face as she puts her hand on it.
+
+AnotherMissOh11_005_0210
+Q (Q4, Feature specification): What expression is Taejin showing while he is looking aside?
+A: Taejin is showing a neutral expression while looking aside.
+
+AnotherMissOh11_005_0212
+Q (Q4, Feature specification): What type of watch is Haeyoung1 wearing?
+A: Haeyoung1 is wearing a wristwatch.
+
+AnotherMissOh11_005_0212
+Q (Q4, Feature specification): What type of accessory is featured on Haeyoung1's wrist in the shot?
+A: Haeyoung1 is wearing a watch on her wrist.
+
+AnotherMissOh11_005_0213
+Q (Q4, Feature specification): What type of vehicle is Taejin in?
+A: Taejin is in a car.
+
+AnotherMissOh11_005_0215
+Q (Q4, Feature specification): What is the position of Haeyoung1's body as she covers her face?
+A: Haeyoung1 turns her body.
+
+AnotherMissOh11_005_0216
+Q (Q4, Feature specification): What feature of Haeyoung1's appearance is she attending to by touching it?
+A: Haeyoung1 is attending to her hair by touching it.
+
+AnotherMissOh11_005_0217
+Q (Q4, Feature specification): What expression is on Haeyoung1's face as she puts down her arm?
+A: Haeyoung1 has a serious expression on her face as she puts down her arm.
+
+AnotherMissOh11_006_0218
+Q (Q4, Feature specification): What expression is Haeyoung1 showing as she sits down on the chair?
+A: Haeyoung1 is showing a pensive or contemplative expression as she sits down on the chair.
+
+AnotherMissOh11_006_0219
+Q (Q11, Intention disclosure): Why is Haeyoung1 holding the cellphone?
+A: Haeyoung1 is holding the cellphone likely to make a call, send a message, or check something on the device.
+
+AnotherMissOh11_006_0219
+Q (Q11, Intention disclosure): Why is Haeyoung1 holding the cellphone?
+A: Haeyoung1 is holding the cellphone likely to make a call, send a message, or check something on the device.
+
+AnotherMissOh11_006_0221
+Q (Q11, Intention disclosure): Why did Taejin expect Haeyoung1 to understand him?
+A: Taejin expected Haeyoung1 to understand him because of a belief or assumption he had about their relationship or shared experiences.
+
+AnotherMissOh11_006_0222
+Q (Q11, Intention disclosure): Why might Haeyoung1 choose to wear white clothes?
+A: Haeyoung1 might choose to wear white clothes to convey a sense of purity, cleanliness, or to make a specific impression in a particular scene.
+
+AnotherMissOh11_006_0225
+Q (Q4, Feature specification): What kind of file is Sungjin holding?
+A: Sungjin is holding a green file.
+
+AnotherMissOh11_006_0225
+Q (Q4, Feature specification): What color is the file that Sungjin is holding?
+A: The file that Sungjin is holding is green.
+
+AnotherMissOh11_006_0227
+Q (Q4, Feature specification): What color is the chair that Haeyoung1 is sitting on?
+A: The chair is orange.
+
+AnotherMissOh11_006_0227
+Q (Q4, Feature specification): What is Haeyoung1 doing while sitting on the orange chair?
+A: Haeyoung1 is looking at her phone.
+
+AnotherMissOh11_006_0228
+Q (Q4, Feature specification): What is Haeyoung1 doing in the office?
+A: Haeyoung1 is working on a computer in the office.
+
+AnotherMissOh11_006_0229
+Q (Q4, Feature specification): What is the content of the text message that the person is typing?
+A: The content of the text message is not visible in the provided image.
+
+AnotherMissOh11_006_0231
+Q (Q4, Feature specification): What part of her body is Haeyoung1 moving?
+A: Haeyoung1 is moving her body, but the specific part is not mentioned in the provided information.
+
+AnotherMissOh11_006_0232
+Q (Q4, Feature specification): What is the expression on Dokyung's face as he sits in front of the screen?
+A: Dokyung has a serious expression on his face while sitting in front of the screen.
+
+AnotherMissOh11_006_0232
+Q (Q4, Feature specification): What is the expression on Dokyung's face as he sits in front of the screen?
+A: Dokyung has a serious expression on his face as he sits in front of the screen.
+
+AnotherMissOh11_006_0233
+Q (Q4, Feature specification): What type of clothing is Dokyung wearing in the shot?
+A: Dokyung is wearing a dark colored T-shirt.
+
+AnotherMissOh11_006_0234
+Q (Q4, Feature specification): What feature of the cellphone can be observed while Dokyung is holding it?
+A: The cellphone appears to be slim and has a color that contrasts with Dokyung's hand.
+
+AnotherMissOh11_006_0235
+Q (Q4, Feature specification): What type of clothing is Sungjin wearing in the shot?
+A: Sungjin is wearing a shirt.
+
+AnotherMissOh11_006_0235
+Q (Q4, Feature specification): What color is the shirt that Sungjin is wearing?
+A: Sungjin is wearing a yellow shirt.
+
+AnotherMissOh11_006_0236
+Q (Q4, Feature specification): What is the intensity of Haeyoung1's smile in the shot?
+A: Haeyoung1's smile is slight in intensity.
+
+AnotherMissOh11_006_0237
+Q (Q11, Intention disclosure): Why does Haeyoung1 put the cellphone on her face?
+A: Haeyoung1 puts the cellphone on her face in response to Dokyung's suggestion to meet up after work, indicating her positive reaction to the invitation.
+
+AnotherMissOh11_006_0238
+Q (Q11, Intention disclosure): Why does Dokyung want to meet up after work?
+A: Dokyung wants to meet up after work to discuss something important or to spend time together.
+
+AnotherMissOh11_006_0239
+Q (Q11, Intention disclosure): What is the reason Haeyoung1 will be finishing up late today?
+A: Haeyoung1 did not disclose the specific reason for finishing up late in the provided script.
+
+AnotherMissOh11_006_0240
+Q (Q11, Intention disclosure): Why is Haeyoung1 talking through the phone?
+A: Haeyoung1 is talking through the phone to communicate with someone not present in her current location.
+
+AnotherMissOh11_006_0241
+Q (Q11, Intention disclosure): Why might Dokyung be talking on the phone?
+A: Dokyung could be talking on the phone for a variety of reasons such as coordinating work, discussing personal matters, or making plans with someone.
+
+AnotherMissOh11_006_0241
+Q (Q11, Intention disclosure): What is Dokyung's reason for talking on the phone?
+A: Dokyung is talking on the phone to communicate with someone who is not present in the scene.
+
+AnotherMissOh11_006_0242
+Q (Q11, Intention disclosure): Why is Haeyoung1 planning to meet the guy she almost married?
+A: Haeyoung1 is planning to meet the guy she almost married to discuss matters related to their past relationship.
+
+AnotherMissOh11_006_0251
+Q (Q11, Intention disclosure): What is the reason Haeyoung1 is talking on the phone in the office?
+A: Haeyoung1 is talking on the phone in the office to communicate with someone not present there, possibly for work-related matters or personal reasons.
+
+AnotherMissOh11_006_0252
+Q (Q11, Intention disclosure): Why is Haeyoung1 telling Dokyung something ahead of time?
+A: Haeyoung1 is likely trying to give Dokyung a heads-up or warn him about something that is going to happen or be relevant in the future.
+
+AnotherMissOh11_006_0252
+Q (Q11, Intention disclosure): Why is Haeyoung1 telling Dokyung something ahead of time?
+A: Haeyoung1 is likely trying to give Dokyung a heads-up or warn him about something that is going to happen or be relevant in the future.
+
+AnotherMissOh11_006_0259
+Q (Q11, Intention disclosure): What might be the reason behind Haeyoung1's happiness while on the phone?
+A: She could be receiving good news or having a pleasant conversation with someone she cares about.
+
+AnotherMissOh11_006_0259
+Q (Q11, Intention disclosure): What could be the reason behind Haeyoung1's happiness while on the phone?
+A: She might have received good news or is having a pleasant conversation.
+
+AnotherMissOh11_006_0260
+Q (Q4, Feature specification): What expression is Dokyung showing while looking at the phone?
+A: Dokyung is showing a focused expression while looking at the phone.
+
+AnotherMissOh11_006_0261
+Q (Q4, Feature specification): What is the expression on Dokyung's face as he puts down his arm?
+A: Dokyung has a serious expression on his face as he puts down his arm.
+
+AnotherMissOh11_007_0269
+Q (Q11, Intention disclosure): Why does Haeyoung1 want to meet tomorrow instead of today?
+A: Haeyoung1 wants to keep her promise tomorrow, which implies she has a reason for not being able to meet today.
+
+AnotherMissOh11_007_0270
+Q (Q11, Intention disclosure): What does Haeyoung1 intend to do with the cellphone?
+A: Haeyoung1 intends to tell Taejin something over the phone.
+
+AnotherMissOh11_007_0271
+Q (Q11, Intention disclosure): Why might Taejin be holding his cellphone?
+A: Taejin might be holding his cellphone to make a call or wait for an important message, as indicated by his question, "Not even for a bit?" which suggests he is expecting a response or some form of communication.
+
+AnotherMissOh11_007_0272
+Q (Q11, Intention disclosure): Why is Haeyoung1 apologizing to Taejin?
+A: Haeyoung1 is apologizing because she cannot meet Taejin today and is suggesting they meet tomorrow instead.
+
+AnotherMissOh11_007_0273
+Q (Q11, Intention disclosure): Why does Taejin tell Haeyoung1 that she doesn't have to apologize?
+A: Taejin wants to reassure Haeyoung1 that there is no need for her to feel sorry, indicating a desire to ease any tension between them before they meet tomorrow.
+
+AnotherMissOh11_007_0274
+Q (Q11, Intention disclosure): Why does Taejin tell Haeyoung1 that she doesn't have to be sorry?
+A: Taejin is likely trying to reassure Haeyoung1 and alleviate any feelings of guilt or responsibility she may have regarding a situation they are discussing.
+
+AnotherMissOh11_007_0274
+Q (Q11, Intention disclosure): Why does Taejin tell Haeyoung1 that she doesn't have to be sorry?
+A: Taejin is likely trying to reassure Haeyoung1 and alleviate any feelings of guilt or responsibility she may have regarding a situation they are discussing.
+
+AnotherMissOh11_007_0276
+Q (Q4, Feature specification): What kind of flowers did Taejin get?
+A: Taejin got a bunch of red flowers.
+
+AnotherMissOh11_007_0276
+Q (Q11, Intention disclosure): Why did Taejin get a bunch of flowers?
+A: Taejin got a bunch of flowers likely for a special occasion or to give to someone as a gesture of appreciation or affection.
+
+AnotherMissOh11_007_0277
+Q (Q4, Feature specification): What expression does Taejin have on his face as he opens his eyes?
+
+A: Taejin has a serious expression on his face as he opens his eyes.
+
+AnotherMissOh11_007_0278
+Q (Q11, Intention disclosure): Why might Taejin be walking out of the shop with flowers?
+A: Taejin could be walking out of the shop with flowers to give them to someone as a gift or for a special occasion.
+
+AnotherMissOh11_007_0278
+Q (Q11, Intention disclosure): Why might Taejin be walking out of the shop with flowers?
+A: Taejin could be walking out of the shop with flowers to give them to someone as a gift or for a special occasion.
+
+AnotherMissOh11_007_0279
+Q (Q4, Feature specification): What color is the tie that Taejin is wearing?
+A: Taejin is wearing a tie, but the color of the tie is not specified in the provided information.
+
+AnotherMissOh11_007_0282
+Q (Q11, Intention disclosure): Why does Taejin want to meet Haeyoung1 in front of her office building?
+A: Taejin has something for Haeyoung1 and wants to give it to her in person.
+
+AnotherMissOh11_007_0283
+Q (Q4, Feature specification): What type of object is Haeyoung1 using in the shot?
+A: Haeyoung1 is using a brush.
+
+AnotherMissOh11_007_0284
+Q (Q4, Feature specification): What kind of mirror is Haeyoung1 holding?
+A: Haeyoung1 is holding a handheld mirror.
+
+AnotherMissOh11_007_0285
+Q (Q4, Feature specification): What is the color of Haeyoung1's bangs that she is touching?
+A: Haeyoung1's bangs are brown.
+
+AnotherMissOh11_007_0287
+Q (Q4, Feature specification): What is the mood in the office as Haeyoung1 is leaving?
+A: The mood in the office appears neutral as Haeyoung1 leaves; there are no overt signs of strong emotions from the people present.
+
+AnotherMissOh11_007_0288
+Q (Q11, Intention disclosure): Why is Haeyoung1 calling Dokyung while walking?
+A: Haeyoung1 is calling Dokyung to find out his location.
+
+AnotherMissOh11_007_0289
+Q (Q11, Intention disclosure): Why is Taejin holding red flowers?
+A: Taejin is holding red flowers likely as a gesture of affection or to celebrate a special occasion.
+
+AnotherMissOh11_007_0289
+Q (Q4, Feature specification): What color are the flowers that Taejin is holding?
+A: The flowers that Taejin is holding are red.
+
+AnotherMissOh11_007_0290
+Q (Q11, Intention disclosure): What might be the reason behind Taejin's slight smile?
+A: Taejin's slight smile could indicate that he is feeling a subtle sense of happiness or contentment, possibly due to a positive thought or a pleasant interaction.
+
+AnotherMissOh11_007_0291
+Q (Q4, Feature specification): What expression is Haeyoung1 showing in the shot?
+A: Haeyoung1 is showing a bright smile.
+
+AnotherMissOh11_007_0292
+Q (Q4, Feature specification): What type of clothing is Dokyung wearing in addition to the suit?
+A: Dokyung is wearing a shirt under his suit.
+
+AnotherMissOh11_007_0293
+Q (Q11, Intention disclosure): Why might Taejin be raising his hand?
+A: Taejin could be raising his hand to greet someone, to get someone's attention, or to signal that he wants to speak or ask a question.
+
+AnotherMissOh11_007_0294
+Q (Q11, Intention disclosure): Why is Taejin waving his hand?
+A: Taejin is waving his hand to greet someone or to attract attention.
+
+AnotherMissOh11_007_0295
+Q (Q11, Intention disclosure): Why is Haeyoung1 standing at the crosswalk?
+A: Haeyoung1 is likely waiting to cross the street.
+
+AnotherMissOh11_007_0296
+Q (Q4, Feature specification): What is the expression on Haeyoung1's face as she raises her hand?
+A: Haeyoung1 has a smiling expression on her face as she raises her hand.
+
+AnotherMissOh11_007_0297
+Q (Q4, Feature specification): What type of accessory is Dokyung wearing on his wrist?
+A: Dokyung is wearing a watch on his wrist.
+
+AnotherMissOh11_007_0297
+Q (Q4, Feature specification): What type of watch is Dokyung wearing?
+A: Dokyung is wearing a wristwatch.
+
+AnotherMissOh11_007_0298
+Q (Q4, Feature specification): What is the condition of traffic on the road as seen in the shot?
+A: The traffic on the road is moderate with cars moving, as there are visible spaces between the vehicles.
+
+AnotherMissOh11_007_0298
+Q (Q4, Feature specification): What is the condition of traffic on the road as shown in the shot?
+A: The traffic on the road is light with a few cars driving on it, allowing for smooth movement without any visible congestion.
+
+AnotherMissOh11_007_0299
+Q (Q4, Feature specification): What color is the jacket that Taejin is wearing?
+A: The jacket Taejin is wearing is gray.
+
+AnotherMissOh11_007_0302
+Q (Q4, Feature specification): What color is the tie that Taejin is wearing?
+A: Taejin is wearing a grey tie.
+
+AnotherMissOh11_007_0303
+Q (Q11, Intention disclosure): Why might Dokyung be moving forward?
+A: Dokyung could be moving forward to reach a destination or to approach someone or something of interest.
+
+AnotherMissOh11_007_0305
+Q (Q9, Cause elucidation): What event caused Taejin to look shocked?
+A: Taejin saw or heard something unexpected and startling that caused him to look shocked.
+
+AnotherMissOh11_007_0305
+Q (Q9, Cause elucidation): What might have caused Taejin to look shocked?
+A: Taejin could have seen or heard something unexpected or startling.
+
+AnotherMissOh11_007_0311
+Q (Q4, Feature specification): What is the expression on Taejin's face as he holds the back of his neck?
+A: Taejin has a pained expression on his face as he holds the back of his neck.
+
+AnotherMissOh11_007_0311
+Q (Q9, Cause elucidation): What might be the reason Taejin is holding the back of his neck?
+A: Taejin could be holding the back of his neck due to discomfort, pain, or tension in that area.
+
+AnotherMissOh11_007_0312
+Q (Q9, Cause elucidation): Why did Dokyung knock on the car?
+A: Dokyung knocked on the car to check on Taejin's condition after an incident.
+
+AnotherMissOh11_007_0313
+Q (Q11, Intention disclosure): Why might Dokyung be smiling meanly at Taejin?
+A: Dokyung might be smiling meanly at Taejin to intimidate or mock him, possibly indicating a sense of superiority or contempt.
+
+AnotherMissOh11_007_0314
+Q (Q4, Feature specification): What expression does Dokyung have on his face as he opens his eyes?
+A: Dokyung has a neutral expression on his face as he opens his eyes.
+
+AnotherMissOh11_007_0316
+Q (Q11, Intention disclosure): What is Taejin's intention in asking Dokyung if he did something wrong?
+A: Taejin's intention is to understand if there is any issue or misunderstanding between him and Dokyung that might have caused a problem in their relationship, as he is not aware of any wrongdoing on his part.
+
+AnotherMissOh11_007_0317
+Q (Q11, Intention disclosure): Why is Taejin talking to someone?
+A: Taejin is talking to someone to convey a message, seek information, or discuss a matter of importance.
+
+AnotherMissOh11_007_0319
+Q (Q11, Intention disclosure): What is the reason behind Dokyung's actions that led to Taejin's ruin?
+A: Taejin believes that Dokyung has intentionally ruined him, although the specific motivations behind Dokyung's actions are not disclosed in this shot.
+
+AnotherMissOh11_007_0319
+Q (Q11, Intention disclosure): What is Taejin's reason for confronting Dokyung?
+A: Taejin is confronting Dokyung because he believes Dokyung has ruined him, despite them having no relationship with each other.
+
+AnotherMissOh11_007_0322
+Q (Q9, Cause elucidation): What might have caused Taejin to feel mad?
+A: The specific cause of Taejin's anger is not provided in the shot description or knowledge graph, but it could be due to a variety of reasons such as a personal conflict, a professional setback, or a misunderstanding.
+
+AnotherMissOh11_007_0323
+Q (Q4, Feature specification): What is the expression on Haeyoung1's face while she is shaking her hands?
+A: Haeyoung1 has a smiling expression on her face while shaking her hands.
+
+AnotherMissOh11_007_0323
+Q (Q4, Feature specification): What is the expression on Haeyoung1's face as she shakes her hands?
+A: Haeyoung1 has a smiling expression on her face as she shakes her hands.
+
+AnotherMissOh11_007_0325
+Q (Q4, Feature specification): What type of clothing is Haeyoung1 wearing in the shot?
+A: Haeyoung1 is wearing a white blouse.
+
+AnotherMissOh11_007_0328
+Q (Q9, Cause elucidation): What might be the reason for Taejin's upset expression?
+A: Taejin's upset expression could be due to an unpleasant or disappointing event he has experienced.
+
+AnotherMissOh11_007_0329
+Q (Q4, Feature specification): What is the weather like when Taejin is walking outside?
+A: The weather appears to be clear as Taejin is walking outside.
+
+AnotherMissOh11_007_0330
+Q (Q4, Feature specification): What expressions do the people have as Taejin walks past them?
+A: The people have neutral expressions as Taejin walks past them.
+
+AnotherMissOh11_007_0331
+Q (Q4, Feature specification): What is the position of Taejin's upper body in the shot?
+A: Taejin's upper body is bent backwards in the shot.
+
+AnotherMissOh11_007_0332
+Q (Q9, Cause elucidation): What led to Taejin punching Dokyung in the face?
+A: The specific reason for Taejin punching Dokyung in the face is not provided in the shot description or knowledge graph.
+
+AnotherMissOh11_007_0333
+Q (Q4, Feature specification): What position is Taejin's other leg in while he is bending one leg?
+A: Taejin's other leg is straight and supporting his weight while he is bending one leg.
+
+AnotherMissOh11_007_0334
+Q (Q9, Cause elucidation): What caused Haeyoung1 to feel surprised suddenly?
+A: An unexpected event or occurrence must have taken place to cause Haeyoung1 to feel surprised suddenly.
+
+AnotherMissOh11_007_0334
+Q (Q9, Cause elucidation): What might have caused Haeyoung1 to be surprised suddenly?
+A: There could have been an unexpected event or occurrence that Haeyoung1 witnessed, leading to her sudden surprise.
+
+AnotherMissOh11_007_0335
+Q (Q4, Feature specification): What is the expression on Haeyoung1's face as she puts both hands on her mouth?
+A: Haeyoung1's expression appears to be one of shock or surprise, as indicated by her gesture of putting both hands on her mouth.
+
+AnotherMissOh11_007_0339
+Q (Q9, Cause elucidation): Why is Taejin staggering?
+A: Taejin might be staggering due to an emotional upset, physical ailment, or an external factor like being pushed.
+
+AnotherMissOh11_007_0341
+Q (Q9, Cause elucidation): What might have caused Haeyoung1 to look shocked?
+A: Haeyoung1 could have witnessed an unexpected event or received surprising news.
+
+AnotherMissOh11_007_0345
+Q (Q4, Feature specification): What expression is on Dokyung's face as he looks up?
+A: Dokyung has a contemplative expression on his face as he looks up.
+
+AnotherMissOh11_007_0346
+Q (Q11, Intention disclosure): Why is Taejin grabbing Dokyung by the collar?
+A: Taejin is grabbing Dokyung by the collar due to a conflict or disagreement between them.
+
+AnotherMissOh11_007_0348
+Q (Q9, Cause elucidation): What is the reason Haeyoung1 is running?
+A: Haeyoung1 might be running due to an urgent situation or to reach a destination quickly.
+
+AnotherMissOh11_007_0349
+Q (Q9, Cause elucidation): Why might Dokyung be holding Taejin's arm?
+A: Dokyung might be holding Taejin's arm to restrain him, as indicated by Taejin's angry exclamation.
+
+AnotherMissOh11_007_0350
+Q (Q11, Intention disclosure): Why is Haeyoung1 running to Dokyung and Taejin?
+A: Haeyoung1 is running to Dokyung and Taejin because she wants to intervene in a situation involving them, as indicated by her demand for Taejin to let go.
+
+AnotherMissOh11_007_0351
+Q (Q4, Feature specification): What color is Taejin's tie that he is holding?
+A: The color of Taejin's tie is not specified in the provided information.
+
+AnotherMissOh11_007_0352
+Q (Q11, Intention disclosure): Why is Haeyoung1 touching Dokyung's face?
+A: Haeyoung1 is touching Dokyung's face to show affection or concern.
+
+AnotherMissOh11_007_0353
+Q (Q9, Cause elucidation): What caused Dokyung to have an injury on his face?
+A: An incident occurred that resulted in Dokyung getting injured on his face.
+
+AnotherMissOh11_007_0354
+Q (Q11, Intention disclosure): Why does Taejin want Haeyoung1 to get away from Dokyung?
+A: Taejin is likely concerned or possessive about Haeyoung1's proximity to Dokyung and wants to prevent any further interaction between them.
+
+AnotherMissOh11_007_0355
+Q (Q11, Intention disclosure): Why is Taejin pointing at Dokyung in front of Haeyoung1?
+A: Taejin is indicating his disapproval of Dokyung and warning Haeyoung1 to stay away from him.
+
+AnotherMissOh11_007_0355
+Q (Q11, Intention disclosure): Why is Taejin telling Haeyoung1 to get away from Dokyung?
+A: Taejin is likely concerned for Haeyoung1's well-being or has a negative opinion of Dokyung, which is why he is telling her to stay away from him.
+
+AnotherMissOh11_007_0356
+Q (Q11, Intention disclosure): Why does Taejin want Haeyoung1 to get away from Dokyung?
+A: Taejin likely perceives Dokyung as a threat or rival and wants to assert his possessiveness over Haeyoung1, indicating that he still has feelings for her and is upset seeing her with another man.
+
+AnotherMissOh11_007_0358
+Q (Q11, Intention disclosure): Why does Haeyoung1 question Taejin's motive for hitting Dokyung?
+A: Haeyoung1 is questioning Taejin's motive for hitting Dokyung because she suspects that Taejin might still be acting possessive or protective over her, implying that Taejin might think they are still in a relationship.
+
+AnotherMissOh11_007_0358
+Q (Q11, Intention disclosure): Why does Haeyoung1 question Taejin about hitting Dokyung?
+A: Haeyoung1 is questioning Taejin's motive for hitting Dokyung, possibly because she is concerned about the violence and is trying to understand Taejin's reasoning, especially since she suspects it might be related to her past relationship with Taejin.
+
+AnotherMissOh11_007_0359
+Q (Q11, Intention disclosure): Why did Haeyoung1 ask Taejin about his reason for hitting Dokyung?
+A: Haeyoung1 is questioning Taejin's motive for hitting Dokyung, possibly to understand if Taejin's actions were driven by jealousy or possessiveness, as she implies that Taejin might still consider her as his girl.
+
+AnotherMissOh11_007_0360
+Q (Q9, Cause elucidation): What might have caused Taejin to look mad?
+A: There could be a situation or an event in the story that upset Taejin, leading to his angry expression.
+
+AnotherMissOh11_007_0361
+Q (Q11, Intention disclosure): Why might Dokyung and Haeyoung1 be standing together?
+A: They could be standing together for a conversation, to wait for someone, or because they are involved in a shared situation or event.
+
+AnotherMissOh11_007_0362
+Q (Q9, Cause elucidation): What might have caused Haeyoung1 to talk with anger?
+A: Haeyoung1 could be responding to a situation or conversation that upset her, leading to her angry demeanor.
+
+AnotherMissOh11_007_0365
+Q (Q9, Cause elucidation): What might have caused Haeyoung1 to have an angry face?
+A: Haeyoung1 could have encountered a situation or received news that upset her, leading to her angry expression.
+
+AnotherMissOh11_007_0366
+Q (Q9, Cause elucidation): What caused Taejin to become furious?
+A: Taejin became furious because he believes the person he is addressing ruined him and was responsible for getting him locked up.
+
+AnotherMissOh11_007_0367
+Q (Q4, Feature specification): What expression is Dokyung showing on his face?
+A: Dokyung is showing a poker face, which means he has an expressionless, emotionless face.
+
+AnotherMissOh11_007_0368
+Q (Q9, Cause elucidation): What event led to Haeyoung1's shock?
+A: Haeyoung1 is shocked due to an unexpected or surprising event that occurred.
+
+AnotherMissOh11_007_0369
+Q (Q4, Feature specification): What direction does Haeyoung1 turn her head to?
+A: Haeyoung1 turns her head to the left.
+
+AnotherMissOh11_007_0376
+Q (Q11, Intention disclosure): What is Taejin's reason for confronting Dokyung?
+A: Taejin believes Dokyung had him locked up to prevent his marriage to Haeyoung1.
+
+AnotherMissOh11_007_0376
+Q (Q11, Intention disclosure): What is Taejin's motive for confronting Dokyung in front of Haeyoung1?
+A: Taejin suspects Dokyung is responsible for getting him locked up to prevent his marriage to Haeyoung1.
+
+AnotherMissOh11_007_0379
+Q (Q11, Intention disclosure): Why might Taejin be covering his face with his hands?
+A: Taejin might be covering his face with his hands to hide his emotions or because he is feeling overwhelmed.
+
+AnotherMissOh11_007_0384
+Q (Q9, Cause elucidation): What is the reason behind Taejin's emotional state that he is about to cry?
+A: The specific reason for Taejin's emotional state is not provided in the information given.
+
+AnotherMissOh11_007_0385
+Q (Q9, Cause elucidation): What caused the flowers to be on the ground for Taejin to pick up?
+A: The flowers were on the ground because they had been dropped or fallen there prior to Taejin picking them up.
+
+AnotherMissOh11_007_0386
+Q (Q4, Feature specification): What kind of flowers is Taejin looking at?
+A: Taejin is looking at a bouquet of red roses.
+
+AnotherMissOh11_007_0389
+Q (Q9, Cause elucidation): Why is Taejin hitting the traffic light with the flowers?
+A: Taejin is likely expressing frustration or anger by hitting the traffic light with the flowers.
+
+AnotherMissOh11_007_0390
+Q (Q4, Feature specification): What kind of flowers is Taejin swinging in front of the telephone pole?
+A: Taejin is swinging red flowers in front of the telephone pole.
+
+AnotherMissOh11_007_0391
+Q (Q4, Feature specification): What color are the petals that are falling down in the scene?
+A: The petals that are falling down are red.
+
+AnotherMissOh11_008_0393
+Q (Q9, Cause elucidation): What reason did Chairman Jang give Taejin for the withdrawal of the investment?
+A: Chairman Jang told Taejin that Park Dokyung asked for a favor to withdraw the investment.
+
+AnotherMissOh11_008_0394
+Q (Q11, Intention disclosure): Why did Park Dokyung ask for a favor?
+A: Park Dokyung asked for a favor to do something that Taejin believes neither he nor Dokyung should be involved in.
+
+AnotherMissOh11_008_0395
+Q (Q11, Intention disclosure): Why does Taejin believe that neither he nor Dokyung have any involvement in the matter he is thinking about?
+A: Taejin is convinced that after considering the situation multiple times, there is no connection or contribution from either him or Dokyung to the issue at hand.
+
+AnotherMissOh11_008_0395
+Q (Q11, Intention disclosure): Why does Taejin believe that neither he nor Dokyung have any involvement in the matter he is thinking about?
+A: Taejin is convinced that after considering the situation multiple times, there is no connection or contribution from either him or Dokyung to the issue at hand.
+
+AnotherMissOh11_008_0396
+Q (Q11, Intention disclosure): What is the reason Taejin was approached by the lawyer while he was locked up?
+A: The lawyer came to Taejin to tell him something important.
+
+AnotherMissOh11_008_0397
+Q (Q9, Cause elucidation): What is the reason Taejin was locked up according to his statement?
+A: Taejin implies that he was locked up because Park Dokyung thought he was going to marry Oh Haeyoung.
+
+AnotherMissOh11_008_0398
+Q (Q11, Intention disclosure): Why did Park Dokyung act under the assumption that Taejin was going to marry Oh Haeyoung?
+A: Park Dokyung thought Taejin was going to marry Oh Haeyoung because of a misunderstanding or misinformation regarding Taejin's relationship with her.
+
+AnotherMissOh11_008_0399
+Q (Q4, Feature specification): What is the correct spelling of Haeyoung2's first name as she states it?
+A: It's spelled "Hae."
+
+AnotherMissOh11_008_0400
+Q (Q11, Intention disclosure): Why is Taejin talking to someone?
+A: Taejin is talking to someone to engage in a conversation, possibly to discuss an issue, share information, or express his feelings.
+
+AnotherMissOh11_008_0402
+Q (Q9, Cause elucidation): What might be the reason for Taejin's uneasiness?
+A: Taejin could be uneasy due to an unexpected or stressful situation he is facing.
+
+AnotherMissOh11_008_0403
+Q (Q4, Feature specification): What color is the suit that Taejin is wearing?
+A: The suit is gray.
+
+AnotherMissOh11_008_0405
+Q (Q11, Intention disclosure): Why might Taejin be touching his face?
+A: Taejin might be touching his face as a reaction to confusion or disbelief regarding what Haeyoung1 said.
+
+AnotherMissOh11_008_0407
+Q (Q4, Feature specification): What direction is Taejin's head moving towards?
+A: Taejin's head is moving towards the right.
+
+AnotherMissOh11_008_0408
+Q (Q11, Intention disclosure): Why is Dokyung walking towards Haeyoung1?
+A: Dokyung is walking towards Haeyoung1 likely because he wants to talk to her or has something important to discuss.
+
+AnotherMissOh11_008_0409
+Q (Q11, Intention disclosure): Why does Dokyung want to tell Haeyoung1 everything?
+A: Dokyung intends to disclose everything to Haeyoung1, possibly because he feels it's important for her to know the truth or circumstances related to his injury or other events in the story.
+
+AnotherMissOh11_008_0410
+Q (Q11, Intention disclosure): Why does Dokyung want to tell Haeyoung1 everything?
+A: Dokyung intends to be transparent and possibly resolve any misunderstandings or issues by sharing all the information with Haeyoung1.
+
+AnotherMissOh11_008_0411
+Q (Q11, Intention disclosure): Why is Taejin turning around to look at Dokyung?
+A: Taejin is turning around to look at Dokyung because Dokyung has just spoken and is indicating that he will reveal everything to Haeyoung1.
+
+AnotherMissOh11_008_0413
+Q (Q1, Verification): Is Dokyung alone in the shot?
+A: The provided information does not specify whether Dokyung is alone or not.
+
+AnotherMissOh11_008_0414
+Q (Q9, Cause elucidation): What might have caused Haeyoung1 to feel sad?
+A: There could be various reasons for Haeyoung1's sadness, such as experiencing a personal setback, receiving bad news, or going through a difficult situation.
+
+AnotherMissOh11_008_0415
+Q (Q8, Interpretation): What might Taejin be feeling as he stares at somewhere?
+A: Taejin could be feeling a range of emotions such as curiosity, concern, or anticipation depending on what he is looking at.
+
+AnotherMissOh11_008_0416
+Q (Q11, Intention disclosure): Why is Taejin watching Dokyung and Haeyoung1?
+A: Taejin is watching Dokyung and Haeyoung1 possibly because he has a personal interest or concern involving the two individuals.
+
+AnotherMissOh11_008_0419
+Q (Q9, Cause elucidation): What might have caused Dokyung to bleed on his lip?
+A: Dokyung might have been hit in the face or had an accident resulting in the bleeding on his lip.
+
+AnotherMissOh11_008_0421
+Q (Q11, Intention disclosure): Why is Haeyoung1 walking away from Dokyung?
+A: Haeyoung1 is walking away from Dokyung possibly due to a disagreement or emotional distress.
+
+AnotherMissOh11_008_0423
+Q (Q9, Cause elucidation): What might be the reason for Taejin's sighing and touching his head?
+A: Taejin could be experiencing stress or a headache, which is often indicated by sighing and the gesture of touching one's head.
+
+AnotherMissOh11_008_0424
+Q (Q4, Feature specification): What color is the shirt that Haeyoung1 is wearing?
+A: The shirt is white.
+
+AnotherMissOh11_008_0425
+Q (Q9, Cause elucidation): What led to Taejin punching Dokyung?
+A: Taejin punched Dokyung due to a conflict between them.
+
+AnotherMissOh11_008_0428
+Q (Q9, Cause elucidation): What might have caused Taejin to kick the person?
+A: The specific cause is not provided, but it could be due to a conflict or a defensive action.
+
+AnotherMissOh11_008_0429
+Q (Q9, Cause elucidation): What is the reason for Dokyung's suffering on the ground?
+A: Dokyung is suffering on the ground due to an unspecified cause that occurred prior to this shot.
+
+AnotherMissOh11_008_0430
+Q (Q11, Intention disclosure): Why is Taejin making Dokyung stand up?
+A: Taejin is making Dokyung stand up because he feels betrayed by Dokyung for taking his woman and stabbing him in the back.
+
+AnotherMissOh11_008_0431
+Q (Q11, Intention disclosure): Why is Taejin grabbing the person by the collar?
+A: Taejin is grabbing the person by the collar because he feels betrayed and believes that the person has taken his woman.
+
+AnotherMissOh11_008_0432
+Q (Q9, Cause elucidation): What caused Dokyung to fall on the ground?
+A: Taejin's accusation and confrontation led to Dokyung falling on the ground.
+
+AnotherMissOh11_008_0432
+Q (Q9, Cause elucidation): What action led to Dokyung falling on the ground?
+A: Taejin's accusation and confrontation with Dokyung led to Dokyung falling on the ground.
+
+AnotherMissOh11_008_0432
+Q (Q9, Cause elucidation): What caused Dokyung to fall on the ground?
+A: Taejin's aggressive actions towards Dokyung led to Dokyung falling on the ground.
+
+AnotherMissOh11_008_0433
+Q (Q4, Feature specification): What type of accessory is Dokyung wearing on his wrist?
+A: Dokyung is wearing a watch on his wrist.
+
+AnotherMissOh11_008_0434
+Q (Q4, Feature specification): What kind of jacket is Taejin taking off?
+A: Taejin is taking off a formal jacket.
+
+AnotherMissOh11_008_0434
+Q (Q4, Feature specification): What type of clothing is Taejin wearing aside from the jacket?
+A: Taejin is wearing a shirt.
+
+AnotherMissOh11_008_0435
+Q (Q9, Cause elucidation): What caused Dokyung to be in a position where he needed to push himself away from the ground?
+A: Dokyung had fallen to the ground, which is why he needed to push himself away to stand up.
+
+AnotherMissOh11_008_0436
+Q (Q9, Cause elucidation): Why is Taejin yelling?
+A: Taejin is yelling to make someone get up, as indicated by his words "Get up! Get up, bastard!"
+
+AnotherMissOh11_009_0437
+Q (Q4, Feature specification): What type of clothing is Haeyoung1 wearing in the shot?
+A: Haeyoung1 is wearing a white blouse.
+
+AnotherMissOh11_009_0438
+Q (Q1, Verification): Are the people acknowledging Haeyoung1 as they pass by her?
+A: No, the people are just passing by Haeyoung1 without acknowledging her.
+
+AnotherMissOh11_009_0439
+Q (Q4, Feature specification): What is written on the back of Haeyoung1's jacket?
+A: "MAKE ME SMILE or Cry" is written on the back of Haeyoung1's jacket.
+
+AnotherMissOh11_009_0439
+Q (Q4, Feature specification): What is written on the back of Haeyoung1's jacket?
+A: "MAKE ME SMILE or Cry" is written on the back of Haeyoung1's jacket.
+
+AnotherMissOh11_009_0440
+Q (Q4, Feature specification): What hairstyle does Haeyoung1 have in the shot?
+A: Haeyoung1 has her hair down in the shot.
+
+AnotherMissOh11_009_0440
+Q (Q4, Feature specification): What is the color of Haeyoung1's hair?
+A: Haeyoung1's hair is brown.
+
+AnotherMissOh11_009_0441
+Q (Q4, Feature specification): What color are the pants that Haeyoung1 is wearing?
+A: The pants are black.
+
+AnotherMissOh11_009_0442
+Q (Q4, Feature specification): What color is Haeyoung1's bag?
+A: Haeyoung1's bag is white.
+
+AnotherMissOh11_009_0443
+Q (Q4, Feature specification): What is the expression on Haeyoung1's face while she is standing among the people?
+A: Haeyoung1 has a thoughtful and somewhat distant expression on her face while standing among the people.
+
+AnotherMissOh11_009_0444
+Q (Q4, Feature specification): What does the subway station look like where Haeyoung1 is?
+A: The subway station has clear signage, bright lighting, and appears to be quite modern.
+
+AnotherMissOh11_009_0445
+Q (Q4, Feature specification): What is the expression on Haeyoung1's face as she watches the gate closing?
+A: Haeyoung1 has a contemplative expression on her face as she watches the gate closing.
+
+AnotherMissOh11_009_0447
+Q (Q9, Cause elucidation): Why is Deogi hitting Haeyoung1 with the pillow?
+A: Deogi is hitting Haeyoung1 with the pillow because she is questioning Haeyoung1's humanity, implying frustration or disbelief at Haeyoung1's actions or behavior.
+
+AnotherMissOh11_009_0447
+Q (Q9, Cause elucidation): Why is Deogi hitting Haeyoung1 with the pillow?
+A: Deogi is hitting Haeyoung1 with the pillow because she is questioning whether Haeyoung1 is even a human being, indicating a level of frustration or disbelief towards Haeyoung1's actions or behavior.
+
+AnotherMissOh11_009_0449
+Q (Q11, Intention disclosure): Why does Deogi ask Haeyoung1 about her laughter?
+A: Deogi is questioning Haeyoung1's emotional state, implying that there might be a reason why laughing could be considered inappropriate or unexpected given the situation.
+
+AnotherMissOh11_009_0449
+Q (Q11, Intention disclosure): Why might Deogi be standing on the bed?
+A: Deogi might be standing on the bed to get Haeyoung1's attention or as a reaction to Haeyoung1's laughter.
+
+AnotherMissOh11_009_0450
+Q (Q11, Intention disclosure): Why is Haeyoung1 laughing despite the situation?
+A: Haeyoung1 might be laughing as a coping mechanism to deal with the pain or discomfort from wearing a cast.
+
+AnotherMissOh11_009_0451
+Q (Q9, Cause elucidation): What might have caused Haeyoung1 to cry?
+A: Haeyoung1 might be crying due to an emotional event or distressing situation she experienced.
+
+AnotherMissOh11_009_0451
+Q (Q9, Cause elucidation): What event led to Haeyoung1 crying?
+A: The specific event that led to Haeyoung1 crying is not provided in the given information.
+
+AnotherMissOh11_009_0454
+Q (Q11, Intention disclosure): Why is Haeyoung1 moving out?
+A: Haeyoung1 is moving out due to personal reasons that are revealed in the context of the story.
+
+AnotherMissOh11_009_0455
+Q (Q9, Cause elucidation): What might have caused Haeyoung1 to throw something?
+A: Haeyoung1 might be experiencing strong emotions such as anger or frustration, leading her to throw something as an expression of those feelings.
+
+AnotherMissOh11_009_0458
+Q (Q4, Feature specification): What is the weather like when Haeyoung1 is standing on the bridge?
+A: The weather appears to be clear and sunny as there are no signs of rain or overcast skies in the video frame.
+
+AnotherMissOh11_009_0459
+Q (Q4, Feature specification): What color is the sweater that Haeyoung1 is wearing?
+A: The sweater is pink.
+
+AnotherMissOh11_009_0461
+Q (Q11, Intention disclosure): Why does Haeyoung1 question if everything she's been through is because of Oh Haeyoung?
+A: Haeyoung1 is reflecting on her past experiences and considering the possibility that Oh Haeyoung has had a significant impact on her life, which indicates that she is trying to understand the motivations or reasons behind the events that have occurred to her.
+
+AnotherMissOh11_009_0462
+Q (Q4, Feature specification): What style of school uniform is Haeyoung2 wearing?
+A: Haeyoung2 is wearing a school uniform with a white blouse and a red plaid skirt.
+
+AnotherMissOh11_009_0463
+Q (Q11, Intention disclosure): What is the reason Haeyoung2 is giving a high-five?
+A: Haeyoung2 is likely celebrating or expressing joy and camaraderie by giving a high-five.
+
+AnotherMissOh11_009_0464
+Q (Q4, Feature specification): What style of tie is Haeyoung2 wearing?
+A: Haeyoung2 is wearing a school-style tie.
+
+AnotherMissOh11_009_0464
+Q (Q4, Feature specification): What kind of tie is Haeyoung2 wearing?
+A: Haeyoung2 is wearing a necktie.
+
+AnotherMissOh11_009_0465
+Q (Q4, Feature specification): What expression is Haeyoung2 showing in the shot?
+A: Haeyoung2 is showing a smiling expression.
+
+AnotherMissOh11_009_0466
+Q (Q4, Feature specification): What is the expression on Haeyoung1's face as she runs?
+A: Haeyoung1 has a smiling expression on her face as she runs.
+
+AnotherMissOh11_009_0467
+Q (Q4, Feature specification): What is the mode of transportation that Haeyoung1 is using in the shot?
+A: Haeyoung1 is riding a train.
+
+AnotherMissOh11_009_0468
+Q (Q11, Intention disclosure): Why is Haeyoung1 crossing her arms while talking about Park Dokyung's love for Oh Haeyoung?
+A: Haeyoung1 is likely crossing her arms as a gesture that indicates she is feeling defensive or skeptical about Park Dokyung's feelings for Oh Haeyoung.
+
+AnotherMissOh11_009_0470
+Q (Q11, Intention disclosure): Why might Haeyoung1 be standing next to the door?
+A: Haeyoung1 could be waiting for someone to arrive or perhaps she is hesitant to enter the room.
+
+AnotherMissOh11_009_0471
+Q (Q4, Feature specification): What kind of bag is Haeyoung1 carrying?
+A: The information provided does not specify the kind of bag Haeyoung1 is carrying.
+
+AnotherMissOh11_009_0472
+Q (Q4, Feature specification): What expression does Haeyoung1 have while looking at Dokyung?
+A: Haeyoung1 has a contemplative expression while looking at Dokyung.
+
+AnotherMissOh11_009_0473
+Q (Q9, Cause elucidation): What might have prompted Haeyoung1 to ask Dokyung about the fight?
+A: Haeyoung1 might have noticed signs of a physical altercation on Dokyung, such as injuries or disheveled clothing, prompting her to ask who he fought with.
+
+AnotherMissOh11_009_0474
+Q (Q11, Intention disclosure): What might be the reason behind Haeyoung1 saying Dokyung looks cool despite his bruise?
+A: Haeyoung1 might be trying to lighten the mood or make Dokyung feel better about his injury by complimenting his appearance.
+
+AnotherMissOh11_009_0475
+Q (Q4, Feature specification): What expression is Dokyung showing while looking aside?
+A: Dokyung has a serious expression on his face while looking aside.
+
+AnotherMissOh11_009_0476
+Q (Q11, Intention disclosure): Why is Haeyoung1 asking someone to tell her something now?
+A: Haeyoung1 is likely seeking urgent information or clarification from the person she is looking at.
+
+AnotherMissOh11_009_0477
+Q (Q11, Intention disclosure): Why does Haeyoung1 want Dokyung to tell her now?
+A: Haeyoung1 believes she would be less shocked by whatever information Dokyung has to share if he tells her immediately.
+
+AnotherMissOh11_009_0478
+Q (Q4, Feature specification): What is the expression on Haeyoung1's face as she walks around Dokyung?
+A: Haeyoung1 has a focused expression on her face as she walks around Dokyung.
+
+AnotherMissOh11_009_0479
+Q (Q11, Intention disclosure): Why is Dokyung turning Haeyoung1's body?
+A: Dokyung is turning Haeyoung1's body to face him or to change her position.
+
+AnotherMissOh11_009_0480
+Q (Q11, Intention disclosure): What is Haeyoung1's intention when she asks Dokyung to tell her now before she likes him more?
+A: Haeyoung1 wants to know Dokyung's feelings or intentions towards her before her own feelings for him deepen further.
+
+AnotherMissOh11_009_0481
+Q (Q11, Intention disclosure): What is Haeyoung1's intention when she asks Dokyung to tell her now before she likes him more?
+A: Haeyoung1's intention is to seek clarity about their relationship and understand Dokyung's feelings or intentions towards her before her own feelings deepen further.
+
+AnotherMissOh11_009_0482
+Q (Q9, Cause elucidation): What is the reason for Haeyoung1's crying?
+A: The specific reason for Haeyoung1's crying is not provided in the given information.
+
+AnotherMissOh11_009_0484
+Q (Q9, Cause elucidation): Why might the bag be on the train floor?
+A: The bag might be on the train floor because the owner placed it there temporarily or it could have accidentally fallen from a seat or the owner's grasp.
+
+AnotherMissOh11_009_0485
+Q (Q4, Feature specification): What expression does Haeyoung1 have on her face as she is raising her head?
+A: Haeyoung1 has a surprised and focused expression on her face as she raises her head.
+
+AnotherMissOh11_010_0486
+Q (Q4, Feature specification): What time of day is it when Haeyoung1 is walking?
+A: It is nighttime when Haeyoung1 is walking.
+
+AnotherMissOh11_010_0486
+Q (Q4, Feature specification): What is the expression on Haeyoung1's face as she is walking?
+A: Haeyoung1 has a contemplative expression on her face while walking.
+
+AnotherMissOh11_010_0487
+Q (Q4, Feature specification): What type of clothing is Haeyoung1 wearing in the shot?
+A: Haeyoung1 is wearing a white blouse.
+
+AnotherMissOh11_010_0488
+Q (Q8, Interpretation): What might be the reason behind Haeyoung1's simultaneous crying and laughing?
+A: Haeyoung1 could be experiencing a complex emotional state, possibly due to a bittersweet or emotionally overwhelming situation.
+
+AnotherMissOh11_010_0489
+Q (Q11, Intention disclosure): Why might Haeyoung1 be touching her chest?
+A: Haeyoung1 might be touching her chest as a reaction to stress or emotional distress caused by the cancellation of her wedding the day before.
+
+AnotherMissOh11_010_0490
+Q (Q11, Intention disclosure): What might be the reason Haeyoung2 is asking Haeyoung1 about the cancellation of the wedding?
+A: Haeyoung2 is likely seeking to understand Haeyoung1's motives or circumstances that led to the decision to cancel the wedding the day before it was supposed to take place.
+
+AnotherMissOh11_010_0491
+Q (Q4, Feature specification): What is the expression on Haeyoung1's face as she walks down somewhere?
+A: Haeyoung1 has a serious and contemplative expression on her face as she walks.
+
+AnotherMissOh11_010_0492
+Q (Q4, Feature specification): What is Haeyoung1 wearing as she goes down the stairs?
+A: Haeyoung1 is wearing a white blouse.
+
+AnotherMissOh11_010_0492
+Q (Q4, Feature specification): What is the appearance of the stairs that Haeyoung1 is using to go down?
+A: The stairs Haeyoung1 is using to go down appear to be indoors, with lighting on the side walls, and they are made of wood.
+
+AnotherMissOh11_010_0493
+Q (Q4, Feature specification): What is the ambiance of the bar that Haeyoung1 is walking in?
+A: The bar has a dimly lit ambiance, as indicated by the low lighting in the frame and the neon sign in the background.
+
+AnotherMissOh11_010_0494
+Q (Q4, Feature specification): What expression is Haeyoung2 showing while waving her hand?
+A: Haeyoung2 is showing a smiling expression while waving her hand.
+
+AnotherMissOh11_010_0495
+Q (Q11, Intention disclosure): Why might Haeyoung1 be walking fast?
+A: Haeyoung1 might be walking fast because she is in a hurry or heading towards an important destination.
+
+AnotherMissOh11_010_0496
+Q (Q11, Intention disclosure): What is Haeyoung1's intention behind pushing Haeyoung2?
+A: Haeyoung1's intention is not explicitly stated, but the act of pushing generally indicates a desire to move someone away or to express anger or frustration.
+
+AnotherMissOh11_010_0497
+Q (Q9, Cause elucidation): What is the reason behind Haeyoung1 pushing Haeyoung2?
+A: The reason is not provided in the given information.
+
+AnotherMissOh11_010_0498
+Q (Q11, Intention disclosure): Why is Haeyoung1 slouching on the person?
+A: Haeyoung1 might be slouching on the person due to exhaustion, seeking comfort, or as a result of an emotional moment they are sharing.
+
+AnotherMissOh11_010_0499
+Q (Q11, Intention disclosure): What is Haeyoung1's motivation for trying to attack Haeyoung2?
+A: Haeyoung1's motivation for trying to attack Haeyoung2 is rooted in some form of conflict or emotional distress between the two characters.
+
+AnotherMissOh11_010_0500
+Q (Q11, Intention disclosure): Why are the people holding Haeyoung1?
+A: The people are holding Haeyoung1 to restrain her, possibly due to an emotional outburst or to prevent her from getting into a dangerous situation.
+
+AnotherMissOh11_010_0501
+Q (Q9, Cause elucidation): What might have caused Haeyoung2 to protect her face with her arm?
+A: Haeyoung2 might be protecting her face with her arm as a defensive reaction to a perceived threat or to shield herself from something harmful.
+
+AnotherMissOh11_010_0502
+Q (Q11, Intention disclosure): Why is Haeyoung1 calling out to Haeyoung2?
+A: Haeyoung1 is likely trying to get Haeyoung2's attention or confront her about something.
+
+AnotherMissOh11_010_0502
+Q (Q11, Intention disclosure): Why is Haeyoung1 calling out to Haeyoung2?
+A: Haeyoung1 is likely trying to confront Haeyoung2 or get her attention for an important matter.
+
+AnotherMissOh11_010_0503
+Q (Q11, Intention disclosure): Why is Haeyoung1 trying to touch Haeyoung2's arm?
+A: Haeyoung1 is trying to get Haeyoung2's attention by touching her arm.
+
+AnotherMissOh11_010_0504
+Q (Q9, Cause elucidation): What could be the reason behind Haeyoung1's crying?
+A: Haeyoung1 might be crying due to an emotional event or distressing situation she has experienced.
+
+AnotherMissOh11_010_0505
+Q (Q9, Cause elucidation): What might be the reason behind Haeyoung1's yelling?
+A: She could be expressing strong emotions such as anger, frustration, or distress.
+
+AnotherMissOh11_011_0506
+Q (Q4, Feature specification): What is the expression on Jinsang's face while he is standing?
+A: Jinsang has a distressed expression on his face while standing.
+
+AnotherMissOh11_011_0508
+Q (Q9, Cause elucidation): What might be the reason for Jinsang's sigh?
+A: Jinsang could be sighing due to feelings of frustration, disappointment, or contemplation over a situation he encountered.
+
+AnotherMissOh11_011_0509
+Q (Q4, Feature specification): What expression is Dokyung showing while he is touching the back of his neck?
+A: Dokyung appears to be in discomfort or pain, as indicated by his grimace and the way he is reaching for the back of his neck.
+
+AnotherMissOh11_011_0510
+Q (Q4, Feature specification): What is the setting like where Jinsang is walking?
+A: Jinsang is walking in a place that appears to be outdoors at night, as indicated by the darkness and artificial lighting in the background.
+
+AnotherMissOh11_011_0511
+Q (Q11, Intention disclosure): Why might Jinsang be walking behind Dokyung?
+A: Jinsang might be walking behind Dokyung to follow him to a destination or to engage in a conversation with him.
+
+AnotherMissOh11_011_0512
+Q (Q9, Cause elucidation): What might have caused Dokyung's facial injuries?
+A: Dokyung's facial injuries could have been caused by an accident, a physical altercation, or another form of incident that led to him getting hurt.
+
+AnotherMissOh11_011_0513
+Q (Q4, Feature specification): What kind of food is Hun eating in front of the store?
+A: The specific type of food Hun is eating is not mentioned in the provided information.
+
+AnotherMissOh11_011_0514
+Q (Q11, Intention disclosure): What is Hun's intention when asking Dokyung where he is going?
+A: Hun's intention is to find out Dokyung's destination or plans.
+
+AnotherMissOh11_011_0515
+Q (Q11, Intention disclosure): Why is Jinsang patting Hun's shoulder?
+A: Jinsang is likely offering comfort or support to Hun by patting his shoulder.
+
+AnotherMissOh11_011_0516
+Q (Q11, Intention disclosure): Why might Hun be wearing a hat?
+A: Hun might be wearing a hat as a personal style choice or to protect himself from the sun or other elements.
+
+AnotherMissOh11_011_0517
+Q (Q11, Intention disclosure): Why is Hun walking behind Jinsang?
+A: Hun is walking behind Jinsang because he is following him to have a conversation or to observe him discreetly.
+
+AnotherMissOh11_011_0518
+Q (Q9, Cause elucidation): What might have caused Dokyung to feel sad?
+A: The specific cause is not provided, but something in the story must have happened to make Dokyung feel this way.
+
+AnotherMissOh11_011_0519
+Q (Q11, Intention disclosure): Why might Jinsang be walking in front of Hun?
+A: Jinsang might be leading the way or showing Hun something as they move forward.
+
+AnotherMissOh11_011_0520
+Q (Q4, Feature specification): What is the object that Hun is holding in his mouth?
+A: Hun is holding an ice cream bar in his mouth.
+
+AnotherMissOh11_011_0521
+Q (Q11, Intention disclosure): Why is Dokyung walking in front of Jinsang?
+A: Dokyung is likely leading the way or setting the pace for the group as they move towards their destination.
+
+AnotherMissOh11_011_0522
+Q (Q11, Intention disclosure): Why is Dokyung putting his hands in his pocket?
+A: Dokyung is putting his hands in his pocket as a casual gesture while being greeted.
+
+AnotherMissOh11_011_0523
+Q (Q11, Intention disclosure): Why does Sangseok address Dokyung as their boss?
+A: Sangseok is acknowledging Dokyung's leadership or superior position within their group, which includes Gitae and Yijoon.
+
+AnotherMissOh11_011_0524
+Q (Q8, Interpretation): What might Gitae be reacting to based on his dialogue?
+A: Gitae appears to be reacting to an unexpected or confusing situation, as indicated by his repeated questions about what is wrong.
+
+AnotherMissOh11_011_0525
+Q (Q11, Intention disclosure): Why is Jinsang lowering his head?
+A: Jinsang is lowering his head as a sign of respect, apology, or to show a submissive or thoughtful attitude.
+
+AnotherMissOh11_011_0526
+Q (Q11, Intention disclosure): Why might Sangseok be walking behind Hun?
+A: Sangseok might be walking behind Hun because he is following him to a destination they are both heading to, or he could be observing him for a specific reason.
+
+AnotherMissOh11_011_0527
+Q (Q4, Feature specification): What is the setting like where Dokyung is walking at the front of the line?
+A: Dokyung is walking at the front of a line on a street at night, as indicated by the street lights and the darkness in the sky. There are illuminated signs on the buildings, suggesting it might be a commercial area.
+
+AnotherMissOh11_011_0528
+Q (Q4, Feature specification): What is the appearance of the building near which Dokyung is walking?
+A: The building has large windows displaying bright images, and it appears to be well-lit from the inside.
+
+AnotherMissOh11_011_0530
+Q (Q11, Intention disclosure): What is Yijoon's intention in asking Gitae about the problem?
+A: Yijoon is seeking to understand the issue that Gitae is facing.
+
+AnotherMissOh11_011_0531
+Q (Q4, Feature specification): What is the expression on Hun's face as he walks between Jinsang and Sangseok?
+A: Hun appears to be focused and serious as he walks between Jinsang and Sangseok.
+
+AnotherMissOh11_011_0532
+Q (Q9, Cause elucidation): What might have caused Gitae to bump into Sangseok?
+A: Gitae might have been distracted or not paying attention to his surroundings, leading him to bump into Sangseok.
+
+AnotherMissOh11_011_0533
+Q (Q4, Feature specification): What type of clothing item does Gitae have on his head?
+A: Gitae has a hat on his head.
+
+AnotherMissOh11_011_0533
+Q (Q4, Feature specification): What color is the hat that Gitae is wearing?
+A: The hat is red.
+
+AnotherMissOh11_011_0534
+Q (Q4, Feature specification): What time of day does it appear to be when Dokyung is walking on the road?
+A: It appears to be nighttime, as indicated by the artificial lighting and the darkness in the background.
+
+AnotherMissOh11_011_0535
+Q (Q4, Feature specification): What color is the car that Dokyung walks by?
+A: The car is black.
+
+AnotherMissOh11_011_0536
+Q (Q4, Feature specification): What is the style of Dokyung's walk as he has his hands in his pockets?
+A: Dokyung is walking casually with his hands in his pockets.
+
+AnotherMissOh11_011_0537
+Q (Q4, Feature specification): What is the expression on Dokyung's face as he walks alone?
+A: Dokyung has a serious expression on his face as he walks alone.
+
+AnotherMissOh11_011_0538
+Q (Q11, Intention disclosure): Why is Sangseok discussing Haeyoung2's actions with Jinsang in the car?
+A: Sangseok is expressing his disbelief and negative opinion about Haeyoung2's decision to quickly marry another man after breaking up her marriage with their boss, implying that he is seeking validation or agreement from Jinsang on his view of the situation.
+
+AnotherMissOh11_011_0538
+Q (Q11, Intention disclosure): Why might Sangseok be speaking negatively about Haeyoung2's actions?
+A: Sangseok could be expressing disapproval or disappointment towards Haeyoung2's decision to quickly marry another person after ending a marriage, possibly indicating feelings of loyalty towards his boss or a sense of betrayal.
+
+AnotherMissOh11_011_0539
+Q (Q11, Intention disclosure): Why is Jinsang correcting Gitae's misunderstanding about the situation with Oh Haeyoung?
+A: Jinsang is trying to clarify that Dokyung broke up the marriage of a different Oh Haeyoung, not the one Gitae was thinking of, to ensure that Gitae understands the true circumstances of the situation.
+
+AnotherMissOh11_011_0540
+Q (Q8, Interpretation): What might be the reason for Hun's frowning in the car?
+A: Hun is likely frowning due to confusion or disbelief as he hears Jinsang's claim about there being two Oh Haeyoungs, which is also reflected in Gitae's skeptical reaction to the situation.
+
+AnotherMissOh11_011_0541
+Q (Q8, Interpretation): What might Gitae's reaction suggest about his understanding of the situation involving two Oh Haeyongs?
+A: Gitae's reaction suggests that he is confused and possibly skeptical about the existence of two people with the same name, as indicated by his reference to "Avatar," which implies an element of disbelief or the idea of an alternate persona.
+
+AnotherMissOh11_011_0542
+Q (Q11, Intention disclosure): Why does Gitae wear a hat?
+A: The information provided does not specify Gitae's intention for wearing a hat.
+
+AnotherMissOh11_011_0543
+Q (Q11, Intention disclosure): Why does Jinsang call Gitae a dummy?
+A: Jinsang calls Gitae a dummy because he is frustrated with him, likely due to Gitae's actions or decisions regarding the situation with two people having the same name.
+
+AnotherMissOh11_011_0544
+Q (Q11, Intention disclosure): Why does Hun tell Jinsang he should have said something earlier?
+A: Hun is expressing frustration or disappointment that Jinsang did not provide information sooner, which might have been helpful or changed the situation they are in.
+
+AnotherMissOh11_011_0544
+Q (Q11, Intention disclosure): Why did Hun tell Jinsang he should have said something earlier?
+A: Hun is expressing frustration or impatience with Jinsang for not providing information sooner, which implies that the timing of Jinsang's disclosure was important to Hun.
+
+AnotherMissOh11_011_0545
+Q (Q11, Intention disclosure): Why is Hun making a V with his fingers?
+A: Hun is likely making a V with his fingers as a gesture commonly associated with victory or celebration, possibly in response to the confusion about the multiple Oh Haeyoungs or as part of a playful interaction with his friends Gitae and Sangseok.
+
+AnotherMissOh11_011_0546
+Q (Q9, Cause elucidation): What is the reason Jinsang finds Hun's behavior annoying?
+A: Jinsang finds Hun's behavior annoying because Hun is not cleaning off his nails.
+
+AnotherMissOh11_011_0547
+Q (Q11, Intention disclosure): Why did Hun fold his finger instead of cleaning his nails as Jinsang suggested?
+A: Anna told Hun she'd kill him if he cleaned his nails, which is why he folded his finger instead.
+
+AnotherMissOh11_011_0548
+Q (Q11, Intention disclosure): Why is Sangseok asking about the marriage Dokyung broke up?
+A: Sangseok is seeking to understand Dokyung's motives or the circumstances that led to the breakup of a marriage.
+
+AnotherMissOh11_011_0549
+Q (Q11, Intention disclosure): What is Sangseok's reason for asking about the marriage Dokyung broke up?
+A: Sangseok is seeking to understand Dokyung's actions and motivations behind breaking up a marriage.
+
+AnotherMissOh11_011_0550
+Q (Q11, Intention disclosure): Why did Jinsang specify that Dokyung broke the marriage of Oh Haeyoung who had nothing to do with him?
+A: Jinsang is highlighting the fact that Dokyung interfered in the life of someone who was not connected to him, implying that Dokyung's actions were unwarranted and had significant consequences for Oh Haeyoung.
+
+AnotherMissOh11_011_0551
+Q (Q4, Feature specification): What color is the hat that Hun is wearing?
+A: The hat that Hun is wearing is black.
+
+AnotherMissOh11_011_0552
+Q (Q11, Intention disclosure): Why is Jinsang making a big gesture with his arms?
+A: Jinsang is making a big gesture with his arms to emphasize his point that Dokyung now likes Haeyoung1.
+
+AnotherMissOh11_011_0553
+Q (Q11, Intention disclosure): Why does Jinsang tell the others to forget about it and that they can't understand anything anyway?
+A: Jinsang expresses frustration or resignation, implying that the situation is too complex or difficult for the others to comprehend.
+
+AnotherMissOh11_011_0554
+Q (Q11, Intention disclosure): Why does Jinsang tell Gitae, Yijoon, Sangseok, and Hun that they can't understand anything?
+A: Jinsang expresses this out of frustration, implying that the younger individuals lack the experience or perspective to comprehend the situation at hand.
+
+AnotherMissOh11_011_0555
+Q (Q9, Cause elucidation): What might have caused Jinsang to yell?
+A: Jinsang could be yelling due to a disagreement, a sudden shock, or an intense emotional response to a situation.
+
+AnotherMissOh11_011_0556
+Q (Q11, Intention disclosure): Why is Gitae scratching his face?
+A: Gitae is likely scratching his face out of frustration or confusion due to the difficult situation they are discussing.
+
+AnotherMissOh11_011_0557
+Q (Q11, Intention disclosure): What is Yijoon's intention when he talks about kidnapping the girl the CEO wants?
+A: Yijoon's intention is to confirm that his understanding of the task is correct, which is to kidnap the girl that the CEO desires.
+
+AnotherMissOh11_011_0558
+Q (Q11, Intention disclosure): What is Yijoon's intention when choosing which Oh Haeyoung to kidnap?
+A: Yijoon intends to kidnap the really pretty Oh Haeyoung, as per his statement.
+
+AnotherMissOh11_011_0561
+Q (Q4, Feature specification): What pattern is on Hun's shirt?
+A: Hun's shirt has a check pattern.
+
+AnotherMissOh11_012_0563
+Q (Q9, Cause elucidation): What might be the reason behind Haeyoung1's sadness?
+A: The specific reason for Haeyoung1's sadness is not provided in the given information.
+
+AnotherMissOh11_012_0564
+Q (Q11, Intention disclosure): Why did Heeran say she started the mess?
+A: Heeran believes she is responsible for the complications or problems that have arisen in the situation they are discussing.
+
+AnotherMissOh11_012_0565
+Q (Q11, Intention disclosure): Why does Heeran say she is the one who started this mess?
+A: Heeran believes she is responsible for the complications or problems that have arisen.
+
+AnotherMissOh11_012_0566
+Q (Q11, Intention disclosure): Why is Haeyoung1 shutting her mouth?
+A: Haeyoung1 is likely shutting her mouth as a reaction to Heeran's confession about starting the mess and telling something to Park Dokyung, possibly indicating surprise, shock, or disapproval.
+
+AnotherMissOh11_012_0567
+Q (Q11, Intention disclosure): Why did Heeran mention her friend catching a really good guy to Dokyung?
+A: Heeran might be trying to imply something about the status or desirability of the person her friend caught, possibly to make a point or to provoke a reaction from Dokyung.
+
+AnotherMissOh11_012_0568
+Q (Q11, Intention disclosure): Why does Dokyung ask about Haeyoung2's high school?
+A: Dokyung is trying to gather more information about Haeyoung2, possibly to understand her background or context related to the financial news involving CEO Taejin.
+
+AnotherMissOh11_012_0569
+Q (Q11, Intention disclosure): Why did Dokyung ask about the high school?
+A: Dokyung asked about the high school to gather more information about Heeran's background or context.
+
+AnotherMissOh11_012_0571
+Q (Q11, Intention disclosure): Why might Haeyoung1 be opening her eyes?
+A: Haeyoung1 could be opening her eyes in response to hearing her name mentioned by Dokyung.
+
+AnotherMissOh11_012_0573
+Q (Q11, Intention disclosure): Why is Heeran apologizing to Haeyoung1?
+A: Heeran is apologizing because she feels sorry for what she has done.
+
+AnotherMissOh11_013_0575
+Q (Q11, Intention disclosure): Why might Haeyoung2 be wearing earphones?
+A: Haeyoung2 might be wearing earphones to listen to music, a podcast, or an audio book, or possibly to block out surrounding noise.
+
+AnotherMissOh11_013_0576
+Q (Q11, Intention disclosure): Why is Jinsang urging Hun to hurry?
+A: Jinsang is urging Hun to hurry because he wants Hun to quickly pick up the correct Oh Haeyoung, indicating a sense of urgency or importance in finding her.
+
+AnotherMissOh11_013_0577
+Q (Q4, Feature specification): What is the color of the car Hun is getting on?
+A: The car is black.
+
+AnotherMissOh11_013_0578
+Q (Q4, Feature specification): What is the color of the car that Haeyoung2 is standing behind?
+A: The car is black.
+
+AnotherMissOh11_013_0579
+Q (Q11, Intention disclosure): Why does Gitae want the director to wait?
+A: Gitae believes it's unfair that the director is not taking them on a trip as promised.
+
+AnotherMissOh11_013_0579
+Q (Q11, Intention disclosure): Why does Gitae mention the trip tonight?
+A: Gitae is expressing his frustration because Director Jinsang was supposed to take them on a trip that evening, but it seems that plan is not going to happen, which Gitae feels is unfair.
+
+AnotherMissOh11_013_0580
+Q (Q11, Intention disclosure): Why does Jinsang wear a seat belt?
+A: Jinsang wears a seat belt for safety while preparing to go on a trip.
+
+AnotherMissOh11_013_0581
+Q (Q11, Intention disclosure): Why does Gitae remind Jinsang about the trip?
+A: Gitae reminds Jinsang about the trip because he feels it is unfair that Jinsang might have forgotten about his promise to take them on a trip that night.
+
+AnotherMissOh11_013_0582
+Q (Q4, Feature specification): What direction is Jinsang turning his head towards?
+A: Jinsang is turning his head to the left.
+
+AnotherMissOh11_013_0583
+Q (Q4, Feature specification): What is the expression on Dokyung's face as he walks?
+A: Dokyung has a serious expression on his face as he walks.
+
+AnotherMissOh11_013_0584
+Q (Q11, Intention disclosure): Why is Sangseok walking behind Dokyung?
+A: Sangseok is walking behind Dokyung to follow him to a destination or to observe him discreetly.
+
+AnotherMissOh11_013_0585
+Q (Q4, Feature specification): What type of clothing is Sangseok wearing?
+A: Sangseok is wearing a shirt.
+
+AnotherMissOh11_013_0586
+Q (Q4, Feature specification): What color is the jacket Dokyung is wearing?
+A: The jacket Dokyung is wearing is gray.
+
+AnotherMissOh11_013_0586
+Q (Q4, Feature specification): What color is the jacket that Dokyung is wearing?
+A: The jacket is gray.
+
+AnotherMissOh11_013_0587
+Q (Q4, Feature specification): What is the appearance of Dokyung as he walks with his hands in his pockets?
+A: Dokyung appears casual and thoughtful as he walks with his hands in his pockets.
+
+AnotherMissOh11_013_0588
+Q (Q4, Feature specification): What is the expression on Dokyung's face as he walks?
+A: Dokyung has a downcast expression as he walks.
+
+AnotherMissOh11_013_0589
+Q (Q11, Intention disclosure): Why are Gitae and Sangseok grabbing Dokyung's arm?
+A: They are trying to take Dokyung somewhere, as indicated by Gitae's words, "Let's go! Let to go out! Oh, oh let's go! Let's go come on!"
+
+AnotherMissOh11_013_0590
+Q (Q11, Intention disclosure): What is Jinsang's intention when making a gesture in the car?
+A: Jinsang's intention is to encourage everyone to get in the car and leave together.
+
+AnotherMissOh11_013_0591
+Q (Q11, Intention disclosure): Why did Gitae, Sangseok, and Dokyung decide to get in the car?
+A: They were preparing to leave for a destination, as indicated by Gitae's statement "Okay, going! Let's go!" which suggests they had a motive or intention to travel somewhere.
+
+AnotherMissOh11_014_0593
+Q (Q11, Intention disclosure): Why is Jinsang trying to wake everyone up?
+A: Jinsang is trying to wake everyone up because the sun is up and it's time for them to get up.
+
+AnotherMissOh11_014_0594
+Q (Q4, Feature specification): What is the position of Gitae while he is sleeping?
+
+A: Gitae is sleeping by the driver's seat.
+
+AnotherMissOh11_014_0595
+Q (Q4, Feature specification): What facial expression is Sangseok making in response to Jinsang's wake-up call?
+A: Sangseok is frowning.
+
+AnotherMissOh11_014_0596
+Q (Q11, Intention disclosure): Why does Jinsang want the person to wake up?
+A: Jinsang wants the person to wake up to see the sea.
+
+AnotherMissOh11_014_0597
+Q (Q11, Intention disclosure): Why is Hun grabbing the car seat?
+A: Hun is likely grabbing the car seat in reaction to Jinsang's exclamation about the sea, possibly indicating surprise or a sudden awakening.
+
+AnotherMissOh11_014_0598
+Q (Q11, Intention disclosure): Why is Jinsang telling someone to wake up and get up as he gets out of the car?
+A: Jinsang is likely trying to rouse someone who is inside the car and may be asleep or not paying attention, indicating that he wants them to be alert and possibly to exit the vehicle as well.
+
+AnotherMissOh11_014_0599
+Q (Q9, Cause elucidation): What caused Dokyung to have an injury on his face?
+A: Dokyung's injury was likely caused by an event prior to the moment Jinsang tells him to wake up, such as an accident or a physical altercation.
+
+AnotherMissOh11_014_0600
+Q (Q9, Cause elucidation): What is the reason Sangseok is jumping into the water?
+A: The specific reason for Sangseok jumping into the water is not provided in the shot description or script.
+
+AnotherMissOh11_014_0600
+Q (Q9, Cause elucidation): What is the reason Sangseok is jumping into the water?
+A: The specific reason for Sangseok jumping into the water is not provided in the shot description or script.
+
+AnotherMissOh11_014_0601
+Q (Q4, Feature specification): What is the method Jinsang is using to interact with the water?
+A: Jinsang is spraying water.
+
+AnotherMissOh11_014_0601
+Q (Q4, Feature specification): What is the method Jinsang is using to spray water?
+A: Jinsang is using his hands to spray water.
+
+AnotherMissOh11_014_0602
+Q (Q4, Feature specification): What type of clothing is Dokyung wearing?
+A: Dokyung is wearing a jacket.
+
+AnotherMissOh11_014_0603
+Q (Q9, Cause elucidation): Why is Gitae running in the sea?
+A: Gitae is running in the sea as part of an activity or event taking place in the scene.
+
+AnotherMissOh11_014_0604
+Q (Q4, Feature specification): What expression is Dokyung showing while he is looking at somewhere?
+A: Dokyung is showing a serious expression while looking at somewhere.
+
+AnotherMissOh11_014_0605
+Q (Q11, Intention disclosure): Why does Dokyung threaten to kill Yijoon and Sangseok?
+A: Dokyung is expressing a strong emotional response, possibly out of frustration or anger, towards Yijoon and Sangseok.
+
+AnotherMissOh11_014_0607
+Q (Q11, Intention disclosure): Why are Sangseok and Yijoon holding Dokyung?
+A: They are holding Dokyung to help him get up.
+
+AnotherMissOh11_014_0608
+Q (Q9, Cause elucidation): What is the reason for Sangseok urging someone to get up?
+A: Sangseok is likely trying to help or motivate someone who is down, possibly in a physical or metaphorical sense, to stand up or recover.
+
+AnotherMissOh11_014_0609
+Q (Q9, Cause elucidation): What is the reason Sangseok is urging someone to get up?
+A: Sangseok is likely trying to help someone who is down and needs assistance to stand up.
+
+AnotherMissOh11_014_0610
+Q (Q4, Feature specification): What is the condition of the sand that Sangseok is standing on?
+A: The sand appears to be dry and loose, as it is not clumping together, indicating that the weather might be dry.
+
+AnotherMissOh11_014_0611
+Q (Q4, Feature specification): What expression is on Dokyung's face as he looks up?
+A: Dokyung has a surprised expression on his face as he looks up.
+
+AnotherMissOh11_014_0613
+Q (Q11, Intention disclosure): Why is Jinsang running to Dokyung?
+A: Jinsang is running to Dokyung because he has an urgent matter to discuss or needs to reach him quickly for an important reason.
+
+AnotherMissOh11_014_0613
+Q (Q11, Intention disclosure): Why is Jinsang running to Dokyung?
+A: Jinsang is running to Dokyung because he wants to reach or help him.
+
+AnotherMissOh11_014_0614
+Q (Q4, Feature specification): What is the weather like at the beach where Jinsang is?
+
+A: The weather at the beach appears to be sunny and clear.
+
+AnotherMissOh11_014_0615
+Q (Q9, Cause elucidation): What caused Dokyung to fall into the water?
+A: The specific cause of Dokyung's fall into the water is not provided in the given information.
+
+AnotherMissOh11_014_0616
+Q (Q4, Feature specification): What is the condition of Dokyung's surroundings as he comes out of the water?
+A: Dokyung's surroundings are blurry and chaotic, indicating that the water is possibly turbulent or the shot is taken from underwater, creating a distorted view.
+
+AnotherMissOh11_014_0617
+Q (Q4, Feature specification): What is the condition of Dokyung's clothes as he is moving in the water?
+A: Dokyung's clothes are wet as he is moving in the water.
+
+AnotherMissOh11_014_0618
+Q (Q11, Intention disclosure): Why is Jinsang spraying water to Dokyung?
+A: Jinsang is spraying water to Dokyung as a playful or teasing gesture, which is a common interaction between friends or acquaintances in a casual setting.
+
+AnotherMissOh11_014_0619
+Q (Q4, Feature specification): What is the expression on Sangseok's face while he is standing next to Gitae?
+A: Sangseok has a surprised expression on his face.
+
+AnotherMissOh11_014_0620
+Q (Q4, Feature specification): What pattern is on Gitae's clothes that are tied around his shoulder?
+
+A: The clothes tied around Gitae's shoulder have a blue pattern.
+
+AnotherMissOh11_014_0621
+Q (Q11, Intention disclosure): Why might Gitae choose to wear a red hat?
+A: Gitae might choose to wear a red hat to make a fashion statement or because it is his preferred color.
+
+AnotherMissOh11_014_0622
+Q (Q8, Interpretation): What might Gitae's statement imply about Jinsang's situation with the muffler?
+A: Gitae's statement suggests that Jinsang often loses things when he has them and finds them when he doesn't need them, which could imply that Jinsang is somewhat careless or absent-minded with his belongings, including the muffler he is taking off.
+
+AnotherMissOh11_014_0623
+Q (Q4, Feature specification): What is the weather like on the beach where Hun is walking?
+A: The weather appears to be sunny and clear on the beach.
+
+AnotherMissOh11_014_0624
+Q (Q11, Intention disclosure): Why does Sangseok tell Gitae that he can't date anyone?
+A: Sangseok believes that Gitae's behavior or the things he says are nonsensical, which he implies is the reason Gitae struggles with dating.
+
+AnotherMissOh11_014_0625
+Q (Q4, Feature specification): What color is Gitae's hair?
+A: Gitae's hair is yellow.
+
+AnotherMissOh11_014_0626
+Q (Q4, Feature specification): What kind of clothing item is Jinsang putting on?
+A: Jinsang is putting on his muffler.
+
+AnotherMissOh11_014_0626
+Q (Q4, Feature specification): What kind of clothing item is Jinsang putting on?
+A: Jinsang is putting on a muffler.
+
+AnotherMissOh11_014_0627
+Q (Q11, Intention disclosure): Why does Gitae feel the need to say something instead of staying still and saying nothing?
+A: Gitae feels compelled to speak up because he is uncomfortable with remaining silent in a situation that makes him squirm, indicating that he believes some form of response or action is necessary on his part.
+
+AnotherMissOh11_014_0628
+Q (Q11, Intention disclosure): Why might Jinsang be crossing his arms while Gitae is speaking?
+A: Jinsang might be crossing his arms to show a defensive or disapproving attitude towards what Gitae is saying.
+
+AnotherMissOh11_014_0629
+Q (Q4, Feature specification): What color is the hat that Gitae is wearing?
+A: The hat that Gitae is wearing is red.
+
+AnotherMissOh11_014_0630
+Q (Q11, Intention disclosure): Why does Gitae agree to stay still?
+A: Gitae agrees to stay still as a response to Sangseok's command to just stay still and not do anything else.
+
+AnotherMissOh11_014_0631
+Q (Q11, Intention disclosure): Why might Gitae be nodding his head?
+A: Gitae could be nodding his head to indicate agreement or understanding in a conversation.
+
+AnotherMissOh11_014_0632
+Q (Q4, Feature specification): What is Dokyung's body language when Gitae tells Sangseok to comfort each other?
+A: Dokyung is putting his hands in his pockets, which can indicate a relaxed or nonchalant attitude.
+
+AnotherMissOh11_014_0633
+Q (Q11, Intention disclosure): Why did Gitae and the others come to the beach?
+A: They came to the beach because their CEO got dumped by a woman.
+
+AnotherMissOh11_014_0634
+Q (Q11, Intention disclosure): Why did Gitae, Yijoon, Sangseok, Hun, and Jinsang come to the place where Hun is looking ahead?
+A: They came there because their CEO got dumped by a woman.
+
+AnotherMissOh11_014_0635
+Q (Q11, Intention disclosure): Why did Hun put his hand on his waist?
+A: Hun put his hand on his waist as a gesture, possibly indicating discomfort or a casual stance while listening to Gitae.
+
+AnotherMissOh11_014_0636
+Q (Q4, Feature specification): What color is the shirt that Dokyung is wearing?
+A: The shirt is black.
+
+AnotherMissOh11_014_0638
+Q (Q11, Intention disclosure): Why might Jinsang be taking off his muffler?
+A: Jinsang might be taking off his muffler because he feels warm or wants to feel more comfortable while talking to Gitae.
+
+AnotherMissOh11_014_0639
+Q (Q9, Cause elucidation): Why is Sangseok grabbing Gitae's neck?
+A: Sangseok is grabbing Gitae's neck as a reaction to Gitae mentioning that he got rejected more than twenty times, which might have provoked Sangseok or caused some sort of altercation between them.
+
+AnotherMissOh11_014_0640
+Q (Q4, Feature specification): What color is the shirt that Jinsang is wearing?
+A: The shirt is white.
+
+AnotherMissOh11_014_0641
+Q (Q11, Intention disclosure): Why is Sangseok flipping Gitae over on the sand?
+A: Sangseok is flipping Gitae over on the sand as part of a physical altercation, as indicated by his command to kick Gitae.
+
+AnotherMissOh11_014_0642
+Q (Q11, Intention disclosure): Why is Jinsang turning to Dokyung?
+A: Jinsang is turning to Dokyung to engage in a conversation or to address him directly.
+
+AnotherMissOh11_014_0643
+Q (Q4, Feature specification): What is the position of Gitae's body while he is on the sand?
+A: Gitae is lying down on the sand.
+
+AnotherMissOh11_014_0644
+Q (Q11, Intention disclosure): Why might Dokyung be talking in this shot?
+A: Dokyung could be talking to express his thoughts or feelings, to communicate with another character, or to advance the plot of the story.
+
+AnotherMissOh11_014_0645
+Q (Q4, Feature specification): What color is the muffler that Jinsang is holding?
+A: The image does not provide enough detail to determine the color of the muffler Jinsang is holding.
+
+AnotherMissOh11_014_0647
+Q (Q11, Intention disclosure): Why is Jinsang pointing at a specific direction on the beach?
+A: Jinsang is pointing in that direction to draw attention to the pretty girls he noticed at 9 o'clock.
+
+AnotherMissOh11_014_0648
+Q (Q4, Feature specification): What is the expression on Dokyung's face as he turns his head?
+A: Dokyung has a neutral expression on his face as he turns his head.
+
+AnotherMissOh11_014_0649
+Q (Q11, Intention disclosure): Why is Jinsang getting closer to Dokyung?
+A: Jinsang is approaching Dokyung because he has noticed pretty girls and wants to draw attention to them.
+
+AnotherMissOh11_014_0650
+Q (Q4, Feature specification): What is the condition of the beach as Jinsang runs on it?
+A: The beach appears to be sandy and spacious, suitable for running.
+
+AnotherMissOh11_014_0650
+Q (Q4, Feature specification): What is the condition of the weather on the beach where Jinsang is running?
+A: The weather on the beach appears to be clear and sunny as there are no visible signs of rain or overcast skies, and the visibility is good.
+
+AnotherMissOh11_014_0653
+Q (Q4, Feature specification): What type of cloth is Jinsang putting on his shoulder?
+A: Jinsang is putting a muffler on his shoulder.
+
+AnotherMissOh11_014_0655
+Q (Q11, Intention disclosure): What is Jinsang's reason for standing in front of the sea?
+A: Jinsang is reflecting on something he has been earnestly looking for.
+
+AnotherMissOh11_014_0656
+Q (Q4, Feature specification): What is the expression on Sangseok's face as he waves his hand?
+A: Sangseok has a blurred expression on his face as he waves his hand.
+
+AnotherMissOh11_014_0657
+Q (Q4, Feature specification): What are the expressions on the faces of the three people standing on the beach?
+A: The three people have different expressions; one appears to be pouting, the second has a slight smile, and the third is smiling broadly.
+
+AnotherMissOh11_014_0658
+Q (Q4, Feature specification): What color is the hat that Dokyung is holding?
+A: The hat that Dokyung is holding is red.
+
+AnotherMissOh11_014_0659
+Q (Q4, Feature specification): What is the expression on Hun's face as he touches it with his hand?
+A: The image does not provide clear information about Hun's facial expression as he is touching his face with his hand.
+
+AnotherMissOh11_014_0660
+Q (Q11, Intention disclosure): What might be the reason Dokyung is walking by Jinsang at the beach?
+A: Dokyung could be joining Jinsang and the others for the outing at the restaurant, as mentioned by Jinsang.
+
+AnotherMissOh11_014_0661
+Q (Q11, Intention disclosure): Why does Jinsang insist on Dokyung joining them at the restaurant?
+A: Jinsang wants to maintain an even ratio of six to six for the group, and if Dokyung leaves, the ratio will not be even.
+
+AnotherMissOh11_014_0662
+Q (Q4, Feature specification): What pattern is featured on Jinsang's shirt?
+A: Jinsang's shirt has a flower pattern.
+
+AnotherMissOh11_014_0663
+Q (Q4, Feature specification): What expressions do the women have while Sangseok stands behind them?
+A: The women have pleasant expressions with smiles on their faces.
+
+AnotherMissOh11_014_0664
+Q (Q4, Feature specification): What color are the pants that Jinsang is wearing?
+A: Jinsang is wearing black pants.
+
+AnotherMissOh11_014_0665
+Q (Q11, Intention disclosure): Why is Jinsang laughing while talking about fate?
+A: Jinsang is laughing because he finds the idea amusing that the meeting of a certain group of men and women on the beach, including Gitae, Yijoon, Sangseok, Hun, Jinsang, and Dokyung, could be considered fate.
+
+AnotherMissOh11_014_0666
+Q (Q11, Intention disclosure): Why is Jinsang shaking hands with the person?
+A: Jinsang is shaking hands with the person as a form of greeting or introduction, as indicated by the statement "My name is Oh Haeyoung."
+
+AnotherMissOh11_014_0667
+Q (Q4, Feature specification): What expression does Dokyung have on his face while looking up?
+A: Dokyung has a contemplative expression on his face.
+
+AnotherMissOh11_014_0668
+Q (Q8, Interpretation): What might have caused Hun to turn his head?
+A: Hun might have turned his head in response to a sudden noise, an unexpected event, or someone calling his name.
+
+AnotherMissOh11_014_0669
+Q (Q4, Feature specification): What expression does Sangseok have on his face as he opens his mouth?
+A: Sangseok has a surprised expression on his face.
+
+AnotherMissOh11_014_0670
+Q (Q11, Intention disclosure): What is Jinsang's intention after expressing his surprise?
+A: Jinsang's intention is to understand why Oh Haeyoung mentioned the name "Hae" and what the context of the conversation is.
+
+AnotherMissOh11_014_0671
+Q (Q4, Feature specification): What is the position of Gitae in relation to Sangseok?
+A: Gitae is standing next to Sangseok.
+
+AnotherMissOh11_014_0672
+Q (Q4, Feature specification): What expression does Sangseok have while looking at the woman?
+A: Sangseok has a focused expression while looking at the woman.
+
+AnotherMissOh11_014_0674
+Q (Q4, Feature specification): What is the expression on Dokyung's face as he stands?
+A: Dokyung has a serious expression on his face.
+
+AnotherMissOh11_014_0676
+Q (Q4, Feature specification): What feature on Gitae's face is highlighted in the shot?
+A: Gitae has a mustache on his face.
+
+AnotherMissOh11_014_0679
+Q (Q11, Intention disclosure): Why is Jinsang looking back at Dokyung?
+A: Jinsang is looking back at Dokyung possibly because he wants to ensure Dokyung is following or to gauge Dokyung's reaction to something that has occurred.
+
+AnotherMissOh11_014_0680
+Q (Q11, Intention disclosure): Why does Jinsang ask about the birth name being "Oh"?
+A: Jinsang is trying to confirm if the person he is speaking to is indeed Oh Haeyoung, whom he seems to recognize or know by name.
+
+AnotherMissOh11_014_0681
+Q (Q11, Intention disclosure): What might be Hun's reason for walking behind Dokyung?
+A: Hun might be following Dokyung to have a conversation or to observe him from a distance.
+
+AnotherMissOh11_014_0682
+Q (Q4, Feature specification): What kind of clothes is Dokyung holding in his hand?
+A: The information provided does not specify the type of clothes Dokyung is holding.
+
+AnotherMissOh11_014_0683
+Q (Q4, Feature specification): What is the expression on Jinsang's face while he is rubbing his hair with his hands?
+A: Jinsang has a distressed or frustrated expression on his face while rubbing his hair with his hands.
+
+AnotherMissOh11_014_0684
+Q (Q4, Feature specification): What is the position of Jinsang's head in this shot?
+A: Jinsang's head is tilted back in this shot.
+
+AnotherMissOh11_014_0685
+Q (Q9, Cause elucidation): Why might Dokyung be walking with his face down?
+A: Dokyung could be walking with his face down due to being deep in thought, feeling sad or troubled, or possibly trying to avoid eye contact with someone.
+
+AnotherMissOh11_014_0686
+Q (Q11, Intention disclosure): Why might Gitae be walking behind Hun?
+A: Gitae might be walking behind Hun to follow him or to engage in a conversation.
+
+AnotherMissOh11_015_0696
+Q (Q11, Intention disclosure): Why is Sungjin holding a phone?
+A: Sungjin is holding a phone likely to communicate with someone or to receive information.
+
+AnotherMissOh11_015_0696
+Q (Q11, Intention disclosure): Why might Sungjin be holding the phone?
+A: Sungjin could be holding the phone to make a call, send a message, or check for updates or notifications.
+
+AnotherMissOh11_015_0697
+Q (Q9, Cause elucidation): What might be the reason for Sungjin biting his lips?
+A: Sungjin could be biting his lips as a reaction to the frustration of the phone being off.
+
+AnotherMissOh11_015_0697
+Q (Q9, Cause elucidation): Why might Sungjin be biting his lips?
+A: Sungjin could be biting his lips as a reaction to the frustration of the phone being off.
+
+AnotherMissOh11_015_0699
+Q (Q4, Feature specification): What type of accessory is Sungjin wearing on his face?
+A: Sungjin is wearing a pair of glasses on his face.
+
+AnotherMissOh11_015_0700
+Q (Q4, Feature specification): What is the demeanor of Haeyoung2 as she walks in the office?
+A: Haeyoung2 is walking in silence, which suggests a quiet or subdued demeanor.
+
+AnotherMissOh11_015_0702
+Q (Q11, Intention disclosure): What is Sungjin's possible reason for standing up from his seat?
+A: Sungjin might be standing up from his seat to leave the room or to approach someone for a conversation.
+
+AnotherMissOh11_015_0703
+Q (Q4, Feature specification): What color is the shirt Sungjin is wearing with his tie?
+A: Sungjin is wearing a pink shirt with his tie.
+
+AnotherMissOh11_015_0705
+Q (Q9, Cause elucidation): What might be the reason Sungjin is looking aside?
+A: Sungjin might be looking aside due to a distraction or because he is avoiding someone's gaze.
+
+AnotherMissOh11_015_0706
+Q (Q11, Intention disclosure): What is Sukyung's intention when she mentions that something must have happened between Haeyoung2 and another person?
+A: Sukyung is trying to understand the reason behind Haeyoung2's unusual behavior by suggesting that an incident occurred which may have affected her.
+
+AnotherMissOh11_015_0707
+Q (Q9, Cause elucidation): What is the reason Sukyung suspects something happened between Haeyoung2 and another person?
+A: Sukyung suspects something happened because Haeyoung2 is behaving unusually without an apparent reason.
+
+AnotherMissOh11_015_0708
+Q (Q4, Feature specification): What type of accessory is Sukyung wearing on her face?
+A: Sukyung is wearing glasses.
+
+AnotherMissOh11_015_0709
+Q (Q11, Intention disclosure): Why does Haeyoung2 question Sukyung's loyalty?
+A: Haeyoung2 feels betrayed because Sukyung is siding with Haeyoung1, who Haeyoung2 claims has hit her.
+
+AnotherMissOh11_015_0710
+Q (Q11, Intention disclosure): Why is Sukyung asking Haeyoung2 instead of Haeyoung1?
+A: Sukyung is asking Haeyoung2 because Haeyoung1 isn't present at the moment.
+
+AnotherMissOh11_015_0711
+Q (Q11, Intention disclosure): Why is Haeyoung2 opening her eyes in front of the person?
+A: Haeyoung2 is opening her eyes in front of the person as a response to being addressed by Sukyung, who is speaking to her because Haeyoung1 is not present.
+
+AnotherMissOh11_015_0712
+Q (Q11, Intention disclosure): Why is Sukyung asking Haeyoung2 instead of Haeyoung1?
+A: Since Haeyoung1 isn't present, Sukyung is asking Haeyoung2 instead.
+
+AnotherMissOh11_015_0713
+Q (Q11, Intention disclosure): Why does Haeyoung2 feel the need to assert that she isn't bad enough to get beaten by other people?
+A: Haeyoung2 feels the need to assert her character to Sukyung because she wants to clarify a misunderstanding or defend her reputation against a perceived accusation or judgment.
+
+AnotherMissOh11_015_0714
+Q (Q4, Feature specification): What expression is Sukyung showing as she moves her head?
+A: Sukyung is showing a focused expression as she moves her head.
+
+AnotherMissOh11_015_0715
+Q (Q11, Intention disclosure): Why might Haeyoung2 be talking in this shot?
+A: Haeyoung2 could be talking to express her feelings, share information, or engage in a conversation with another character.
+
+AnotherMissOh11_015_0716
+Q (Q11, Intention disclosure): What is Sukyung's reason for constantly siding with Haeyoung according to Haeyoung2?
+A: The script does not provide Sukyung's reason for siding with Haeyoung; it only indicates that Haeyoung2 is questioning this behavior.
+
+AnotherMissOh11_015_0716
+Q (Q11, Intention disclosure): What is Sukyung's reason for constantly siding with Haeyoung according to Haeyoung2?
+A: The script does not provide Sukyung's reason for siding with Haeyoung; it only indicates that Haeyoung2 is questioning her motives.
+
+AnotherMissOh11_015_0717
+Q (Q11, Intention disclosure): Why might Sukyung feel the need to question Haeyoung2's perception of her taking sides?
+A: Sukyung might be trying to clarify her position or defend herself against a perceived accusation of bias.
+
+AnotherMissOh11_015_0718
+Q (Q11, Intention disclosure): Why might Sukyung feel the need to ask Haeyoung2 about her accusations of taking sides?
+A: Sukyung might feel the need to address Haeyoung2's accusations because she wants to clarify her position and possibly defend herself against the claim that she is biased towards Haeyoung1.
+
+AnotherMissOh11_015_0719
+Q (Q4, Feature specification): What type of earring is Haeyoung2 wearing?
+A: Haeyoung2 is wearing a stud earring.
+
+AnotherMissOh11_015_0720
+Q (Q4, Feature specification): What style of glasses is Sukyung wearing?
+A: Sukyung is wearing round-framed glasses.
+
+AnotherMissOh11_015_0721
+Q (Q4, Feature specification): What expression does Haeyoung2 have on her face while she is staring at somewhere?
+A: Haeyoung2 has a focused and contemplative expression on her face.
+
+AnotherMissOh11_015_0722
+Q (Q4, Feature specification): What type of accessory is Sukyung wearing in the shot?
+A: Sukyung is wearing earrings.
+
+AnotherMissOh11_015_0722
+Q (Q4, Feature specification): What type of earrings is Sukyung wearing?
+A: Sukyung is wearing drop earrings.
+
+AnotherMissOh11_015_0726
+Q (Q11, Intention disclosure): What might be the reason for Sukyung's cold-hearted behavior towards Haeyoung2?
+A: Sukyung might be feeling upset or betrayed by Haeyoung2, leading to her cold-hearted behavior.
+
+AnotherMissOh11_015_0729
+Q (Q4, Feature specification): What kind of chair is Haeyoung2 sitting on?
+A: Haeyoung2 is sitting on a chair that is likely to be found in an office environment.
+
+AnotherMissOh11_015_0730
+Q (Q11, Intention disclosure): Why did Haeyoung2 pick up her cellphone?
+A: Haeyoung2 picked up her cellphone likely because she was answering a call, checking a message, or needed to use it for some purpose.
+
+AnotherMissOh11_015_0730
+Q (Q11, Intention disclosure): Why is Haeyoung2 picking up her cellphone?
+A: Haeyoung2 is picking up her cellphone likely because she is answering a call or checking a message.
+
+AnotherMissOh11_015_0731
+Q (Q11, Intention disclosure): What is Haeyoung2's intention when asking Haeyoung1 to explain her actions from yesterday?
+A: Haeyoung2's intention is to understand the reasons behind Haeyoung1's actions that affected her.
+
+AnotherMissOh11_015_0732
+Q (Q11, Intention disclosure): Why does Haeyoung2 demand an explanation from Haeyoung1?
+A: Haeyoung2 feels that Haeyoung1 did something to her the previous day that requires clarification or justification.
+
+AnotherMissOh11_016_0733
+Q (Q4, Feature specification): What is the color of Haeyoung1's outfit as she lies on the bed?
+A: Haeyoung1's outfit is pink as she lies on the bed.
+
+AnotherMissOh11_016_0733
+Q (Q4, Feature specification): What is Haeyoung1 wearing while lying on the bed?
+A: Haeyoung1 is wearing a pink outfit while lying on the bed.
+
+AnotherMissOh11_016_0734
+Q (Q4, Feature specification): What is the color of Haeyoung1's shirt as she puts her head on the pillow?
+A: Haeyoung1's shirt is pink as she puts her head on the pillow.
+
+AnotherMissOh11_016_0735
+Q (Q3, Concept completion): What might have caused Haeyoung1 to open her eyes?
+A: Haeyoung1 might have woken up from sleep or been disturbed by a noise or a dream.
+
+AnotherMissOh11_016_0736
+Q (Q9, Cause elucidation): Why might Haeyoung1's stomach explode according to Deogi?
+A: Because eating uncooked ramyun and drinking water can cause the stomach to expand rapidly, which Deogi believes might lead to an explosion.
+
+AnotherMissOh11_016_0737
+Q (Q9, Cause elucidation): What might happen to Haeyoung1 if she eats uncooked ramyun and drinks water according to Deogi?
+A: Deogi suggests that Haeyoung1's stomach might explode.
+
+AnotherMissOh11_016_0738
+Q (Q4, Feature specification): What color is the shirt that Deogi is wearing?
+A: The shirt is gray.
+
+AnotherMissOh11_016_0739
+Q (Q4, Feature specification): What is the setting in which Deogi is sitting in front of Haeyoung1?
+A: Deogi is sitting in front of Haeyoung1 at a table, which appears to be in a dining area with a brick wall visible in the background.
+
+AnotherMissOh11_016_0740
+Q (Q11, Intention disclosure): Why is Deogi asking the person in front of him to tell him something?
+A: Deogi appears to be seeking information or clarification from the person he is talking to.
+
+AnotherMissOh11_016_0741
+Q (Q4, Feature specification): What kind of expression does Haeyoung1 have while chewing something?
+A: Haeyoung1 has a thoughtful expression while chewing something.
+
+AnotherMissOh11_016_0742
+Q (Q11, Intention disclosure): Why does Haeyoung1 mention "Mom" to Deogi?
+A: Haeyoung1 mentions "Mom" to Deogi to indicate that she wants to talk about something related to her mother.
+
+AnotherMissOh11_016_0743
+Q (Q11, Intention disclosure): Why might Deogi be asking "What?" in response to Haeyoung1's mention of high school?
+A: Deogi might be asking "What?" because he is surprised or confused about why Haeyoung1 is bringing up something from their high school days.
+
+AnotherMissOh11_016_0743
+Q (Q11, Intention disclosure): Why might Deogi be asking "What?" in response to Haeyoung1's mention of high school?
+A: Deogi might be asking "What?" because he is surprised or confused about why Haeyoung1 is bringing up something from high school, possibly indicating a past event or memory that is relevant to their conversation.
+
+AnotherMissOh11_016_0744
+Q (Q4, Feature specification): What kind of hairstyle does Haeyoung1 have in the shot?
+A: Haeyoung1 has a hairstyle with a bang.
+
+AnotherMissOh11_016_0745
+Q (Q4, Feature specification): What is the natural color of Deogi's hair?
+A: The natural color of Deogi's hair is black.
+
+AnotherMissOh11_016_0746
+Q (Q11, Intention disclosure): Why is Haeyoung1 talking?
+A: Haeyoung1 is expressing her thoughts or feelings to someone or conveying information.
+
+AnotherMissOh11_016_0748
+Q (Q4, Feature specification): What expression is on the person's face that Deogi is looking at?
+A: The person has a surprised and concerned expression.
+
+AnotherMissOh11_016_0752
+Q (Q9, Cause elucidation): What caused Deogi to feel surprised?
+A: Deogi saw or heard something unexpected that caused the feeling of surprise.
+
+AnotherMissOh11_016_0755
+Q (Q11, Intention disclosure): Why is Haeyoung1 yelling in front of the house?
+A: Haeyoung1 is yelling in front of the house to clarify that she is not "Pretty Oh Haeyoung" but rather "Regular Oh Haeyoung," indicating a case of mistaken identity or a desire to assert her own identity.
+
+AnotherMissOh11_016_0756
+Q (Q4, Feature specification): What color are the glasses Haeyoung1 is wearing?
+A: The glasses are black.
+
+AnotherMissOh11_016_0758
+Q (Q9, Cause elucidation): What is the reason a rock always smashed Haeyoung1's window?
+A: It could be due to someone repeatedly targeting Haeyoung1's window, possibly out of malice or by mistake.
+
+AnotherMissOh11_016_0759
+Q (Q4, Feature specification): What expression is Haeyoung1 showing while she is talking?
+A: Haeyoung1 is showing a serious expression while she is talking.
+
+AnotherMissOh11_016_0761
+Q (Q9, Cause elucidation): What caused Deogi to get mad?
+A: The specific reason for Deogi's anger is not provided in the shot description or knowledge graph.
+
+AnotherMissOh11_016_0762
+Q (Q4, Feature specification): What expression is Haeyoung1 showing in the shot?
+A: Haeyoung1 is showing a smiling expression.
+
+AnotherMissOh11_016_0767
+Q (Q11, Intention disclosure): Why is Deogi talking to Haeyoung1?
+A: Deogi is talking to Haeyoung1 to convey a message or discuss an issue that is relevant to their situation.
+
+AnotherMissOh11_016_0768
+Q (Q11, Intention disclosure): Why did Haeyoung1 say "mom"?
+A: Haeyoung1 said "mom" to address or get the attention of her mother.
+
+AnotherMissOh11_016_0770
+Q (Q3, Concept completion): What is the specific village that Haeyoung1 mentions they are not in?
+A: Haeyoung1 does not specify the name of the village; she only mentions that it is some village not in Seoul.
+
+AnotherMissOh11_016_0776
+Q (Q4, Feature specification): What expression does Haeyoung1 have while eating the uncooked ramen?
+A: Haeyoung1 has a focused expression while eating the uncooked ramen.
+
+AnotherMissOh11_017_0779
+Q (Q11, Intention disclosure): Why might Hun be using a straw to drink his coffee?
+A: Hun might be using a straw to drink his coffee to avoid direct contact with the hot beverage, which could help prevent burning his mouth or to keep his teeth from staining.
+
+AnotherMissOh11_017_0779
+Q (Q4, Feature specification): What kind of straw is Hun using to drink his coffee?
+A: Hun is using a straw that is suitable for drinking coffee.
+
+AnotherMissOh11_017_0780
+Q (Q11, Intention disclosure): Why might Hun be holding the cup with his hands?
+A: Hun might be holding the cup with his hands to drink from it.
+
+AnotherMissOh11_017_0780
+Q (Q11, Intention disclosure): Why might Hun be holding the cup with his hands?
+A: Hun might be holding the cup with his hands to drink from it.
+
+AnotherMissOh11_017_0781
+Q (Q9, Cause elucidation): Why did Heeran cry all night?
+A: Heeran was with a friend and cried all night, which resulted in her eyes being puffy.
+
+AnotherMissOh11_017_0781
+Q (Q9, Cause elucidation): Why did Heeran cry all night?
+A: Heeran was with a friend and cried all night, but the specific reason for her crying is not mentioned in the provided information.
+
+AnotherMissOh11_017_0782
+Q (Q4, Feature specification): What color is the hat that Hun is wearing?
+A: The hat that Hun is wearing is white.
+
+AnotherMissOh11_017_0782
+Q (Q4, Feature specification): What color is the hat that Hun is wearing?
+A: The hat that Hun is wearing is white.
+
+AnotherMissOh11_017_0784
+Q (Q11, Intention disclosure): Why might Heeran comment on Hun's writing skills?
+A: Heeran might be implying that Hun's writing is unprofessional or lacking in quality, possibly to give him feedback or to suggest that he needs to improve in that area.
+
+AnotherMissOh11_017_0785
+Q (Q4, Feature specification): What kind of straw is Hun biting?
+A: Hun is biting a straw that is in a drink.
+
+AnotherMissOh11_017_0786
+Q (Q11, Intention disclosure): Why might Heeran question Hun's ability to write professionally?
+A: Heeran might be questioning Hun's ability to write professionally to point out a perceived deficiency in Hun's skill set, possibly as a form of criticism or as a prelude to offering advice or assistance.
+
+AnotherMissOh11_017_0787
+Q (Q4, Feature specification): What action does Hun perform with his lip in relation to the straw?
+A: Hun takes his lip off the straw.
+
+AnotherMissOh11_017_0788
+Q (Q4, Feature specification): What is the relationship between Hun and the table when he puts down his arm?
+A: Hun's arm is positioned under the table after he puts it down.
+
+AnotherMissOh11_017_0788
+Q (Q11, Intention disclosure): Why does Hun put down his arm under the table?
+A: Hun puts down his arm under the table as a non-verbal response during his conversation with Heeran, possibly indicating a relaxed posture or ceasing a previous action.
+
+AnotherMissOh11_017_0789
+Q (Q4, Feature specification): What expression does Hun have on his face while looking up?
+A: Hun has a thoughtful expression on his face while looking up.
+
+AnotherMissOh11_017_0791
+Q (Q4, Feature specification): What hairstyle does Heeran have?
+A: Heeran has short hair.
+
+AnotherMissOh11_017_0793
+Q (Q4, Feature specification): What kind of tweaks does Heeran suggest are needed for the papers she is holding?
+A: Heeran suggests that the papers will do with some tweaks, implying that minor adjustments or modifications are necessary.
+
+AnotherMissOh11_017_0795
+Q (Q4, Feature specification): What type of jewelry is Heeran wearing around her neck?
+A: Heeran is wearing a necklace around her neck.
+
+AnotherMissOh11_017_0796
+Q (Q4, Feature specification): What expression is Hun wearing while looking at the front?
+A: Hun is wearing a focused expression.
+
+AnotherMissOh11_017_0797
+Q (Q11, Intention disclosure): Why is Heeran talking to the person?
+A: Heeran is talking to the person to engage in a conversation, possibly to discuss something important or to convey information.
+
+AnotherMissOh11_017_0798
+Q (Q4, Feature specification): What is Hun wearing in the cafe?
+A: Hun is wearing a white cap, a blue and white knitted vest over a white shirt.
+
+AnotherMissOh11_017_0799
+Q (Q11, Intention disclosure): Why does Heeran put her hand on her chest in the cafe?
+A: Heeran puts her hand on her chest as a gesture likely associated with the emotional distress of discussing her friend Oh Haeyoung's canceled wedding.
+
+AnotherMissOh11_017_0800
+Q (Q4, Feature specification): What does the cafe look like where Heeran is talking?
+A: The cafe has a modern interior with patrons seated in the background, and Heeran is wearing sunglasses inside the cafe.
+
+AnotherMissOh11_017_0801
+Q (Q9, Cause elucidation): What event prompted Hun to open his mouth?
+A: Hun opened his mouth in response to an unexpected or surprising event that occurred in the scene.
+
+AnotherMissOh11_017_0803
+Q (Q11, Intention disclosure): Why might Hun be feeling confused?
+A: Hun might be feeling confused because he is faced with a situation or task that he does not understand or know how to handle.
+
+AnotherMissOh11_017_0808
+Q (Q9, Cause elucidation): What might have caused everyone to find out yesterday?
+A: Heeran likely revealed some information or an event occurred that made the information known to everyone.
+
+AnotherMissOh11_017_0809
+Q (Q11, Intention disclosure): Why did Heeran feel bad about the situation?
+A: Heeran felt bad because she believed that the situation broke out because of her actions.
+
+AnotherMissOh11_017_0812
+Q (Q11, Intention disclosure): Why did Heeran tell Park Dokyung about Oh Haeyoung?
+A: Heeran wanted to inform Park Dokyung about Oh Haeyoung for a reason that is not disclosed in the provided information.
+
+AnotherMissOh11_017_0833
+Q (Q11, Intention disclosure): Why might Hun be looking at his nails?
+A: Hun might be looking at his nails as a gesture of distraction or preoccupation, possibly indicating he is thinking about something else or feeling nervous.
+
+AnotherMissOh11_017_0843
+Q (Q4, Feature specification): What type of accessory does Heeran use to shield her eyes?
+A: Heeran uses sunglasses as an accessory to shield her eyes.
+
+AnotherMissOh11_017_0844
+Q (Q4, Feature specification): What kind of nail arts is Hun taking off with his mouth?
+A: Hun is taking off his nail arts that are likely decorative and attached to his fingernails.
+
+AnotherMissOh11_017_0844
+Q (Q11, Intention disclosure): Why is Hun taking off his nail arts with his mouth?
+A: Hun is likely removing his nail arts with his mouth because he does not have a proper nail polish remover or tools at hand, or he might be in a hurry.
+
+AnotherMissOh11_017_0845
+Q (Q4, Feature specification): What expression is Hun showing while biting his finger?
+A: Hun is showing an expression of concern or anxiety while biting his finger.
+
+AnotherMissOh11_017_0845
+Q (Q4, Feature specification): What expression is Hun showing while he is biting his finger?
+A: Hun is showing a pained or anxious expression while biting his finger.
+
+AnotherMissOh11_017_0848
+Q (Q4, Feature specification): What distinctive feature of the person's legs caught Hun's attention?
+A: Hun noticed a unique tattoo on the person's legs, which made him look surprised.
+
+AnotherMissOh11_017_0849
+Q (Q11, Intention disclosure): Why might Heeran be crossing her arms while Hun is speaking to her?
+A: Heeran could be crossing her arms as a gesture indicating that she is defensive or not open to what Hun is saying.
+
+AnotherMissOh11_018_0850
+Q (Q11, Intention disclosure): Why is Hun stepping back in the store?
+A: Hun is stepping back in the store because he wants someone to listen to him.
+
+AnotherMissOh11_018_0851
+Q (Q9, Cause elucidation): Why is Hun running away from the person?
+A: Hun is running away because he does not want to engage with the person who is calling out to him and telling him to come here.
+
+AnotherMissOh11_018_0852
+Q (Q11, Intention disclosure): Why is Anna hitting Hun with the rolled book?
+A: Anna is hitting Hun with the rolled book because she is questioning him about why he peeled something off.
+
+AnotherMissOh11_018_0854
+Q (Q11, Intention disclosure): Why does Anna mention the effort she put into something to Hun?
+A: Anna is trying to convey to Hun the amount of work and dedication she has invested, possibly to elicit understanding or appreciation from him.
+
+AnotherMissOh11_018_0854
+Q (Q11, Intention disclosure): Why is Anna asking Hun about the effort she put into something?
+A: Anna is seeking acknowledgment or validation from Hun for the effort she has put into an unspecified task or object.
+
+AnotherMissOh11_018_0855
+Q (Q11, Intention disclosure): What might be the reason behind Hun showing his temper to Anna?
+A: Hun might be showing his temper to Anna due to a disagreement or a situation that has upset him.
+
+AnotherMissOh11_018_0856
+Q (Q11, Intention disclosure): What is Hun's reason for throwing the book in front of Anna?
+A: Hun is expressing frustration or anger, as indicated by his exclamation "Oh! Stop it!" before throwing the book.
+
+AnotherMissOh11_018_0857
+Q (Q11, Intention disclosure): Why is Anna looking at the person?
+A: Anna is looking at the person to engage in a conversation or to express her interest or emotions towards them.
+
+AnotherMissOh11_018_0858
+Q (Q11, Intention disclosure): Why has Hun been wearing them for three days?
+A: Hun implies that wearing them for three days should be sufficient for his intended purpose, although the specific reason is not disclosed in the provided information.
+
+AnotherMissOh11_018_0859
+Q (Q4, Feature specification): What type of jewelry is Anna wearing on her neck?
+A: Anna is wearing a necklace on her neck.
+
+AnotherMissOh11_018_0860
+Q (Q11, Intention disclosure): What is Hun's intention behind yelling at Anna?
+A: Hun's intention behind yelling at Anna is to express his frustration and possibly to convey the message that he already has a girlfriend, as indicated by Anna's response.
+
+AnotherMissOh11_018_0860
+Q (Q11, Intention disclosure): Why is Hun yelling at Anna?
+A: Hun is expressing frustration towards Anna, possibly because he feels that she is not acknowledging the fact that he has a girlfriend already.
+
+AnotherMissOh11_018_0861
+Q (Q4, Feature specification): What type of hat is Hun wearing?
+A: Hun is wearing a white cap with lettering on the front.
+
+AnotherMissOh11_018_0862
+Q (Q9, Cause elucidation): What could be the reason that Anna is yelling at Hun?
+A: Anna might be yelling at Hun due to a disagreement, a misunderstanding, or because she is upset with him for something he did or did not do.
+
+AnotherMissOh11_018_0863
+Q (Q11, Intention disclosure): Why does Hun mention that he tells everyone about having a girlfriend?
+
+A: Hun wants to reassure Anna that he is open about their relationship and feels no need to have a tattoo as a reminder.
+
+AnotherMissOh11_018_0864
+Q (Q4, Feature specification): What expression does Anna have on her face while she is looking at somewhere?
+A: Anna has a focused expression on her face.
+
+AnotherMissOh11_018_0865
+Q (Q9, Cause elucidation): What might have caused Hun to yell at Anna?
+A: Hun could be yelling at Anna due to a disagreement, a misunderstanding, or an emotional reaction to something Anna did or said.
+
+AnotherMissOh11_018_0866
+Q (Q11, Intention disclosure): What could be the reason behind Anna saying yes?
+A: Anna might have agreed to a proposal, accepted an offer, or consented to a suggestion that was presented to her.
+
+AnotherMissOh11_018_0866
+Q (Q11, Intention disclosure): What is Anna's reason for saying yes?
+A: Anna's reason for saying yes is not provided in the shot information.
+
+AnotherMissOh11_018_0868
+Q (Q9, Cause elucidation): What might have caused Hun to feel annoyed?
+A: There could be various reasons for Hun's annoyance, such as an unpleasant interaction with another character, a personal setback, or a frustrating situation he encountered.
+
+AnotherMissOh11_018_0868
+Q (Q11, Intention disclosure): What might be the reason behind Hun's annoyance?
+A: The specific reason for Hun's annoyance is not provided in the given information, but it could be due to an event or interaction that occurred prior to this shot in the drama.
+
+AnotherMissOh11_018_0869
+Q (Q11, Intention disclosure): Why might Anna be looking at Hun?
+A: Anna could be looking at Hun because she is interested in him or wants to communicate something to him.
+
+AnotherMissOh11_018_0870
+Q (Q11, Intention disclosure): What is Hun's intention when he comments on Anna's behavior?
+A: Hun's intention is to express his disapproval of Anna's actions by questioning the appropriateness of her hitting a guy's head.
+
+AnotherMissOh11_018_0871
+Q (Q4, Feature specification): What is the color of Anna's hair?
+A: Anna's hair is pink.
+
+AnotherMissOh11_018_0872
+Q (Q8, Interpretation): Why might Hun be pointing at somewhere?
+A: Hun could be pointing at something of interest or indicating a direction to someone.
+
+AnotherMissOh11_018_0875
+Q (Q9, Cause elucidation): What prompted Hun to punch the stuff on the shelf?
+A: Hun punched the stuff on the shelf because he was frustrated after being hit on the head with a book.
+
+AnotherMissOh11_018_0876
+Q (Q11, Intention disclosure): What might be the reason for Hun's anger as he left the building?
+A: Hun's anger could be related to an unpleasant encounter or event that occurred inside the building.
+
+AnotherMissOh11_018_0877
+Q (Q11, Intention disclosure): Why did Anna tell Hun not to leave after they fight?
+A: Anna likely wanted to resolve their issues rather than avoiding them by leaving, indicating a desire to communicate and address the conflict directly.
+
+AnotherMissOh11_018_0878
+Q (Q11, Intention disclosure): What is Anna's intention for telling Hun not to leave after they fight?
+A: Anna wants to resolve their issues and maintain their relationship instead of parting ways in anger.
+
+AnotherMissOh11_018_0881
+Q (Q11, Intention disclosure): What is Anna's intention when she tells Hun to come here?
+A: Anna's intention is to confront Hun about his behavior that she deems inappropriate for his age.
+
+AnotherMissOh11_018_0882
+Q (Q11, Intention disclosure): What is Anna's intention when she threatens Hun?
+A: Anna intends to compel Hun to take a certain action, otherwise, she implies that she will take some form of retaliatory action.
+
+AnotherMissOh11_018_0887
+Q (Q11, Intention disclosure): What might be the reason behind Hun's decision to stop walking?
+A: Hun might have stopped walking due to the strange feeling Anna mentioned she got from him, possibly causing him to reconsider his actions or the situation.
+
+AnotherMissOh11_018_0889
+Q (Q11, Intention disclosure): What is Hun trying to understand about Anna's feelings?
+A: Hun is trying to understand the reason behind the strange feeling Anna experienced and what actions of his might have caused it.
+
+AnotherMissOh11_018_0891
+Q (Q4, Feature specification): What part of his body does Hun turn after hitting his head?
+A: Hun turns his body.
+
+AnotherMissOh11_019_0893
+Q (Q4, Feature specification): What kind of bags is Dokyung carrying?
+A: Dokyung is carrying some bags, but the specific type of bags is not described in the provided information.
+
+AnotherMissOh11_019_0893
+Q (Q4, Feature specification): What kind of bags is Dokyung carrying?
+A: Dokyung is carrying some bags, but the specific type of bags is not described in the provided information.
+
+AnotherMissOh11_019_0894
+Q (Q4, Feature specification): What color is the bag that Dokyung is carrying?
+A: The bag that Dokyung is carrying is black.
+
+AnotherMissOh11_019_0895
+Q (Q4, Feature specification): What type of environment is Dokyung in while he puts on the headphones?
+
+A: Dokyung is in a natural, outdoor environment with rocks and possibly near a body of water, as indicated by the presence of rocks and the outdoor recording equipment.
+
+AnotherMissOh11_019_0896
+Q (Q4, Feature specification): What is the color of Dokyung's shirt?
+A: Dokyung's shirt is beige.
+
+AnotherMissOh11_019_0898
+Q (Q4, Feature specification): What type of headphones is Dokyung wearing?
+A: Dokyung is wearing over-ear headphones.
+
+AnotherMissOh11_019_0899
+Q (Q4, Feature specification): What is the position of Dokyung's body when he puts his hands on the rock?
+A: Dokyung is sitting with his hands on the rock.
+
+AnotherMissOh11_019_0900
+Q (Q4, Feature specification): What is the distinctive feature of Dokyung's headphones?
+A: Dokyung's headphones have a logo on them.
+
+AnotherMissOh11_019_0901
+Q (Q4, Feature specification): What color is the shirt that Dokyung is wearing?
+A: Dokyung is wearing a light green shirt.
+
+AnotherMissOh11_019_0902
+Q (Q4, Feature specification): What is the physical state of Dokyung's eyes as he is next to the waterfall?
+A: Dokyung's eyes are closed as he is next to the waterfall.
+
+AnotherMissOh11_019_0903
+Q (Q4, Feature specification): What type of headphones was Dokyung wearing before he took them off?
+A: Dokyung was wearing over-ear headphones before he took them off.
+
+AnotherMissOh11_019_0904
+Q (Q4, Feature specification): What is Dokyung doing with the phone in the mountain?
+A: Dokyung is holding the phone.
+
+AnotherMissOh11_019_0904
+Q (Q11, Intention disclosure): Why is Dokyung holding a phone in the mountain?
+A: Dokyung is holding a phone in the mountain possibly to make a call or to receive one, as people often use phones for communication purposes.
+
+AnotherMissOh11_019_0905
+Q (Q4, Feature specification): What type of headphones is Dokyung wearing around his neck?
+A: Dokyung is wearing around-the-neck headphones.
+
+AnotherMissOh11_019_0906
+Q (Q11, Intention disclosure): Why did Dokyung put down his headphone?
+A: Dokyung put down his headphone to engage in another activity or to listen to something without the headphones.
+
+AnotherMissOh11_019_0907
+Q (Q4, Feature specification): What did Dokyung put down on the ground?
+A: Dokyung put down something unspecified on the ground.
+
+AnotherMissOh11_020_0910
+Q (Q4, Feature specification): What hairstyle does Haeyoung1 have in the shot?
+A: Haeyoung1 has bangs in the shot.
+
+AnotherMissOh11_020_0911
+Q (Q4, Feature specification): What expression does Haeyoung1 have on her face as she turns her head?
+A: Haeyoung1 has a thoughtful expression on her face as she turns her head.
+
+AnotherMissOh11_020_0912
+Q (Q4, Feature specification): What expression does Haeyoung1 have on her face as she opens her eyes?
+A: Haeyoung1 has a neutral expression on her face as she opens her eyes.
+
+AnotherMissOh11_021_0915
+Q (Q4, Feature specification): What is the expression on Haeyoung1's face as she walks on the road?
+A: Haeyoung1 has a serious expression on her face as she walks on the road.
+
+AnotherMissOh11_021_0916
+Q (Q4, Feature specification): What is the color of Haeyoung1's bag?
+A: The color of Haeyoung1's bag is not specified in the provided information.
+
+AnotherMissOh11_021_0917
+Q (Q4, Feature specification): What color is the dress that Haeyoung1 is wearing?
+A: The dress is blue.
+
+AnotherMissOh11_021_0919
+Q (Q4, Feature specification): What is Haeyoung1 doing with her eye shadow in the shot?
+A: Haeyoung1 is wearing blue eye shadow.
+
+AnotherMissOh11_021_0922
+Q (Q4, Feature specification): What is the expression on Haeyoung1's face as she stands in front of the show window?
+A: Haeyoung1 has a contemplative expression on her face.
+
+AnotherMissOh11_021_0922
+Q (Q4, Feature specification): What is the color of the dress in the show window closest to Haeyoung1?
+A: The dress in the show window closest to Haeyoung1 is red.
+
+AnotherMissOh11_021_0923
+Q (Q4, Feature specification): What color is Haeyoung1's lipstick in the shot?
+A: Haeyoung1's lipstick is red in the shot.
+
+AnotherMissOh11_021_0923
+Q (Q4, Feature specification): What type of cosmetic is Haeyoung1 wearing on her lips?
+A: Haeyoung1 is wearing red lipstick.
+
+AnotherMissOh11_021_0924
+Q (Q4, Feature specification): What expression does Haeyoung1 have on her face as she looks at the phone?
+A: Haeyoung1 has a focused expression on her face as she looks at the phone.
+
+AnotherMissOh11_021_0925
+Q (Q4, Feature specification): What type of earrings is Haeyoung1 wearing?
+A: The image does not provide enough detail to determine the specific type of earrings Haeyoung1 is wearing.
+
+AnotherMissOh11_021_0926
+Q (Q4, Feature specification): What expression does Haeyoung1 have while looking at the phone?
+A: Haeyoung1 has a calm expression while looking at the phone.
+
+AnotherMissOh11_021_0928
+Q (Q4, Feature specification): What is the expression on Haeyoung1's face as she opens her eyes?
+A: Haeyoung1 has a neutral expression on her face as she opens her eyes.
+
+AnotherMissOh11_021_0930
+Q (Q4, Feature specification): What is the position of Haeyoung1's legs while she is at the table?
+A: Haeyoung1's legs are crossed while she is at the table.
+
+AnotherMissOh11_021_0931
+Q (Q4, Feature specification): What color is the cellphone?
+A: The cellphone is black.
+
+AnotherMissOh11_021_0932
+Q (Q4, Feature specification): What expression does Haeyoung1 have on her face while looking down?
+A: Haeyoung1 has a solemn or thoughtful expression on her face while looking down.
+
+AnotherMissOh11_021_0935
+Q (Q11, Intention disclosure): Why did Haeyoung1 say she waited and thought Dokyung would write more than just an apology?
+A: Haeyoung1 likely expected a more detailed explanation or expression of feelings from Dokyung, indicating that she was seeking a deeper understanding or connection regarding the situation they were discussing.
+
+AnotherMissOh11_021_0936
+Q (Q11, Intention disclosure): What is Haeyoung1's intention when asking Dokyung if he wrote something and then erased it?
+A: Haeyoung1 is trying to understand Dokyung's thought process and feelings, possibly indicating a desire for a more detailed or heartfelt apology.
+
+AnotherMissOh11_021_0937
+Q (Q11, Intention disclosure): Why might Haeyoung1 be questioning Dokyung about writing and erasing repeatedly?
+A: Haeyoung1 might be trying to understand Dokyung's hesitation or confusion in communicating with her, suggesting that he is unsure about what to say or how to express his thoughts.
+
+AnotherMissOh11_021_0938
+Q (Q11, Intention disclosure): Why is Dokyung touching his knee?
+A: Dokyung is likely touching his knee as a physical response to a thought or feeling he is experiencing during the conversation with Haeyoung1.
+
+AnotherMissOh11_021_0939
+Q (Q11, Intention disclosure): Why might Dokyung have closed his eyes while holding the phone?
+A: Dokyung might have closed his eyes while holding the phone as a gesture of exhaustion or frustration, possibly due to the long wait mentioned by Haeyoung1.
+
+AnotherMissOh11_021_0940
+Q (Q11, Intention disclosure): Why is Haeyoung1 talking through the phone?
+A: Haeyoung1 is talking through the phone to communicate with someone not present with her.
+
+AnotherMissOh11_021_0941
+Q (Q11, Intention disclosure): What is the reason behind Dokyung holding the phone and opening his eyes?
+A: Dokyung is likely responding to Haeyoung1's comments, indicating that he is engaged in a conversation with her.
+
+AnotherMissOh11_021_0942
+Q (Q11, Intention disclosure): Why might Haeyoung1 be holding the phone?
+A: Haeyoung1 might be holding the phone to make or receive a call, or possibly to check messages or notifications.
+
+AnotherMissOh11_021_0943
+Q (Q11, Intention disclosure): Why is Dokyung asking Haeyoung1 about her location?
+A: Dokyung is likely trying to find out Haeyoung1's whereabouts to either meet up with her or ensure she is safe.
+
+AnotherMissOh11_021_0944
+Q (Q4, Feature specification): What is the color of the shirt Dokyung is wearing?
+A: Dokyung is wearing a khaki shirt.
+
+AnotherMissOh11_021_0945
+Q (Q4, Feature specification): What is the expression on Haeyoung1's face as she turns her head slightly?
+A: Haeyoung1 has a contemplative expression on her face as she turns her head slightly.
+
+AnotherMissOh11_021_0946
+Q (Q11, Intention disclosure): What might be the reason Dokyung stopped walking?
+A: Dokyung might have stopped walking due to a sudden thought, realization, or an external stimulus that caught his attention.
+
+AnotherMissOh11_021_0950
+Q (Q4, Feature specification): What expression does Dokyung have on his face as he moves slowly?
+A: Dokyung has a serious expression on his face as he moves slowly.
+
+AnotherMissOh11_021_0951
+Q (Q4, Feature specification): What expression is Haeyoung1 showing while she is standing?
+A: Haeyoung1 is showing a serious expression while standing.
+
+AnotherMissOh11_021_0952
+Q (Q4, Feature specification): What expression is Dokyung showing while he is walking?
+A: Dokyung is showing a serious expression while walking.
+
+AnotherMissOh11_021_0954
+Q (Q11, Intention disclosure): What is Dokyung's intention for going to Haeyoung1 in the park?
+A: Dokyung went to Haeyoung1 in the park to meet her, possibly to discuss something important or to convey a message.
+
+AnotherMissOh11_021_0955
+Q (Q11, Intention disclosure): Why is Dokyung apologizing to the person?
+A: Dokyung is apologizing because he believes he was wrong and horrible.
+
+AnotherMissOh11_021_0956
+Q (Q4, Feature specification): What type of shirt is Dokyung wearing?
+A: Dokyung is wearing a collared shirt.
+
+AnotherMissOh11_021_0957
+Q (Q4, Feature specification): What expression is Haeyoung1 showing while she is talking?
+A: Haeyoung1 is showing a serious expression while she is talking.
+
+AnotherMissOh11_021_0958
+Q (Q11, Intention disclosure): Why is Dokyung looking at the person?
+A: Dokyung is looking at the person to engage in a conversation or to observe them.
+
+AnotherMissOh11_021_0959
+Q (Q11, Intention disclosure): Why is Haeyoung1 talking to someone?
+A: Haeyoung1 is engaging in a conversation to communicate with the person, possibly to convey information, express feelings, or discuss a topic of mutual interest.
+
+AnotherMissOh11_021_0960
+Q (Q4, Feature specification): What feature of Dokyung is highlighted in the shot description?
+A: The shot description highlights that Dokyung has short hair.
+
+AnotherMissOh11_021_0966
+Q (Q11, Intention disclosure): What might be the reason Haeyoung1 shook off Dokyung's hand?
+A: Haeyoung1 might have felt embarrassed or uncomfortable with the situation, prompting her to shake off Dokyung's hand.
+
+AnotherMissOh11_021_0977
+Q (Q11, Intention disclosure): Why does Haeyoung1 put things on thoughtlessly?
+A: Because she hates herself so much and wants to be a different person, she thoughtlessly puts things on hoping it might make her feel better.
+
+AnotherMissOh11_021_0982
+Q (Q4, Feature specification): What is the setting like where Haeyoung1 turned her body?
+A: The setting is outdoors with trees, outdoor seating, and red flower arrangements, indicating a public space possibly along a street or in a park area.
+
+AnotherMissOh11_021_0983
+Q (Q11, Intention disclosure): Why did Dokyung want to break Oh Haeyoung's marriage?
+A: Dokyung wanted to break Oh Haeyoung's marriage because he loved her, but he accidentally ruined Haeyoung1's marriage instead.
+
+AnotherMissOh11_021_0986
+Q (Q11, Intention disclosure): What is Haeyoung1's intention when she confronts Dokyung about his past actions towards Oh Haeyoung's marriage?
+A: Haeyoung1's intention is to express her pain and frustration over Dokyung's lingering feelings for Haeyoung2 and the hurt caused by his actions, which she feels were directed at her as well.
+
+AnotherMissOh11_021_0987
+Q (Q11, Intention disclosure): Why is Haeyoung1 yelling at someone?
+A: Haeyoung1 is yelling because she feels like an idiot for coming onto Dokyung without knowing the full situation.
+
+AnotherMissOh11_021_0988
+Q (Q11, Intention disclosure): Why did Haeyoung1 come onto Dokyung?
+A: Haeyoung1 came onto Dokyung like an idiot without knowing any of that, implying she had a misunderstanding or lack of knowledge about a situation involving Dokyung.
+
+AnotherMissOh11_021_0992
+Q (Q11, Intention disclosure): What is the reason behind Haeyoung1's anger towards Dokyung?
+A: Haeyoung1 is angry because she feels that Dokyung has taken things too far.
+
+AnotherMissOh11_021_0993
+Q (Q11, Intention disclosure): Why is Haeyoung1 yelling at Dokyung?
+A: Haeyoung1 is yelling at Dokyung because she is expressing her frustration or anger towards him.
+
+AnotherMissOh11_021_0994
+Q (Q9, Cause elucidation): What might have caused Haeyoung1 to look angry?
+A: There could be a variety of reasons, such as experiencing a conflict, receiving bad news, or encountering a frustrating situation.
+
+AnotherMissOh11_021_0995
+Q (Q9, Cause elucidation): What might have caused Dokyung to yell?
+A: Dokyung could be yelling due to a disagreement, a moment of frustration, or as a reaction to a surprising or upsetting event.
+
+AnotherMissOh11_021_0996
+Q (Q11, Intention disclosure): Why might Dokyung be looking at someone?
+A: Dokyung could be looking at someone because he is surprised, recognizes the person, or is engaged in a conversation.
+
+AnotherMissOh11_021_0997
+Q (Q4, Feature specification): What expression is Dokyung showing while he is talking?
+A: Dokyung is showing a serious expression while he is talking.
+
+AnotherMissOh11_021_1000
+Q (Q4, Feature specification): What expression is Haeyoung1 showing while she is saying nothing?
+A: Haeyoung1 is showing a thoughtful expression.
+
+AnotherMissOh11_021_1001
+Q (Q4, Feature specification): What is the position of Dokyung's body in relation to Haeyoung1 when he turns?
+A: Dokyung's body is in front of Haeyoung1 when he turns.
+
+AnotherMissOh11_021_1004
+Q (Q4, Feature specification): What is the proximity between Dokyung and Haeyoung1 when Dokyung sighed?
+A: Dokyung was near Haeyoung1 when he sighed.
+
+AnotherMissOh11_021_1005
+Q (Q11, Intention disclosure): Why is Dokyung talking to Haeyoung1?
+A: Dokyung is talking to Haeyoung1 to convey his thoughts or feelings to her.
+
+AnotherMissOh11_021_1006
+Q (Q11, Intention disclosure): Why is Dokyung looking at someone?
+A: Dokyung is looking at someone possibly because he is interested in or concerned about the person, or he might be trying to communicate non-verbally.
+
+AnotherMissOh11_021_1007
+Q (Q4, Feature specification): What expression is Haeyoung1 showing as she turns her head?
+A: Haeyoung1 has a thoughtful and curious expression as she turns her head.
+
+AnotherMissOh11_021_1008
+Q (Q11, Intention disclosure): Why is Haeyoung1 talking?
+A: Haeyoung1 is expressing her thoughts or feelings about a situation or responding to someone in the scene.
+
+AnotherMissOh11_021_1009
+Q (Q11, Intention disclosure): Why might Dokyung be looking at someone?
+A: Dokyung could be looking at someone because he is interested in or concerned about the person, or he might recognize the person from a previous encounter.
+
+AnotherMissOh11_021_1010
+Q (Q4, Feature specification): What type of earrings is Haeyoung1 wearing?
+A: Haeyoung1 is wearing long, dangling earrings.
+
+AnotherMissOh11_021_1011
+Q (Q11, Intention disclosure): What might be the reason Haeyoung1 and Dokyung are having a conversation?
+A: They could be discussing their personal matters, making plans, or resolving an issue between them.
+
+AnotherMissOh11_021_1013
+Q (Q11, Intention disclosure): What might be the reason behind Dokyung and Haeyoung1 looking at each other?
+A: They could be looking at each other because they are having a conversation or experiencing a moment of emotional connection.
+
+AnotherMissOh11_021_1016
+Q (Q11, Intention disclosure): What might be the reason Dokyung decided to leave Haeyoung1?
+A: Dokyung might have decided to leave Haeyoung1 due to a conflict or disagreement, as suggested by Haeyoung1's demand for him to come and beg.
+
+AnotherMissOh11_021_1017
+Q (Q9, Cause elucidation): What is the reason behind Haeyoung1's screaming?
+A: Haeyoung1 is screaming due to an unspecified cause that is not provided in the shot information.
+
+AnotherMissOh11_021_1018
+Q (Q4, Feature specification): What expression is Haeyoung1 showing while holding up the phone?
+A: Haeyoung1 is showing a smiling expression while holding up the phone.
+
+AnotherMissOh11_021_1021
+Q (Q11, Intention disclosure): What might have caused Haeyoung1 to get mad?
+A: The specific reason for Haeyoung1's anger is not provided, but it could be due to an upsetting event or interaction with another character.
+
+AnotherMissOh11_021_1022
+Q (Q4, Feature specification): What is the expression on Dokyung's face as he walks on the road?
+A: Dokyung has a serious expression on his face as he walks on the road.
+
+AnotherMissOh11_021_1023
+Q (Q4, Feature specification): What kind of plants is Dokyung walking by?
+A: Dokyung is walking by lush green trees.
+
+AnotherMissOh11_021_1025
+Q (Q4, Feature specification): What might be the reason for Dokyung touching the back of his neck?
+A: Dokyung might be experiencing discomfort or pain in that area, or it could be a habitual gesture indicating stress or contemplation.
+
+AnotherMissOh11_021_1026
+Q (Q4, Feature specification): What is the expression on Dokyung's face as he puts down his hand?
+A: Dokyung has a serious expression on his face as he puts down his hand.
+
+AnotherMissOh11_021_1027
+Q (Q4, Feature specification): What expression is Dokyung showing as he looks back?
+A: Dokyung is showing a surprised expression as he looks back.
+
+AnotherMissOh11_021_1028
+Q (Q4, Feature specification): What is the environment like where Dokyung is walking near people?
+A: Dokyung is walking in an area with trees and a pedestrian path, as indicated by the presence of people and greenery in the surroundings.
+
+AnotherMissOh11_021_1032
+Q (Q4, Feature specification): What is Haeyoung1 carrying while walking on the road?
+A: Haeyoung1 is carrying a bag.
+
+AnotherMissOh11_021_1033
+Q (Q4, Feature specification): What part of her face did Haeyoung1 cover with her hands?
+A: Haeyoung1 covered her entire face with her hands.
+
+AnotherMissOh11_021_1035
+Q (Q11, Intention disclosure): Why did Haeyoung1 put down her hands?
+A: Haeyoung1 put down her hands as a gesture to emphasize her statement to Dokyung about her belief that he loves her.
+
+AnotherMissOh11_022_1037
+Q (Q11, Intention disclosure): What is the Chairman's purpose for mentioning the children of the women he married?
+A: The Chairman is likely addressing a matter related to his family, possibly discussing inheritance, family issues, or expectations he has from the children of the women he married.
+
+AnotherMissOh11_022_1038
+Q (Q11, Intention disclosure): Why did Chairman mention that Youngji seemed to like Haeyoung2 the most?
+A: The Chairman mentioned that Youngji seemed to like Haeyoung2 the most to express Youngji's preference or affection towards Haeyoung2.
+
+AnotherMissOh11_022_1039
+Q (Q11, Intention disclosure): Why did the Chairman like Haeyoung2?
+A: The Chairman liked Haeyoung2 because she was easy-going.
+
+AnotherMissOh11_022_1040
+Q (Q11, Intention disclosure): Why did the Chairman say he liked Haeyoung2?
+A: The Chairman liked Haeyoung2 because she was easy-going.
+
+AnotherMissOh11_022_1041
+Q (Q11, Intention disclosure): Why does the Chairman question the appropriateness of his meetings with Haeyoung2?
+A: The Chairman is questioning the appropriateness of their meetings because he is now married to Dokyung's mom, which may make their continued meetings seem strange due to the new family connection.
+
+AnotherMissOh11_022_1041
+Q (Q11, Intention disclosure): Why does the Chairman question the appropriateness of his meetings with Haeyoung2?
+A: The Chairman is questioning the appropriateness of their meetings because he is now married to Dokyung's mom, which may make their continued meetings seem strange due to the change in their social and familial relationship.
+
+AnotherMissOh11_022_1042
+Q (Q11, Intention disclosure): Why does the Chairman question the appropriateness of his meetings with Haeyoung2 after marrying Dokyung's mom?
+A: The Chairman is implying that it may be socially or personally inappropriate to continue meeting with Haeyoung2 under the changed circumstances of his marriage to Dokyung's mom, possibly due to concerns about perceptions of their relationship or family dynamics.
+
+AnotherMissOh11_022_1043
+Q (Q11, Intention disclosure): Why does the Chairman want to stop meeting Haeyoung2?
+A: The Chairman believes it is strange for them to keep meeting after his marriage to Dokyung's mom and thinks they should stop meeting and not contact each other.
+
+AnotherMissOh11_022_1044
+Q (Q4, Feature specification): What color is the tie that the Chairman is wearing?
+A: The tie the Chairman is wearing is blue with a pattern.
+
+AnotherMissOh11_022_1045
+Q (Q11, Intention disclosure): What is Haeyoung2's intention in talking with the Chairman?
+A: Haeyoung2's intention in talking with the Chairman is to discuss a matter of importance or to convey a specific message or request.
+
+AnotherMissOh11_022_1047
+Q (Q11, Intention disclosure): Why might the Chairman be nodding his head?
+A: The Chairman could be nodding his head to show agreement or understanding in response to something that was said or presented to him.
+
+AnotherMissOh11_022_1048
+Q (Q11, Intention disclosure): What is Haeyoung2's intention when she says she will end her ties with Chairman and Youngji?
+A: Haeyoung2 intends to sever her connections with both Chairman and Youngji, indicating a desire to distance herself from them and possibly to start anew, although she seems uncertain about ending her ties with Dokyung.
+
+AnotherMissOh11_022_1049
+Q (Q4, Feature specification): What type of glasses is the Chairman wearing?
+A: The Chairman is wearing a pair of glasses with a classic design.
+
+AnotherMissOh11_022_1051
+Q (Q11, Intention disclosure): Why does the Chairman express concern about Haeyoung2 getting tangled up in his family affairs?
+A: The Chairman is concerned about Haeyoung2 getting tangled up in his family affairs because he has married several times, which has led to complicated family ties that he does not want Haeyoung2 to be burdened with.
+
+AnotherMissOh11_022_1053
+Q (Q11, Intention disclosure): Why might the Chairman be looking to the side?
+A: The Chairman could be looking to the side to observe someone's reaction, to avoid direct eye contact, or to focus on something that has caught his attention off-camera.
+
+AnotherMissOh11_022_1053
+Q (Q4, Feature specification): What expression is the Chairman showing while looking to the side?
+A: The Chairman is showing a serious expression while looking to the side.
+
+AnotherMissOh11_022_1055
+Q (Q11, Intention disclosure): Why does Taejin want to go to the restaurant?
+A: Taejin wants to talk to the Chairman.
+
+AnotherMissOh11_022_1056
+Q (Q9, Cause elucidation): What might have caused the Chairman to look unhappy?
+A: The Chairman could be unhappy due to a negative event or disappointing news related to his personal or professional life.
+
+AnotherMissOh11_022_1057
+Q (Q11, Intention disclosure): Why is Taejin touching the man's arms?
+A: Taejin is touching the man's arms to get his attention or to convey a message as the Chairman asks what the matter is, indicating a need for communication.
+
+AnotherMissOh11_022_1058
+Q (Q11, Intention disclosure): Why is the Chairman clapping his hands?
+A: The Chairman is clapping his hands to signal someone to come in, as indicated by his dialogue, "What is it? Come in!"
+
+AnotherMissOh11_022_1059
+Q (Q4, Feature specification): What color is the shirt that Taejin is wearing?
+A: The shirt that Taejin is wearing is white.
+
+AnotherMissOh11_022_1060
+Q (Q11, Intention disclosure): What might be the reason the Chairman is looking at Taejin?
+A: The Chairman could be looking at Taejin to assess his demeanor or to have a conversation with him.
+
+AnotherMissOh11_022_1061
+Q (Q11, Intention disclosure): Why is Taejin bowing to the Chairman?
+A: Taejin is likely showing respect or seeking favor from the Chairman, as bowing is a traditional gesture of deference in Korean culture.
+
+AnotherMissOh11_022_1062
+Q (Q11, Intention disclosure): Why is the Chairman looking at someone?
+A: The Chairman might be looking at someone to assess their reaction, to convey a message non-verbally, or because he is engaged in a conversation with them.
+
+AnotherMissOh11_022_1063
+Q (Q4, Feature specification): What color is the tie that Taejin is wearing?
+A: The tie that Taejin is wearing is dark-colored.
+
+AnotherMissOh11_022_1064
+Q (Q4, Feature specification): What expression does Haeyoung2 have on her face as she looks up?
+A: Haeyoung2 has a surprised expression on her face as she looks up.
+
+AnotherMissOh11_022_1065
+Q (Q11, Intention disclosure): Why might Haeyoung2 be crossing her arms in the lobby?
+A: She could be crossing her arms as a gesture indicating that she is feeling defensive or uncomfortable in the situation.
+
+AnotherMissOh11_022_1066
+Q (Q4, Feature specification): What is the relationship between Taejin and Haeyoung as mentioned in the shot script?
+A: Taejin was seen with Haeyoung before, implying they have some form of acquaintance or relationship.
+
+AnotherMissOh11_022_1067
+Q (Q8, Interpretation): What might Taejin's slight nodding indicate in response to his own question "Really?"
+
+A: Taejin's slight nodding could indicate that he is seeking confirmation or understanding of something he has just been told or has realized.
+
+AnotherMissOh11_022_1070
+Q (Q11, Intention disclosure): What is Taejin's intention when mentioning the company that fell apart?
+A: Taejin's intention is to remind the Chairman of the consequences of his past decision to rescind investment, which led to the company's downfall.
+
+AnotherMissOh11_022_1075
+Q (Q9, Cause elucidation): What is the reason behind Chairman's statement that the meal is turning through the worse?
+A: The Chairman feels that the conversation with Taejin, which involves talk of love fights and Taejin being ruined by Park Dokyung, is making the atmosphere of the meal unpleasant.
+
+AnotherMissOh11_022_1082
+Q (Q11, Intention disclosure): Why does Haeyoung2 put her hand near her mouth?
+A: Haeyoung2 might be expressing surprise or concern in reaction to the conversation between Taejin and the Chairman.
+
+AnotherMissOh11_022_1083
+Q (Q11, Intention disclosure): Why did Haeyoung2 put down her hand?
+A: Haeyoung2 put down her hand as a gesture while she was inquiring about Taejin's fiance's name, indicating she was engaging in a conversation and possibly emphasizing her question.
+
+AnotherMissOh11_023_1086
+Q (Q4, Feature specification): What is the expression on Haeyoung2's face while she is in the car?
+A: Haeyoung2 has a serious expression on her face while she is in the car.
+
+AnotherMissOh11_023_1086
+Q (Q4, Feature specification): What color is the car that Haeyoung2 is in?
+A: The car is black.
+
+AnotherMissOh11_023_1087
+Q (Q9, Cause elucidation): What might be the reason for Haeyoung2's tears?
+A: Haeyoung2 could be crying due to an emotional or distressing event she experienced.
+
+AnotherMissOh11_023_1088
+Q (Q11, Intention disclosure): Why is Haeyoung2 holding the handle with both hands?
+A: Haeyoung2 is likely holding the handle with both hands to maintain control or stability, possibly indicating a situation that requires her full attention or careful handling.
+
+AnotherMissOh11_023_1088
+Q (Q11, Intention disclosure): Why is Haeyoung2 holding the handle with both hands?
+A: Haeyoung2 is likely holding the handle with both hands to maintain control or stability, possibly indicating a moment of stress or concentration.
+
+AnotherMissOh11_024_1089
+Q (Q11, Intention disclosure): Why did Jinsang go down on his knees?
+A: Jinsang went down on his knees as a dramatic gesture to express his plea or distress to Dokyung.
+
+AnotherMissOh11_024_1090
+Q (Q11, Intention disclosure): What might be the reason for Jinsang to go down on his knees in front of Dokyung?
+A: Jinsang might be expressing a strong emotion or making a sincere request to Dokyung.
+
+AnotherMissOh11_024_1091
+Q (Q11, Intention disclosure): Why does Jinsang insist that Dokyung should follow Haeyoung1's request?
+A: Jinsang believes that Dokyung should be compliant with Haeyoung1's requests, possibly indicating that he thinks Dokyung should make amends or show a gesture of submission to her.
+
+AnotherMissOh11_024_1092
+Q (Q11, Intention disclosure): What is Jinsang trying to convey to Dokyung with his gesture?
+A: Jinsang is trying to emphasize that Dokyung should be submissive and accepting towards Haeyoung1's demands, no matter what they are.
+
+AnotherMissOh11_024_1092
+Q (Q11, Intention disclosure): What is Jinsang trying to convey to Dokyung with his gesture?
+A: Jinsang is trying to emphasize that Dokyung should be submissive and accepting towards Haeyoung1's demands, no matter how extreme they may seem.
+
+AnotherMissOh11_024_1093
+Q (Q11, Intention disclosure): Why might Dokyung be holding a bottle in his hand?
+A: Dokyung might be holding a bottle in his hand as a way to cope with stress or emotional turmoil, possibly related to the situation described by Jinsang where Haeyoung1's actions are causing him distress.
+
+AnotherMissOh11_024_1094
+Q (Q11, Intention disclosure): What is Jinsang's intention when he tells Dokyung about the times he would have gone on his knees?
+A: Jinsang's intention is to make Dokyung realize that submitting to Haeyoung1's demands or enduring her actions is not a significant issue compared to his past behavior, implying that Dokyung has previously humbled himself many times and should be able to handle Haeyoung1's behavior.
+
+AnotherMissOh11_024_1095
+Q (Q11, Intention disclosure): Why is Dokyung touching his neck while Jinsang is speaking to him?
+A: Dokyung is touching his neck as a physical response to the emotional stress or discomfort he feels during the confrontation with Jinsang.
+
+AnotherMissOh11_024_1096
+Q (Q11, Intention disclosure): What is Jinsang's intention when he tells Dokyung to express his love to Haeyoung1 and to follow her requests to the extent of rolling around in Myung Dong?
+A: Jinsang's intention is to emphasize the seriousness of Dokyung's situation and to suggest that Dokyung should take extreme measures to show his love and remorse to Haeyoung1, indicating that a simple apology is not enough to resolve the issue.
+
+AnotherMissOh11_024_1096
+Q (Q11, Intention disclosure): Why does Jinsang insist that Dokyung should tell Haeyoung1 he loves her to death and even roll around in Myung Dong if necessary?
+A: Jinsang believes that Dokyung needs to make a grand, unequivocal gesture to show his love and remorse to Haeyoung1, suggesting that mere apologies are not enough to fix the situation.
+
+AnotherMissOh11_024_1097
+Q (Q11, Intention disclosure): What is Jinsang's intention behind telling Dokyung to do everything Haeyoung1 told him to do?
+A: Jinsang's intention is to emphasize that Dokyung should be willing to go to great lengths, even to the point of rolling around in Myung Dong, to follow Haeyoung1's requests, indicating that he believes Dokyung should demonstrate his affection for her through his actions.
+
+AnotherMissOh11_024_1104
+Q (Q11, Intention disclosure): Why might Dokyung be drinking a bottle of beer?
+A: Dokyung might be drinking a bottle of beer to relax or cope with stress, possibly due to Jinsang's comment about him being calculative.
+
+AnotherMissOh11_024_1109
+Q (Q4, Feature specification): What does the gate that Haeyoung2 is entering look like?
+A: The gate Haeyoung2 is entering has a metal structure with open bars, allowing visibility through it, and is surrounded by green foliage.
+
+AnotherMissOh11_024_1111
+Q (Q4, Feature specification): What is the expression on Haeyoung2's face as she moves slightly?
+A: Haeyoung2 has a serious expression on her face as she moves slightly.
+
+AnotherMissOh11_024_1112
+Q (Q4, Feature specification): What is the expression on Dokyung's face while he is sitting on the stairs?
+A: Dokyung has a contemplative expression on his face while sitting on the stairs.
+
+AnotherMissOh11_024_1114
+Q (Q9, Cause elucidation): What is the reason for Jinsang's sigh as he leaves the place?
+A: Jinsang is sighing out of a feeling of disappointment or frustration as he leaves the place.
+
+AnotherMissOh11_024_1115
+Q (Q4, Feature specification): What expression does Haeyoung2 have on her face as she opens her eyes?
+A: Haeyoung2 has a surprised expression on her face as she opens her eyes.
+
+AnotherMissOh11_024_1116
+Q (Q11, Intention disclosure): Why did Haeyoung2 check her mailbox multiple times a day after breaking up with Dokyung?
+A: Haeyoung2 was hoping that Dokyung would at least curse at her, indicating she was seeking some form of contact or emotional response from him.
+
+AnotherMissOh11_024_1117
+Q (Q11, Intention disclosure): Why did Haeyoung2 mention her suffering and Dokyung's apparent well-being?
+A: Haeyoung2 wanted to express her feelings of hurt and possibly to convey a sense of injustice or disappointment that Dokyung seems unaffected by their breakup.
+
+AnotherMissOh11_024_1117
+Q (Q11, Intention disclosure): Why did Haeyoung2 decide to break up with Dokyung?
+A: Haeyoung2 was suffering so much that she decided to end the relationship with Dokyung.
+
+AnotherMissOh11_024_1119
+Q (Q11, Intention disclosure): What is Haeyoung2 questioning about her significance to Dokyung?
+A: Haeyoung2 is questioning whether she was really nothing to Dokyung, indicating she is uncertain about her importance or value in his perspective.
+
+AnotherMissOh11_024_1120
+Q (Q11, Intention disclosure): What might be the reason behind Dokyung's injuries?
+A: Dokyung might have gotten injured due to an altercation or accident, but the exact cause is not disclosed in the provided information.
+
+AnotherMissOh11_024_1122
+Q (Q11, Intention disclosure): Why is Haeyoung2 looking at Dokyung with such attention?
+A: Haeyoung2 is looking at Dokyung to convey her feelings about the misunderstanding that he thought she was getting married to someone else.
+
+AnotherMissOh11_024_1123
+Q (Q11, Intention disclosure): What is the reason behind Dokyung's action that led to Taejin's ruin according to Haeyoung2?
+A: Haeyoung2 believes that Dokyung ruined Taejin intentionally.
+
+AnotherMissOh11_024_1124
+Q (Q11, Intention disclosure): Why does Haeyoung2 thank Dokyung?
+A: Haeyoung2 thanks Dokyung because she feels that she can now live, implying that Dokyung's actions, despite possibly ruining Taejin, have somehow helped her to move on or overcome a challenge.
+
+AnotherMissOh11_024_1125
+Q (Q11, Intention disclosure): Why did Dokyung stand up on the stairs after Haeyoung2 thanked him?
+A: Dokyung stood up on the stairs as a reaction to Haeyoung2's expression of gratitude, possibly to engage in a conversation or to address what Haeyoung2 said to him.
+
+AnotherMissOh11_024_1126
+Q (Q11, Intention disclosure): Why does Haeyoung2 put down her hand and look up?
+A: Haeyoung2 puts down her hand and looks up in reaction to Dokyung's statement about ruining someone's life because of her.
+
+AnotherMissOh11_024_1128
+Q (Q11, Intention disclosure): Why does Dokyung believe he ruined someone's life because of Haeyoung2?
+A: Dokyung feels responsible for negatively impacting someone's life due to his interactions or relationship with Haeyoung2.
+
+AnotherMissOh11_024_1129
+Q (Q11, Intention disclosure): What is Haeyoung2's intention when she says it doesn't matter if a hundred or a thousand people are ruined?
+A: Haeyoung2's intention is to express her indifference or resolve regarding the consequences of a situation, indicating that she is not concerned about the impact on others.
+
+AnotherMissOh11_024_1131
+Q (Q11, Intention disclosure): What is the reason Haeyoung2 believes Dokyung did something?
+A: Haeyoung2 believes Dokyung did it all because of his love for her.
+
+AnotherMissOh11_024_1132
+Q (Q11, Intention disclosure): Why does Haeyoung2 express her love for Dokyung despite crying?
+A: Haeyoung2 is expressing her love for Dokyung while crying because she still has strong feelings for him and wants to convey the depth of her emotions despite the pain they might be experiencing.
+
+AnotherMissOh11_024_1134
+Q (Q11, Intention disclosure): What might be the reason Haeyoung2 and Dokyung are facing each other on the stairs?
+A: They could be having a serious conversation or confronting each other about an issue in their relationship.
+
+AnotherMissOh11_024_1136
+Q (Q11, Intention disclosure): Why did Dokyung decide to walk away from Haeyoung2?
+A: Dokyung walked away from Haeyoung2 due to a reason that is not disclosed in the provided shot information.
+
+AnotherMissOh11_025_1138
+Q (Q4, Feature specification): What is the setting outside the car where Taejin is located?
+A: Taejin is located in a car with a view of a brightly lit bridge at night.
+
+AnotherMissOh11_025_1139
+Q (Q11, Intention disclosure): Why might Taejin be looking ahead?
+A: Taejin might be looking ahead to focus on something or someone of interest, to anticipate an event, or to stay alert to his surroundings.
+
+AnotherMissOh11_025_1140
+Q (Q11, Intention disclosure): Why did Haeyoung2 feel the need to excuse herself before standing up from the seat?
+A: Haeyoung2 felt the need to excuse herself because she had to leave the situation she was in.
+
+AnotherMissOh11_025_1141
+Q (Q11, Intention disclosure): Why does Haeyoung2 need to go?
+A: Haeyoung2 needs to go because she has an excuse.
+
+AnotherMissOh11_025_1142
+Q (Q11, Intention disclosure): Why did Haeyoung2 say she had to go?
+A: Haeyoung2 needed to leave the scene for an unspecified reason, which prompted her to excuse herself and pass by Taejin.
+
+AnotherMissOh11_025_1143
+Q (Q11, Intention disclosure): Why is the Chairman discussing Oh Haeyoung and her relationship with Dokyung?
+A: The Chairman is likely trying to clarify or reveal important information about Oh Haeyoung's past relationship with Dokyung, which could have implications for current events or decisions within the story.
+
+AnotherMissOh11_025_1143
+Q (Q11, Intention disclosure): Why is the Chairman discussing Haeyoung2's past relationship with Dokyung?
+A: The Chairman is likely addressing the past relationship to clarify or address issues related to Haeyoung2 and Dokyung, possibly for reasons concerning family, business, or personal matters.
+
+AnotherMissOh11_025_1144
+Q (Q4, Feature specification): What expression is Taejin showing as he looks back?
+A: Taejin is showing a surprised expression as he looks back.
+
+AnotherMissOh11_025_1145
+Q (Q11, Intention disclosure): Why does Haeyoung1 say "It wasn't me"?
+
+A: Haeyoung1 is likely trying to deny responsibility or involvement in a situation or event that she is being associated with.
+
+AnotherMissOh11_025_1146
+Q (Q11, Intention disclosure): Why does Haeyoung1 say it wasn't her?
+A: Haeyoung1 is clarifying that she is not responsible for something that she is being associated with.
+
+AnotherMissOh11_025_1147
+Q (Q8, Interpretation): What might be the reason for Taejin's laughter in the car?
+A: Taejin could be laughing in the car due to hearing a funny joke, experiencing a humorous situation, or recalling a comical memory.
+
+AnotherMissOh11_025_1148
+Q (Q8, Interpretation): What might be the reason for Taejin's laughter in this scene?
+A: Taejin could be laughing due to a humorous or embarrassing situation that he finds himself in, prompting him to cover his face with his hand as a reaction.
+
+AnotherMissOh11_025_1149
+Q (Q9, Cause elucidation): What might have caused Taejin to scream in the car?
+A: Taejin could be screaming in the car due to a variety of reasons such as experiencing a strong emotional reaction, receiving bad news, or being in a stressful situation.
+
+AnotherMissOh11_025_1149
+Q (Q9, Cause elucidation): What is the reason for Taejin screaming in the car?
+A: Taejin is screaming in the car due to an unspecified cause that is not provided in the given information.
+
+AnotherMissOh11_025_1150
+Q (Q9, Cause elucidation): What might be the reason for Taejin's struggle in the car?
+A: Taejin could be struggling due to an emotional upset, a physical ailment, or a stressful situation he is experiencing while in the car.
+
+AnotherMissOh11_026_1153
+Q (Q4, Feature specification): What time of day is it when Dokyung is walking on the road?
+A: It is night time when Dokyung is walking on the road.
+
+AnotherMissOh11_026_1153
+Q (Q4, Feature specification): What time of day is it when Dokyung is walking on the road?
+A: It is nighttime when Dokyung is walking on the road.
+
+AnotherMissOh11_026_1154
+Q (Q4, Feature specification): What expression does Dokyung have on his face as he turns his head to look ahead?
+A: Dokyung has a serious expression on his face as he turns his head to look ahead.
+
+AnotherMissOh11_026_1154
+Q (Q4, Feature specification): What expression does Dokyung have on his face as he turns his head to look ahead?
+A: Dokyung has a serious expression on his face.
+
+AnotherMissOh11_026_1155
+Q (Q4, Feature specification): What type of clothing is Dokyung wearing on top of his other clothes?
+A: Dokyung is wearing a black jacket.
+
+AnotherMissOh11_026_1156
+Q (Q4, Feature specification): What type of clothing is Dokyung wearing in the shot?
+A: Dokyung is wearing a shirt.
+
+AnotherMissOh11_026_1157
+Q (Q4, Feature specification): What color is Dokyung's jacket?
+A: The jacket is black.
+
+AnotherMissOh11_026_1159
+Q (Q9, Cause elucidation): What event led to Dokyung being hit by the car?
+A: Dokyung was standing in the street when he was hit by the car.
+
+AnotherMissOh11_026_1160
+Q (Q9, Cause elucidation): What led to Dokyung having injuries on his face?
+A: Dokyung sustained injuries on his face due to an unspecified event prior to this shot.
+
+AnotherMissOh11_026_1161
+Q (Q9, Cause elucidation): What might have caused the injuries on Dokyung's face?
+A: The injuries on Dokyung's face could be the result of an altercation or accident he was involved in prior to this moment.
+
+AnotherMissOh11_026_1162
+Q (Q4, Feature specification): What color is the chair that Dokyung is sitting on?
+A: The chair is white.
+
+AnotherMissOh11_026_1163
+Q (Q4, Feature specification): What is the color of the chair that Soontack is sitting on?
+A: The chair that Soontack is sitting on is white.
+
+AnotherMissOh11_026_1165
+Q (Q11, Intention disclosure): What is Dokyung's intention behind stating his thoughts about ending it with that woman?
+A: Dokyung intends to express his perspective on concluding his relationship with the woman in question, possibly indicating a desire for closure or resolution.
+
+AnotherMissOh11_026_1166
+Q (Q11, Intention disclosure): What is Dokyung's intention regarding his relationship with the woman he mentions?
+A: Dokyung thinks that ending the relationship with that woman is the right course of action.
+
+AnotherMissOh11_026_1167
+Q (Q4, Feature specification): What is the appearance of Dokyung's hair as affected by the sunshine?
+A: Dokyung's hair is glowing due to the sunshine.
+
+AnotherMissOh11_026_1168
+Q (Q11, Intention disclosure): Why did Soontack call out Dokyung's name?
+A: Soontack called out Dokyung's name to get his attention.
+
+AnotherMissOh11_026_1169
+Q (Q4, Feature specification): What is the color of Dokyung's hair?
+A: Dokyung's hair is brown.
+
+AnotherMissOh11_026_1171
+Q (Q9, Cause elucidation): What caused Dokyung to bleed on the ground?
+A: Dokyung was injured, which resulted in him bleeding on the ground.
+
+AnotherMissOh11_026_1172
+Q (Q9, Cause elucidation): What could have caused Dokyung to lie down on the road?
+A: Dokyung might have had an accident or a sudden health issue that caused him to lie down on the road.
+
+AnotherMissOh11_026_1173
+Q (Q9, Cause elucidation): What might be the reason for Dokyung's light breathing?
+A: Dokyung could be experiencing a moment of shock, relief, or a state of unconsciousness which is causing him to breathe lightly.
+
