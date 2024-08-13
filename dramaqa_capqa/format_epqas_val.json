@@ -1,0 +1,197 @@
+[
+    {
+        "vid": "AnotherMissOh01_001_0000",
+        "answers": [
+            "Deogi was cooking on the floor. related_shot: (AnotherMissOh01_001_0108)"
+        ],
+        "que": "What was Deogi doing when Haeyoung1 announced she was not getting married?",
+        "que_type": "Feature specification",
+        "shot_contained": [
+            78,
+            159
+        ],
+        "correct_idx": 0
+    },
+    {
+        "vid": "AnotherMissOh01_001_0000",
+        "answers": [
+            "Deogi and Kyungsu were expected to be happy and celebrate Haeyoung1's marriage. related_shot: (AnotherMissOh01_001_0090, AnotherMissOh01_001_0091)"
+        ],
+        "que": "What was the expected reaction of Deogi and Kyungsu to the news of Haeyoung1's marriage before she announced she wasn't getting married?",
+        "que_type": "Expectation",
+        "shot_contained": [
+            78,
+            159
+        ],
+        "correct_idx": 0
+    },
+    {
+        "vid": "AnotherMissOh01_001_0000",
+        "answers": [
+            "Kyungsu closed his eyes and lowered his head likely due to the shock or sadness from Haeyoung1's announcement that she was not getting married. related_shot: (AnotherMissOh01_001_0140)"
+        ],
+        "que": "What caused Kyungsu to close his eyes and lower his head?",
+        "que_type": "Cause elucidation",
+        "shot_contained": [
+            78,
+            159
+        ],
+        "correct_idx": 0
+    },
+    {
+        "vid": "AnotherMissOh01_001_0000",
+        "answers": [
+            "Before the announcement, Jeongsuk was happy and optimistic, but after Haeyoung1 said she was not getting married, Jeongsuk was surprised. related_shot: (AnotherMissOh01_001_0084, AnotherMissOh01_001_0156)"
+        ],
+        "que": "How did Jeongsuk's emotional state compare before and after Haeyoung1's announcement?",
+        "que_type": "Comparison",
+        "shot_contained": [
+            78,
+            159
+        ],
+        "correct_idx": 0
+    },
+    {
+        "vid": "AnotherMissOh01_001_0000",
+        "answers": [
+            "The immediate consequence was a shift from a celebratory mood to one of surprise and anger, as indicated by Deogi's and Jeongsuk's reactions. related_shot: (AnotherMissOh01_001_0150, AnotherMissOh01_001_0151)"
+        ],
+        "que": "What was the immediate consequence of Haeyoung1's announcement on the atmosphere in the house?",
+        "que_type": "Result account",
+        "shot_contained": [
+            78,
+            159
+        ],
+        "correct_idx": 0
+    },
+    {
+        "vid": "AnotherMissOh01_002_0000",
+        "answers": [
+            "Deogi expresses her anger by hitting Haeyoung1 with a cushion. related_shot: (AnotherMissOh01_002_0188, AnotherMissOh01_002_0197)"
+        ],
+        "que": "What specific actions does Deogi take while expressing her anger towards Haeyoung1?",
+        "que_type": "Feature specification",
+        "shot_contained": [
+            160,
+            200
+        ],
+        "correct_idx": 0
+    },
+    {
+        "vid": "AnotherMissOh01_002_0000",
+        "answers": [
+            "Deogi scolds Haeyoung1 because of the cancellation of Haeyoung1's marriage, indicating a close relationship where Deogi feels affected by Haeyoung1's decisions. related_shot: (AnotherMissOh01_002_0167, AnotherMissOh01_002_0199)"
+        ],
+        "que": "What is the relationship between Deogi and Haeyoung1 that leads to Deogi scolding Haeyoung1?",
+        "que_type": "Concept completion",
+        "shot_contained": [
+            160,
+            200
+        ],
+        "correct_idx": 0
+    },
+    {
+        "vid": "AnotherMissOh01_002_0000",
+        "answers": [
+            "Kyungsu is holding two phones while informing acquaintances of the cancelled marriage. related_shot: (AnotherMissOh01_002_0200)"
+        ],
+        "que": "How many phones is Kyungsu holding while informing acquaintances of the cancelled marriage?",
+        "que_type": "Quantification",
+        "shot_contained": [
+            160,
+            200
+        ],
+        "correct_idx": 0
+    },
+    {
+        "vid": "AnotherMissOh01_002_0000",
+        "answers": [
+            "Kyungsu is motivated by the need to inform relevant parties about the cancellation of Haeyoung1's wedding, likely due to social obligations and the urgency of the situation. related_shot: (AnotherMissOh01_002_0163)"
+        ],
+        "que": "What motivates Kyungsu to send a text message about the cancelled wedding?",
+        "que_type": "Intention disclosure",
+        "shot_contained": [
+            160,
+            200
+        ],
+        "correct_idx": 0
+    },
+    {
+        "vid": "AnotherMissOh01_002_0000",
+        "answers": [
+            "The acquaintances might react with surprise, concern, or curiosity upon receiving the news of Haeyoung1's cancelled marriage from Kyungsu. related_shot: (AnotherMissOh01_002_0166)"
+        ],
+        "que": "What might be the expected reaction of the acquaintances upon receiving the news of Haeyoung1's cancelled marriage from Kyungsu?",
+        "que_type": "Expectation",
+        "shot_contained": [
+            160,
+            200
+        ],
+        "correct_idx": 0
+    },
+    {
+        "vid": "AnotherMissOh01_003_0000",
+        "answers": [
+            "Haeyoung1 wears a green apron while cooking in the restaurant. related_shot: (AnotherMissOh01_003_0222)"
+        ],
+        "que": "What type of apron does Haeyoung1 wear while cooking in the restaurant?",
+        "que_type": "Feature specification",
+        "shot_contained": [
+            201,
+            239
+        ],
+        "correct_idx": 0
+    },
+    {
+        "vid": "AnotherMissOh01_003_0000",
+        "answers": [
+            "putting an apron on her shoulder, wearing an apron, moving the iron pot, putting rice in the iron pot with a ladle, and cooking in front of the iron pot. related_shot: (AnotherMissOh01_003_0213, AnotherMissOh01_003_0216, AnotherMissOh01_003_0222)"
+        ],
+        "que": "How many different actions does Haeyoung1 perform in the restaurant according to the scene knowledge graph?",
+        "que_type": "Quantification",
+        "shot_contained": [
+            201,
+            239
+        ],
+        "correct_idx": 0
+    },
+    {
+        "vid": "AnotherMissOh01_003_0000",
+        "answers": [
+            "Haeyoung1's action of tying her hair back suggests that she is preparing to cook and wants to keep her hair out of the way for hygiene and practicality. related_shot: (AnotherMissOh01_003_0238)"
+        ],
+        "que": "What does Haeyoung1's action of tying her hair back suggest about her behavior in the kitchen?",
+        "que_type": "Interpretation",
+        "shot_contained": [
+            201,
+            239
+        ],
+        "correct_idx": 0
+    },
+    {
+        "vid": "AnotherMissOh01_003_0000",
+        "answers": [
+            "Customers might expect a well-prepared and delicious meal from Haeyoung1 after seeing her cook with dedication. related_shot: (AnotherMissOh01_003_0222)"
+        ],
+        "que": "What might customers expect from Haeyoung1 after seeing her cook with dedication?",
+        "que_type": "Expectation",
+        "shot_contained": [
+            201,
+            239
+        ],
+        "correct_idx": 0
+    },
+    {
+        "vid": "AnotherMissOh01_003_0000",
+        "answers": [
+            "Haeyoung1 appears to be quite happy while working in the restaurant, as indicated by her smiling and the emotions of happiness mentioned in the scene knowledge graph. related_shot: (AnotherMissOh01_003_0237)"
+        ],
+        "que": "How would you evaluate Haeyoung1's level of happiness while working in the restaurant?",
+        "que_type": "Judging",
+        "shot_contained": [
+            201,
+            239
+        ],
+        "correct_idx": 0
+    }
+]
